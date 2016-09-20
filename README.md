@@ -1,4 +1,4 @@
-Dieses Repository beinhaltet alle Dateien der DERSE Webseite. Der offizielle Hosting-URL ist:
+Dieses Repository beinhaltet alle Dateien der deRSE Webseite. Der offizielle Hosting-URL ist:
 
   http://www.derse.eu/de
   
