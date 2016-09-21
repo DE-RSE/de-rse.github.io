@@ -10,5 +10,5 @@ document.write(
 "    <![endif]-->"+
 "    <style>body { padding-top: 70px; }</style>"+
 "    <link rel='stylesheet' type='text/css' href='derse.css' />"+
-"    <link rel=\"icon\" href=\"../favicon.ico\" sizes=\"16x16 24x24 32x32 64x64\" type=\"image/vnd.microsoft.icon\">"+
+"    <link rel=\"icon\" href=\"../favicon.ico?\" sizes=\"16x16 24x24 32x32 64x64\" type=\"image/vnd.microsoft.icon\">"+
 "");
