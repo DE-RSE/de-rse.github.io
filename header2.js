@@ -9,6 +9,6 @@ document.write(
 "      <script src='https://oss.maxcdn.com/respond/1.4.2/respond.min.js'></script>"+
 "    <![endif]-->"+
 "    <style>body { padding-top: 70px; }</style>"+
-"    <link rel='stylesheet' type='text/css' href='derse.css' />"+
+"    <link rel='stylesheet' type='text/css' href='de-rse.css' />"+
 "    <link rel=\"icon\" href=\"../favicon.ico?\" sizes=\"16x16 24x24 32x32 64x64\" type=\"image/vnd.microsoft.icon\">"+
 "");
