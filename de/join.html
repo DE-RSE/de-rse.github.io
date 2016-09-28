@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="../header1.js"></script>
+    <title>de-RSE.org</title>
+    <script type="text/javascript" src="../header2.js"></script>
+    <link rel="alternate" href="../de/index.html" hreflang="de"/>
+    <link rel="alternate" href="../en/index.html" hreflang="en"/>
+  </head>
+
+  <body class="home">
+    <script type="text/javascript" src="menu.js"></script>
+    <div class="container">
+      <div class="starter-template">
+        <h1>Tritt bei!</h1>
+        <p>Der de-RSE Gemeinschaft beizutreten ist einfach. Trete unserer Emailliste bei,
+           um Neuigkeiten über Ereignisse, Stellenangebote, Möglichkeiten der Zusammenarbeit,
+           und ab und zu Informationen zu unserer Gemeinschaft zu erhalten.</p>
+        <form method="POST" action="https://ml06.ispgateway.de/mailman/subscribe/liste_de-rse.org">
+          <div class="form-group">
+            <input name="email" value="" type="email" placeholder="Emailadresse eingeben">
+            <button type="submit" class="btn btn-primary">Anmelden</button>
+          </div>
+        </form>
+        <form method="POST" action="https://ml06.ispgateway.de/mailman/options/liste_de-rse.org">
+          <div class="form-group">
+            <input name="email" value="" type="email" placeholder="Emailadresse eingeben">
+            <input name="unsubconfirm" type="hidden" value="1">
+            <button type="submit" name="unsub" class="btn btn-primary">Abmelden</button>
+          </div>
+        </form>
+      </div>
+    </div><!-- /.container -->
+  </body>
+</html>
+

@@ -12,6 +12,7 @@ document.write(
 "        <div id='navbar' class='collapse navbar-collapse'>"+
 "          <ul class='nav navbar-nav'>"+
 "            <li><a href='about.html'>Über</a></li>"+
+"            <li><a href='join.html'>Beitreten</a></li>"+
 "          </ul>"+
 "          <ul class='nav navbar-nav pull-right'>");
 var languages = {'de': ['Deutsch'],
