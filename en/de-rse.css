@@ -2,3 +2,17 @@
 .navbar-default {
     border-top: 5px solid #97316e;
 }
+
+.container {
+  margin-left: 160px;
+  width: 1010px;
+}
+
+#rse-img {
+  position: fixed;
+  left: 0px;
+  top: 35px;
+  width: 160px;
+  z-index: 1031;
+}
+
