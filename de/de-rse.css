@@ -9,7 +9,8 @@
 
 #rse-img {
   position: fixed;
-  top: 10px;
   left: 0px;
+  top: 35px;
   width: 160px;
+  z-index: 1031;
 }
