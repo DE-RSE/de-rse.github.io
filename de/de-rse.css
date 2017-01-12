@@ -2,3 +2,10 @@
 .navbar-default {
     border-top: 5px solid #97316e;
 }
+
+.rse-img {
+  position: fixed;
+  top: 10;
+  left: 0;
+  width: 160px;
+}
