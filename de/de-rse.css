@@ -3,9 +3,13 @@
     border-top: 5px solid #97316e;
 }
 
+.container {
+  margin-left: 160px;
+}
+
 .rse-img {
   position: fixed;
-  top: 10;
-  left: 0;
+  top: 10px;
+  left: 0px;
   width: 160px;
 }
