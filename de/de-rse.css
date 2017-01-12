@@ -3,9 +3,17 @@
     border-top: 5px solid #97316e;
 }
 
-.container {
-  margin-left: 160px;
-  width: 1010px;
+.container-navbar {
+    margin-left: 0px;
+}
+
+.navbar-logo {
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+.navbar-logo>img {
+    height : 250%;
 }
 
 #rse-img {
@@ -15,3 +23,4 @@
   width: 160px;
   z-index: 1031;
 }
+

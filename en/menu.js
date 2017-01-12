@@ -1,12 +1,13 @@
 document.write(
 "    <nav class='navbar navbar-default navbar-fixed-top' data-nav-highlight='true'>"+
-"      <div class='container'>"+
+"      <div class='container container-navbar'>"+
 "        <div class='navbar-header'>"+
 "          <button type='button' class='navbar-toggle collapsed' data-toggle='collapse' data-target='#navbar' aria-expanded='false' aria-controls='navbar'>"+
 "            <span class='icon-bar'></span>"+
 "            <span class='icon-bar'></span>"+
 "            <span class='icon-bar'></span>"+
 "          </button>"+
+"          <a class='navbar-brand navbar-logo' href='index.html'><img src='../img/rse.png'/></a>"+
 "          <a class='navbar-brand' href='index.html'>de-RSE</a>"+
 "        </div>"+
 "        <div id='navbar' class='collapse navbar-collapse'>"+
