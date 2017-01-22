@@ -24,3 +24,13 @@
   z-index: 1031;
 }
 
+.footer {
+    border-top: 1px solid #97316e;
+    padding: 20px;
+    color: #777;
+    text-align: center;
+}
+
+.footer a {
+    color: #777;
+}
