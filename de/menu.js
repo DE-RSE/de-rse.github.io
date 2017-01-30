@@ -14,6 +14,7 @@ document.write(
 "          <ul class='nav navbar-nav'>"+
 "            <li><a href='aims.html'>Ziele</a></li>"+
 "            <li><a href='join.html'>Mitmachen</a></li>"+
+"            <li><a href='events.html'>Termine</a></li>"+
 "          </ul>"+
 "          <ul class='nav navbar-nav pull-right'>");
 var languages = {'de': ['Deutsch'],
