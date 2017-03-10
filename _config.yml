@@ -1,0 +1,18 @@
+# Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
+baseurl: /www
+title: de-RSE.org
+author: Stephan Druskat
+email: mail [at] sdruskat [dot]
+description: A Jekyll theme based on tufte-css
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+highlighter: rouge
+permalink: /blog/:categories/:year/:month/:day/:title.html
+timezone: Europe/Berlin
+excerpt_separator: <!--more-->
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
