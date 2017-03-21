@@ -1,8 +1,13 @@
+---
+layout: default
+title: Research Software Engineers (RSEs) - Impressum (legal notice)
+---
+
 # Impressum (legal notice)
 
 The following information (Impressum) is required under German law.
 
-###Angaben gemäß § 5 TMG
+### Angaben gemäß § 5 TMG
 
 Martin Hammitzsch  
 Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum GFZ  
