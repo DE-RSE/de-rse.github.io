@@ -54,3 +54,17 @@ Pages always have the `default` layout. They must also have a (short) `title` (i
 Blog posts will be displayed ordered by publication date on `blog.html`. They always have a `post` layout and must have a `title` and an `author`, both of which will be displayed on the blog index and the post page itself. Publication date is automatically added via `rake publish`. Do not start blog posts with headers (`#`), as the title will be displayed as header.
 
 `menulang` determines the language of the main menu as displayed on the post page (default: `en`). The language menu items ("Deutsch", "English") link back to the blog index page in the respective language.
+
+## Deploy
+
+There should only be two production branches in this repository: `master` and `gh-pages`.
+
+All content work is done on `master`, `gh-pages` should only serve the site.
+
+In order to deploy the site after a change, checkout `master` (if you haven't already), and do the following.
+
+	jekyll clean
+    jekyll build
+    git subtree push --prefix _site/ origin gh-pages
+
+This will push the `_site` directory (i.e., the actual contents) to the `gh-pages` branch and will kick off the build on GitHub.
