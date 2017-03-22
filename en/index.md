@@ -30,7 +30,11 @@ boost the visibility of these issues, and to decisively improve the current situ
 constituting a wider initiative for acting jointly on shared objectives, and being 
 the collective spokesperson for RSEs within the German scientific landscape.
 
+<br/>
+
 ![](https://www.software.ac.uk/sites/default/files/images/content/BetterSoftwareBetterResearchImage.jpg)
+
+<br/>
 
 Wanna dive into the world of RSE? Find excellent reading materials at the UK RSE website 
 <http://www.rse.ac.uk/> and the UK SSI website 
