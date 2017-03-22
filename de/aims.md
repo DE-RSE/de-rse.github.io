@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research Software Engineers (RSEs) - Ziele
-lang: de
+title: Ziele
+weight: 1
 ---        
 
 # Ziele

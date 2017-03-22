@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Research Software Engineers (RSEs) - verantwortlich für wissenschaftliche Software
-lang: de
 ---        
 
 # Research Software Engineers (RSEs) - verantwortlich für wissenschaftliche Software
@@ -33,11 +32,7 @@ sind in der RSE-Gemeinschaft zusammen gekommen und haben es sich zur Aufgabe gem
 dieses Problem deutlich sichtbar zu machen und die gegenwärtige Situation 
 entscheidend zu verbessern.
 
-<br/>
-
 ![](https://www.software.ac.uk/sites/default/files/images/content/BetterSoftwareBetterResearchImage.jpg)
-
-<br/>
 
 Wanna dive into the world of RSE? Find excellent reading materials at the UK RSE website 
 <http://www.rse.ac.uk/> and the UK SSI website <https://www.software.ac.uk/blog>!

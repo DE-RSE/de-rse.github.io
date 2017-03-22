@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research Software Engineers (RSEs) - Join us
-lang: en
+title: Join
+weight: 2
 ---        
 
 # Join us!

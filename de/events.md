@@ -1,7 +1,7 @@
 --- 
 layout: default 
-title: Research Software Engineers (RSEs) - Termine
-lang: de
+title: Termine
+weight: 3
 ---
 
 # Termine 2017

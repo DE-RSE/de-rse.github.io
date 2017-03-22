@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research Software Engineers (RSEs) - Objectives
-lang: en
+title: Aims
+weight: 1
 ---        
 
 # Objectives

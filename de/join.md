@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research Software Engineers (RSEs) - Mitmachen
-lang: de
+title: Mitmachen
+weight: 2
 ---        
 
 # Mitmachen
