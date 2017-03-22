@@ -5,17 +5,49 @@
   
   <body class="home">
 
-    {% if page.lang == "en" %}
-      <script type="text/javascript" src="{{ "/js/menu_en.js" | prepend: site.baseurl }}"></script>
-    {% else %}
-      <script type="text/javascript" src="{{ "/js/menu_de.js" | prepend: site.baseurl }}"></script>
-    {% endif %}
+    <nav class='navbar navbar-default navbar-fixed-top' data-nav-highlight='true'>
+      <div class='container container-navbar'>
+        <div class='navbar-header'>
+          <button type='button' class='navbar-toggle collapsed' data-toggle='collapse' data-target='#navbar' aria-expanded='false' aria-controls='navbar'>
+            <span class='icon-bar'></span>
+            <span class='icon-bar'></span>
+            <span class='icon-bar'></span>
+          </button>
+          <a class='navbar-brand navbar-logo' href='index.html'><img src='../img/rse.png'/></a>
+          <a class='navbar-brand' href='index.html'>de-RSE</a>
+        </div>
+        <div id='navbar' class='collapse navbar-collapse'>
+          <ul class='nav navbar-nav'>
+          {% if page.url contains "/de/" %}
+            <li><a href='aims.html'>Ziele</a></li>
+            <li><a href='join.html'>Mitmachen</a></li>
+            <li><a href='events.html'>Termine</a></li>
+          {% elsif page.url contains "/en/" %}
+            <li><a href='aims.html'>Aims</a></li>
+            <li><a href='join.html'>Join</a></li>
+            <li><a href='events.html'>Events</a></li>
+          {% endif %}
+          </ul>
+          <ul class='nav navbar-nav pull-right'>
+            {% assign en-url = page.url | replace: "/de/", "/en/" %}
+            {% assign de-url = page.url | replace: "/en/", "/de/" %}
+            {% unless page.path contains "index" %}
+              {% assign en-url = en-url | append: ".html" %}
+              {% assign de-url = de-url | append: ".html" %}
+            {% endunless %}
+            <li><a href='{{ de-url | prepend: site.baseurl }}'>Deutsch</a></li>
+            <li><a href='{{ en-url | prepend: site.baseurl }}'>English</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
       <div class="container">
         <div class="starter-template">
 
         {{ content }}
 
-
+        <br/>
         </div>
       </div>
       {% include footer.html %}
