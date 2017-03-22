@@ -8,7 +8,7 @@ To build, run `jekyll build`. To preview locally, run `jekyll serve` and browse 
 
 ## Contributions
 
-To contribute, please fork, change, test locally (see above) and create a pull request against `master`.
+To contribute, please fork, change, test locally (see above) and create a pull request against `gh-pages`.
 
 You can use [rake](http://rake.rubyforge.org/) to comfortably create content.
 
@@ -55,16 +55,3 @@ Blog posts will be displayed ordered by publication date on `blog.html`. They al
 
 `menulang` determines the language of the main menu as displayed on the post page (default: `en`). The language menu items ("Deutsch", "English") link back to the blog index page in the respective language.
 
-## Deploy
-
-There should only be two production branches in this repository: `master` and `gh-pages`.
-
-All content work is done on `master`, `gh-pages` should only serve the site.
-
-In order to deploy the site after a change, checkout `master` (if you haven't already), and do the following.
-
-	jekyll clean
-    jekyll build
-    git subtree push --prefix _site/ origin gh-pages
-
-This will push the `_site` directory (i.e., the actual contents) to the `gh-pages` branch and will kick off the build on GitHub.
