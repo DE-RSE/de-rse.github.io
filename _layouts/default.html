@@ -4,7 +4,12 @@
   {% include head.html %}
   
   <body class="home">
-    <script type="text/javascript" src="{{ "/js/menu_de.js" | prepend: site.baseurl }}"></script>
+
+    {% if page.lang == "en" %}
+      <script type="text/javascript" src="{{ "/js/menu_en.js" | prepend: site.baseurl }}"></script>
+    {% else %}
+      <script type="text/javascript" src="{{ "/js/menu_de.js" | prepend: site.baseurl }}"></script>
+    {% endif %}
       <div class="container">
         <div class="starter-template">
 
