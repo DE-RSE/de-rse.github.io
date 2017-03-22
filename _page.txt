@@ -1,5 +1,5 @@
 ---
 title:
 layout: default
-lang: en/de
+weight:
 ---

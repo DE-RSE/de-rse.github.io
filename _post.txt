@@ -1,5 +1,6 @@
 ---
 title:
-layout: default
-lang: en/de
+layout: post
+author:
+menulang: en
 ---
