@@ -22,6 +22,6 @@ To create content, run one of the following commands from the repository root. `
 
 `rake publish` publishes blog post drafts from `_drafts` to `_posts` (interactive CLI picking of drafts to publish).
 
-`rake page["Title"]` creates a new page.
+`rake page["Title"]` creates a new page (in the root folder).
 
-`rake page["Title","Path/to/folder"]` creates a new page in the respective folder.
+`rake page["Title","Path/to/folder"]` creates a new page in the respective folder. E.g., to add a page to the English version of the site, use `rake["Title","en"]`.
