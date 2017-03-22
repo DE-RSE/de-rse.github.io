@@ -14,7 +14,7 @@ You can use [rake](http://rake.rubyforge.org/) to comfortably create content.
 
 ## Create content with `rake`
 
-To create content, run one of the following commands from the repository root. `Rakefile` has been created by [Ellen Gummesson](http://ellengummesson.com/) and is hoste at <https://github.com/gummesson/jekyll-rake-boilerplate>.
+To create content, run one of the following commands from the repository root. `Rakefile` has been created by [Ellen Gummesson](http://ellengummesson.com/) and is hosted at <https://github.com/gummesson/jekyll-rake-boilerplate>.
 
 `rake post["Title"]` creates a new blog post in `_posts`.
 
