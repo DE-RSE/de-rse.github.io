@@ -16,3 +16,5 @@ post:
 page:
   template: _page.txt
   extension: md
+gems:
+  - jekyll-feed
