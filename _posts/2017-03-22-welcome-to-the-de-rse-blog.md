@@ -9,7 +9,7 @@ menulang: en
 
 Dieses Weblog wird Artikel beinhalten, die für die Research Software Engineers Community relevant sind.
 
-**Jede\*r** kann beitragen (auf Deutsch oder Englisch). Einfach das [GitHub repository dieser Website](https://github.com/DE-RSE/www) klonen, sich die [README](https://github.com/DE-RSE/www/blob/master/README.md) anschauen (wir benutzen [Jekyll](https://jekyllrb.com/) und es ist einfach, mit `rake` Artikelentwürfe zu generieren und zu veröffentlichen), einen Artikel schreiben und ihn per GitHub Pull Request gegen `master` einreichen!
+**Jede\*r** kann beitragen (auf Deutsch oder Englisch). Einfach das [GitHub repository dieser Website](https://github.com/DE-RSE/www) klonen, sich die [README](https://github.com/DE-RSE/www/blob/master/README.md) anschauen (wir benutzen [Jekyll](https://jekyllrb.com/) und es ist einfach, mit `rake` Artikelentwürfe zu generieren und zu veröffentlichen), einen Artikel schreiben und ihn per GitHub Pull Request gegen `gh-pages` einreichen!
 
 Viel Spaß beim Lesen und Beitragen!
 
@@ -19,7 +19,7 @@ Viel Spaß beim Lesen und Beitragen!
 
 This weblog will contain posts on subjects that are relevant to the Research Software Engineers community.
 
-**You, too**, can contribute (in English or German). Simply clone [this website's GitHub repository](https://github.com/DE-RSE/www), check out the [README](https://github.com/DE-RSE/www/blob/master/README.md) (we use [Jekyll](https://jekyllrb.com/), and it's easy to create and publish drafts with `rake`), create a blog post, and submit it to us via a GitHub pull request against `master`!
+**You, too**, can contribute (in English or German). Simply clone [this website's GitHub repository](https://github.com/DE-RSE/www), check out the [README](https://github.com/DE-RSE/www/blob/master/README.md) (we use [Jekyll](https://jekyllrb.com/), and it's easy to create and publish drafts with `rake`), create a blog post, and submit it to us via a GitHub pull request against `gh-pages`!
 
 Happy reading, happy contributing!
 
