@@ -54,7 +54,7 @@ Since a monthly call is also considered for the de-RSE initiative from the begin
 of 2017, both calls are held jointly for the next three to six months, after which we'll re-consider
 future options.
 
-Dates and times for the monthly community calls are [listed here](https://pad.okfn.org/p/openscience-ag-master-pad).
+Dates and times for the monthly community calls are [listed here](https://pad.okfn.de/p/openscience-ag-master-pad).
 
 ## Contact
 

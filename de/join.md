@@ -54,7 +54,7 @@ Da für die recht junge de-RSE Initiative ebenfalls ein monatlicher Call ab 2017
 ist, könnten beide Calls für die kommenden drei bis sechs Monate zusammengelegt werden. 
 Danach schauen wir dann, wie wir weitermachen.
 
-Termine für die monatlichen Calls findet Ihr [hier](https://pad.okfn.org/p/openscience-ag-master-pad).
+Termine für die monatlichen Calls findet Ihr [hier](https://pad.okfn.de/p/openscience-ag-master-pad).
 
 ## Kontakt
 
