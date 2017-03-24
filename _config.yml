@@ -1,5 +1,5 @@
 # Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
-baseurl: /www
+baseurl:
 title: de-RSE.org
 author: Stephan Druskat
 email: mail [at] sdruskat [dot]
