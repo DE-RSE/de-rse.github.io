@@ -9,7 +9,7 @@ weight: 2
 Ihr möchtet dabei sein, im Austausch mit anderen stehen und vielleicht 
 aktiv etwas beitragen? Dann registriert Euch!
 
-## Mailing Liste![Mailman logo](../img/logo_mailman.jpg){:height="60em"}
+## Mailing Liste![Mailman logo](../assets/img/site/logo_mailman.jpg){: height="60em"}
 
 Erhaltet Informationen aus unserer Gemeinschaft und informiert selbst 
 über Neuigkeiten, Stellenangebote und Möglichkeiten der Zusammenarbeit.
@@ -35,7 +35,7 @@ Bitte beachtet, dass die Mailing Liste im Moment nur Mails mit einer Größe von
 und andere Anhänge hinweisen möchte, kann die URL Adresse angeben und falls nötig 
 vorher das Material an einem anderen Ort hochladen und so zur Verfügung stellen.
 
-## Slack![Slack logo](../img/logo_slack.png){:height="60em"}
+## Slack![Slack logo](../assets/img/site/logo_slack.png){: height="60em"}
 
 Für Diskussionen bitte nicht die Mailing Liste nutzen, sondern Slack 
 <https://de-rse.slack.com/>. Den Zugang 
