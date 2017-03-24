@@ -13,7 +13,7 @@ Dieses Weblog wird Artikel beinhalten, die für die Research Software Engineers 
 
 Viel Spaß beim Lesen und Beitragen!
 
-[![]({{ "/assets/img/blog/2017/feed-shield.png" | prepend: site.baseurl }}){: height="20px"}]({{ "/feed.xml" | prepend: site.baseurl }})
+[![]({{ "/assets/img/site/feed-icon.png" | prepend: site.baseurl }}){: height="20px"}]({{ "/feed.xml" | prepend: site.baseurl }})
 
 ---
 
@@ -23,4 +23,4 @@ This weblog will contain posts on subjects that are relevant to the Research Sof
 
 Happy reading, happy contributing!
 
-[![]({{ "/assets/img/blog/2017/feed-shield.png" | prepend: site.baseurl }}){: height="20px"}]({{ "/feed.xml" | prepend: site.baseurl }})
+[![]({{ "/assets/img/site/feed-icon.png" | prepend: site.baseurl }}){: height="20px"}]({{ "/feed.xml" | prepend: site.baseurl }})
