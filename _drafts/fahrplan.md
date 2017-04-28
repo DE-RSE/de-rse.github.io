@@ -11,7 +11,7 @@ de-RSE als Bewegung hat Ziele, für deren Erreichung nicht nur persönliches Eng
  
 ## Vereinsgründung
 
-Um als Vereinigung von Leuten mit Geld/Ressourcen gehen zu können, braucht es eine Körperschaft. Die Idee der Gründung eines gemeinnützigen Vereins liegt hier nahe. Um einen rechtsfähigen Verein gründen zu können braucht es folgende Dinge:
+Um als Vereinigung von Leuten mit Geld/Ressourcen umgehen zu können, braucht es eine Körperschaft. Die Idee der Gründung eines gemeinnützigen Vereins liegt hier nahe. Um einen rechtsfähigen Verein gründen zu können braucht es folgende Dinge:
 
 * Gründungsversammlung 
 * Satzung, unterschrieben von min. 7 Mitgliedern
@@ -39,4 +39,4 @@ Wir gehen am Anfang von einem Übergangsprozess aus, von der Gründung mit viele
 
 ## Ausblick
  
-Im Moment hat die Mailingliste fast 70 Abonnenten, was genug Potential für eine Vereinsgründung vermuten lässt. Nun würde ich mir aber erstmal eine lebhafte [Diskussion]() über diesen Fahrplan erwünschen.
+Im Moment hat die Mailingliste fast 70 Abonnenten, was genug Potential für eine Vereinsgründung vermuten lässt. Nun würden wir uns aber erstmal eine lebhafte [Diskussion]() über diesen Fahrplan erwünschen.
