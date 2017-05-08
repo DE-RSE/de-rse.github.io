@@ -55,3 +55,9 @@ Blog posts will be displayed ordered by publication date on `blog.html`. They al
 
 `menulang` determines the language of the main menu as displayed on the post page (default: `en`). The language menu items ("Deutsch", "English") link back to the blog index page in the respective language.
 
+### kramdown
+
+For help on syntax have a look at: 
+
+- [quick reference](https://kramdown.gettalong.org/quickref.html)
+- or [syntax](https://kramdown.gettalong.org/quickref.html) 
