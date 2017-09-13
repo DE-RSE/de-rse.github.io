@@ -28,7 +28,7 @@ Louisiana State University
 110 LSU Union Square  
 Baton Rouge, LA 70803  
 USA  
-Phone: +1-225-578-7437, Email: knarf [ät] cct.lsu.edu  
+Phone: +49 (0)1762 5761037, Email: knarf [ät] cct.lsu.edu  
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
