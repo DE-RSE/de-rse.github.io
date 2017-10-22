@@ -38,4 +38,4 @@ We look forward to your participation in the survey!
 Many thanks,
 Martin Hammitzsch and Stephan Janosch
 
-![survey research software 2017]({{ "/assets/img/blog/2017/survey2017en.png" | prepend: site.baseurl" }}){: width="1000px"}
+![survey research software 2017]({{ "/assets/img/blog/2017/survey2017en.png" | prepend: site.baseurl }}){: width="1000px"}

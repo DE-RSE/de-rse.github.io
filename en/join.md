@@ -41,6 +41,13 @@ create a financial problem.
 Please don't use the mailing list for long discussions, use Slack instead!
 <https://de-rse.slack.com/>
 
+Slack members can invite others.
+
+Users of following domains can use the [Sign-Up-Link](https://join.slack.com/t/de-rse/signup). 
+
+{% include slack_domains.html %}
+
+
 ## Monthly Community Call
 
 In the December Call of the German-speaking 

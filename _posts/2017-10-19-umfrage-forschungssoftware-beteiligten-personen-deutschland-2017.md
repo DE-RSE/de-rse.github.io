@@ -47,4 +47,4 @@ Wir freuen uns über Eure Teilnahme!
 Vielen Dank,
 Martin Hammitzsch und Stephan Janosch
 
-![Umfrage Forschungssoftware Deutschland 2017]({{ "/assets/img/blog/2017/survey2017de.png" | prepend: site.baseurl" }}){: width="1000px"}
+![Umfrage Forschungssoftware Deutschland 2017]({{ "/assets/img/blog/2017/survey2017de.png" | prepend: site.baseurl }}){: width="1000px"}

@@ -61,3 +61,11 @@ For help on syntax have a look at:
 
 - [quick reference](https://kramdown.gettalong.org/quickref.html)
 - or [syntax](https://kramdown.gettalong.org/quickref.html) 
+
+### converting slack signup domain list
+
+direct sign up domain list from https://de-rse.slack.com/admin/settings#signup_mode . Domains get added ad people request invites.  
+
+```
+echo "mpi-cbg.de,mpg.de,tu-dresden.de,crt-dresden.de,hu-berlin.de,tib.eu,dlr.de,gfz-potsdam.de,fmp-berlin.de,rfii.de,uni-goettingen.de,gcdh.de,uni-bielefeld.de,uni-bonn.de,dfg.de,awi.de,geomar.de,uni-muenster.de,helmholtz-hzi.de,tu-berlin.de,pik-potsdam.de,leibniz-fli.de,uni-wuerzburg.de,helmholtz.de,uni-konstanz.de,ac.uk,tu-braunschweig.de,sub.uni-goettingen.de,gwdg.de,fu-berlin.de,hzdr.de" | tr "," "\n" | sort | awk '{print "<li>"$1"</li>" ;}'
+```

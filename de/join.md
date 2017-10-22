@@ -41,6 +41,12 @@ Für Diskussionen bitte nicht die Mailing Liste nutzen, sondern Slack
 <https://de-rse.slack.com/>. Den Zugang 
 bekommt Ihr von Stephan, Frank oder Martin (siehe unten) - einfach per Mail anschreiben.
 
+Slack-Benutzer dürfen andere einladen.
+
+Mitglieder folgender Domains können alternativ auch den [Sign-Up-Link](https://join.slack.com/t/de-rse/signup) benutzen. 
+
+{% include slack_domains.html %}
+
 ## Monatlicher Call
 
 Beim Dezember 2016 Call der deutschsprachigen 
