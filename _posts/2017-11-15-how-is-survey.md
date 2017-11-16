@@ -5,7 +5,7 @@ author: Stephan Janosch
 menulang: en
 ---
 
-Did fill out the [survey](survey-about-research-software-in-germany-2017.html)? Yes, great! 
+Did fill out the [survey](/blog/2017/10/19/survey-about-research-software-in-germany-2017.html)? Yes, great! 
 
 So let's check quickly how many people filled it out as well.
 
