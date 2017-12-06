@@ -124,11 +124,11 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Martin Hammitzsch",
-            "popupContent": "<img src='../assets/img/map/MartinHammitzsch.png'><a href='http://www.gfz-potsdam.de/mitarbeiter/martin-hammitzsch/'>Martin Hammitzsch</a>, Deutsches GeoForschungsZentrum GFZ<br><br>"
+            "popupContent": "<img src='../assets/img/map/MartinHammitzsch.png'><a href='http://www.gfz-potsdam.de/mitarbeiter/martin-hammitzsch/'>Martin Hammitzsch</a>, Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum GFZ<br><br>"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [13.06615,52.37856]
+            "coordinates": [13.0641701,52.3798284]
         }
     },
     {
