@@ -62,6 +62,12 @@ For help on syntax have a look at:
 - [quick reference](https://kramdown.gettalong.org/quickref.html)
 - or [syntax](https://kramdown.gettalong.org/quickref.html) 
 
+### Map
+
+The map is fed by [mapdata.js](https://github.com/DE-RSE/www/blob/gh-pages/_includes/mapdata.js). Adding someone to the map is as simple as adding a new section in this geoJSON file. Coordinates are available from [http://geojson.io/](http://geojson.io/) . Right now pictures should be 75px high. Inspiration for a nice testimonial can be found at Stephan Druskat's entry.
+   
+The map appeared on Dec 6th 2017 on the website. It's based on [leaflet](http://leafletjs.com) v1.2 and [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)     
+
 ### converting slack signup domain list
 
 direct sign up domain list from https://de-rse.slack.com/admin/settings#signup_mode . Domains get added ad people request invites.  
