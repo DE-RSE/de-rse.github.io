@@ -27,19 +27,20 @@ var rseFeatures = [
             "name":"Peter Steinbach",
             "popupContent":"<img src='../assets/img/map/PeterSteinbach.png'>Peter Steinbach, MPI-CBG/Scionics, steinbac@mpi-cbg.de<br><br><em>RSE since 2012.</em>"
         },
-        "geometry":{
-            "type":"Point",
-            "coordinates":[13.78444,51.05843]
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.78436028957367, 51.057500186810636]
+        }
     },
     {
         "type":"Feature",
         "properties":{
             "name":"Frank Löffler",
-            "popupContent":"<img src='../assets/img/map/FrankLoeffler.png'>, Friedrich-Schiller-Universiät Jena, frank.loeffler@uni-jena.de<br><br><em></em>"
+            "popupContent":"<img src='../assets/img/map/FrankLoeffler.png'>Frank Löffler, Friedrich-Schiller-Universiät Jena, frank.loeffler@uni-jena.de<br><br><em></em>"
         },
         "geometry":{
             "type":"Point",
-            "coordinates":[11.5840385,50.928977],
+            "coordinates":[11.5840385,50.928977]
         }
-    },
+    }
 ];
