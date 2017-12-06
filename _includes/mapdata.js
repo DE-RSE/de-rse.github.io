@@ -86,5 +86,16 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [9.90985, 51.54368]
         }
+    },
+    {
+        "type":"Feature",
+        "properties":{
+            "name":"Andrej Warkentin",
+            "popupContent":"Andrej Warkentin, Master student at Bernstein Center for Computational Neuroscience Berlin"
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[13.382085263729095,52.525879297266655]
+        }
     }
     ];
