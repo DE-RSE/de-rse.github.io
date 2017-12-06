@@ -80,7 +80,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Rainer Hurling",
-            "popupContent": "<img src='../assets/img/map/Hurling_75x75.png'>Rainer Hurling, <a href='https://www.nw-fva.de'>NW-FVA</a>, NW-FVA<br>Abteilung Waldschutz"
+            "popupContent": "<img src='../assets/img/map/Hurling_75x75.png'>Rainer Hurling, <a href='https://www.nw-fva.de'>NW-FVA</a>, NW-FVA<br>Abteilung Waldschutz<br><br><em>I am working as a scientist on forest protection tasks. FreeBSD is my main operating system, for which I am porting and maintaining software like SAGA GIS and QGIS and some more tools. In our daily computing we heavily use R statistical software.</em>"
         },
         "geometry": {
             "type": "Point",
@@ -108,5 +108,41 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [8.49408, 52.03741]
         }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Jan Dietrich",
+            "popupContent": "<img src='../assets/img/map/jandietrich.png'><a href='https://www.pik-potsdam.de/research/members/dietrich'>Jan Dietrich</a>, Potsdam-Institut für Klimafolgenforschung (PIK)<br><br>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.062476, 52.379702]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Martin Hammitzsch",
+            "popupContent": "<img src='../assets/img/map/MartinHammitzsch.png'><a href='http://www.gfz-potsdam.de/mitarbeiter/martin-hammitzsch/'>Martin Hammitzsch</a>, Deutsches GeoForschungsZentrum GFZ<br><br>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.06615,52.37856]
+        }
     },
-    ];
+    {
+        "type":"Feature",
+        "properties":{
+            "name":"Joachim Wuttke",
+            "popupContent":"<img src='../assets/img/map/jwu1507-75px.png'><a href='http://apps.jcns.fz-juelich.de'>Joachim Wuttke</a>Forschungszentrum Jülich GmbH, JCNS at MLZ, Scientific Computing Group<br><br><em></em>"
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[11.674625873565674,48.263512652012125]
+        }
+    }
+
+];
