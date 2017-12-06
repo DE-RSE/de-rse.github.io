@@ -135,7 +135,7 @@ var rseFeatures = [
         "type":"Feature",
         "properties":{
             "name":"Joachim Wuttke",
-            "popupContent":"<img src='../assets/img/map/jwu1507-75px.png'><a href='http://apps.jcns.fz-juelich.de'>Joachim Wuttke</a>, Forschungszentrum Jülich GmbH, JCNS at MLZ, Scientific Computing Group"
+            "popupContent":"<img src='../assets/img/map/jwu1507-75px.png'><a href='http://apps.jcns.fz-juelich.de'>Joachim Wuttke</a>, Forschungszentrum J&uuml;lich GmbH, JCNS at MLZ, Scientific Computing Group"
         },
         "geometry":{
             "type":"Point",
