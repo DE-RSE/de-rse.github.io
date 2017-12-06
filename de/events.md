@@ -26,3 +26,4 @@ Falls eine Veranstaltung fehlt, [kontaktiere](join.html) uns bitte.
 | WSSSPE5.2 | 24.10.2017| Auckland| [wssspe.researchcomputing...wssspe5-2/](http://wssspe.researchcomputing.org.uk/category/wssspe5-2/) | [13th IEEE eScience](http://escience2017.org.nz) | 
 | FORCE17 | 25.-27.10.2017 | Berlin | [www.force11.org/meetings/force2017](https://www.force11.org/meetings/force2017) | [open access week](http://www.openaccessweek.org) |
 {: .table .table-hover}
+
