@@ -97,6 +97,16 @@ var rseFeatures = [
             "type":"Point",
             "coordinates":[13.382085263729095,52.525879297266655]
         }
-    }
-
-];
+    },
+        {
+        "type": "Feature",
+        "properties": {
+            "name": "Christian Pietsch",
+            "popupContent": "<img src='../assets/img/map/Pietsch_75x75.png'>Christian Pietsch, <a href='https://www.ub.uni-bielefeld.de'>Universitätsbibliothek Bielefeld</a><br><br><em>DFG-Projekte <a href='http://conquaire.uni-bielefeld.de/'>CONQUAIRE</a> und <a href='http://www.orcid-de.org/'>ORCID-DE</a></em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.49408, 52.03741]
+        }
+    },
+    ];
