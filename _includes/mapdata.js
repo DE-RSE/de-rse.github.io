@@ -24,6 +24,16 @@ var rseFeatures = [
     {
         "type":"Feature",
         "properties":{
+            "name":"Peter Steinbach",
+            "popupContent":"<img src='../assets/img/map/PeterSteinbach.png'>Peter Steinbach, MPI-CBG/Scionics, steinbac@mpi-cbg.de<br><br><em>RSE since 2012.</em>"
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[13.78444,51.05843]
+    },
+    {
+        "type":"Feature",
+        "properties":{
             "name":"Frank Löffler",
             "popupContent":"<img src='../assets/img/map/FrankLoeffler.png'>, Friedrich-Schiller-Universiät Jena, frank.loeffler@uni-jena.de<br><br><em></em>"
         },
