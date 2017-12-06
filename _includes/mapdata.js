@@ -80,7 +80,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Rainer Hurling",
-            "popupContent": "<img src='../assets/img/map/Hurling_75x75.png'>Rainer Hurling, <a href='https://www.nw-fva.de'>NW-FVA</a>, NW-FVA<br>Abteilung Waldschutz<br><br><em>I am working as a scientist on forest protection tasks. FreeBSD is my main operating system, for which I am porting and maintaining software like SAGA GIS and QGIS and some more tools. In our daily computing we heavily use R statistical software.</em>"
+            "popupContent": "<img src='../assets/img/map/Hurling_75x75.png'>Rainer Hurling, <a href='https://www.nw-fva.de'>NW-FVA</a>, NW-FVA<br>Abteilung Waldschutz"
         },
         "geometry": {
             "type": "Point",
@@ -140,6 +140,17 @@ var rseFeatures = [
         "geometry":{
             "type":"Point",
             "coordinates":[11.67462,48.26351]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Daniel N&uuml;st",
+            "popupContent": "<img src='../assets/img/map/DanielNuest.png'>Daniel N&uuml;st, <a href='https://www.uni-muenster.de/Geoinformatics/'>Institut für Geoinformatik</a><br /><br /><em>Aspiring to become an RSE; PhD student in project <a href='http://o2r.info/'>Opening Reproducible Research</a></em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.5957698, 51.9691555]
         }
     }
 ];
