@@ -20,5 +20,16 @@ var rseFeatures = [
             "type":"Point",
             "coordinates":[13.39270,52.51927]
         }
+    },
+    {
+        "type":"Feature",
+        "properties":{
+            "name":"Markus Ankenbrand",
+            "popupContent":"<img src='../assets/img/map/MarkusAnkenbrand.png'><a href='https://markus.ankenbrand.me'>Markus Ankenbrand</a>, Universität Würzburg<br><br><em>PhD student in the Center for Computational and Theoretical Biology. I develop bioinformatic tools for ecology, evolution and genomics.</em>"
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[9.9722003,49.7849283]
+        }
     }
 ];
