@@ -20,5 +20,16 @@ var rseFeatures = [
             "type":"Point",
             "coordinates":[13.39270,52.51927]
         }
-    }
+    },
+    {
+        "type":"Feature",
+        "properties":{
+            "name":"Peter Steinbach",
+            "popupContent":"<img src='../assets/img/map/PeterSteinbach.png'>Peter Steinbach, MPI-CBG/Scionics, steinbac@mpi-cbg.de<br><br><em>RSE since 2012.</em>"
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[13.78444,51.05843]
+        }
+    },
 ];
