@@ -66,15 +66,25 @@ var rseFeatures = [
         }
     },
     {
-        "type":"Feature",
-        "properties":{
-            "name":"Bernadette Fritzsch",
-            "popupContent":"<img src='../assets/img/map/BFritzsch.png'>Bernadette Fritzsch, Alfred-Wegener-Institut, Helmholtzzentrum für Polar- und Meeresforschung"
+        "type": "Feature",
+        "properties": {
+            "name": "Bernadette Fritzsch",
+            "popupContent": "<img src='../assets/img/map/BFritzsch.png'>Bernadette Fritzsch, Alfred-Wegener-Institut, Helmholtzzentrum für Polar- und Meeresforschung"
         },
-        "geometry":{
-            "type":"Point",
-            "coordinates":[8.584442138671875,
-                53.53745098722465]
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.584442138671875,53.53745098722465]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Rainer Hurling",
+            "popupContent": "<img src='../assets/img/map/Hurling_75x75.png'>Rainer Hurling, <a href='https://www.nw-fva.de'>NW-FVA</a>, NW-FVA<br>Abteilung Waldschutz"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.90985, 51.54368]
         }
     }
-];
+    ];
