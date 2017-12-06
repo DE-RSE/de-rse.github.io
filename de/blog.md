@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 layout: default
-weight: 4
+weight: 5
 ---
 
 # Blog

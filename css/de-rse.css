@@ -57,3 +57,13 @@ html, body {
     color: #777;
 }
 
+.leaflet-popup-content img {
+    height: 75px;
+    float: left;
+    margin-right: 0.5em;
+
+}
+
+.leaflet-popup-content {
+    height: 75px;
+}
