@@ -1,5 +1,5 @@
 ---
-title: "Karte"
+title: "Map"
 layout: default
 weight: 4
 ---

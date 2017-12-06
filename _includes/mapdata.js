@@ -3,7 +3,7 @@ var rseFeatures = [
         "type":"Feature",
         "properties":{
             "name":"Stephan Janosch",
-            "popupContent":"<img src='../assets/img/map/StephanJanoschAvatar100.png'>Stephan Janosch, MPI-CBG, janosch@mpi-cbg.de<br><br><em>RSE since RSE16.</em>"
+            "popupContent":"<img src='../assets/img/map/StephanJanoschAvatar100.png'>Stephan Janosch, MPI-CBG, janosch@mpi-cbg.de<br><br><em>RSE since RSE16. Doing RSE work since 2009.</em>"
         },
         "geometry":{
             "type":"Point",
@@ -63,6 +63,18 @@ var rseFeatures = [
         "geometry":{
             "type":"Point",
             "coordinates":[9.932485520839691,51.53390996663796]
+        }
+    },
+    {
+        "type":"Feature",
+        "properties":{
+            "name":"Bernadette Fritzsch",
+            "popupContent":"<img src='../assets/img/map/BFritzsch.png'>Bernadette Fritzsch, Alfred-Wegener-Institut, Helmholtzzentrum für Polar- und Meeresforschung"
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[8.584442138671875,
+                53.53745098722465]
         }
     }
 ];
