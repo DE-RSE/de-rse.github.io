@@ -152,5 +152,16 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [7.5957698, 51.9691555]
         }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Simon Christ",
+          "popupContent": "<a href='https://www.mpikg.mpg.de/mitarbeiterverzeichnis/48142'>Simon Christ</a>, Max-Planck-Institut f&uuml;r Kolloid- und Grenzfl&auml;chenforschung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.969317436218262, 52.41460544882651]
+      }
     }
 ];
