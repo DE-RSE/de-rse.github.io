@@ -108,8 +108,7 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [8.49408, 52.03741]
         }
-    }
-    ,
+    },
     {
         "type": "Feature",
         "properties": {
@@ -120,8 +119,7 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [13.062476, 52.379702]
         }
-    }
-    ,
+    },
     {
         "type": "Feature",
         "properties": {
@@ -137,12 +135,11 @@ var rseFeatures = [
         "type":"Feature",
         "properties":{
             "name":"Joachim Wuttke",
-            "popupContent":"<img src='../assets/img/map/jwu1507-75px.png'><a href='http://apps.jcns.fz-juelich.de'>Joachim Wuttke</a>Forschungszentrum Jülich GmbH, JCNS at MLZ, Scientific Computing Group<br><br><em></em>"
+            "popupContent":"<img src='../assets/img/map/jwu1507-75px.png'><a href='http://apps.jcns.fz-juelich.de'>Joachim Wuttke</a>, Forschungszentrum Jülich GmbH, JCNS at MLZ, Scientific Computing Group"
         },
         "geometry":{
             "type":"Point",
-            "coordinates":[11.674625873565674,48.263512652012125]
+            "coordinates":[11.67462,48.26351]
         }
     }
-
 ];
