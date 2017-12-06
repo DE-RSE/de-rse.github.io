@@ -77,7 +77,7 @@ Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum GFZ\\
 <https://twitter.com/mrtnhmtz>
 
 Frank Löffler\\
-Louisiana State University\\
+Institut für Informatik, Friedrich-Schiller-Universität Jena\\
 <https://www.cct.lsu.edu/~knarf/>  
 
 Stephan Janosch\\
