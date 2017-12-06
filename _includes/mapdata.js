@@ -20,5 +20,16 @@ var rseFeatures = [
             "type":"Point",
             "coordinates":[13.39270,52.51927]
         }
-    }
+    },
+    {
+        "type":"Feature",
+        "properties":{
+            "name":"Frank Löffler",
+            "popupContent":"<img src='../assets/img/map/FrankLoeffler.png'>, Friedrich-Schiller-Universiät Jena, frank.loeffler@uni-jena.de<br><br><em></em>"
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[11.5840385,50.928977],
+        }
+    },
 ];
