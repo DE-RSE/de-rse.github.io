@@ -109,4 +109,15 @@ var rseFeatures = [
             "coordinates": [8.49408, 52.03741]
         }
     },
+    {
+    "type": "Feature",
+    "properties": {
+        "name": "Daniel N&uuml;st",
+        "popupContent": "<img src='../assets/img/map/DanielNuest.png'>Daniel N&uuml;st, <a href='https://www.uni-muenster.de/Geoinformatics/'>Institut für Geoinformatik</a><br /><br /><em>Aspiring to become an RSE; PhD student in project <a href='http://o2r.info/'>Opening Reproducible Research</a></em>"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [7.5957698, 51.9691555]
+    }
+},
     ];
