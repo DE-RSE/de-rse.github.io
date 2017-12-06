@@ -14,7 +14,7 @@ var rseFeatures = [
         "type":"Feature",
         "properties":{
             "name":"Stephan Druskat",
-            "popupContent":"<img src='../assets/img/map/StephanDruskat.png'><a href='http://sdruskat.net'>Stephan Druskat</a>, Humboldt-Universität zu Berlin<br><br><em>not testimonial yet</em>"
+            "popupContent":"<img src='../assets/img/map/StephanDruskat.png'><a href='http://sdruskat.net'>Stephan Druskat</a>, Humboldt-Universität zu Berlin<br><br><em>I work in a linguistic research project where I develop scripts, plugins and complete apps so that the linguistic researchers can access, process and analyze their data. I am an RSE.</em>"
         },
         "geometry":{
             "type":"Point",
