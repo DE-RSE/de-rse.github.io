@@ -1,31 +1,31 @@
 var rseFeatures = [
     {
-        "type":"Feature",
-        "properties":{
-            "name":"Stephan Janosch",
-            "popupContent":"<img src='../assets/img/map/StephanJanoschAvatar100.png'>Stephan Janosch, MPI-CBG, janosch@mpi-cbg.de<br><br><em>RSE since RSE16. Doing RSE work since 2009.</em>"
+        "type": "Feature",
+        "properties": {
+            "name": "Stephan Janosch",
+            "popupContent": "<img src='../assets/img/map/StephanJanoschAvatar100.png'>Stephan Janosch, MPI-CBG, janosch@mpi-cbg.de<br><br><em>RSE since RSE16. Doing RSE work since 2009.</em>"
         },
-        "geometry":{
-            "type":"Point",
-            "coordinates":[13.78444,51.05843]
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.78444, 51.05843]
         }
     },
     {
-        "type":"Feature",
-        "properties":{
-            "name":"Stephan Druskat",
-            "popupContent":"<img src='../assets/img/map/StephanDruskat.png'><a href='http://sdruskat.net'>Stephan Druskat</a>, Humboldt-Universität zu Berlin<br><br><em>I work in a linguistic research project where I develop scripts, plugins and complete apps so that the linguistic researchers can access, process and analyze their data. I am an RSE.</em>"
+        "type": "Feature",
+        "properties": {
+            "name": "Stephan Druskat",
+            "popupContent": "<img src='../assets/img/map/StephanDruskat.png'><a href='http://sdruskat.net'>Stephan Druskat</a>, Humboldt-Universität zu Berlin<br><br><em>I work in a linguistic research project where I develop scripts, plugins and complete apps so that the linguistic researchers can access, process and analyze their data. I am an RSE.</em>"
         },
-        "geometry":{
-            "type":"Point",
-            "coordinates":[13.39270,52.51927]
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.39270, 52.51927]
         }
     },
     {
-        "type":"Feature",
-        "properties":{
-            "name":"Peter Steinbach",
-            "popupContent":"<img src='../assets/img/map/PeterSteinbach.png'>Peter Steinbach, MPI-CBG/Scionics, steinbac@mpi-cbg.de<br><br><em>RSE since 2012.</em>"
+        "type": "Feature",
+        "properties": {
+            "name": "Peter Steinbach",
+            "popupContent": "<img src='../assets/img/map/PeterSteinbach.png'>Peter Steinbach, MPI-CBG/Scionics, steinbac@mpi-cbg.de<br><br><em>RSE since 2012.</em>"
         },
         "geometry": {
             "type": "Point",
@@ -33,36 +33,36 @@ var rseFeatures = [
         }
     },
     {
-        "type":"Feature",
-        "properties":{
-            "name":"Frank Löffler",
-            "popupContent":"<img src='../assets/img/map/FrankLoeffler.png'>Frank Löffler, Friedrich-Schiller-Universiät Jena, frank.loeffler@uni-jena.de<br><br><em></em>"
+        "type": "Feature",
+        "properties": {
+            "name": "Frank Löffler",
+            "popupContent": "<img src='../assets/img/map/FrankLoeffler.png'>Frank Löffler, Friedrich-Schiller-Universiät Jena, frank.loeffler@uni-jena.de<br><br><em></em>"
         },
-        "geometry":{
-            "type":"Point",
-            "coordinates":[11.5840385,50.928977]
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5840385, 50.928977]
         }
     },
     {
-        "type":"Feature",
-        "properties":{
-            "name":"Markus Ankenbrand",
-            "popupContent":"<img src='../assets/img/map/MarkusAnkenbrand.png'><a href='https://markus.ankenbrand.me'>Markus Ankenbrand</a>, Universität Würzburg<br><br><em>PhD student in the Center for Computational and Theoretical Biology. I develop bioinformatic tools for ecology, evolution and genomics.</em>"
+        "type": "Feature",
+        "properties": {
+            "name": "Markus Ankenbrand",
+            "popupContent": "<img src='../assets/img/map/MarkusAnkenbrand.png'><a href='https://markus.ankenbrand.me'>Markus Ankenbrand</a>, Universität Würzburg<br><br><em>PhD student in the Center for Computational and Theoretical Biology. I develop bioinformatic tools for ecology, evolution and genomics.</em>"
         },
-        "geometry":{
-            "type":"Point",
-            "coordinates":[9.9722003,49.7849283]
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.9722003, 49.7849283]
         }
     },
     {
-        "type":"Feature",
-        "properties":{
-            "name":"Carsten Thiel",
-            "popupContent":"<img src='../assets/img/map/CarstenThiel.png'><a href='https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/carsten-thiel/'>Carsten Thiel</a>, Niedersächsische Staats- und Universitätsbibliothek Göttingen<br><br><em>DARIAH-DE, Technischer Koordinator</em>"
+        "type": "Feature",
+        "properties": {
+            "name": "Carsten Thiel",
+            "popupContent": "<img src='../assets/img/map/CarstenThiel.png'><a href='https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/carsten-thiel/'>Carsten Thiel</a>, Niedersächsische Staats- und Universitätsbibliothek Göttingen<br><br><em>DARIAH-DE, Technischer Koordinator</em>"
         },
-        "geometry":{
-            "type":"Point",
-            "coordinates":[9.932485520839691,51.53390996663796]
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.932485520839691, 51.53390996663796]
         }
     },
     {
@@ -73,7 +73,7 @@ var rseFeatures = [
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [8.584442138671875,53.53745098722465]
+            "coordinates": [8.584442138671875, 53.53745098722465]
         }
     },
     {
@@ -88,17 +88,17 @@ var rseFeatures = [
         }
     },
     {
-        "type":"Feature",
-        "properties":{
-            "name":"Andrej Warkentin",
-            "popupContent":"Andrej Warkentin, Master student at Bernstein Center for Computational Neuroscience Berlin"
+        "type": "Feature",
+        "properties": {
+            "name": "Andrej Warkentin",
+            "popupContent": "Andrej Warkentin, Master student at Bernstein Center for Computational Neuroscience Berlin"
         },
-        "geometry":{
-            "type":"Point",
-            "coordinates":[13.382085263729095,52.525879297266655]
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.382085263729095, 52.525879297266655]
         }
     },
-        {
+    {
         "type": "Feature",
         "properties": {
             "name": "Christian Pietsch",
@@ -128,18 +128,18 @@ var rseFeatures = [
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [13.06611,52.37858]
+            "coordinates": [13.06611, 52.37858]
         }
     },
     {
-        "type":"Feature",
-        "properties":{
-            "name":"Joachim Wuttke",
-            "popupContent":"<img src='../assets/img/map/jwu1507-75px.png'><a href='http://apps.jcns.fz-juelich.de'>Joachim Wuttke</a>, Forschungszentrum J&uuml;lich GmbH, JCNS at MLZ, Scientific Computing Group"
+        "type": "Feature",
+        "properties": {
+            "name": "Joachim Wuttke",
+            "popupContent": "<img src='../assets/img/map/jwu1507-75px.png'><a href='http://apps.jcns.fz-juelich.de'>Joachim Wuttke</a>, Forschungszentrum J&uuml;lich GmbH, JCNS at MLZ, Scientific Computing Group"
         },
-        "geometry":{
-            "type":"Point",
-            "coordinates":[11.67462,48.26351]
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.67462, 48.26351]
         }
     },
     {
@@ -154,26 +154,36 @@ var rseFeatures = [
         }
     },
     {
-      "type": "Feature",
-      "properties": {
-          "name": "Simon Christ",
-          "popupContent": "<a href='https://www.mpikg.mpg.de/mitarbeiterverzeichnis/48142'>Simon Christ</a>, Max-Planck-Institut f&uuml;r Kolloid- und Grenzfl&auml;chenforschung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.969317436218262, 52.41460544882651]
-      }
+        "type": "Feature",
+        "properties": {
+            "name": "Simon Christ",
+            "popupContent": "<a href='https://www.mpikg.mpg.de/mitarbeiterverzeichnis/48142'>Simon Christ</a>, Max-Planck-Institut f&uuml;r Kolloid- und Grenzfl&auml;chenforschung"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [12.969317436218262, 52.41460544882651]
+        }
     },
     {
-        "type":"Feature",
-        "properties":{
-            "name":"Konrad Förstner",
-            "popupContent":"<img src='../assets/img/map/KonradFoerstner.jpg'><a href='https://konrad.foerstner.org/'>Konrad F&ouml;rstner</a>, Universtität W&uuml;rzburg<br><br><em>Open *</em>"
+        "type": "Feature",
+        "properties": {
+            "name": "Konrad Förstner",
+            "popupContent": "<img src='../assets/img/map/KonradFoerstner.jpg'><a href='https://konrad.foerstner.org/'>Konrad F&ouml;rstner</a>, Universtität W&uuml;rzburg<br><br><em>Open *</em>"
         },
-        "geometry":{
-            "type":"Point",
-            "coordinates":[9.956434965133667,49.801900711047594]
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.956434965133667, 49.801900711047594]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Karsten Wiesner",
+            "popupContent": "<img src='../assets/img/map/KarstenWiesner75.png'>Karsten Wiesner, <a href='http://www.aei.mpg.de'>Max Planck Institute for Gravitational Physics (Albert Einstein Institute)</a>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.710972607135773,52.38835464264706]
         }
     }
-
 ];
