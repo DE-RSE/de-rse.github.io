@@ -163,5 +163,17 @@ var rseFeatures = [
         "type": "Point",
         "coordinates": [12.969317436218262, 52.41460544882651]
       }
+    },
+    {
+        "type":"Feature",
+        "properties":{
+            "name":"Konrad Förstner",
+            "popupContent":"<img src='../assets/img/map/KonradFoerstner.jpg'><a href="https://konrad.foerstner.org/">Konrad Förstner</a>, Universtität Würzburg<br><br><em>Open *</em>"
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[9.956434965133667,49.801900711047594]
+        }
     }
+
 ];
