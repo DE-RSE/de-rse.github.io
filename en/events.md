@@ -3,14 +3,22 @@ layout: default
 title: Events
 weight: 3
 ---
-
-# Events 2017
+# Events 2018  
 
 We think this list of events is relevant. That's why simply collected them in a table. We are not the organizers of of these events!
 
 If you think, we are missing an event, please [contact](join.html) us.
 
-| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| Event | Date | Place | URL | Remarks |
+| --- | --- | --- | --- | --- |
+{% include events/2018.md %}
+{: .table .table-hover}
+
+## Past Events
+
+### Events 2017
+
+| Event | Date | Place | URL | Remarks |
 | --- | --- | --- | --- | --- |
 | DANS/SSI Workshop on Software Sustainability | 7.-9.3.2017 | Den Haag |
 | Barcamp Open Science | 20.3.2017 | Berlin | [http://www.barcamp-open-science.eu/](http://www.barcamp-open-science.eu/) | free! |
