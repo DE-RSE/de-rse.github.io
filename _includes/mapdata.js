@@ -185,5 +185,16 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [9.710972607135773,52.38835464264706]
         }
+    },
+    {
+        "type":"Feature",
+        "properties":{
+            "name":"Claudia Müller-Birn",
+            "popupContent":"<img src='../assets/img/map/clmb.jpg'><a href='http://www.clmb.de'>Claudia Müller-Birn</a>, Freie Universität Berlin, Human-Centered Computing"
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[13.297083377838135,52.45773534720492]
+        }
     }
 ];
