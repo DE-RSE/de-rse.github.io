@@ -24,10 +24,10 @@ Germany
 Phone: +49-351-210-2709, Email: janosch [ät] mpi-cbg.de  
 
 Frank Löffler  
-Institut für Informatik
-Friedrich-Schiller-Universität Jena
-07753 Jena
-Germany
+Institut für Informatik  
+Friedrich-Schiller-Universität Jena  
+07753 Jena  
+Germany  
 Phone: +49 (0)1762 5761037, Email: frank.loeffler [ät] uni-jena.de
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
