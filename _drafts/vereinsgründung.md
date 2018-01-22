@@ -13,7 +13,7 @@ Klar erscheint, dass wir als lose Gemeinschaft von Willigen nur schwerlich langf
 * Workshops durchzuführen,
 * Engagierte in ihrer RSE-Mission zu unterstützen,
 * eine jährlich stattfindenden Konferenz rund um das Thema wissenschaftliche Software zu etablieren und
-* ein nationales, die deutsche Forschungslandschaft übergreifendes Zentrum zum Thema wissenschaftliche Software zu schaffen 
+* ein nationales, die deutsche Forschungslandschaft übergreifendes Zentrum zum Thema wissenschaftliche Software zu schaffen .
 
 Im Rahmen eines kurzen ad-hoc Treffens auf der 2. [S3-Konferenz im Mai 2017 in Hannover](https://events.tib.eu/nontextualinformation2017/) ([Aufzeichnungen](https://av.tib.eu/series/310/2nd+conference+on+non+textual+information+software+and+services+for+science+s3+may+10+11+2017+in+hannover)) hat Hendrik Eggers (TU Braunschweig) eine Genossenschaftsgründung neben einer Vereinsgründung zur Sprache gebracht.
  
@@ -25,7 +25,7 @@ Mittlerweile haben wir zu siebent drei mal konferiert und sind zu dem Schluss ge
     
 ## Vereinsname
 
-Doch welcher Name sollte unser Verein tragen? Irgendwie scheint das Kürzel "de-RSE" gesetzt. Die Rollenbezeichnung des Research Software Engineers festigt sich mehr und mehr international (jetzt neu [nl-RSE.org](http://nl-rse.org)) und wird mit Sicherheit nicht mehr verschwinden. Auf der anderen Seite gibt es in Deutschland die Tätigkeiten des Wissenschaftlers und des Ingenieurs, die sich auf den ersten Blick zu widersprechen scheinen, die aber beide Softwareentwicklung beinhalten können. 
+Doch welcher Name sollte unser Verein tragen? Irgendwie scheint das Kürzel "de-RSE" gesetzt. Die Rollenbezeichnung des Research Software Engineers festigt sich mehr und mehr international (jetzt neu: [nl-RSE.org](http://nl-rse.org)) und wird mit Sicherheit nicht mehr verschwinden. Auf der anderen Seite gibt es in Deutschland die Tätigkeiten des Wissenschaftlers und des Ingenieurs, die sich auf den ersten Blick zu widersprechen scheinen, die aber beide Softwareentwicklung beinhalten können. 
 
 Im Moment kursieren 3 Namensvorschläge im Repository:
 
@@ -43,7 +43,7 @@ Für eure Rückmeldungen lauschen wir auf der [Mailingliste sowie im Chat](http:
 
 ## Beiträge
 
-Bis jetzt wurde die Frage von Mitgliedsgebühren nur ganz am Rande geschweift. Aber wo gehobelt werden soll, da muss auch Holz sein. Und manches Engagement wird von Dritten nur aufgrund von genug Eigeninitiative gefördert. Vielleicht kann man im Rahmen der Diskussion um den Vereinsnamen in sich hineinhorchen, wie man zu einer einer finanziellen Förderung steht. Das ganze Repertoire von: 
+Bis jetzt wurde die Frage von Mitgliedsgebühren nur ganz am Rande gestreift. Aber wo gehobelt werden soll, da muss auch Holz sein. Und manches Engagement wird von Dritten nur aufgrund von genug Eigeninitiative gefördert. Vielleicht kann man im Rahmen der Diskussion um den Vereinsnamen in sich hineinhorchen, wie man zu einer einer finanziellen Förderung steht. Das ganze Repertoire von: 
 
 * beitragsfreien Mitgliedschaften 
 * Fördermitgliedschaften
