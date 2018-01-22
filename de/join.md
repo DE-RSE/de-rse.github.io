@@ -56,13 +56,19 @@ mit der de-RSE Initiative Anfang 2017 zusammenlegen können. Beide Themen, Open 
 und Research Software Engineers, hängen eng zusammen, verfolgen Ziele mit einer 
 gemeinsamen Schnittmenge und adressieren einen ähnlichen Kreis von Interessenten.
 
-Da für die recht junge de-RSE Initiative ebenfalls ein monatlicher Call ab 2017 angedacht 
-ist, könnten beide Calls für die kommenden drei bis sechs Monate zusammengelegt werden. 
+Auch wenn für die recht junge de-RSE Initiative ebenfalls ein regelmäßiger Call angedacht 
+ist, werden beide Calls bis auf weiteres zusammengelegt. 
 Danach schauen wir dann, wie wir weitermachen.
 
 Termine für die monatlichen Calls findet Ihr [hier](https://pad.okfn.de/p/openscience-ag-master-pad).
 
-## Kontakt
+## Blog
+
+Der Blog auf der Webseite wird von der Community gemeinschaftlich gestaltet.
+Deine Ideen, Themen und Beiträge auf Deutsch, English, oder beidem sind sehr willkommen!
+In der `README` findest du eine Anleitung wie Du eine Vorschau der Seite auf deinem eigenen Rechner bekommen kannst.
+
+# Kontakt
 
 Wer mehr über Hintergründe, Ziele und Aktivitäten wissen möchte oder Fragen zu 
 anderen Themen hat, kann sich einfach über die Mailing Liste liste@de-RSE.org melden.
