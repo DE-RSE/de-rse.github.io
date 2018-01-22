@@ -57,13 +57,17 @@ beginning of 2017. Both topics, Open Science and Research Software Engineering,
 are closely related, pursue goals with a common set of interfaces, and address a 
 similar circle of interested parties.
 
-Since a monthly call is also considered for the de-RSE initiative from the beginning 
-of 2017, both calls are held jointly for the next three to six months, after which we'll re-consider
-future options.
+A monthly call is also considered for the de-RSE initiative, but for now both calls are held jointly.
 
 Dates and times for the monthly community calls are [listed here](https://pad.okfn.de/p/openscience-ag-master-pad).
 
-## Contact
+## Blog
+
+The website hosts a blog with contributions from the community members.
+Your ideas, topics and posts in German, English, or both are very welcome!
+The `README` includes instructions for getting a local preview of the site.
+
+# Contact
 
 Of course please do not hesitate to use the mailing list liste@de-RSE.org if
 you have questions about the background, aims, and activities of de-RSE.
