@@ -25,7 +25,7 @@ Mittlerweile haben wir zu siebent drei mal konferiert und sind zu dem Schluss ge
 
 ## Vereinsname
 
-Doch welcher Name sollte unser Verein tragen? Irgendwie scheint das Kürzel "de-RSE" gesetzt. Die Rollenbezeichnung des Research Software Engineers festigt sich mehr und mehr international (jetzt neu: [nl-RSE.org](http://nl-rse.org)) und wird mit Sicherheit nicht mehr verschwinden. Auf der anderen Seite gibt es in Deutschland die Tätigkeiten des Wissenschaftlers und des Ingenieurs, die sich auf den ersten Blick zu widersprechen scheinen, die aber beide Softwareentwicklung beinhalten können.
+Doch welchen Name sollte unser Verein tragen? Irgendwie scheint das Kürzel "de-RSE" gesetzt. Die Rollenbezeichnung des Research Software Engineers festigt sich mehr und mehr international (jetzt neu: [nl-RSE.org](http://nl-rse.org)) und wird mit Sicherheit nicht mehr verschwinden. Auf der anderen Seite gibt es in Deutschland die Tätigkeiten des Wissenschaftlers und des Ingenieurs, die sich auf den ersten Blick zu widersprechen scheinen, die aber beide Softwareentwicklung beinhalten können.
 
 Im Moment kursieren 3 Namensvorschläge im Repository:
 
@@ -43,7 +43,7 @@ Für eure Rückmeldungen lauschen wir auf der [Mailingliste sowie im Chat](http:
 
 ## Beiträge
 
-Bis jetzt wurde die Frage von Mitgliedsgebühren nur am Rande gestreift. Aber wo gehobelt werden soll, da muss auch Holz sein. Und manches Engagement wird von Dritten nur aufgrund von genug Eigeninitiative gefördert. Vielleicht kann man im Rahmen der Diskussion um den Vereinsnamen in sich hineinhorchen, wie man zu einer einer finanziellen Förderung steht. Das ganze Repertoire von:
+Bis jetzt wurde die Frage von Mitgliedsgebühren nur am Rande gestreift. Aber wo gehobelt werden soll, da muss auch Holz sein. Und manches Engagement wird von Dritten nur aufgrund von genug Eigeninitiative gefördert. Vielleicht kann man im Rahmen der Diskussion um den Vereinsnamen in sich hineinhorchen, wie man zu einer finanziellen Förderung steht. Das ganze Repertoire von:
 
 * beitragsfreien Mitgliedschaften
 * Fördermitgliedschaften
