@@ -1,7 +1,7 @@
 ---
-title: "Vereinsgründung"
+title: "Founding an Association"
 layout: post
-author: Stephan Janosch
+author: Stephan Janosch (translation Daniel Nüst)
 menulang: en
 ---
 
@@ -51,7 +51,7 @@ The name is going to be widely used in a number of noteworthy contexts:
 * collaboration on an international level
 * contact with research funders
 
-We look forward to your feedback on the [mailing list and in the chat](http://www.de-rse.org/en/join.html).
+We look forward to your feedback on the [mailing list and in the chat](http://www.de-rse.org/en/join.html) (ideally till Feb. 5th).
 
 And since we're already here, let's address another important topic.
 

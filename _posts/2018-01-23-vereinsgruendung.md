@@ -39,7 +39,7 @@ Mir persönlich erscheint eine Mischung aus den dreien notwendig. Vielleicht in 
 * Zusammenarbeit auf internationaler Ebene
 * Kontakt mit Forschungsförderern
 
-Für eure Rückmeldungen lauschen wir auf der [Mailingliste sowie im Chat](http://www.de-rse.org/de/join.html). Und wenn wir schon am Kommunizieren sind, können wir uns auch noch einem anderen Thema widmen.
+Für eure Rückmeldungen lauschen wir auf der [Mailingliste sowie im Chat](http://www.de-rse.org/de/join.html) (idealerweise bis zum 5.2.). Und wenn wir schon am Kommunizieren sind, können wir uns auch noch einem anderen Thema widmen.
 
 ## Beiträge
 
