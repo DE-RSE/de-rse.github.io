@@ -4,6 +4,15 @@ layout: default
 weight: 4
 ---
 
+# RSEs in Deutschland
+
+Andernorts in Europa und in der Welt werden Personen, die wissenschaftliche Software bzw. Forschungssoftware
+entwickeln, bereits als Research Software Engineers (RSEs) bezeichnet und unabhängig von ihrer Stellenbezeichnung und ihrem Abschluss unter diesem Begriff zusammengefasst. RSE ist ein Sammelbegriff für in der Forschung und in den Wissenschaften tätige Personen, die Software entwickeln und anderweitig in die Softwareentwicklung involviert sind, unabhängig von der Art und dem Umfang ihrer Tätigkeit und unabhängig von Erfahrung und Kenntnisstand.
+
+de-RSE adressiert gleichermaßen Software entwickelnde Wissenschaftlerinnen und Wissenschaftler, in der Forschung tätige Informatikerinnen und Informatiker und andere aus den Computerwissenschaften stammende Personen, skriptende Administratorinnen und Administratoren, (Post-)Doktorandinnen und (Post-)Doktoranden, in der Forschung tätige Studentinnen und Studenten, Softwareprojektmanagerinnen und -projektmanager sowie all jene, die einen Beitrag zur Softwareentwicklung in Wissenschaft und Forschung leisten.
+
+## Karte
+
 <div id="map" style="height:1100px;"></div>
 
 <script type="text/javascript" src="{{ "/js/leaflet.js" | prepend: site.baseurl }}"></script>
