@@ -196,5 +196,16 @@ var rseFeatures = [
             "type":"Point",
             "coordinates":[13.297083377838135,52.45773534720492]
         }
+    },
+    {
+        "type":"Feature",
+        "properties":{
+            "name":"David Maus",
+            "popupContent":"<img src='../assets/img/map/dmaus.png'><a href='http://dmaus.name'>David Maus</a>, Herzog August Bibliothek, Wolfenbüttel<br><br>I model, publish, and organize research data. I am an RSE."
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[52.16323,10.53165]
+        }
     }
 ];
