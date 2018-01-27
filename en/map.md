@@ -10,7 +10,7 @@ Elsewhere in Europe and the world, people who develop scientific software or res
 
 de-RSE addresses both, software-developing researchers, PhD students and postdocs as well as computer scientists and other computer science professionals, scripting administrators and software project managers active in research - and all those who professionally contribute to software development in science and research.
 
-Is this you? Then add yourself and show who we are: https://github.com/DE-RSE/www/blob/gh-pages/_includes/mapdata.js
+Is this you? Then add yourself and show who we are: <https://github.com/DE-RSE/www/blob/gh-pages/_includes/mapdata.js>
 
 ## Map
 
