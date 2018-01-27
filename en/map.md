@@ -4,6 +4,16 @@ layout: default
 weight: 4
 ---
 
+# RSEs in Germany
+
+Elsewhere in Europe and the world, people who develop scientific software or research software are already referred to as Research Software Engineers (RSEs), and are grouped under that term regardless of their job title and degree. RSE is a collective term for researchers and scientists who develop software and are otherwise involved in software development, regardless of the nature and extent of their activities and regardless of their experience or knowledge.
+
+de-RSE addresses both, software-developing researchers, PhD students and postdocs as well as computer scientists and other computer science professionals, scripting administrators and software project managers active in research - and all those who professionally contribute to software development in science and research.
+
+Is this you? Then add yourself and show who we are: https://github.com/DE-RSE/www/blob/gh-pages/_includes/mapdata.js
+
+## Map
+
 <div id="map" style="height:1100px;"></div>
 
 <script type="text/javascript" src="{{ "/js/leaflet.js" | prepend: site.baseurl }}"></script>
