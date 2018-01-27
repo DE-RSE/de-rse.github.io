@@ -16,7 +16,7 @@ What others say what an RSE is: <http://www.de-rse.org/en/map.html#what-others-s
 
 ## Map
 
-<div id="map" style="height:1100px;"></div>
+<div id="map-container" style="height:1100px;"></div>
 
 <script type="text/javascript" src="{{ "/js/leaflet.js" | prepend: site.baseurl }}"></script>
 <script type="text/javascript" src="{{ "/js/leaflet.markercluster.js" | prepend: site.baseurl }}"></script>
@@ -30,7 +30,7 @@ function onEachFeature(feature, layer) {
 }
 
 
-var map = L.map('map').setView([51.000,10.316], 7);
+var map = L.map('map-container').setView([51.000,10.316], 7);
 
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
