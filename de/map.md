@@ -11,7 +11,7 @@ Andernorts in Europa und in der Welt werden Personen, die wissenschaftliche Soft
 de-RSE adressiert gleichermaßen Software entwickelnde Wissenschaftlerinnen und Wissenschaftler, in der Forschung tätige Informatikerinnen und Informatiker und andere aus den Computerwissenschaften stammende Personen, skriptende Administratorinnen und Administratoren, (Post-)Doktorandinnen und (Post-)Doktoranden, in der Forschung tätige Studentinnen und Studenten, Softwareprojektmanagerinnen und -projektmanager sowie all jene, die einen Beitrag zur Softwareentwicklung in Wissenschaft und Forschung leisten.
 
 Zeig, dass Du dazu gehörst: <https://github.com/DE-RSE/www/blob/gh-pages/_includes/mapdata.js>
-<Wie-andere-RSE-definieren>
+Wie-andere-RSE-definieren: <http://www.de-rse.org/de/map.html#wie-andere-rse-definieren>
 
 ## Karte
 
