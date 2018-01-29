@@ -59,7 +59,7 @@ Map made with [http://leafletjs.com](http://leafletjs.com), Clustering via [Leaf
 
 A growing number of people in academia combine expertise in programming with an intricate understanding of research. Although this combination of skills is extremely valuable, these people lack a formal place in the academic system. This means there is no easy way to recognise their contribution, to reward them, or to represent their views.Without a name, it is difficult for people to rally around a cause, so we created the term Research Software Engineer.
 
-Mehr unter: <http://rse.ac.uk/>
+Read more: <http://rse.ac.uk/>
 
 ### NL-RSE
 
@@ -69,4 +69,4 @@ Quoting from the paper that marked the start of the Research Software Engineer c
 
 RSEs are often embedded in research groups in small teams, or even by themselves, working hard on the software, algorithms, tools and interfaces that facilitate cutting-edge research. And in many cases, they are academic researchers at the same time, holding positions as (assistant/associate) professor, postdoc or PhD candidate. RSEs closely collaborate with researchers to understand the challenges they face, and then develop research software to provide the answers. Some have started as researchers who spent a lot of time developing software to do their research. Others have started as software developers who have developed a strong affinity with scientific research.
 
-Mehr unter: <https://blog.esciencecenter.nl/introducing-nl-rse-98431969e2b8>
+Further reading: <https://blog.esciencecenter.nl/introducing-nl-rse-98431969e2b8>
