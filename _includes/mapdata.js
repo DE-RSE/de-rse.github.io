@@ -205,7 +205,7 @@ var rseFeatures = [
         },
         "geometry":{
             "type":"Point",
-            "coordinates":[52.16323,10.53165]
+            "coordinates":[10.53165, 52.16323]
         }
     },
     {
