@@ -2,6 +2,16 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "Florian Goth",
+            "popupContent": "<img src='../assets/img/map/fgoth.png'><a href='https://florian-goth.de'>Florian Goth</a>, Universität Würzburg, SFB 1170, fgoth@physik.uni-wuerzburg.de<br><br><em>Specializing into harnessing the power of modern massively parallel computer systems, I support users at all levels of program development: Algorithmic development coupled with low-level hardware optimization, writing and maintaining the actual code, as well as striving to implement sustainable software development models in science. I am an RSE.</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [9.97271865606308, 49.781826929642016]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "Stephan Janosch",
             "popupContent": "<img src='../assets/img/map/StephanJanoschAvatar100.png'>Stephan Janosch, MPI-CBG, janosch@mpi-cbg.de<br><br><em>RSE since RSE16. Doing RSE work since 2009.</em>"
         },
@@ -168,7 +178,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Konrad Förstner",
-            "popupContent": "<img src='../assets/img/map/KonradFoerstner.png'><a href='https://konrad.foerstner.org/'>Konrad F&ouml;rstner</a>, Universtität W&uuml;rzburg<br><br><em>Open *</em>"
+            "popupContent": "<img src='../assets/img/map/KonradFoerstner.png'><a href='https://konrad.foerstner.org/'>Konrad F&ouml;rstner</a>, Universität W&uuml;rzburg<br><br><em>Open *</em>"
         },
         "geometry": {
             "type": "Point",
