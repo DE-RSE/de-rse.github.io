@@ -205,7 +205,40 @@ var rseFeatures = [
         },
         "geometry":{
             "type":"Point",
-            "coordinates":[52.16323,10.53165]
+            "coordinates":[10.53165, 52.16323]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Carina Haupt",
+            "popupContent": "<img src='../assets/img/map/CarinaHaupt.jpg'>Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), carina.haupt@dlr.de<br><br><em>Head of Software Engineering Group - Mein Ziel ist es die Qualität der Softwareentwicklung in der Forschung zu verbessern. Daran forsche und arbeite ich jeden Tag.</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.409298, 52.523242]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Michael Meinel",
+            "popupContent": "<img src='../assets/img/map/MichaelMeinel.jpg'>Michael Meinel, Deutsches Zentrum für Luft- und Raumfahrt (DLR), michael.meinel@dlr.de<br><br><em>Working as software developer at DLR I am involved in many different projects from different domains. I also give trainings in Software Engineering practices. Currently, I'm doing my master thesis in IT Security to extend my portfolio even further towards knowledge that is required by our customers.</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.409298, 52.523242]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Tobias Schlauch",
+            "popupContent": "<img src='../assets/img/map/TobiasSchlauch.jpg'>Tobias Schlauch, Deutsches Zentrum für Luft- und Raumfahrt (DLR), tobias.schlauch@dlr.de"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.564162, 52.313804]
         }
     }
 ];
