@@ -2,6 +2,16 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "Florian Goth",
+            "popupContent": "<img src='../assets/img/map/fgoth.png'><a href='https://florian-goth.de'>Florian Goth</a>, Universität Würzburg, SFB 1170, fgoth@physik.uni-wuerzburg.de<br><br><em>Specializing into harnessing the power of modern massively parallel computer systems, I support users at all levels of program development: Algorithmic development coupled with low-level hardware optimization, writing and maintaining the actual code, as well as striving to implement sustainable software development models in science. I am an RSE.</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [9.97271865606308, 49.781826929642016]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "Stephan Janosch",
             "popupContent": "<img src='../assets/img/map/StephanJanoschAvatar100.png'>Stephan Janosch, MPI-CBG, janosch@mpi-cbg.de<br><br><em>RSE since RSE16. Doing RSE work since 2009.</em>"
         },
@@ -168,7 +178,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Konrad Förstner",
-            "popupContent": "<img src='../assets/img/map/KonradFoerstner.png'><a href='https://konrad.foerstner.org/'>Konrad F&ouml;rstner</a>, Universtität W&uuml;rzburg<br><br><em>Open *</em>"
+            "popupContent": "<img src='../assets/img/map/KonradFoerstner.png'><a href='https://konrad.foerstner.org/'>Konrad F&ouml;rstner</a>, Universität W&uuml;rzburg<br><br><em>Open *</em>"
         },
         "geometry": {
             "type": "Point",
@@ -205,7 +215,40 @@ var rseFeatures = [
         },
         "geometry":{
             "type":"Point",
-            "coordinates":[52.16323,10.53165]
+            "coordinates":[10.53165, 52.16323]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Carina Haupt",
+            "popupContent": "<img src='../assets/img/map/CarinaHaupt.jpg'>Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), carina.haupt@dlr.de<br><br><em>Head of Software Engineering Group - Mein Ziel ist es die Qualität der Softwareentwicklung in der Forschung zu verbessern. Daran forsche und arbeite ich jeden Tag.</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.409298, 52.523242]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Michael Meinel",
+            "popupContent": "<img src='../assets/img/map/MichaelMeinel.jpg'>Michael Meinel, Deutsches Zentrum für Luft- und Raumfahrt (DLR), michael.meinel@dlr.de<br><br><em>Working as software developer at DLR I am involved in many different projects from different domains. I also give trainings in Software Engineering practices. Currently, I'm doing my master thesis in IT Security to extend my portfolio even further towards knowledge that is required by our customers.</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.409298, 52.523242]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Tobias Schlauch",
+            "popupContent": "<img src='../assets/img/map/TobiasSchlauch.jpg'>Tobias Schlauch, Deutsches Zentrum für Luft- und Raumfahrt (DLR), tobias.schlauch@dlr.de"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.564162, 52.313804]
         }
     }
 ];
