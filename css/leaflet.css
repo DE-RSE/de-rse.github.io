@@ -552,6 +552,12 @@
 	border: 1px solid #666;
 	}
 
+.survey-icon {
+    background: #fff;
+    border: 1px solid #666;
+    padding:2px;
+}
+
 
 /* Tooltip */
 /* Base styles for the element that has a tooltip */

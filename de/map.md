@@ -29,6 +29,9 @@ function onEachFeature(feature, layer) {
     }
 }
 
+function myPointToLayer(geoJsonPoint, latlng) {
+             return L.marker(latlng, {icon: L.divIcon({className: 'survey-icon',iconSize: new L.Point(20, 20),html:geoJsonPoint.properties.value})}); 
+}
 
 var map = L.map('map').setView([51.000,10.316], 7);
 
@@ -39,14 +42,26 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 {% include mapdata.js %}
 
 var featureGroup = L.markerClusterGroup();
-featureGroup.addLayer(
-	L.geoJSON(rseFeatures, {
-                      	onEachFeature: onEachFeature
-                      }
-	  )
-  );
-
+var rseLayer = 	L.geoJSON(rseFeatures, {
+                                     	onEachFeature: onEachFeature
+                                     }
+               	  );
+ 
+featureGroup.addLayer(rseLayer);
 map.addLayer(featureGroup);
+
+//var surveyGroup = L.markerClusterGroup();
+//var surveyLayer = 	L.geoJSON(surveyFeatures, {onEachFeature: onEachFeature,pointToLayer:myPointToLayer});
+//surveyGroup.addLayer(surveyLayer);
+//map.addLayer(surveyGroup);
+
+//var myIcon = L.divIcon({className: 'my-div-icon',html:'blah'});
+// you can set .my-div-icon styles in CSS
+//L.marker([50.505, 10.316], {icon: myIcon}).addTo(map);
+
+
+//var overlayMaps = {  "RSEs":featureGroup,  "survey 2017":surveyGroup};
+//L.control.layers(null, overlayMaps).addTo(map);
 </script>
 
 <br/>
