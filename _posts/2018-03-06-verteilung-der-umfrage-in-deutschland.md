@@ -9,6 +9,11 @@ Die Auswertung der [Umfrage](http://www.de-rse.org/blog/2017/10/19/umfrage-forsc
 
 Hinweis: Die Koordinaten der Institute stammt aus [Wikidata](https://www.wikidata.org/). Da dort nicht immer Koordinaten hinterlegt sind oder meine Abfrage die Institution nicht erfasst haben mag, sind hier nur 269 von 325 Beteiligungen zu sehen.
 
+Nachtrag: Statisches Bild für Betrachter ohne Javascript hinzugefügt.
+
+<noscript>
+<img src="/assets/img/blog/2018/deRSE_survey_geom_distr.jpg" alt="geographische Verteilung der Umfragebeteiligungen">
+</noscript>
 <div id="map" style="height:1100px;"></div>
 
 <script type="text/javascript" src="{{ "/js/leaflet.js" | prepend: site.baseurl }}"></script>
