@@ -250,5 +250,16 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [10.564162, 52.313804]
         }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "name": "Jan G. Wieners",
+            "popupContent": '<img src="../assets/img/map/janwieners.jpg" alt="Jan G. Wieners">' +
+            '<a href="http://www.jan-wieners.de">Jan G. Wieners</a><br>' +
+            '<a href="http://dh.uni-koeln.de/">Institut für Digital Humanities, Universität zu Köln</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [6.9582814, 50.9412784]
+        }
     }
 ];
