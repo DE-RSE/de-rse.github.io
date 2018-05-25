@@ -13,7 +13,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Heidi Seibold",
-            "popupContent": "<img src='../assets/img/map/HeidiSeibold.jpg'>Heidi Seibold, IBE, @HeidiBaya, hseibold@ibe.med.uni-muenchen.dee<br><br><em>Statistician working with R a lot. Into open source software and open science. Working on statistical methods for personalised treatment effect estimation.</em>"
+            "popupContent": "<img src='../assets/img/map/HeidiSeibold.jpg'>Heidi Seibold, IBE, LMU Munich, @HeidiBaya, hseibold@ibe.med.uni-muenchen.dee<br><br><em>Statistician working with R a lot. Into open source software and open science. Working on statistical methods for personalised treatment effect estimation.</em>"
         },
         "geometry": {
             "type": "Point",
