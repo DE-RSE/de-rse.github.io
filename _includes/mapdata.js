@@ -12,6 +12,17 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "Heidi Seibold",
+            "popupContent": "<img src='../assets/img/map/HeidiSeibold.jpg'>Heidi Seibold, IBE, LMU Munich, @HeidiBaya, hseibold@ibe.med.uni-muenchen.dee<br><br><em>Statistician working with R a lot. Into open source software and open science. Working on statistical methods for personalised treatment effect estimation.</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.469497, 48.111598]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "Stephan Janosch",
             "popupContent": "<img src='../assets/img/map/StephanJanoschAvatar100.png'>Stephan Janosch, MPI-CBG, janosch@mpi-cbg.de<br><br><em>RSE since RSE16. Doing RSE work since 2009.</em>"
         },
