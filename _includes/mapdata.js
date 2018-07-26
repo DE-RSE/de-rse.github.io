@@ -78,17 +78,6 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
-            "name": "Carsten Thiel",
-            "popupContent": "<img src='../assets/img/map/CarstenThiel.png'><a href='https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/carsten-thiel/'>Carsten Thiel</a>, Niedersächsische Staats- und Universitätsbibliothek Göttingen<br><br><em>DARIAH-DE, Technischer Koordinator</em>"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [9.932485520839691, 51.53390996663796]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "name": "Bernadette Fritzsch",
             "popupContent": "<img src='../assets/img/map/BFritzsch.png'>Bernadette Fritzsch, Alfred-Wegener-Institut, Helmholtzzentrum für Polar- und Meeresforschung"
         },
