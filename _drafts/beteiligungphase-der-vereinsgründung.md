@@ -9,7 +9,7 @@ Letztes Jahr veröffentlichten wir einen Blogpost mit dem Titel ["Fahrplan"](htt
 
 > * Satzung, unterschrieben von min. 7 Mitgliedern
  
- Um mit der Vereinsgründung weiter zu kommen, haben wir in der ersten Jahreshälfte eine Satzung und Geschäftsordnung geschrieben. Während der Zusammenarbeit hatten wir auch einen Zeitplan im Hinterkopf:
+Um mit der Vereinsgründung weiter zu kommen, haben wir in der ersten Jahreshälfte eine Satzung und Geschäftsordnung geschrieben. Während der Zusammenarbeit hatten wir auch einen Zeitplan im Hinterkopf:
 
 * **Ende Juni 2018**: Fertigstellung Satzung
 * **Ende Juli / Anfang August**
@@ -29,11 +29,13 @@ Letztes Jahr veröffentlichten wir einen Blogpost mit dem Titel ["Fahrplan"](htt
 * **ab Anfang Januar 2019** Tagesordnung f. erste Mitgliederversammlung erstellen
 * **Frühjahr 2019**: erste Mitgliederversammlung während der Konferenz
 
-Der Juni ist nun schon Geschichte und wir wollen der Gemeinschaft die Möglichkeit geben, den erreichten Stand zu sichten und zu kommentieren.
+Der Juni ist schon Geschichte und wir wollen nun der Gemeinschaft die Möglichkeit geben, den erreichten Stand zu sichten und zu kommentieren.
   
 ### Rückmeldung aus der Gemeinschaft zu Satzung und Geschäftsordnung
 
-In Anlehnung an diverse Vereine mit ähnlichem Aufbau/Aufgaben sind wir mittels Telearbeit zu einem [Dokument](https://docs.google.com/document/d/1A32LP0aHfphKsPVy25xwP__I7uKXRjNhdigJRg7FA7A/edit?usp=sharing) gelangt, welches Satzung und Geschäftsordnung enthält. Es wurde versucht eine Satzung zu finden, die es uns erlaubt, unsere Ziele abstrakt zu beschreiben, aber auch gleichzeitig konkret genug ist, um als gemeinnütziger Verein anerkannt zu werden. Eine Satzung ist ein relativ statisches Dokument, welches nach Änderungen erneut eingereicht werden muss. Daher sind konkrete Sachverhalte (z.B. Mitgliedbeträge) in die Geschäftsordnung ausgelagert, welche mittels Mitgliederversammlungen an neue Gegebenheiten angepasst werden kann.
+In Anlehnung an diverse Vereine mit ähnlichem Aufbau/Aufgaben sind wir mittels Telearbeit zu einem [Dokument](https://docs.google.com/document/d/1A32LP0aHfphKsPVy25xwP__I7uKXRjNhdigJRg7FA7A/edit?usp=sharing) gelangt, welches Satzung und Geschäftsordnung enthält. 
+
+Es wurde versucht eine Satzung zu finden, die es uns erlaubt, unsere Ziele abstrakt zu beschreiben, aber auch gleichzeitig konkret genug ist, um als gemeinnütziger Verein anerkannt zu werden. Eine Satzung ist ein relativ statisches Dokument, welches nach Änderungen erneut eingereicht werden muss. Daher sind konkrete Sachverhalte (z.B. Mitgliedsbeträge) in die Geschäftsordnung ausgelagert, welche mittels Mitgliederversammlungen an neue Gegebenheiten angepasst werden kann.
    
 Und da so ein Verein von seinen (potentiellen) Mitgliedern getragen wird, wollen wir schon in der Gründungsphase transparent agieren und Beiträge zum Dokument ermöglichen. Daher könnt Ihr entweder direkt im [Google-Doc](https://docs.google.com/document/d/1A32LP0aHfphKsPVy25xwP__I7uKXRjNhdigJRg7FA7A/edit?usp=sharing) oder auf der [Mailingliste](http://www.de-rse.org/de/join.html) kommentieren.  
   
@@ -42,7 +44,7 @@ Eure,
  Stephan Druskat<br />
  Bernadette Fritzsch<br />
  Stephan Janosch<br />
- Martin Hammitzsch 
+ Martin Hammitzsch<br />fehl 
  Frank Löffler<br />
  Daniel Nüst<br />
  Alexander Struck<br />
