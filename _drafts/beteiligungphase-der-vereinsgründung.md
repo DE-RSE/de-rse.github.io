@@ -19,8 +19,16 @@ Letztes Jahr veröffentlichten wir einen Blogpost mit dem Titel ["Fahrplan"](htt
   * Ort und Zeit für Gründungsversammlung festlegen​​​​​​​
 * Vorbereitung der Gründungsversammlung
   *  Wahl des Vorstands/Tagesordnung
-* **Anfang Oktober 2018**: Gründungsversammlung - persöhnlich, vor Ort 
- 
+* **Anfang Oktober 2018**: Gründungsversammlung
+  * min. 7 Personen
+  * persöhnlich, vor Ort
+* **Mitte Oktober 2018**: Notartermin mit BGB-Vorstand (bzw. den Vertretern mit Vollmacht, 1. und 2. Vorsitzender sind in jedem Fall dabei)
+  * Eintrag ins Vereinsregister (durch Notar)
+  * Vereinskonto eröffnen (nach Eintrag ins Vereinsregister)
+* **ab Anfang Januar 2019** Tagesordnung f. erste Mitgliederversammlung erstellen
+* **Frühjahr 2019**: erste Mitgliederversammlung während der Konferenz
+  
+  
  
  Stephan Druskat<br />
  Bernadette Fritzsch<br />
