@@ -27,7 +27,14 @@ Letztes Jahr veröffentlichten wir einen Blogpost mit dem Titel ["Fahrplan"](htt
   * Vereinskonto eröffnen (nach Eintrag ins Vereinsregister)
 * **ab Anfang Januar 2019** Tagesordnung f. erste Mitgliederversammlung erstellen
 * **Frühjahr 2019**: erste Mitgliederversammlung während der Konferenz
+
+Der Juni ist nun schon Geschichte und wir wollen der Gemeinschaft die Möglichkeit geben, den erreichten Stand zu sichten und zu kommentieren.
   
+### Rückmeldung aus der Gemeinschaft zu Satzung und Geschäftsordnung
+
+In Anlehnung an diverse Vereine mit ähnlichem Aufbau/Aufgaben sind wir mittels Telearbeit zu einem [Dokument](https://docs.google.com/document/d/1A32LP0aHfphKsPVy25xwP__I7uKXRjNhdigJRg7FA7A/edit?usp=sharing) gelangt, welches Satzung und Geschäftsordnung enthält. Es wurde versucht eine Satzung zu finden, die es uns erlaubt, unsere Ziele abstrakt zu beschreiben, aber auch gleichzeitig konkret genug ist, um als gemeinnütziger Verein anerkannt zu werden.
+   
+Und da so ein Verein von seinen (potentiellen) Mitgliedern getragen wird, wollen wir schon in der Gründungsphase transparent agieren und Beiträge zum Dokument ermöglichen. Daher könnt Ihr entweder direkt im [Google-Doc](https://docs.google.com/document/d/1A32LP0aHfphKsPVy25xwP__I7uKXRjNhdigJRg7FA7A/edit?usp=sharing) oder auf der [Mailingliste](http://www.de-rse.org/de/join.html) kommentieren.  
   
  
  Stephan Druskat<br />
