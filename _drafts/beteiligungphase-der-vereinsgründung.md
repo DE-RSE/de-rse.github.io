@@ -1,9 +1,11 @@
 ---
 title: "Beteiligungphase der Vereinsgründung"
 layout: post
-author:
+author: Stephan Janosch
 menulang: de
 ---
+
+**Volle Fahrt Richtung Verein!** 
 
 Letztes Jahr veröffentlichten wir einen Blogpost mit dem Titel ["Fahrplan"](http://www.de-rse.org/blog/2017/04/28/fahrplan.html) mit einer Liste die folgenden Punkt enthielt:
 
@@ -29,7 +31,7 @@ Um mit der Vereinsgründung weiter zu kommen, haben wir in der ersten Jahreshäl
 * **ab Anfang Januar 2019** Tagesordnung f. erste Mitgliederversammlung erstellen
 * **Frühjahr 2019**: erste Mitgliederversammlung während der Konferenz
 
-Der Juni ist schon Geschichte und wir wollen nun der Gemeinschaft die Möglichkeit geben, den erreichten Stand zu sichten und zu kommentieren.
+Der Juni ist schon Geschichte und wir wollen Euch nun die Möglichkeit geben, den erreichten Stand zu sichten und zu kommentieren.
   
 ### Rückmeldung aus der Gemeinschaft zu Satzung und Geschäftsordnung
 
@@ -38,13 +40,17 @@ In Anlehnung an diverse Vereine mit ähnlichem Aufbau/Aufgaben sind wir mittels 
 Es wurde versucht eine Satzung zu finden, die es uns erlaubt, unsere Ziele abstrakt zu beschreiben, aber auch gleichzeitig konkret genug ist, um als gemeinnütziger Verein anerkannt zu werden. Eine Satzung ist ein relativ statisches Dokument, welches nach Änderungen erneut eingereicht werden muss. Daher sind konkrete Sachverhalte (z.B. Mitgliedsbeträge) in die Geschäftsordnung ausgelagert, welche mittels Mitgliederversammlungen an neue Gegebenheiten angepasst werden kann.
    
 Und da so ein Verein von seinen (potentiellen) Mitgliedern getragen wird, wollen wir schon in der Gründungsphase transparent agieren und Beiträge zum Dokument ermöglichen. Daher könnt Ihr entweder direkt im [Google-Doc](https://docs.google.com/document/d/1A32LP0aHfphKsPVy25xwP__I7uKXRjNhdigJRg7FA7A/edit?usp=sharing) oder auf der [Mailingliste](http://www.de-rse.org/de/join.html) kommentieren.  
+
+### Gründungsversammlung
+  
+Um einen Verein gründen zu können, sind mindesten 7 Gründungsmitglieder notwendig. Diese treffen sich auf der Gründungsversammlung und beschließen die Satzung, Ordnungen (z.B. Geschäftsordnung) und wählen den Vorstand. Höchstwahrscheinlich wird die Versammlung in Berlin im September/Oktober 2018 stattfinden. Falls Ihr als Gründungsmitglied mit auftreten möchtet, dann sied Ihr herzlich dazu eingeladen. Termin und Ort werden sobald wie möglich veröffentlicht. Interessierte sollten sich in unserem Slack-Channel [&quot;Verein&quot;](https://de-rse.slack.com/messages/C56RS1JJ2) einfinden, um auf dem Laufenden zu bleiben.    
   
 Eure, 
  
  Stephan Druskat<br />
  Bernadette Fritzsch<br />
  Stephan Janosch<br />
- Martin Hammitzsch<br />fehl 
+ Martin Hammitzsch<br />	 
  Frank Löffler<br />
  Daniel Nüst<br />
  Alexander Struck<br />
