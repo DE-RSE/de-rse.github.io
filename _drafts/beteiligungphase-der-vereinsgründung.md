@@ -37,7 +37,7 @@ Der Juni ist schon Geschichte und wir wollen Euch nun die Möglichkeit geben, de
 
 In Anlehnung an diverse Vereine mit ähnlichem Aufbau/Aufgaben sind wir mittels Telearbeit zu einem [Dokument](https://docs.google.com/document/d/1A32LP0aHfphKsPVy25xwP__I7uKXRjNhdigJRg7FA7A/edit?usp=sharing) gelangt, welches Satzung und Geschäftsordnung enthält. 
 
-![de_rse_satzung]({{ "/assets/img/blog/2018/de_rse_satzung.png" | prepend: site.baseurl }}){: width="800px"}
+![de_rse_satzung]({{ "/assets/img/blog/2018/de_rse_satzung.png" | prepend: site.baseurl }})
 
 Es wurde versucht eine Satzung zu finden, die es uns erlaubt, unsere Ziele abstrakt zu beschreiben, aber auch gleichzeitig konkret genug ist, um als gemeinnütziger Verein anerkannt zu werden. Eine Satzung ist ein relativ statisches Dokument, welches nach Änderungen erneut eingereicht werden muss. Daher sind konkrete Sachverhalte (z.B. Mitgliedsbeträge) in die Geschäftsordnung ausgelagert, welche mittels Mitgliederversammlungen an neue Gegebenheiten angepasst werden kann.
    

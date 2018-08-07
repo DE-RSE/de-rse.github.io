@@ -67,3 +67,7 @@ html, body {
 .leaflet-popup-content {
     height: 12em;
 }
+
+blockquote {
+    font-size: 100%;
+}
