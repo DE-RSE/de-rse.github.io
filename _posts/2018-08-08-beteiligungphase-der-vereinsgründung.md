@@ -23,7 +23,7 @@ Um mit der Vereinsgründung weiter zu kommen, haben wir in der ersten Jahreshäl
   *  Wahl des Vorstands/Tagesordnung
 * **Anfang Oktober 2018**: Gründungsversammlung
   * min. 7 Personen
-  * persöhnlich, vor Ort
+  * persönlich, vor Ort
 * **Mitte Oktober 2018**: Notartermin mit BGB-Vorstand 
   * bzw. den Vertretern mit Vollmacht, 1. und 2. Vorsitzender sind in jedem Fall dabei
   * Eintrag ins Vereinsregister (durch Notar)
@@ -45,7 +45,7 @@ Und da so ein Verein von seinen (potentiellen) Mitgliedern getragen wird, wollen
 
 ### Gründungsmitglied werden
   
-Um einen Verein gründen zu können, sind mindesten 7 Gründungsmitglieder notwendig. Diese treffen sich auf der Gründungsversammlung und beschließen die Satzung, Ordnungen (z.B. Geschäftsordnung) und wählen den Vorstand. Höchstwahrscheinlich wird die Versammlung in Berlin im September/Oktober 2018 stattfinden. Falls Ihr als Gründungsmitglied mit auftreten möchtet, dann sied Ihr herzlich dazu eingeladen. Termin und Ort werden sobald wie möglich veröffentlicht. Interessierte sollten sich in unserem Slack-Channel [&quot;Verein&quot;](https://de-rse.slack.com/messages/C56RS1JJ2) einfinden, um auf dem Laufenden zu bleiben.    
+Um einen Verein gründen zu können, sind mindesten 7 Gründungsmitglieder notwendig. Diese treffen sich auf der Gründungsversammlung und beschließen die Satzung, Ordnungen (z.B. Geschäftsordnung) und wählen den Vorstand. Höchstwahrscheinlich wird die Versammlung in Berlin im September/Oktober 2018 stattfinden. Falls Ihr als Gründungsmitglied mit auftreten möchtet, dann seid Ihr herzlich dazu eingeladen. Termin und Ort werden sobald wie möglich veröffentlicht. Interessierte sollten sich in unserem Slack-Channel [&quot;Verein&quot;](https://de-rse.slack.com/messages/C56RS1JJ2) einfinden, um auf dem Laufenden zu bleiben.    
   
 Eure, 
  
