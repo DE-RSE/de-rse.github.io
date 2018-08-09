@@ -12,7 +12,7 @@ de-RSE addresses both, software-developing researchers, PhD students and postdoc
 
 Is this you? Then add yourself and show who we are: <https://github.com/DE-RSE/www/blob/gh-pages/_includes/mapdata.js>
 
-What others say what an RSE is: <http://www.de-rse.org/en/map.html#what-others-say-what-an-rse-is>
+What others say what an RSE is: <https://www.de-rse.org/en/map.html#what-others-say-what-an-rse-is>
 
 ## Map
 

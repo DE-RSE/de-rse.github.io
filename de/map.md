@@ -12,7 +12,7 @@ de-RSE adressiert gleichermaßen Software entwickelnde Wissenschaftlerinnen und 
 
 Zeig, dass Du dazu gehörst: <https://github.com/DE-RSE/www/blob/gh-pages/_includes/mapdata.js>
 
-Wie-andere-RSE-definieren: <http://www.de-rse.org/de/map.html#wie-andere-rse-definieren>
+Wie-andere-RSE-definieren: <https://www.de-rse.org/de/map.html#wie-andere-rse-definieren>
 
 ## Karte
 

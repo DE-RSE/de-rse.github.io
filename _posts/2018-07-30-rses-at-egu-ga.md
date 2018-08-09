@@ -8,7 +8,7 @@ menulang: en
 On April 12th 2018, the first Research Software Engineers (RSEs) for geosciences meeting was held at the European Geophysical Union (EGU) General Assembly (GA) in Vienna, Austria.
 The EGU GA is a huge event with over 15.000 people from more than 100 countries.
 It has a diverse programme with thousands of posters and hundreds of sessions, but what it lacked was an event to bring together scientists who contribute to research software.
-[Daniel Nüst](https://w3id.org/people/nuest) from the Institute for Geoinformatics, Germany, proposed the idea of such an event to a group of regular EGU GA attendees from the [German RSE chapter](http://de-rse.org/).
+[Daniel Nüst](https://w3id.org/people/nuest) from the Institute for Geoinformatics, Germany, proposed the idea of such an event to a group of regular EGU GA attendees from the [German RSE chapter](https://www.de-rse.org/).
 He was joined by [Martin Hammitzsch](https://www.gfz-potsdam.de/staff/martin-hammitzsch/) (GFZ eScience Centre, Germany), [Bernadette Fritzsch](https://www.awi.de/ueber-uns/organisation/mitarbeiter/bernadette-fritzsch.html) (AWI, Computing and Data Centre), and [David Topping](https://davidtoppingsci.com/) (University of Manchester) as co-conveners for a [Townhall Meeting "Research Software Engineers in the Geosciences"](http://meetingorganizer.copernicus.org/EGU2018/session/29539). 
 Townhall Meetings, or "townhalls", are union-wide events.
 They allow participants to take part in open discussions covering a variety of topics.
@@ -29,7 +29,7 @@ Both pointed out the relevance of contributions to science made by software and 
 The motivations for national and international RSE activities were further detailed by three representatives from national chapters. 
 David Topping from [UK RSE](http://rse.ac.uk/), the oldest and largest RSE organisation, took a look at the definition of an RSE, at the community history, and its current state in the UK and beyond.
 Over 15 local groups already exist and more are forming at a high rate, sometimes even competing over members.
-Martin Hammitzsch presented the German chapter, [de-RSE](http://de-rse.org/).
+Martin Hammitzsch presented the German chapter, [de-RSE](https://www.de-rse.org/).
 Initiated only 1.5 years ago, he shared the group's objectives, how they work to build a community, challenges they face and some lessons learned: a great resource for the attendees from countries without any organisational structure yet.
 Third up was [Niels Drost](https://www.esciencecenter.nl/profile/dr.-niels-drost) (Netherlands eScience Center), who introduced the youngest European chapter [NL-RSE](http://nl-rse.org/) and its core team, which already generated a considerable reach across the Netherlands.
 

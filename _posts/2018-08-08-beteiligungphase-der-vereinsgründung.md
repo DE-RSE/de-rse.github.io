@@ -7,7 +7,7 @@ menulang: de
 
 **Volle Fahrt Richtung Verein!** 
 
-Letztes Jahr veröffentlichten wir einen Blogpost mit dem Titel ["Fahrplan"](http://www.de-rse.org/blog/2017/04/28/fahrplan.html) mit einer Liste die folgenden Punkt enthielt:
+Letztes Jahr veröffentlichten wir einen Blogpost mit dem Titel ["Fahrplan"](https://www.de-rse.org/blog/2017/04/28/fahrplan.html) mit einer Liste die folgenden Punkt enthielt:
 
 > * Satzung, unterschrieben von min. 7 Mitgliedern
  
