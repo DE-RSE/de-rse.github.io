@@ -27,7 +27,7 @@ The meeting kicked of with a short welcome by the initiator, Daniel, followed by
 Both pointed out the relevance of contributions to science made by software and thereby the people contributing to that software in any way.
 
 The motivations for national and international RSE activities were further detailed by three representatives from national chapters. 
-David Topping from [UK RSE](http://rse.ac.uk/), the oldest and largest RSE organisation, took a look at the definition of an RSE, at the community history, and its current state in the UK and beyond.
+David Topping from [UK RSE](https://rse.ac.uk/), the oldest and largest RSE organisation, took a look at the definition of an RSE, at the community history, and its current state in the UK and beyond.
 Over 15 local groups already exist and more are forming at a high rate, sometimes even competing over members.
 Martin Hammitzsch presented the German chapter, [de-RSE](https://www.de-rse.org/).
 Initiated only 1.5 years ago, he shared the group's objectives, how they work to build a community, challenges they face and some lessons learned: a great resource for the attendees from countries without any organisational structure yet.
