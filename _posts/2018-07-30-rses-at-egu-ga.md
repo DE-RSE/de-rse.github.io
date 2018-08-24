@@ -53,7 +53,7 @@ If you think about convening a session on scientific software yourself at an EGU
 An important aspect of structured RSE activities are surveys, because the people self-identifying as RSE are diverse and wide-spread and the roles that RSEs play in scientific research are manifold.
 We want to contribute to the process of understanding the needs and diversity of people involved in RSEng with the following survey on EGU attendees:
 
-**[http://nuest.staff.ifgi.de/survey/index.php/598158?lang=en](http://nuest.staff.ifgi.de/survey/index.php/598158?lang=en)**
+**[https://nuest.staff.ifgi.de/survey/index.php/598158?lang=en](https://nuest.staff.ifgi.de/survey/index.php/598158?lang=en)**
 
 The townhall meeting was a good start to spreading the word about the goals of RSE organisations and the activities to put Research Software Engineering on the map of all stakeholders in science, such as researchers, publishers, funding agencies, and scientific unions.
 What can we do better next year?
