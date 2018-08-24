@@ -5,7 +5,7 @@ author: Stephan Janosch
 menulang: de
 ---
 
-Die Auswertung der [Umfrage](http://www.de-rse.org/blog/2017/10/19/umfrage-forschungssoftware-beteiligten-personen-deutschland-2017.html) geht langsam voran, hier schon einmal die geographische Verteilung der Antworten. Das Clustering summiert die Beteiligungen der einzelnen Institutionen. Die Zahl gibt an, wieviel Antworten von wo zur Studie beigetragen haben.   
+Die Auswertung der [Umfrage](https://www.de-rse.org/blog/2017/10/19/umfrage-forschungssoftware-beteiligten-personen-deutschland-2017.html) geht langsam voran, hier schon einmal die geographische Verteilung der Antworten. Das Clustering summiert die Beteiligungen der einzelnen Institutionen. Die Zahl gibt an, wieviel Antworten von wo zur Studie beigetragen haben.   
 
 Hinweis: Die Koordinaten der Institute stammt aus [Wikidata](https://www.wikidata.org/). Da dort nicht immer Koordinaten hinterlegt sind oder meine Abfrage die Institution nicht erfasst haben mag, sind hier nur 269 von 325 Beteiligungen zu sehen.
 
@@ -33,7 +33,7 @@ function myPointToLayer(geoJsonPoint, latlng) {
 
 var map = L.map('map').setView([51.000,10.316], 7);
 
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 

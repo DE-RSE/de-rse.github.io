@@ -12,7 +12,7 @@ de-RSE addresses both, software-developing researchers, PhD students and postdoc
 
 Is this you? Then add yourself and show who we are: <https://github.com/DE-RSE/www/blob/gh-pages/_includes/mapdata.js>
 
-What others say what an RSE is: <http://www.de-rse.org/en/map.html#what-others-say-what-an-rse-is>
+What others say what an RSE is: <https://www.de-rse.org/en/map.html#what-others-say-what-an-rse-is>
 
 ## Map
 
@@ -32,8 +32,8 @@ function onEachFeature(feature, layer) {
 
 var map = L.map('map-container').setView([51.000,10.316], 7);
 
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
 {% include mapdata.js %}
@@ -59,7 +59,7 @@ Map made with [http://leafletjs.com](http://leafletjs.com), Clustering via [Leaf
 
 A growing number of people in academia combine expertise in programming with an intricate understanding of research. Although this combination of skills is extremely valuable, these people lack a formal place in the academic system. This means there is no easy way to recognise their contribution, to reward them, or to represent their views.Without a name, it is difficult for people to rally around a cause, so we created the term Research Software Engineer.
 
-Read more: <http://rse.ac.uk/>
+Read more: <https://rse.ac.uk/>
 
 ### NL-RSE
 

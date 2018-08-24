@@ -37,5 +37,5 @@ the collective spokesperson for RSEs within the German scientific landscape.
 <br/>
 
 Wanna dive into the world of RSE? Find excellent reading materials at the UK RSE website 
-<http://www.rse.ac.uk/> and the UK SSI website 
+<https://rse.ac.uk/> and the UK SSI website 
 <https://www.software.ac.uk/blog>!
