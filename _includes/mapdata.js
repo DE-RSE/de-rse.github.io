@@ -2,6 +2,27 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "Florian Goth",
+            "popupContent": "<img src='../assets/img/map/fgoth.png'><a href='https://florian-goth.de'>Florian Goth</a>, Universität Würzburg, SFB 1170, fgoth@physik.uni-wuerzburg.de<br><br><em>Specializing into harnessing the power of modern massively parallel computer systems, I support users at all levels of program development: Algorithmic development coupled with low-level hardware optimization, writing and maintaining the actual code, as well as striving to implement sustainable software development models in science. I am an RSE.</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [9.97271865606308, 49.781826929642016]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Heidi Seibold",
+            "popupContent": "<img src='../assets/img/map/HeidiSeibold.jpg'>Heidi Seibold, IBE, LMU Munich, @HeidiBaya, hseibold@ibe.med.uni-muenchen.dee<br><br><em>Statistician working with R a lot. Into open source software and open science. Working on statistical methods for personalised treatment effect estimation.</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.469497, 48.111598]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "Stephan Janosch",
             "popupContent": "<img src='../assets/img/map/StephanJanoschAvatar100.png'>Stephan Janosch, MPI-CBG, janosch@mpi-cbg.de<br><br><em>RSE since RSE16. Doing RSE work since 2009.</em>"
         },
@@ -52,17 +73,6 @@ var rseFeatures = [
         "geometry": {
             "type": "Point",
             "coordinates": [9.9722003, 49.7849283]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "name": "Carsten Thiel",
-            "popupContent": "<img src='../assets/img/map/CarstenThiel.png'><a href='https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/carsten-thiel/'>Carsten Thiel</a>, Niedersächsische Staats- und Universitätsbibliothek Göttingen<br><br><em>DARIAH-DE, Technischer Koordinator</em>"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [9.932485520839691, 51.53390996663796]
         }
     },
     {
@@ -168,7 +178,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Konrad Förstner",
-            "popupContent": "<img src='../assets/img/map/KonradFoerstner.png'><a href='https://konrad.foerstner.org/'>Konrad F&ouml;rstner</a>, Universtität W&uuml;rzburg<br><br><em>Open *</em>"
+            "popupContent": "<img src='../assets/img/map/KonradFoerstner.png'><a href='https://konrad.foerstner.org/'>Konrad F&ouml;rstner</a>, Universität W&uuml;rzburg<br><br><em>Open *</em>"
         },
         "geometry": {
             "type": "Point",
@@ -239,6 +249,17 @@ var rseFeatures = [
         "geometry": {
             "type": "Point",
             "coordinates": [10.564162, 52.313804]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "name": "Jan G. Wieners",
+            "popupContent": '<img src="../assets/img/map/janwieners.jpg" alt="Jan G. Wieners">' +
+            '<a href="http://www.jan-wieners.de">Jan G. Wieners</a><br>' +
+            '<a href="http://dh.uni-koeln.de/">Institut für Digital Humanities, Universität zu Köln</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [6.9582814, 50.9412784]
         }
     }
 ];

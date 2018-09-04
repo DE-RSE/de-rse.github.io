@@ -6,7 +6,7 @@ menulang: en
 ---
 
 Ever since we have come together as a community to create de-RSE for the everyday support of our work, one question has always been on the table:
-What organisational and legal form is suitable for the realization of our [goals](http://www.de-rse.org/en/aims.html)?
+What organisational and legal form is suitable for the realization of our [goals](https://www.de-rse.org/en/aims.html)?
 
 It seems clear that a loosely coupled group of willing people will not be able to build supportive structures for the long term, for example:
 
@@ -51,7 +51,7 @@ The name is going to be widely used in a number of noteworthy contexts:
 * collaboration on an international level
 * contact with research funders
 
-We look forward to your feedback on the [mailing list and in the chat](http://www.de-rse.org/en/join.html) (ideally till Feb. 5th).
+We look forward to your feedback on the [mailing list and in the chat](https://www.de-rse.org/en/join.html) (ideally till Feb. 5th).
 
 And since we're already here, let's address another important topic.
 

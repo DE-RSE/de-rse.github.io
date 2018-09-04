@@ -35,7 +35,7 @@ nehmt uns, Stephan (janosch@mpi-cbg.de) und Martin
 Auswertung der Umfrage berücksichtigen können.
 
 Die Ergebnisse werden unter einer CC-BY-NC Lizenz veröffentlicht und
-zusätzlich auf der [de-RSE Mailingliste](http://www.de-rse.org/de/join.html) und dem [de-RSE Blog](http://www.de-rse.org/de/blog.html)
+zusätzlich auf der [de-RSE Mailingliste](https://www.de-rse.org/de/join.html) und dem [de-RSE Blog](https://www.de-rse.org/de/blog.html)
 angekündigt und ausgewertet. Darüber hinaus werden ähnliche Umfragen in
 Großbritannien, Kanada, Australien, Norwegen, den USA, Südafrika und den
 Niederlanden durchgeführt. Um eine gute Vergleichbarkeit zu
