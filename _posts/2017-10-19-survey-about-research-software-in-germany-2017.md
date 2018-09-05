@@ -27,8 +27,8 @@ list, please be so kind and copy in Martin (janosch@mpi-cbg.de) and
 Stephan (martin.hammitzsch@gfz-potsdam.de).
 
 The survey results will be published under a CC BY-NC license, and will
-be announced and evaluated via the [de-RSE mailing list](http://www.de-rse.org/en/join.html) and the
-[de-RSE blog](http://www.de-rse.org/en/blog.html). Simultaneously, similar surveys are conducted in the
+be announced and evaluated via the [de-RSE mailing list](https://www.de-rse.org/en/join.html) and the
+[de-RSE blog](https://www.de-rse.org/en/blog.html). Simultaneously, similar surveys are conducted in the
 UK, Canada, Australia, Norway, the Netherlands, the USA and South
 Africa. For reasons of comparability, this survey was closely
 coordinated with the others.

@@ -5,7 +5,7 @@ author: Stephan Janosch
 menulang: de
 ---
 
-Seitdem wir uns als Gemeinschaft gefunden haben, um de-RSE zu einer echten Unterstützung unserer täglichen Arbeit zu machen, stand immer eine Frage im Raum: In welcher juristischen Form treten wir als Gemeinschaft auf, um unsere [Ziele](http://www.de-rse.org/de/aims.html) zu verwirklichen?
+Seitdem wir uns als Gemeinschaft gefunden haben, um de-RSE zu einer echten Unterstützung unserer täglichen Arbeit zu machen, stand immer eine Frage im Raum: In welcher juristischen Form treten wir als Gemeinschaft auf, um unsere [Ziele](https://www.de-rse.org/de/aims.html) zu verwirklichen?
 
 Klar erscheint, dass wir als lose Gemeinschaft von Willigen nur schwerlich langfristige Strukturen aufbauen können, um zum Beispiel:
 
@@ -39,7 +39,7 @@ Mir persönlich erscheint eine Mischung aus den dreien notwendig. Vielleicht in 
 * Zusammenarbeit auf internationaler Ebene
 * Kontakt mit Forschungsförderern
 
-Für eure Rückmeldungen lauschen wir auf der [Mailingliste sowie im Chat](http://www.de-rse.org/de/join.html) (idealerweise bis zum 5.2.). Und wenn wir schon am Kommunizieren sind, können wir uns auch noch einem anderen Thema widmen.
+Für eure Rückmeldungen lauschen wir auf der [Mailingliste sowie im Chat](https://www.de-rse.org/de/join.html) (idealerweise bis zum 5.2.). Und wenn wir schon am Kommunizieren sind, können wir uns auch noch einem anderen Thema widmen.
 
 ## Beiträge
 

@@ -1,6 +1,6 @@
 # www.de-rse.org hosting repository
 
-This repository contains the source files for the de-RSE website. Its official hosting URL is <http://www.de-rse.org>.
+This repository contains the source files for the de-RSE website. Its official hosting URL is <https://www.de-rse.org>.
 
 The site is made to be built with [Jekyll](https://jekyllrb.com/) >= 3.4.1.
 
