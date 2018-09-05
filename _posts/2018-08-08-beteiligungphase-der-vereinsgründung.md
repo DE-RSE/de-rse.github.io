@@ -2,7 +2,7 @@
 title: "Beteiligungphase der Vereinsgründung"
 layout: post
 author: Stephan Janosch
-menulang: de
+menulang: de, en
 ---
 
 **Volle Fahrt Richtung Verein!** 

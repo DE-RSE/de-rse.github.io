@@ -2,7 +2,7 @@
 title: "Digital Humanities im deutschsprachigen Raum gründen AG DH-RSE"
 layout: post
 author: Stephan Janosch
-menulang: de
+menulang: de, en
 ---
 
 Anfang diesen Jahres überraschte [Stephan Druskat](https://orcid.org/0000-0003-4925-7248) mich mit einer Einladung, die Keynote  für dem [RSE-Workshop](http://dhd2018.uni-koeln.de/programm-dienstag/#d_w11) auf der Jahrestagung der digitalen Geisteswissenschaften (Digital Humanities, DH) zu halten. Der Workshop sollte 30 Personen Platz bieten, doch die Sache entwickelte sich anders. 
