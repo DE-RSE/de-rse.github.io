@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "deRSE19"
-weight: 7
+weight: 1
 ---
 
-# Fakten
+# deRSE19 - Konferenz für ForschungssoftwareentwicklerInnen in Deutschland
+
+## Fakten
 
 **Was:** Erste Konferenz für ForschungssoftwareentwicklerInnen in Deutschland
 
@@ -12,11 +14,11 @@ weight: 7
 
 **Wo:** Albert Einstein Science Park in Potsdam
 
-# Updates
+## Updates
 
 Registrier dich auf [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) um die neusten Updates zu erhalten.
 
-# Ankündigung
+## Ankündigung
 
 Nach dem Erfolg der [ersten und zweiten internationalen Konferenz der Research Software Engineers in Großbritannien](https://rse.ac.uk/events/past-conferences/), findet vom 4. bis 6. Juni 2019 im Wissenschaftspark Albert Einstein in Potsdam eine nationale Konferenz zu Forschungssoftware und den beteiligten Personen in der deutschen Forschungslandschaft statt.
 

@@ -1,10 +1,13 @@
 ---
 layout: default
 title: "deRSE19"
-weight: 7
+weight: 1
 ---
 
-# Facts
+# deRSE19 - Conference for Research Software Engineers in Germany
+
+
+## Facts
 
 **What:** First Conference for Research Software Engineers in Germany
 
@@ -12,11 +15,11 @@ weight: 7
 
 **Where:** Albert Einstein Science Park in Potsdam
 
-# Updates
+## Updates
 
 Registering at [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) to get the latest updates.
 
-# Annoucement
+## Annoucement
 
 Following the success of the [First and Second international Conference of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), a national conference addressing research software and the people behind in the German research landscape will be held at the Albert Einstein Science Park in Potsdam on June 4-6 2019.
 
