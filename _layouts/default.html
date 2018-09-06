@@ -26,8 +26,10 @@
           {% endif %}
           <!-- Set variable "page_conf2019" to reflect if we are on a conference page -->
           {% assign page_conf2019 = false %}
+	  {% assign conf2019_link = "conf2019/index.html" %}
 	  {% if page.url contains "/conf2019/" %}
             {% assign page_conf2019 = true %}
+	    {% assign conf2019_link = "index.html" %}
           {% endif %}
 	  
 	  <!-- Get a list of pages sorted by the "weight" variable from the YAML header of each page file -->
@@ -47,7 +49,7 @@
               {% endif %}
             {% endunless %}
           {% endfor %}
-          <li><a href='{{ "conf2019" | prepend: site.baseurl }}'>deRSE19 Conference</a></li>
+          <li><a href='{{ conf2019_link | prepend: site.baseurl }}'>deRSE19 Conference</a></li>
 
 	  </ul>
           <ul class='nav navbar-nav pull-right'>
