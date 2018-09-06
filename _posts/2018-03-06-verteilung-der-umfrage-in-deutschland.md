@@ -2,7 +2,7 @@
 title: "Verteilung der Umfrage in Deutschland"
 layout: post
 author: Stephan Janosch
-menulang: de
+menulang: de, en
 ---
 
 Die Auswertung der [Umfrage](https://www.de-rse.org/blog/2017/10/19/umfrage-forschungssoftware-beteiligten-personen-deutschland-2017.html) geht langsam voran, hier schon einmal die geographische Verteilung der Antworten. Das Clustering summiert die Beteiligungen der einzelnen Institutionen. Die Zahl gibt an, wieviel Antworten von wo zur Studie beigetragen haben.   

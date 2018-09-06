@@ -3,7 +3,7 @@ title: "How to assign a DOI to software within MPG"
 layout: post
 author: Stephan Janosch
 categories: howto
-menulang: en
+menulang: en, de
 ---
 
 This post will explain how you can assign a [DOI](https://en.wikipedia.org/wiki/Digital_object_identifier) to a piece of software within the Max Planck Society (MPG). I need to restrict the scope to the MPG, because the access to the [DOI service of the Max Planck Digital Library](https://doi.mpdl.mpg.de) is restricted. If you plan to release on Github, then the guide '[Making Your Code Citable](https://guides.github.com/activities/citable-code/)' helps you along.
