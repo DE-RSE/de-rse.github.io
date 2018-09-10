@@ -12,7 +12,7 @@ weight: 1
 
 **Wann:** 4.-6. Juni 2019
 
-**Wo:** Albert Einstein Science Park in Potsdam
+**Wo:** Wissenschaftspark Albert Einstein in Potsdam
 
 ## Updates
 
