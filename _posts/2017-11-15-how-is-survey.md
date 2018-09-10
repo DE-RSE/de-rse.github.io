@@ -2,7 +2,7 @@
 title: "How is survey?"
 layout: post
 author: Stephan Janosch
-menulang: en
+menulang: en, de
 ---
 
 Did fill out the [survey](/blog/2017/10/19/survey-about-research-software-in-germany-2017.html)? Yes, great! 
