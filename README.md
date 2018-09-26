@@ -4,7 +4,9 @@ This repository contains the source files for the de-RSE website. Its official h
 
 The site is made to be built with [Jekyll](https://jekyllrb.com/) >= 3.4.1.
 
-To build, run `jekyll build`. To preview locally, run `jekyll serve` and browse to <http://localhost:4000>. To include drafts in the preview add the `--drafts` flag.
+To build, run `bundle install` once and then  `jekyll build`.
+To preview locally, run `jekyll serve` and browse to <http://localhost:4000>.
+To include drafts in the preview add the `--drafts` flag.
 
 ## Contributions
 
@@ -55,26 +57,27 @@ Blog posts will be displayed ordered by publication date on `blog.html`. They al
 
 `menulang` determines the language of the main menu as displayed on the post page (default: `en`). The language menu items ("Deutsch", "English") link back to the blog index page in the respective language.
 
-### kramdown
+## kramdown
 
 For help on syntax have a look at: 
 
 - [quick reference](https://kramdown.gettalong.org/quickref.html)
 - or [syntax](https://kramdown.gettalong.org/quickref.html) 
 
-### Map
+## Map
 
 The map is fed by [mapdata.js](https://github.com/DE-RSE/www/blob/gh-pages/_includes/mapdata.js). Adding someone to the map is as simple as adding a new section in this geoJSON file. Coordinates are available from [http://geojson.io/](http://geojson.io/) . Right now pictures should be 75px high. Inspiration for a nice testimonial can be found at Stephan Druskat's entry.
    
 The map appeared on Dec 6th 2017 on the website. It's based on [leaflet](http://leafletjs.com) v1.2 and [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
      
-### Events
+## Events
      
 Events are included per year from https://github.com/DE-RSE/www/tree/gh-pages/_includes/events. No language specific remarks in favor of maintainability.     
 
-### converting slack signup domain list
+## Converting slack signup domain list
 
-direct sign up domain list from https://de-rse.slack.com/admin/settings#signup_mode . Domains get added ad people request invites.  
+Direct sign up domain list from https://de-rse.slack.com/admin/settings#signup_mode .
+Domains get added as people request invites.  
 
 ```
 echo "mpi-cbg.de,mpg.de,tu-dresden.de,crt-dresden.de,hu-berlin.de,tib.eu,dlr.de,gfz-potsdam.de,fmp-berlin.de,rfii.de,uni-goettingen.de,gcdh.de,uni-bielefeld.de,uni-bonn.de,dfg.de,awi.de,geomar.de,uni-muenster.de,helmholtz-hzi.de,tu-berlin.de,pik-potsdam.de,leibniz-fli.de,uni-wuerzburg.de,helmholtz.de,uni-konstanz.de,ac.uk,tu-braunschweig.de,sub.uni-goettingen.de,gwdg.de,fu-berlin.de,hzdr.de" | tr "," "\n" | sort | awk '{print "<li>"$1"</li>" ;}'
