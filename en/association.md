@@ -11,6 +11,6 @@ weight: 6
 ## Founding of the de-RSE Association
 
 The time is now: the creation of the official de-RSE association is going to
-happen soon. We invite everyone interested to Berlin on November 26th to be part
+happen soon. We invite everyone interested to **Berlin on November 26th 2018** to be part
 of this important event, maybe even as founding member.
-Stay tuned for more information soon, on this page.
+Stay tuned for more information soon, on this page, or **[register tentatively now](http://nuest.staff.ifgi.de/survey/index.php/452847?lang=de-informal)**.
