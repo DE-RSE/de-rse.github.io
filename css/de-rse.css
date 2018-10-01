@@ -24,6 +24,13 @@
   z-index: 1031;
 }
 
+.navbar-default .navbar-nav .navbar-conflink {
+  background-color: #97316e;
+}
+
+.navbar-default .navbar-nav .navbar-conflink a {
+  color: #FFFFFF;
+}
 
 /* push footer down to window bottom on short pages */
 
