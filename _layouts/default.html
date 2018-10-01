@@ -21,8 +21,10 @@
           <!-- Set variable "lang" to reflect page language -->
           {% if page.url contains "/en/" %}
             {% assign lang = "/en/" %}
-          {% elsif page.url contains "/de/" %}
+	    {% assign conf2019_title = "deRSE19 Conference" %}
+	  {% elsif page.url contains "/de/" %}
             {% assign lang ="/de/" %}
+	    {% assign conf2019_title = "deRSE19 Konferenz" %}
           {% endif %}
           <!-- Set variable "page_conf2019" to reflect if we are on a conference page -->
           {% assign page_conf2019 = false %}
@@ -30,7 +32,7 @@
 	  {% if page.url contains "/conf2019/" %}
             {% assign page_conf2019 = true %}
 	    {% assign conf2019_link = "index.html" %}
-            <li><a href='{{ conf2019_link | prepend: site.baseurl }}'>deRSE19 Conference</a></li>
+	    <li><a href='{{ conf2019_link | prepend: site.baseurl }}'>{{ conf2019_title }}</a></li>
 	  {% endif %}
 	  
 	  <!-- Get a list of pages sorted by the "weight" variable from the YAML header of each page file -->
@@ -51,7 +53,7 @@
             {% endunless %}
           {% endfor %}
 	  {% unless page_conf2019 %}
-	    <li class='navbar-conflink'><a href='{{ conf2019_link | prepend: site.baseurl }}'>deRSE19 Conference</a></li>
+	  <li class='navbar-conflink'><a href='{{ conf2019_link | prepend: site.baseurl }}'>{{ conf2019_title }}</a></li>
           {% endunless %}
 	  </ul>
           <ul class='nav navbar-nav pull-right'>
