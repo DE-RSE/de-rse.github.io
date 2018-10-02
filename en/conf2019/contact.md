@@ -14,7 +14,7 @@ If you have a specific question, feel free to get in touch with the appropriate 
 
 **Conference Chairs**: [Carina Haupt](mailto:carina.haupt@dlr.de) (DLR), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
 
-## Organisatorical
+## Organisational
 
 * **Logistics Chairs**: [Jan Dietrich](mailto:dietrich@pik-potsdam.de) (PIK), [Martin Hammitzsch](mailto:martin.hammitzsch@gfz-potsdam.de) (GFZ), [Thomas Schneider von Deimling](mailto:thomas.schneider@awi.de) (AWI), [Frederieke Miesner](mailto:frederieke.miesner@awi.de) (AWI)
 * **Publicity and Website Chairs**: [Frank Loeffler](mailto:frank.loeffler@uni-jena.de) (Uni Jena), [Stephan Druskat](mailto:<stephan.druskat@hu-berlin.de) (HU Berlin), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
