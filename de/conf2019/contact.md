@@ -17,14 +17,14 @@ Bei speziellen Fragen kontaktiere die entsprechende Personen aus dem Kommittee.
 ## Organisatorisches
 
 * **Logistics Chairs**: [Jan Dietrich](mailto:dietrich@pik-potsdam.de) (PIK), [Martin Hammitzsch](mailto:martin.hammitzsch@gfz-potsdam.de) (GFZ), [Thomas Schneider von Deimling](mailto:thomas.schneider@awi.de) (AWI), [Frederieke Miesner](mailto:frederieke.miesner@awi.de) (AWI)
-* **Publicity und Website Chairs**: [Frank Loeffler](mailto:frank.loeffler@uni-jena.de) (Uni Jena), [Stephan Druskat](mailto:<stephan.druskat@hu-berlin.de) (HU Berlin), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
+* **Publicity und Website Chairs**: [Frank Löffler](mailto:frank.loeffler@uni-jena.de) (Uni Jena), [Stephan Druskat](mailto:<stephan.druskat@hu-berlin.de) (HU Berlin), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
 * **Sponsorship Chair**: [Stephan Druskat](mailto:<stephan.druskat@hu-berlin.de) (HU Berlin)
 * **Treasurer**: [Carina Haupt](mailto:carina.haupt@dlr.de) (DLR), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
 
 ## Programm
 
 * **Programm Chair**: [Stephan Druskat](mailto:<stephan.druskat@hu-berlin.de) (HU Berlin)
-* **Programm Komitee**: [Frank Loeffler](mailto:frank.loeffler@uni-jena.de) (Uni Jena),
+* **Programm Komitee**: [Frank Löffler](mailto:frank.loeffler@uni-jena.de) (Uni Jena),
  [Konrad Förstner](mailto:konrad@foerstner.org) (Uni Würzburg),
  [Kaja Scheliga](mailto:kaja.scheliga@os.helmholtz.de) (HGF),
  [Martin Hammitzsch](mailto:martin.hammitzsch@gfz-potsdam.de) (GFZ),
