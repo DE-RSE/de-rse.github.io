@@ -1,14 +1,9 @@
 ---
-title: "Verein"
-layout: default
-weight: 6
+title: "Vereinsgründung am 26.11.2018 in Berlin"
+layout: post
+author: Stephan Janosch
+menulang: de
 ---
-<!-- Set variable "lang" to reflect page language -->
-{% assign pagelang = "de" %}
-
-# Verein
-
-## Vereinsgründung
 
 Es ist soweit: die Gründung eines Vereins für die de-RSE steht kurz bevor.
 Am **26.11.2018** sind alle Interessierten nach **Berlin** eingeladen, um bei der
