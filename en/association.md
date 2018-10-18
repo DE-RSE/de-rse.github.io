@@ -23,6 +23,8 @@ Im Hermann von Helmholtz-Zentrum für Kulturtechnik
 Sophienstraße 22a
 10178 Berlin
 ```
+Remark: 2. backyard right, 2. storey
+
 [map](https://goo.gl/maps/cD8rECTZYft)
 
 At 2pm the board heads out to a notary nearby to start registration process.

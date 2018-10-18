@@ -28,6 +28,8 @@ Im Hermann von Helmholtz-Zentrum für Kulturtechnik
 Sophienstraße 22a
 10178 Berlin
 ```
+Anmerkung: 2. Hinterhof rechts, 2. Obergeschoss
+
 [Karte](https://goo.gl/maps/cD8rECTZYft)
 
 14 Uhr haben wir einen Termin bei einem Notar in der Nähe, den der gewählte Vorstand aufsucht, um die Eintragung in die Wege zu leiten.
