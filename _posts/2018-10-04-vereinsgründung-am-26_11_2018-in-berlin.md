@@ -1,14 +1,9 @@
 ---
-title: "Verein"
-layout: default
-weight: 6
+title: "Vereinsgründung am 26.11.2018 in Berlin"
+layout: post
+author: Stephan Janosch
+menulang: de
 ---
-<!-- Set variable "lang" to reflect page language -->
-{% assign pagelang = "de" %}
-
-# Verein
-
-## Vereinsgründung
 
 Es ist soweit: die Gründung eines Vereins für die de-RSE steht kurz bevor.
 Am **26.11.2018** sind alle Interessierten nach **Berlin** eingeladen, um bei der
@@ -28,8 +23,6 @@ Im Hermann von Helmholtz-Zentrum für Kulturtechnik
 Sophienstraße 22a
 10178 Berlin
 ```
-Anmerkung: 2. Hinterhof rechts, 2. Obergeschoss
-
 [Karte](https://goo.gl/maps/cD8rECTZYft)
 
 14 Uhr haben wir einen Termin bei einem Notar in der Nähe, den der gewählte Vorstand aufsucht, um die Eintragung in die Wege zu leiten.

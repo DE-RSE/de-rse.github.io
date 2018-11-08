@@ -1,14 +1,9 @@
 ---
-title: "Association"
-layout: default
-weight: 6
+title: "Foundation of the de-RSE Association at Nov 26th in Berlin"
+layout: post
+author: Stephan Janosch
+menulang: en
 ---
-<!-- Set variable "lang" to reflect page language -->
-{% assign pagelang = "en" %}
-
-# Association
-
-## Foundation of the de-RSE Association
 
 The time has come: The creation of the official de-RSE association is going to
 happen soon. We invite everyone who is interested to join us in **Berlin** on **November 26th 2018** to be part
@@ -23,8 +18,6 @@ Im Hermann von Helmholtz-Zentrum für Kulturtechnik
 Sophienstraße 22a
 10178 Berlin
 ```
-Remark: 2. backyard right, 2. storey
-
 [map](https://goo.gl/maps/cD8rECTZYft)
 
 At 2pm the board heads out to a notary nearby to start registration process.
