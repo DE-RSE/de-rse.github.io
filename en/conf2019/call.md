@@ -6,7 +6,6 @@ weight: 1
 
 # deRSE19 - Call for contributions
 
-
 Following the success of the [first three international Conference of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), a national conference addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
 
 The organising committee welcome submissions for workshops, talks, and posters for the deRSE19 conference. The aim is to reflect the diverse community of research software engineers by seeking input from a variety of domains, geographic locations, gender, ethnicities and experience.
@@ -20,7 +19,7 @@ The organising committee welcome submissions for workshops, talks, and posters f
 
 At least one author of successful submissions is expected to attend the conference to present.
 
-## Conference sessions / Themes
+## Conference sessions, themes and types of contribution
 
 **deRSE19** has no pre-defined thematic tracks. Instead, sessions will be inductively created
 by the programme committee from the submissions. If your submission addresses a 
@@ -33,8 +32,9 @@ We welcome submissions from any and all people who have an interesting take on r
 
 - Researchers at any career stage who develop software for research purposes
 - Software developers working in a research context, whatever their job title or field
-- Those interested in advancing the understanding of how best to use existing research software (e.g. with respect to scalability, performance and/or reproducibility)
-- People from any organisation providing tools, platforms or services that benefit research software.
+- Funders and decision makers paving the way for sustainable research software with grants and other instruments
+- Those interested in advancing the understanding of how best to use and maintain research software, e.g. with respect to openness, reproducibility, sustainability or scalability and performance
+- People from any organisation providing tools, platforms or services that benefit research software, such as IT infrastructure providers or computing and data centres.
 
 We’re aiming for a well-balanced programme that includes a wide variety of perspectives to reflect the diversity of the RSE community and its activities. Similar conferences in other countries in the past found that social sciences and humanities were under-represented so we’d particularly like to encourage speakers from those areas to apply. We are not just looking for seasoned presenters or people who are already-well known. Thus, speakers from under-represented backgrounds and at early career stages are highly encouraged to submit a proposal.
 
