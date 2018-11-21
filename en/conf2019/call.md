@@ -22,8 +22,8 @@ At least one author of successful submissions is expected to attend the conferen
 ## Conference sessions, themes and types of contribution
 
 **deRSE19** has no pre-defined thematic tracks. Instead, sessions will be inductively created
-by the programme committee from the submissions. If your submission addresses a 
-topic that you think is of interest to the community of people involved in 
+by the programme committee from the submissions. If your submission addresses a
+topic that you think is of interest to the community of people involved in
 research software, we would love to see it submitted!
 
 ## Who should submit?
@@ -36,9 +36,9 @@ We welcome submissions from any and all people who have an interesting take on r
 - Those interested in advancing the understanding of how best to use and maintain research software, e.g. with respect to openness, reproducibility, sustainability or scalability and performance
 - People from any organisation providing tools, platforms or services that benefit research software, such as IT infrastructure providers or computing and data centres.
 
-We’re aiming for a well-balanced programme that includes a wide variety of perspectives to reflect the diversity of the RSE community and its activities. Similar conferences in other countries in the past found that social sciences and humanities were under-represented so we’d particularly like to encourage speakers from those areas to apply. We are not just looking for seasoned presenters or people who are already-well known. Thus, speakers from under-represented backgrounds and at early career stages are highly encouraged to submit a proposal.
+We’re aiming for a well-balanced programme that includes a wide variety of perspectives to reflect the diversity of the RSE community and its activities. Similar conferences in other countries in the past found that social sciences and humanities were under-represented so we’d particularly like to encourage speakers from those areas to apply. We are not just looking for seasoned presenters or people who are already well known. Thus, speakers from under-represented backgrounds and at early career stages are highly encouraged to submit a proposal.
 
-We will do our best to keep the submissions review process as anonymous as possible and will not consider an author’s name and affiliation when evaluating a submission. Please aid us by not including identifying information in your submission unless absolutely necessary.
+We will select talks and workshops through a double-blind review process: reviewers will not see authors’ names and affiliations. Please aid us by not including identifying information in your submission unless absolutely necessary.
 
 ## First-time presenter?
 
@@ -67,21 +67,21 @@ experience. This will help us to get to know the RSE community in Germany better
 
 Workshops are interactive sessions that give attendees the chance to collaborate
 on a specific topic. They may take different forms, e.g., as hands-on tutorial,
-discussion and [speed-blogging](https://www.software.ac.uk/term/speed-blogging) 
+discussion and [speed-blogging](https://www.software.ac.uk/term/speed-blogging)
 session, hack session, etc.
 
 Workshops run over a length of *one or more 1.5 hour sessions*.
 
 #### Talks
 
-Talks may have a length of 15-30 mins. + time for Q&A and discussion, depending 
-on the number of talks in the respective session. If your talk is accepted, you 
+Talks may have a length of 15-30 mins. + time for Q&A and discussion, depending
+on the number of talks in the respective session. If your talk is accepted, you
 will be notified about the length of the talk by the session chair.
 
 #### Posters
 
-Posters are be used to present an overview of an idea, a project, a 
-collaboration, etc. The poster chairs will let you know the technical details, 
+Posters are be used to present an overview of an idea, a project, a
+collaboration, etc. The poster chairs will let you know the technical details,
 such as size, etc., if your poster is accepted. Please be prepared to give a
 very short presentation about the contents of your poster in a "lightning talk"
 (a talk of nore more than 2 minutes). This will help attendees of the poster
