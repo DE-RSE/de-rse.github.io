@@ -8,7 +8,7 @@ weight: 1
 
 Following the success of the [first three international Conference of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), a national conference addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
 
-The organising committee welcome submissions for workshops, talks, and posters for the deRSE19 conference. The aim is to reflect the diverse community of research software engineers by seeking input from a variety of domains, geographic locations, gender, ethnicities and experience.
+The organising committee welcomes submissions for workshops, talks, and posters for the deRSE19 conference. The aim is to reflect the diverse community of research software engineers by seeking input from all levels of experience and across a variety of domains, geographic locations, genders, and ethnicities.
 
 ## Timeline
 
@@ -42,24 +42,28 @@ We will select talks and workshops through a double-blind review process: review
 
 ## First-time presenter?
 
-We want you to present! It’s important that the programme includes people who don’t normally publish papers or attend academic conferences, otherwise we’ll be missing whole sections of the RSE community.
+**We want you to present!** It’s important that the programme includes people who don’t normally publish papers, or give talks at academic conferences. We want your voice to be heard as part of the RSE community.
 
-It’s not intimidating! The emphasis of the conference is on learning from each other in a supportive atmosphere. Your perspective is welcome and this will be a great chance to start a wider discussion of issues you care about.
+**It’s not intimidating!** deRSE19 is about learning from each other in a supportive atmosphere. Your perspective is welcome and needed, and presenting will be a great chance to start a wider discussion of issues you care about.
 
-We can help! We can offer mentoring and other support with preparing your presentation. Please email us if you require advice or clarification before making a submission. We can possibly offer one-on-one mentoring to help successful applicants prepare their talk, poster or workshop – just tick the box when submitting your proposal.
+**We can help!** We can offer mentoring and other support with preparing your presentation. Please email us if you require advice or clarification before making a submission. We aim to offer one-on-one mentoring to help successful applicants prepare their talk, poster or workshop. If you would like a mentor to help you just tick the respective box when submitting your proposal.
 
-If you have any questions about the conference, please contact the conference organisers at [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
+## Contact
+
+If you have any questions about the conference, or the submission of proposals, please contact the conference organisers at [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
 
 ## Technicalities
 
 The focus of deRSE19 is on community. Therefore, instead of asking you to submit an academic abstract
-following a specific structure, submissions to deRSE19 are a little more free form.
+following a specific structure, submissions to deRSE19 are a bit more free form.
 
-Simply fill out the submission form at <https://xxx>. The form includes a field
+Simply fill out the submission form (to be announced). The form includes a field
 for the description of your submission ("abstract") as well as several others,
 asking you for details about yourself. We elicit this information because we
 would like to know a little about your background, your perspective, your
 experience. This will help us to get to know the RSE community in Germany better.
+
+
 
 ### Formats
 
@@ -70,11 +74,11 @@ on a specific topic. They may take different forms, e.g., as hands-on tutorial,
 discussion and [speed-blogging](https://www.software.ac.uk/term/speed-blogging)
 session, hack session, etc.
 
-Workshops run over a length of *one or more 1.5 hour sessions*.
+Workshops run over a length of either *90 or 180 minutes*.
 
 #### Talks
 
-Talks may have a length of 15-30 mins. + time for Q&A and discussion, depending
+Talks may have a length of *15-30 mins. + time for Q&A and discussion*, depending
 on the number of talks in the respective session. If your talk is accepted, you
 will be notified about the length of the talk by the session chair.
 
@@ -83,6 +87,10 @@ will be notified about the length of the talk by the session chair.
 Posters are be used to present an overview of an idea, a project, a
 collaboration, etc. The poster chairs will let you know the technical details,
 such as size, etc., if your poster is accepted. Please be prepared to give a
-very short presentation about the contents of your poster in a "lightning talk"
-(a talk of nore more than 2 minutes). This will help attendees of the poster
+very short presentation about the contents of your poster in a "lightning talk". 
+This will help attendees of the poster
 session identify the posters and people they want to look at and talk to.
+
+---
+
+The text of this call partly reuses modified text from the [website for the Third conference of Research Software Engineers](https://rse.ac.uk/conf2018/) under its [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). This call is equally licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
