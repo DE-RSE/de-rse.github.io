@@ -8,7 +8,7 @@ weight: 1
 
 Following the success of the [first three international Conference of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), a national conference addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
 
-The organising committee welcomes submissions for workshops, talks, and posters for the deRSE19 conference. The aim is to reflect the diverse community of research software engineers by seeking input from all levels of experience and across a variety of domains, geographic locations, genders, and ethnicities.
+The organising committee welcomes submissions for workshops, talks, and posters for the deRSE19 conference, as well as for splinter meetings and birds-of-a-feather (BoF) events. The aim is to reflect the diverse community of research software engineers by seeking input from all levels of experience and across a variety of domains, geographic locations, genders, and ethnicities.
 
 ## Timeline
 
@@ -67,14 +67,14 @@ experience. This will help us to get to know the RSE community in Germany better
 
 ### Formats
 
-#### Workshops
+#### Workshops, splinter meetings, BoFs
 
 Workshops are interactive sessions that give attendees the chance to collaborate
 on a specific topic. They may take different forms, e.g., as hands-on tutorial,
 discussion and [speed-blogging](https://www.software.ac.uk/term/speed-blogging)
-session, hack session, etc.
+session, hack session, etc., as well as splinter meetings for special interest groups, and birds-of-a-feather (BoF) events.
 
-Workshops run over a length of either *90 or 180 minutes*.
+Workshops, splinter meetings and BoFs run over a length of either *90 or 180 minutes*.
 
 #### Talks
 
