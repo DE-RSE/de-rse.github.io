@@ -6,7 +6,7 @@ menulang: de
 ---
 
 Die in Deutschland ansässige Community der Research Software Engineers hat ein
-zu Hause: Gestern, am Montag, dem 26.11.2018, wurde in den Raöumen des
+zu Hause: Gestern, am Montag, dem 26.11.2018, wurde in den Räumen des
 Exzellenzcluster Bild-Wissen-Gestaltung der Humboldt-Universität zu Berlin der
 Verein **de-RSE e.V. - Gesellschaft für Forschungssoftware** gegründet.
 
