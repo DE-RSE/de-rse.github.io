@@ -1,7 +1,7 @@
 ---
 title: "de-RSE e.V. in Berlin gegründet"
 layout: post
-author: Stephan Druskat, Frank Löffler, Bernadette Fritzsch, Martin Hammitzsch, Daniel Nüst
+author: Stephan Druskat, Frank Löffler, Bernadette Fritzsch, Martin Hammitzsch, Daniel Nüst, Stephan Janosch
 menulang: de
 ---
 
@@ -10,11 +10,17 @@ Zuhause: Gestern, am Montag, dem 26.11.2018, wurde in den Räumen des
 Exzellenzcluster Bild-Wissen-Gestaltung der Humboldt-Universität zu Berlin der
 Verein **de-RSE e.V. - Gesellschaft für Forschungssoftware** gegründet. Damit haben
 wir nun einen formellen Rahmen, um die Aktivitäten all jener zu bündeln, die sich mit
-Entwicklung von Forschungssoftware befassen. 
+Entwicklung von Forschungssoftware befassen.
+
+TODO: Foto "Alle"
 
 Die 21 Teilnehmer der Gründungsversammlung diskutierten und verabschiedeten
 die Satzung und Geschäftsordnung des Vereins und wählten den sechsköpfigen
 Vereinsvorstand, der im Anschluss die Registrierung des Vereins im 
 Vereinsregister Berlin notariell auf den Weg brachte.
 
+TODO: Foto "Wahl"
 
+Der Gründungsvorstand ist Frank Löffler (Vorstandsvorsitzender), Daniel Nüst (stellvertretender Vorstandsvorsitzender), Stephan Janosch (Schatzmeister), Martin Hammitzsch (stellvertretender Schatzmeister), Bernadette Fritzsch (Schriftführerin), und Stephan Druskat (stellvertretender Schriftführer).
+
+TODO: Foto "Vorstand"
