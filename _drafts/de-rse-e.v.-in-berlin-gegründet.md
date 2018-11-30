@@ -12,15 +12,15 @@ Verein **de-RSE e.V. - Gesellschaft für Forschungssoftware** gegründet. Damit 
 wir nun einen formellen Rahmen, um die Aktivitäten all jener zu bündeln, die sich mit
 Entwicklung von Forschungssoftware befassen.
 
-TODO: Foto "Alle"
+![Teilnehmer]({{ "/assets/img/blog/2018/2018-11_de_rse_grundueng_alle.jpg" | prepend: site.baseurl }}){: width="800px"}
 
 Die 21 Teilnehmer der Gründungsversammlung diskutierten und verabschiedeten
 die Satzung und Geschäftsordnung des Vereins und wählten den sechsköpfigen
 Vereinsvorstand, der im Anschluss die Registrierung des Vereins im 
 Vereinsregister Berlin notariell auf den Weg brachte.
 
-TODO: Foto "Wahl"
+![Wahl]({{ "/assets/img/blog/2018/2018-11_de_rse_grundueng_wahl.jpg" | prepend: site.baseurl }}){: width="400px"}
 
 Der Gründungsvorstand besteht aus Frank Löffler (Friedrich-Schiller-Universität Jena, Vorstandsvorsitzender), Daniel Nüst (Universität Münster, stellvertretender Vorstandsvorsitzender), Stephan Janosch (Max-Planck-Institut für Molekulare Zellbiologie und Genetik Dresden, Schatzmeister), Martin Hammitzsch (Deutsches GeoForschungsZentrum Potsdam, stellvertretender Schatzmeister), Bernadette Fritzsch (Alfred-Wegener-Institut Bremerhaven, Schriftführerin), und Stephan Druskat (Humboldt-Universität zu Berlin, stellvertretender Schriftführer).
 
-TODO: Foto "Vorstand"
+![Vorstand]({{ "/assets/img/blog/2018/2018-11_de_rse_grundueng_vorstand.jpg" | prepend: site.baseurl }}){: width="400px"}
