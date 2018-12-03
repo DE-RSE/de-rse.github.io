@@ -290,7 +290,17 @@ var rseFeatures = [
             "popupContent": '<a href="https://www.canarie.ca/software/">CANARIE</a>'
         },
         "geometry": {
-            "type": "Point", "coordinates": [75.688505,45.419077]
+            "type": "Point", "coordinates": [-75.688505,45.419077]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "URSSI",
+            "popupContent": '<a href="http://urssi.us/">URSSI</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [-98.457545,40.415433]
         }
     },
     {
