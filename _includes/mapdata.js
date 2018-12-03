@@ -272,5 +272,36 @@ var rseFeatures = [
         "geometry": {
             "type": "Point", "coordinates": [-1.8921047,52.4778342]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Nordic RSE",
+            "popupContent": '<a href="http://nordic-rse.org">NORDIC RSE</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [25.783629,71.171075]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "CANARIE",
+            "popupContent": '<a href="https://www.canarie.ca/software/">CANARIE</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [75.688505,45.419077]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "NL-RSE",
+            "popupContent": '<a href="http://nl-rse.org/">NL-RSE</a><br>'+
+            '<a href="http://www.esciencecenter.nl/">Netherlands eScience Center</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [4.954424,52.357182]
+        }
     }
 ];
