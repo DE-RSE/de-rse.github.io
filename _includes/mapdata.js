@@ -306,6 +306,16 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "RSE AUNZ",
+            "popupContent": '<a href="https://www.ands.org.au/partners-and-communities/ands-communities/research-software-engineers-community-group">RSE aunz</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [131.034725,-25.343998]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "NL-RSE",
             "popupContent": '<a href="http://nl-rse.org/">NL-RSE</a><br>'+
             '<a href="http://www.esciencecenter.nl/">Netherlands eScience Center</a>'
