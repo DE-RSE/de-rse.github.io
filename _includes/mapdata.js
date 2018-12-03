@@ -250,7 +250,8 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [10.564162, 52.313804]
         }
-    }, {
+    },
+    {
         "type": "Feature",
         "properties": {
             "name": "Jan G. Wieners",
@@ -260,6 +261,16 @@ var rseFeatures = [
         },
         "geometry": {
             "type": "Point", "coordinates": [6.9582814, 50.9412784]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "UK RSE",
+            "popupContent": '<a href="https://rse.ac.uk/">UK RSE</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [-1.8921047,52.4778342]
         }
     }
 ];
