@@ -178,7 +178,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Konrad Förstner",
-            "popupContent": "<img src='../assets/img/map/KonradFoerstner.png'><a href='https://konrad.foerstner.org/'>Konrad F&ouml;rstner</a>, Universität W&uuml;rzburg<br><br><em>Open *</em>"
+            "popupContent": "<img src='../assets/img/map/KonradFoerstner.png'><a href='https://konrad.foerstner.org/'>Konrad F&ouml;rstner</a>, <a href='https://www.zbmed.de'>ZB MED</a><br><br><em>Open *</em>"
         },
         "geometry": {
             "type": "Point",
