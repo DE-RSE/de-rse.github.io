@@ -323,5 +323,16 @@ var rseFeatures = [
         "geometry": {
             "type": "Point", "coordinates": [4.954424,52.357182]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "IndEcol RSE",
+            "popupContent": '<a href="https://iedl.no/">IEDL-RSE</a><br>'+
+            '<a href="https://iedl.no/">Industrial Ecology Digital Lab</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [10.403139, 63.416339]
+        }
     }
 ];
