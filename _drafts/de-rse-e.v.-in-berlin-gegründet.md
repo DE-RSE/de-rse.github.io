@@ -24,3 +24,5 @@ Vereinsregister Berlin notariell auf den Weg brachte.
 Der Gründungsvorstand besteht aus Frank Löffler (Friedrich-Schiller-Universität Jena, Vorstandsvorsitzender), Daniel Nüst (Universität Münster, stellvertretender Vorstandsvorsitzender), Stephan Janosch (Max-Planck-Institut für Molekulare Zellbiologie und Genetik Dresden, Schatzmeister), Martin Hammitzsch (Deutsches GeoForschungsZentrum Potsdam, stellvertretender Schatzmeister), Bernadette Fritzsch (Alfred-Wegener-Institut Bremerhaven, Schriftführerin), und Stephan Druskat (Humboldt-Universität zu Berlin und Friedrich-Schiller-Universität Jena, stellvertretender Schriftführer).
 
 ![Vorstand]({{ "/assets/img/blog/2018/2018-11_de_rse_grundueng_vorstand.jpg" | prepend: site.baseurl }}){: width="400px"}
+
+[[Pressemitteilung](assets/pdf/association/press/pressemitteilung-de-rse-ev.pdf)]
