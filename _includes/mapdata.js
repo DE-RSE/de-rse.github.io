@@ -23,6 +23,17 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "Sebastian Meyer",
+            "popupContent": "<img src='../assets/img/map/SebastianMeyer.jpg'>Sebastian Meyer, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Institut für Medizininformatik, Biometrie und Epidemiologie (IMBE), @bastistician<br><br><em>Statistician. <a href='https://www.R-project.org/'>R</a> programmer and package developer. Editorial board member of the <a href='https://www.jstatsoft.org/'>Journal of Statistical Software</a>. Research focussed around spatio-temporal models for infectious disease spread.</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.0113, 49.5975]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "Stephan Janosch",
             "popupContent": "<img src='../assets/img/map/StephanJanoschAvatar100.png'>Stephan Janosch, MPI-CBG, janosch@mpi-cbg.de<br><br><em>RSE since RSE16. Doing RSE work since 2009.</em>"
         },
