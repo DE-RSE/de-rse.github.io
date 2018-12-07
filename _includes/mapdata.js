@@ -2,6 +2,16 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "Oliver Bertuch",
+            "popupContent": "<img src='../assets/img/map/obertuch.jpg'><a href='https://oliver.bertuch.eu'>Oliver Bertuch</a>, Forschungszentrum Jülich, ZB, @poi_ki_lo_therm, o.bertuch@fz-juelich.de<br><br><em>Developing for research data management tools and more.</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [6.41010, 50.90680]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "Florian Goth",
             "popupContent": "<img src='../assets/img/map/fgoth.png'><a href='https://florian-goth.de'>Florian Goth</a>, Universität Würzburg, SFB 1170, fgoth@physik.uni-wuerzburg.de<br><br><em>Specializing into harnessing the power of modern massively parallel computer systems, I support users at all levels of program development: Algorithmic development coupled with low-level hardware optimization, writing and maintaining the actual code, as well as striving to implement sustainable software development models in science. I am an RSE.</em>"
         },
