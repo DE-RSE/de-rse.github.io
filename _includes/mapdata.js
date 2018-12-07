@@ -2,6 +2,16 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "Marc-André Hermanns",
+            "popupContent": "<img src='../assets/img/map/mahermanns.jpg'><a href='http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/hermanns_m.html'>Marc-Andr&eacute; Hermanns</a>, J&uuml;lich Supercomputing Centre, Forschungszentrum J&uuml;lich, m.a.hermanns@fz-juelich.de<br><em>Research and development in performance analysis tools for high-performance computing (HPC)</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [6.40609, 50.90941]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "Oliver Bertuch",
             "popupContent": "<img src='../assets/img/map/obertuch.jpg'><a href='https://oliver.bertuch.eu'>Oliver Bertuch</a>, Forschungszentrum Jülich, ZB, @poi_ki_lo_therm, o.bertuch@fz-juelich.de<br><br><em>Developing for research data management tools and more.</em>"
         },
