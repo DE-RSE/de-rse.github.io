@@ -38,11 +38,11 @@ We welcome submissions from any and all people who have an interesting take on r
 
 We’re aiming for a well-balanced programme that includes a wide variety of perspectives to reflect the diversity of the RSE community and its activities. Similar conferences in other countries in the past found that social sciences and humanities were under-represented so we’d particularly like to encourage speakers from those areas to apply. We are not just looking for seasoned presenters or people who are already well known. Thus, speakers from under-represented backgrounds and at early career stages are highly encouraged to submit a proposal.
 
-We will select talks and workshops through a double-blind review process: reviewers will not see authors’ names and affiliations. Please aid us by not including identifying information in your submission unless absolutely necessary.
+We will select talks and workshops through a single-blind review process, i.e., reviewers will see authors’ names and affiliations. This supports software-related submissions better than a double-blind process.
 
 ## First-time presenter?
 
-**We want you to present!** It’s important that the programme includes people who don’t normally publish papers, or give talks at academic conferences. We want your voice to be heard as part of the RSE community.
+**We want you to present!** It’s important that the programme includes people who don’t normally publish papers, or give talks at academic conferences. We want your voice to be heard as part of the RSE community. We accept contributions in English or German.
 
 **It’s not intimidating!** deRSE19 is about learning from each other in a supportive atmosphere. Your perspective is welcome and needed, and presenting will be a great chance to start a wider discussion of issues you care about.
 
@@ -63,7 +63,7 @@ asking you for details about yourself. We elicit this information because we
 would like to know a little about your background, your perspective, your
 experience. This will help us to get to know the RSE community in Germany better.
 
-
+We will accept contributions in English or German. Details to follow.
 
 ### Formats
 
