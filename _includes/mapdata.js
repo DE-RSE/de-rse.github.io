@@ -365,5 +365,16 @@ var rseFeatures = [
         "geometry": {
             "type": "Point", "coordinates": [10.403139, 63.416339]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Jan Linxweiler",
+            "popupContent": "<img src='../assets/img/map/JanLinxweiler.png'><a href='https://www.tu-braunschweig.de/irmb/institut/mitarbeiter/linxweiler/index.html'>Jan Linxweiler</a>, Technische Universität Braunschweig, j.linxweiler@tu-bs.de<br><br><em>Postdoctoral researcher building interactive software systems using GPU Computing in the field of Computational Fluid Dynamics. Teaching Software Engineering to students from engineering disciplines. Doing RSE since 2005.</em>"
+        },
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [10.527724027633665, 52.27272029357738]
+        }
     }
 ];
