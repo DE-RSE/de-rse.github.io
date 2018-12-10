@@ -84,7 +84,7 @@ will be notified about the length of the talk by the session chair.
 
 #### Posters
 
-Posters are be used to present an overview of an idea, a project, a
+Posters are used to present an overview of an idea, a project, a
 collaboration, etc. Posters must be in portrait orientation and maximally up to A0 size (max. height: 1189mm; max. width: 841mm). Please be prepared to give a
 very short presentation about the contents of your poster in a "lightning talk". 
 This will help attendees of the poster
