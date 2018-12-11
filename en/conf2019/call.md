@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "deRSE19 - call for submissions"
+title: "deRSE19 - Call for Submissions"
 weight: 1
 ---
 
