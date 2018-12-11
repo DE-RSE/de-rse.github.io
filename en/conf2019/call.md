@@ -6,7 +6,7 @@ weight: 1
 
 # deRSE19 - Call for Contributions
 
-Following the success of the [first three international Conference of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), a national conference addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
+Following the success of the [first three international Conferences of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), a national conference addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
 
 The organising committee welcomes submissions for workshops, talks, and posters for the deRSE19 conference, as well as for splinter meetings and birds-of-a-feather (BoF) events. The aim is to reflect the diverse community of research software engineers by seeking input from all levels of experience and across a variety of domains, geographic locations, genders, and ethnicities.
 
