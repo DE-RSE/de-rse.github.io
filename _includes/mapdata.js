@@ -2,6 +2,26 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "Marc-André Hermanns",
+            "popupContent": "<img src='../assets/img/map/mahermanns.jpg'><a href='http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/hermanns_m.html'>Marc-Andr&eacute; Hermanns</a>, J&uuml;lich Supercomputing Centre, Forschungszentrum J&uuml;lich, m.a.hermanns@fz-juelich.de<br><em>Research and development in performance analysis tools for high-performance computing (HPC)</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [6.40609, 50.90941]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Oliver Bertuch",
+            "popupContent": "<img src='../assets/img/map/obertuch.jpg'><a href='https://oliver.bertuch.eu'>Oliver Bertuch</a>, Forschungszentrum Jülich, ZB, @poi_ki_lo_therm, o.bertuch@fz-juelich.de<br><br><em>Developing for research data management tools and more.</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [6.41010, 50.90680]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "Florian Goth",
             "popupContent": "<img src='../assets/img/map/fgoth.png'><a href='https://florian-goth.de'>Florian Goth</a>, Universität Würzburg, SFB 1170, fgoth@physik.uni-wuerzburg.de<br><br><em>Specializing into harnessing the power of modern massively parallel computer systems, I support users at all levels of program development: Algorithmic development coupled with low-level hardware optimization, writing and maintaining the actual code, as well as striving to implement sustainable software development models in science. I am an RSE.</em>"
         },
@@ -18,6 +38,17 @@ var rseFeatures = [
         "geometry": {
             "type": "Point",
             "coordinates": [11.469497, 48.111598]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Sebastian Meyer",
+            "popupContent": "<img src='../assets/img/map/SebastianMeyer.jpg'>Sebastian Meyer, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Institut für Medizininformatik, Biometrie und Epidemiologie (IMBE), @bastistician<br><br><em>Statistician. <a href='https://www.R-project.org/'>R</a> programmer and package developer. Editorial board member of the <a href='https://www.jstatsoft.org/'>Journal of Statistical Software</a>. Research focussed around spatio-temporal models for infectious disease spread.</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.0113, 49.5975]
         }
     },
     {
@@ -178,11 +209,11 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Konrad Förstner",
-            "popupContent": "<img src='../assets/img/map/KonradFoerstner.png'><a href='https://konrad.foerstner.org/'>Konrad F&ouml;rstner</a>, Universität W&uuml;rzburg<br><br><em>Open *</em>"
+            "popupContent": "<img src='../assets/img/map/KonradFoerstner.png'><a href='https://konrad.foerstner.org/'>Konrad F&ouml;rstner</a>, <a href='https://www.zbmed.de'>ZB MED</a><br><br><em>Open *</em>"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [9.956434965133667, 49.801900711047594]
+            "coordinates": [6.9143163, 50.9246914]
         }
     },
     {
@@ -250,7 +281,8 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [10.564162, 52.313804]
         }
-    }, {
+    },
+    {
         "type": "Feature",
         "properties": {
             "name": "Jan G. Wieners",
@@ -260,6 +292,89 @@ var rseFeatures = [
         },
         "geometry": {
             "type": "Point", "coordinates": [6.9582814, 50.9412784]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "UK RSE",
+            "popupContent": '<a href="https://rse.ac.uk/">UK RSE</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [-1.8921047,52.4778342]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Nordic RSE",
+            "popupContent": '<a href="http://nordic-rse.org">NORDIC RSE</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [25.783629,71.171075]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "CANARIE",
+            "popupContent": '<a href="https://www.canarie.ca/software/">CANARIE</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [-75.688505,45.419077]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "URSSI",
+            "popupContent": '<a href="http://urssi.us/">URSSI</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [-98.457545,40.415433]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "RSE AUNZ",
+            "popupContent": '<a href="https://www.ands.org.au/partners-and-communities/ands-communities/research-software-engineers-community-group">RSE aunz</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [131.034725,-25.343998]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "NL-RSE",
+            "popupContent": '<a href="http://nl-rse.org/">NL-RSE</a><br>'+
+            '<a href="http://www.esciencecenter.nl/">Netherlands eScience Center</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [4.954424,52.357182]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "IndEcol RSE",
+            "popupContent": '<a href="https://iedl.no/">IEDL-RSE</a><br>'+
+            '<a href="https://iedl.no/">Industrial Ecology Digital Lab</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [10.403139, 63.416339]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Jan Linxweiler",
+            "popupContent": "<img src='../assets/img/map/JanLinxweiler.png'><a href='https://www.tu-braunschweig.de/irmb/institut/mitarbeiter/linxweiler/index.html'>Jan Linxweiler</a>, Technische Universität Braunschweig, j.linxweiler@tu-bs.de<br><br><em>Postdoctoral researcher building interactive software systems using GPU Computing in the field of Computational Fluid Dynamics. Teaching Software Engineering to students from engineering disciplines. Doing RSE since 2005.</em>"
+        },
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [10.527724027633665, 52.27272029357738]
         }
     }
 ];
