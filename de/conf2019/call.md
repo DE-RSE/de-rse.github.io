@@ -8,7 +8,7 @@ weight: 1
 
 Nach drei erfolgreichen [internationalen *Conferences of Research Software Engineers* in Großbritannien](https://rse.ac.uk/events/past-conferences/) wird vom 4. bis 6. Juni 2019 **deRSE19**, die erste Konferenz für Forschungssoftware und Forschungssoftwareentwickler*innen in Deutschland, im Albert Einstein Wissenschaftspark in Potsdam stattfinden.
 
-Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge und Poster zur Konferenz, als auch für Splinter Meetings und Birds-of-a-Feather (BoF) Events. Ziel der Konferenz ist, die Abbildung der facettenreichen Gemeinschaft der Research Software Engineers durch Beteiligung aller Erfahrungsstufen und über die verschiedenen Fachrichtungen, Standorte, Geschlechter und Herkünfte hinweg.
+Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge und Poster zur Konferenz, als auch für Splinter Meetings und Birds-of-a-Feather (BoF) Veranstaltungen. Ziel der Konferenz ist, die Abbildung der facettenreichen Gemeinschaft der Research Software Engineers durch Beteiligung aller Erfahrungsstufen und über die verschiedenen Fachrichtungen, Standorte, Geschlechter und Herkünfte hinweg.
 
 ## Timeline
 
