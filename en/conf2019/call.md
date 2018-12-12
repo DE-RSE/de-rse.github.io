@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "deRSE19 - call for submissions"
+title: "deRSE19 - Call for Contributions"
 weight: 1
 ---
 
-# deRSE19 - Call for contributions
+# deRSE19 - Call for Contributions
 
-Following the success of the [first three international Conference of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), a national conference addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
+Following the success of the [first three international Conferences of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), **deRSE19**, a national conference addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
 
 The organising committee welcomes submissions for workshops, talks, and posters for the deRSE19 conference, as well as for splinter meetings and birds-of-a-feather (BoF) events. The aim is to reflect the diverse community of research software engineers by seeking input from all levels of experience and across a variety of domains, geographic locations, genders, and ethnicities.
 
 ## Timeline
 
-- 2018-12-01 - We are open for submissions
-- 2019-03-01 - Deadline for submissions
-- 2019-03-22 - Notification of acceptance
-- 2019-06-06 - deRSE19 conference
+- 20 December 2018 - We are open for submissions
+- 01 March 2019 - Deadline for submissions
+- 22 March 2019 - Notification of acceptance
+- 04-06 June 2019 - deRSE19 conference
 
 At least one author of successful submissions is expected to attend the conference to present.
 
@@ -38,11 +38,11 @@ We welcome submissions from any and all people who have an interesting take on r
 
 We’re aiming for a well-balanced programme that includes a wide variety of perspectives to reflect the diversity of the RSE community and its activities. Similar conferences in other countries in the past found that social sciences and humanities were under-represented so we’d particularly like to encourage speakers from those areas to apply. We are not just looking for seasoned presenters or people who are already well known. Thus, speakers from under-represented backgrounds and at early career stages are highly encouraged to submit a proposal.
 
-We will select talks and workshops through a double-blind review process: reviewers will not see authors’ names and affiliations. Please aid us by not including identifying information in your submission unless absolutely necessary.
+We will select talks and workshops through a single-blind review process, i.e., reviewers will see authors’ names and affiliations. This supports software-related submissions better than a double-blind process.
 
 ## First-time presenter?
 
-**We want you to present!** It’s important that the programme includes people who don’t normally publish papers, or give talks at academic conferences. We want your voice to be heard as part of the RSE community.
+**We want you to present!** It’s important that the programme includes people who don’t normally publish papers, or give talks at academic conferences. We want your voice to be heard as part of the RSE community. We accept contributions in English or German.
 
 **It’s not intimidating!** deRSE19 is about learning from each other in a supportive atmosphere. Your perspective is welcome and needed, and presenting will be a great chance to start a wider discussion of issues you care about.
 
@@ -63,7 +63,7 @@ asking you for details about yourself. We elicit this information because we
 would like to know a little about your background, your perspective, your
 experience. This will help us to get to know the RSE community in Germany better.
 
-
+We will accept contributions in English or German. Details to follow.
 
 ### Formats
 
@@ -84,7 +84,7 @@ will be notified about the length of the talk by the session chair.
 
 #### Posters
 
-Posters are be used to present an overview of an idea, a project, a
+Posters are used to present an overview of an idea, a project, a
 collaboration, etc. Posters must be in portrait orientation and maximally up to A0 size (max. height: 1189mm; max. width: 841mm). Please be prepared to give a
 very short presentation about the contents of your poster in a "lightning talk". 
 This will help attendees of the poster
