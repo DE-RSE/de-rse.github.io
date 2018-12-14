@@ -13,7 +13,7 @@ The organising committee welcomes submissions for workshops, talks, and posters 
 ## Timeline
 
 - 20 December 2018 - We are open for submissions
-- 01 March 2019 - Deadline for submissions
+- 28 February 2019 - Deadline for submissions
 - 22 March 2019 - Notification of acceptance
 - 04-06 June 2019 - deRSE19 conference
 
@@ -38,7 +38,7 @@ We welcome submissions from any and all people who have an interesting take on r
 
 We’re aiming for a well-balanced programme that includes a wide variety of perspectives to reflect the diversity of the RSE community and its activities. Similar conferences in other countries in the past found that social sciences and humanities were under-represented so we’d particularly like to encourage speakers from those areas to apply. We are not just looking for seasoned presenters or people who are already well known. Thus, speakers from under-represented backgrounds and at early career stages are highly encouraged to submit a proposal.
 
-We will select talks and workshops through a single-blind review process, i.e., reviewers will see authors’ names and affiliations. This supports software-related submissions better than a double-blind process.
+We will select talks and workshops through a single-blind review process, i.e., reviewers will see authors' names and affiliations. This supports software-related submissions better than a double-blind process.
 
 ## First-time presenter?
 

@@ -8,12 +8,12 @@ weight: 1
 
 Nach drei erfolgreichen [internationalen *Conferences of Research Software Engineers* in Großbritannien](https://rse.ac.uk/events/past-conferences/) wird vom 4. bis 6. Juni 2019 **deRSE19**, die erste Konferenz für Forschungssoftware und Forschungssoftwareentwickler*innen in Deutschland, im Albert Einstein Wissenschaftspark in Potsdam stattfinden.
 
-Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge und Poster zur Konferenz, als auch für Splinter Meetings und Birds-of-a-Feather (BoF) Veranstaltungen. Ziel der Konferenz ist, die Abbildung der facettenreichen Gemeinschaft der Research Software Engineers durch Beteiligung aller Erfahrungsstufen und über die verschiedenen Fachrichtungen, Standorte, Geschlechter und Herkünfte hinweg.
+Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge und Poster zur Konferenz, als auch für Splinter Meetings und informelle "Birds-of-a-Feather (BoF)" Diskussionstreffen. Ziel der Konferenz ist die Abbildung der facettenreichen Gemeinschaft der Research Software Engineers durch Beteiligung aller Erfahrungsstufen und über die verschiedenen Fachrichtungen, Standorte, Geschlechter und Herkünfte hinweg.
 
 ## Timeline
 
 - Do., 20. Dezember 2018 - Wir nehmen Einreichungen entgegen
-- Fr., 01. März 2019 - Frist für Einreichungen
+- Fr., 28. Februar 2019 - Frist für Einreichungen
 - Fr., 22. März 2019 - Mitteilung von Entscheidungen zur Annahme
 - 04.-06. Juni 2019 - deRSE19-Konferenz
 
@@ -40,7 +40,7 @@ Unser Ziel ist ein ausgewogenes Programm, dass die breite Varietät der Perspekt
 
 Wir suchen nicht nur nach erfahrenen, bekannten oder promovierten Vortragenden. Daher möchten wir ausdrücklich auch alle Personen aus unterrepräsentierten Gruppen und Early Career Researchers zur Einreichung auffordern!
 
-Einreichungen werden im "Single-Blind"-Verfahren begutachtet, das Software-bezogenen Einreichungen entgegen kommt. Das heißt: Gutachter*innen werden Namen und Herkunftsinstitutionen von Autor*innen einsehen können.
+Einreichungen werden im "Single-Blind"-Verfahren begutachtet, das Software-bezogenen Einreichungen entgegen kommt. Das heißt: Gutachter\*innen werden Namen und Herkunftsinstitutionen von Autor\*innen einsehen können.
 
 ## Deine erste Einreichung?
 
