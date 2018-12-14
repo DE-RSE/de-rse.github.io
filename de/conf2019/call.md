@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "deRSE19 - Call for Contributions"
+title: "Call for Contributions"
 weight: 1
 ---
 
