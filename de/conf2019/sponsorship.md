@@ -103,8 +103,7 @@ Vergeben - nähere Informationen folgen.
 
 ### Reisestipendien: €500 (unbegrenzt)
 
--   Logo auf der Website, eigene Reisestipendien-Email, Nennung der
-    Stipendiaten bei Verleihung, auf Website, im Slack, auf Twitter,
+-   Logo auf der Website, eigene Reisestipendien-Email, auf Website, im Slack, auf Twitter,
     eigene Folie in der Slideshow zwischen allen Präsentation im
     Haupthörsaal
 
