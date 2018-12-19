@@ -48,7 +48,11 @@
 	      <!-- Process page only if it's on the same path as the current page regarding language and conference -->
               {% if node.url contains lang and node_conf2019 == page_conf2019 %}
                 <!-- node.url does not contain file endings and is relative: make absolute and append file ending -->
-		<li><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
+		  {% if node_conf2019 %}
+		    <li class='navbar-conflink'><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
+		  {% else %}
+		    <li><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
+		  {% endif %}
               {% endif %}
             {% endunless %}
           {% endfor %}
