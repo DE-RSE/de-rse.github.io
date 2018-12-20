@@ -21,4 +21,6 @@ The founding board consists of Frank Löffler (Friedrich Schiller University Jen
 
 ![founding board]({{ "/assets/img/blog/2018/2018-11_de_rse_grundueng_vorstand.jpg" | prepend: site.baseurl }}){: width="400px"}
 
+{% comment %}
 [[Press release](assets/pdf/association/press/press-release-de-rse-association.pdf)]
+{% endcomment %}
