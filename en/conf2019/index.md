@@ -15,6 +15,8 @@ weight: 1
 
 **Where:** Albert Einstein Science Park in Potsdam
 
+**Call for Contributions:** [Submit your contribution at derse19.uni-jena.de/derse19/](https://derse19.uni-jena.de/derse19/) until 28 February 2019, 23:59:59 (CET)
+
 ## Updates
 
 Register at [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) to get the latest updates.
