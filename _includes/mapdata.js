@@ -387,5 +387,17 @@ var rseFeatures = [
             "type": "Point", 
             "coordinates": [9.72760, 52.37701]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Ronny Gey",
+            "popupContent": '<a href="mailto:gey@ub.uni-leipzig.de">Ronny Gey</a><br>' +
+            '<a href="http://ub.uni-leipzig.de/">Universitätsbibliothek Leipzig</a>'+ 
+            '<a href="http://www.sosciso.de">SoSciSo</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [12.37476, 51.34067]
+        }
     }
 ];
