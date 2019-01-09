@@ -19,6 +19,8 @@ Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge 
 
 Es wird erwartet, dass mindestens eine Person aus der Autorenschaft einer angenommenen Einreichung an der Konferenz teilnimmt und den Beitrag präsentiert.
 
+<a href="https://derse19.uni-jena.de/derse19/cfp" class="btn btn-info glyphicon-pencil" target="_blank"> Zur Einreichung: hier klicken (https://derse19.uni-jena.de/derse19/)</a>
+
 ## Konferenz-Sessions, Themen und Einreichungstypen
 
 **deRSE19** hat keine vordefinierten thematischen Tracks. Vielmehr werden Sessions anhand der

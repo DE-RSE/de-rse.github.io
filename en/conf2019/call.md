@@ -19,6 +19,8 @@ The organising committee welcomes submissions for workshops, talks, and posters 
 
 At least one author of successful submissions is expected to attend the conference to present.
 
+<a href="https://derse19.uni-jena.de/derse19/cfp" class="btn btn-info glyphicon-pencil" target="_blank"> Click here to submit a contribution (https://derse19.uni-jena.de/derse19/)</a>
+
 ## Conference sessions, themes and types of contribution
 
 **deRSE19** has no pre-defined thematic tracks. Instead, sessions will be inductively created
