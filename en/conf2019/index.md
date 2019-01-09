@@ -32,3 +32,22 @@ We are expecting a lively mix of 200 attendees from different research domains. 
 Stay in touch and get the latest updates by registering at [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org). We will announce the call for sessions soon, followed by the calls for talks, posters, workshops and tutorials by the end of the year. Updates about the conference are also available via [@RSE_de on Twitter](https://twitter.com/rse_de). The hashtag for the event is #deRSE19.
 
 If you have any questions about the conference, please contact the conference organisers at [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
+
+## Organizer
+
+![gi logo](https://gi.de/fileadmin/GI/Allgemein/Logos/GI.png){: width="100px"}
+[Gesellschaft für Informatik e.V. (GI)](http://www.gi.de)
+
+## Co-organising Institutions
+
+[Research Unit Potsdam of the Alfred Wegener Institute (AWI)](https://www.awi.de/en/about-us/sites/potsdam/standort.html)
+
+![gfz logo](https://www.gfz-potsdam.de/fileadmin/gfz/medien_kommunikation/Infothek/Mediathek/Bilder/GFZ/GFZ_Logo/GFZ-Logo_eng_RGB.svg){: width="100px"} 
+[Helmholtz-Zentrums Potsdam - Deutsches GeoForschungsZentrum GFZ](https://www.gfz-potsdam.de/)
+
+![pik logo]({{ "/assets/img/conf/pik.png" | prepend: site.baseurl }}){: width="100px"}
+[Potsdam Institute for Climate Impact Research (PIK)](https://www.pik-potsdam.de/)
+
+## Oranzing Commitee
+
+You can find organizing persons at the [contact page]({{ site.baseurl }}{% link en/conf2019/contact.md %}).
