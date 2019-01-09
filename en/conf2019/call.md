@@ -76,11 +76,12 @@ on a specific topic. They may take different forms, e.g., as hands-on tutorial,
 discussion and [speed-blogging](https://www.software.ac.uk/term/speed-blogging)
 session, hack session, etc., as well as splinter meetings for special interest groups, and birds-of-a-feather (BoF) events.
 
-Workshops, splinter meetings and BoFs run over a length of either *90 or 180 minutes*.
+Workshops run over a length of either *90 or 180 minutes*.  
+Splinter meetings and BoFs run over a length of either *30-90 minutes*.
 
 #### Talks
 
-Talks may have a length of *15-30 mins. + time for Q&A and discussion*, depending
+Talks may have a length of *15-30 mins., including time for Q&A and discussion*, depending
 on the number of talks in the respective session. If your talk is accepted, you
 will be notified about the length of the talk by the session chair.
 
