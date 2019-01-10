@@ -3,7 +3,7 @@ baseurl:
 title: de-RSE.org
 author: Stephan Druskat
 email: mail [at] sdruskat [dot]
-description: A Jekyll theme based on tufte-css
+description: Website of de-RSE e.V. - Gesellschaft für Forschungssoftware
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
