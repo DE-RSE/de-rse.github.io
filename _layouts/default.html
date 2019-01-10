@@ -18,43 +18,43 @@
                 <ul class='nav navbar-nav'>
                     <!-- Set variable "lang" to reflect page language -->
                     {% if page.url contains "/en/" %}
-                    {% assign lang = "/en/" %}
-                    {% assign conf2019_title = "deRSE19 Conference" %}
+                        {% assign lang = "/en/" %}
+                        {% assign conf2019_title = "deRSE19 Conference" %}
                     {% elsif page.url contains "/de/" %}
-                    {% assign lang ="/de/" %}
-                    {% assign conf2019_title = "deRSE19 Konferenz" %}
+                        {% assign lang ="/de/" %}
+                        {% assign conf2019_title = "deRSE19 Konferenz" %}
                     {% endif %}
                     <!-- Set variable "page_conf2019" to reflect if we are on a conference page -->
                     {% assign page_conf2019 = false %}
                     {% assign conf2019_link = "conf2019/index.html" %}
                     {% if page.url contains "/conf2019/" %}
-                    {% assign page_conf2019 = true %}
-                    {% assign conf2019_link = "index.html" %}
-                    <li class='navbar-conflink'><a href='{{ conf2019_link | prepend: site.baseurl }}'>{{ conf2019_title }}</a></li>
+                        {% assign page_conf2019 = true %}
+                        {% assign conf2019_link = "index.html" %}
+                        <li class='navbar-conflink'><a href='{{ conf2019_link | prepend: site.baseurl }}'>{{ conf2019_title }}</a></li>
                     {% endif %}
                     <!-- Get a list of pages sorted by the "weight" variable from the YAML header of each page file -->
                     {% assign pg = site.pages | sort: "weight" %}
                     {% for node in pg %}
-                    <!-- Neglect imprint.html and index.html in either language -->
-                    {% unless node.path contains "imprint" or node.path contains "index" %}
-                    <!-- Set variable "node_conf2019" if node links to a conference page -->
-                    {% assign node_conf2019 = false %}
-                    {% if node.url contains "/conf2019/" %}
-                    {% assign node_conf2019 = true %}
-                    {% endif %}
-                    <!-- Process page only if it's on the same path as the current page regarding language and conference -->
-                    {% if node.url contains lang and node_conf2019 == page_conf2019 %}
-                    <!-- node.url does not contain file endings and is relative: make absolute and append file ending -->
-                    {% if node_conf2019 %}
-                    <li class='navbar-conflink'><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
-                    {% else %}
-                    <li><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
-                    {% endif %}
-                    {% endif %}
-                    {% endunless %}
+                        <!-- Neglect imprint.html and index.html in either language -->
+                        {% unless node.path contains "imprint" or node.path contains "index" %}
+                            <!-- Set variable "node_conf2019" if node links to a conference page -->
+                            {% assign node_conf2019 = false %}
+                            {% if node.url contains "/conf2019/" %}
+                                {% assign node_conf2019 = true %}
+                            {% endif %}
+                            <!-- Process page only if it's on the same path as the current page regarding language and conference -->
+                            {% if node.url contains lang and node_conf2019 == page_conf2019 %}
+                                <!-- node.url does not contain file endings and is relative: make absolute and append file ending -->
+                                {% if node_conf2019 %}
+                                    <li class='navbar-conflink'><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
+                                {% else %}
+                                    <li><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
+                                {% endif %}
+                            {% endif %}
+                        {% endunless %}
                     {% endfor %}
                     {% unless page_conf2019 %}
-                    <li class='navbar-conflink'><a href='{{ conf2019_link | prepend: site.baseurl }}'>{{ conf2019_title }}</a></li>
+                        <li class='navbar-conflink'><a href='{{ conf2019_link | prepend: site.baseurl }}'>{{ conf2019_title }}</a></li>
                     {% endunless %}
                 </ul>
                 <ul class='nav navbar-nav pull-right'>
@@ -63,12 +63,12 @@
                     {% assign de-url = page.url | replace: "/en/", "/de/" %}
                     <!-- Ignore index pages, as their URL will always be '/{language}/', not a specific site -->
                     {% unless page.path contains "index" %}
-                    {% assign en-url = en-url | append: ".html" %}
-                    {% assign de-url = de-url | append: ".html" %}
+                        {% assign en-url = en-url | append: ".html" %}
+                        {% assign de-url = de-url | append: ".html" %}
                     {% endunless %}
                     {% if page.path contains "404" %}
-                    {% assign en-url = "/en/" %}
-                    {% assign de-url = "/de/" %}
+                        {% assign en-url = "/en/" %}
+                        {% assign de-url = "/de/" %}
                     {% endif %}
                     <li><a href='{{ de-url | prepend: site.baseurl }}'>Deutsch</a></li>
                     <li><a href='{{ en-url | prepend: site.baseurl }}'>English</a></li>
