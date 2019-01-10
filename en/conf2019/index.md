@@ -51,4 +51,4 @@ If you have any questions about the conference, please contact the conference or
 
 ## Organizing Committee
 
-You can find organizing persons at the [contact page]({{ site.baseurl }}{% link en/conf2019/contact.md %}).
+More information about the people involved in the organization of the conference can be found on the [contact page]({{ site.baseurl }}{% link en/conf2019/contact.md %}).
