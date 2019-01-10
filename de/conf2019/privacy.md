@@ -2,6 +2,8 @@
 layout: default
 title: "Datenschutz"
 weight: 200
+ischild: true
+parent: info
 ---
 
 # Datenschutzordnung
