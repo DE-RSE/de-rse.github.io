@@ -49,6 +49,6 @@ If you have any questions about the conference, please contact the conference or
 ![pik logo]({{ "/assets/img/conf/pik.png" | prepend: site.baseurl }}){: width="100px"}
 [Potsdam Institute for Climate Impact Research (PIK)](https://www.pik-potsdam.de/)
 
-## Oranzing Commitee
+## Organizing Committee
 
 You can find organizing persons at the [contact page]({{ site.baseurl }}{% link en/conf2019/contact.md %}).

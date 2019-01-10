@@ -48,7 +48,7 @@ Wenn Fragen zur Konferenz aufkommen, wende Dich bitte an das Organisatonsteam de
 ![pik logo]({{ "/assets/img/conf/pik.png" | prepend: site.baseurl }}){: width="100px"}
 [Potsdam-Institut für Klimafolgenforschung (PIK)](https://www.pik-potsdam.de/)
 
-## Konferenzkommitee
+## Konferenzkomitee
 
 Die organisierenden Personen sind auf der [Kontakt-Seite]({{ site.baseurl }}{% link de/conf2019/contact.md %}) zu finden.
 
