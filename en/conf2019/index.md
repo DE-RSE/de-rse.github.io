@@ -40,6 +40,7 @@ If you have any questions about the conference, please contact the conference or
 
 ## Co-organising Institutions
 
+![awi logo]({{ "/assets/img/conf/awi_logo.svg" | prepend: site.baseurl }}){: width="100px"}
 [Research Unit Potsdam of the Alfred Wegener Institute (AWI)](https://www.awi.de/en/about-us/sites/potsdam/standort.html)
 
 ![gfz logo](https://www.gfz-potsdam.de/fileadmin/gfz/medien_kommunikation/Infothek/Mediathek/Bilder/GFZ/GFZ_Logo/GFZ-Logo_eng_RGB.svg){: width="100px"} 
