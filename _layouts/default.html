@@ -46,7 +46,23 @@
                             {% if node.url contains lang and node_conf2019 == page_conf2019 %}
                                 <!-- node.url does not contain file endings and is relative: make absolute and append file ending -->
                                 {% if node_conf2019 %}
-                                    <li class='navbar-conflink'><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
+                                    <!-- Identify parents and children for dropdown -->
+                                    {% if node.isparent == true %}
+                                        {% capture parent_id %}{{ node.name | remove: ".md" }}{% endcapture %}
+                                        <li class='navbar-conflink dropdown'>
+                                            <a class="nav-link dropdown-toggle" href='{{ node.url | prepend: site.baseurl | append: ".html" }}'  id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ node.title }} &#x25BC;</a>
+                                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                {% for node in pg %}
+                                                    {% if node.parent == parent_id and node.url contains lang%}
+                                                        <a class="dropdown-item" href="{{ node.url | prepend: site.baseurl | append: ".html" }}">{{ node.title }}</a>
+                                                    {% endif %}
+                                                {% endfor %}
+                                            </div>
+                                        </li>
+                                        {% capture parent_id %}"false"{% endcapture %}
+                                    {% elsif node.ischild != true %}
+                                            <li class='navbar-conflink'><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
+                                    {% endif %}
                                 {% else %}
                                     <li><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
                                 {% endif %}
@@ -63,12 +79,12 @@
                     {% assign de-url = page.url | replace: "/en/", "/de/" %}
                     <!-- Ignore index pages, as their URL will always be '/{language}/', not a specific site -->
                     {% unless page.path contains "index" %}
-                        {% assign en-url = en-url | append: ".html" %}
-                        {% assign de-url = de-url | append: ".html" %}
+                    {% assign en-url = en-url | append: ".html" %}
+                    {% assign de-url = de-url | append: ".html" %}
                     {% endunless %}
                     {% if page.path contains "404" %}
-                        {% assign en-url = "/en/" %}
-                        {% assign de-url = "/de/" %}
+                    {% assign en-url = "/en/" %}
+                    {% assign de-url = "/de/" %}
                     {% endif %}
                     <li><a href='{{ de-url | prepend: site.baseurl }}'>Deutsch</a></li>
                     <li><a href='{{ en-url | prepend: site.baseurl }}'>English</a></li>
