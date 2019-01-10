@@ -19,6 +19,8 @@ Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge 
 
 Es wird erwartet, dass mindestens eine Person aus der Autorenschaft einer angenommenen Einreichung an der Konferenz teilnimmt und den Beitrag präsentiert.
 
+<a href="https://derse19.uni-jena.de/derse19/cfp" class="btn btn-info glyphicon-pencil" target="_blank"> Zur Einreichung: hier klicken (https://derse19.uni-jena.de/derse19/)</a>
+
 ## Konferenz-Sessions, Themen und Einreichungstypen
 
 **deRSE19** hat keine vordefinierten thematischen Tracks. Vielmehr werden Sessions anhand der
@@ -78,11 +80,12 @@ Tutorial, Diskussions- und [Speed-Blogging](https://www.software.ac.uk/term/spee
 Hack Session, etc., oder als Splinter Meeting für Arbeitsgruppen mit speziellen, scharf umrissenen
 Interessen bzw. Birds-of-a-Feather-Treffen zum Austausch.
 
-Workshops, Splinter Meetings und BoFs können *90 oder 180 Minuten* lang sein.
+Workshops können *90 oder 180 Minuten* lang sein.
+Splinter Meetings und BoFs können *zwischen 30 und 90 Minuten* lang sein.
 
 #### Vorträge
 
-Vorträge haben eine Länge von *15-30 Minuten + Zeit für Diskussion*, abhängig davon
+Vorträge haben eine Länge von *15-30 Minuten, inkl. Zeit für Fragen und Diskussion*, abhängig davon
 wieviele Vorträge in einer Session zusammengefasst werden. Wenn Dein Vortrag angenommen wird,
 wird Dir die Länge vom Session Chair mitgeteilt.
 
