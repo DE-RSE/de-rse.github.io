@@ -94,8 +94,7 @@ Allocated - details to follow.
 
 ### Travel grants: €500 (unlimited)
 
--   Logo auf der Website, eigene Reisestipendien-Email, auf Website, im Slack, auf Twitter,
-    Slide in the looped slide show before/between presentation slots (including
+-   Logo on the website and printed brochure (if applicable), dedicated travel stipends email, named on website, in Slack, on Twitter, slide in the looped slide show before/between presentation slots (including
 keynotes) in the main conference room
     
 ### Support: €500 (unlimited)
