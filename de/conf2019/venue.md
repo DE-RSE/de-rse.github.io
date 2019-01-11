@@ -2,6 +2,8 @@
 layout: default 
 title: Veranstaltungsort
 weight: 1
+ischild: true
+parent: info
 ---
 
 # Wissenschaftspark Albert Einstein

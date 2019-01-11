@@ -2,6 +2,8 @@
 layout: default 
 title: Venue
 weight: 1
+parent: info
+ischild: true
 ---
 
 # Albert Einstein Science Park
