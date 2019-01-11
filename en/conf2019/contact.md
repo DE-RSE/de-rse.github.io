@@ -30,7 +30,7 @@ If you have a specific question, feel free to get in touch with the appropriate 
 * **Workshops Chair**: [Konrad Förstner](mailto:konrad@foerstner.org) (Uni Würzburg)
 * **Poster Chair**: [Bernadette Fritzsch](mailto:Bernadette.Fritzsch@awi.de) (AWI)
 * **Diversity Chair**: [Joachim Wuttke](mailto:j.wuttke@fz-juelich.de) (FZJ)
-* **International Chairs**: [Kaja Scheliga](mailto:kaja.scheliga@os.helmholtz.de) (HGF), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
+* **International Chairs**: [Kaja Scheliga](mailto:kaja.scheliga@os.helmholtz.de) (HGF, Helmholtz Open Science Coordiantion Office), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
 * **Logistics Representatives**: [Martin Hammitzsch](mailto:martin.hammitzsch@gfz-potsdam.de) (GFZ), [Jan Dietrich](mailto:dietrich@pik-potsdam.de) (PIK), [Frederieke Miesner](mailto:frederieke.miesner@awi.de) (AWI)
  
 
@@ -40,7 +40,7 @@ If you have a specific question, feel free to get in touch with the appropriate 
 ![GFZ logo](https://www.gfz-potsdam.de/fileadmin/gfz/medien_kommunikation/Infothek/Mediathek/Bilder/GFZ/GFZ_Logo/GFZ-Logo_eng_RGB.svg){: width="75px"}
 ![FZJ logo]({{ "/assets/img/conf/FZJ_Logo.svg" | prepend: site.baseurl }}){: width="150px"}
 ![HU logo]({{ "/assets/img/conf/Huberlin-logo.svg.png" | prepend: site.baseurl }}){: width="75px"}
-![HGF logo]({{ "/assets/img/conf/HGF_Logo.svg.png" | prepend: site.baseurl }}){: width="120px"}
+![HGF logo]({{ "/assets/img/conf/hgf_open_science.svg" | prepend: site.baseurl }}){: width="100px"}
 ![MPI-CBG logo]({{ "/assets/img/conf/CBG_Logo.png" | prepend: site.baseurl }}){: width="120px"}
 ![pik logo]({{ "/assets/img/conf/pik.png" | prepend: site.baseurl }}){: width="100px"}
 ![uni jena logo]({{ "/assets/img/conf/UniJena.png" | prepend: site.baseurl }}){: width="120px"}
