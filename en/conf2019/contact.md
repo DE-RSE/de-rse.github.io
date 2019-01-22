@@ -8,7 +8,7 @@ weight: 2
 
 Questions about the conference: [konferenz@de-rse.org](mailto:konferenz@de-rse.org)
 
-News are distributed via the mailing list [konferenz-updates@de-rse.org](mailto:https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org), Twitter [@RSE_de](https://twitter.com/RSE_de) and of course <https://www.de-rse.org/en/conf2019>.
+News are distributed via the mailing list [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org), Twitter [@RSE_de](https://twitter.com/RSE_de) and of course <https://www.de-rse.org/en/conf2019>.
 
 If you have a specific question, feel free to get in touch with the appropriate person as listed below.
 
