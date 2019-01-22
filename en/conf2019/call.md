@@ -17,7 +17,7 @@ The organising committee welcomes submissions for workshops, talks, and posters 
 - 22 March 2019 - Notification of acceptance
 - 04-06 June 2019 - deRSE19 conference
 
-At least one author of successful submissions is expected to attend the conference to present.
+If your submission is accepted, at least one of the authors is expected to attend the conference to present. Please note that conference fees apply at registration.
 
 <a href="https://derse19.uni-jena.de/derse19/cfp" class="btn btn-info glyphicon-pencil" target="_blank"> Click here to submit a contribution (https://derse19.uni-jena.de/derse19/)</a>
 

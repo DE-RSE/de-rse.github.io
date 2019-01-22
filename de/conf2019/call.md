@@ -17,7 +17,7 @@ Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge 
 - Fr., 22. März 2019 - Mitteilung von Entscheidungen zur Annahme
 - 04.-06. Juni 2019 - deRSE19-Konferenz
 
-Es wird erwartet, dass mindestens eine Person aus der Autorenschaft einer angenommenen Einreichung an der Konferenz teilnimmt und den Beitrag präsentiert.
+Es wird erwartet, dass mindestens eine Person aus der Autorenschaft einer angenommenen Einreichung an der Konferenz teilnimmt und den Beitrag präsentiert. Bei Registrierung zur Teilnahme fallen Konferenzgebühren an.
 
 <a href="https://derse19.uni-jena.de/derse19/cfp" class="btn btn-info glyphicon-pencil" target="_blank"> Zur Einreichung: hier klicken (https://derse19.uni-jena.de/derse19/)</a>
 
