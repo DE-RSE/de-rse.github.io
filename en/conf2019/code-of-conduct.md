@@ -1,7 +1,7 @@
 --- 
 layout: default 
 title: Code of Conduct
-weight: 2
+weight: 250
 parent: info
 ischild: true
 ---

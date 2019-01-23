@@ -1,7 +1,7 @@
 --- 
 layout: default
 title: Kontakt
-weight: 2
+weight: 400
 ---
 
 # Kontakt

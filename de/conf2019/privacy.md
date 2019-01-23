@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Datenschutz"
-weight: 200
+weight: 260
 ischild: true
 parent: info
 ---
