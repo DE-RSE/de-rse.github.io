@@ -21,7 +21,7 @@ If you have a specific question, feel free to get in touch with the appropriate 
 * **Sponsorship Chair**: [Stephan Druskat](mailto:stephan.druskat@hu-berlin.de) (HU Berlin)
 * **Financial Chairs**: [Carina Haupt](mailto:carina.haupt@dlr.de) (DLR), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
 * **Volunteers Chairs**: [Thomas Schneider von Deimling](mailto:thomas.schneider@awi.de) (AWI), [Frederieke Miesner](mailto:frederieke.miesner@awi.de) (AWI)
-* **Social Chair**: NN
+* **Social Chairs**: [Heidi Seibold](mailto:hseibold@ibe.med.uni-muenchen.de) (LMU München), [Kaja Scheliga](mailto:kaja.scheliga@os.helmholtz.de) (HGF, Helmholtz Open Science Koordinationsbüro)
 
 ## Program
 
