@@ -71,8 +71,9 @@ Einreichungen können in Deutsch oder Englisch verfasst werden. Details folgen.
 Workshops sind interaktive Teile der Konferenz, die den Teilnehmenden die Möglichkeit zur Zusammenarbeit
 zu einem bestimmten Thema geben. Sie können verschieden organisiert sein, z.B. als
 Tutorial, Diskussions- und [Speed-Blogging](https://www.software.ac.uk/term/speed-blogging)-Session,
-Hack Session, etc., oder als Splinter Meeting für Arbeitsgruppen mit speziellen, scharf umrissenen
-Interessen bzw. Birds-of-a-Feather-Treffen zum Austausch.
+Hack Session.
+Splinter Meetings dienen Arbeitsgruppen mit speziellen, scharf umrissenen Interessen.
+Birds-of-a-Feather (BoF) sind informelle Treffen ohne vorgeplante Agenda zum Austausch über ein bestimmtes Thema.
 
 Workshops können *90 oder 180 Minuten* lang sein.
 Splinter Meetings und BoFs können *zwischen 30 und 90 Minuten* lang sein.
