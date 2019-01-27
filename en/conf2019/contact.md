@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 title: Contact
 weight: 400
@@ -29,10 +29,10 @@ If you have a specific question, feel free to get in touch with the appropriate 
 * **Talks Chairs**: [Tobias Schlauch](mailto:tobias.schlauch@dlr.de) (DLR), [Prof. Wilhelm Hasselbring](mailto:hasselbring@email.uni-kiel.de) (Uni Kiel)
 * **Workshops Chair**: [Konrad Förstner](mailto:konrad@foerstner.org) (Uni Würzburg)
 * **Poster Chair**: [Bernadette Fritzsch](mailto:Bernadette.Fritzsch@awi.de) (AWI)
-* **Diversity Chair**: [Joachim Wuttke](mailto:j.wuttke@fz-juelich.de) (FZJ)
-* **International Chairs**: [Kaja Scheliga](mailto:kaja.scheliga@os.helmholtz.de) (HGF, Helmholtz Open Science Coordiantion Office), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
+* **Diversity Chair**: [Joachim Wuttke](mailto:j.wuttke@fz-juelich.de) (FZJ, Garching)
+* **International Chairs**: [Kaja Scheliga](mailto:kaja.scheliga@os.helmholtz.de) (HGF, Helmholtz Open Science Coordination Office), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
 * **Logistics Representatives**: [Martin Hammitzsch](mailto:martin.hammitzsch@gfz-potsdam.de) (GFZ), [Jan Dietrich](mailto:dietrich@pik-potsdam.de) (PIK), [Frederieke Miesner](mailto:frederieke.miesner@awi.de) (AWI)
- 
+
 
 
 ![awi logo]({{ "/assets/img/conf/awi_logo.svg" | prepend: site.baseurl }}){: width="75px"}
