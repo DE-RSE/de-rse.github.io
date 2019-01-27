@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 title: Kontakt
 weight: 400
@@ -26,7 +26,7 @@ Bei speziellen Fragen kontaktiere die entsprechenden Personen aus dem Komitee.
 ## Programm
 
 * **Program Chairs**: [Stephan Druskat](mailto:stephan.druskat@hu-berlin.de) (HU Berlin), [Frank Löffler](mailto:frank.loeffler@uni-jena.de)
-* **Talks Chairs**: [Tobias Schlauch](mailto:tobias.schlauch@dlr.de) (DLR), [Prof. Wilhelm Hasselbring](mailto:hasselbring@email.uni-kiel.de) (Uni Kiel)
+* **Talks Chairs**: [Tobias Schlauch](mailto:tobias.schlauch@dlr.de) (DLR), [Wilhelm Hasselbring](mailto:hasselbring@email.uni-kiel.de) (Uni Kiel)
 * **Workshops Chair**: [Konrad Förstner](mailto:konrad@foerstner.org) (Uni Würzburg)
 * **Poster Chair**: [Bernadette Fritzsch](mailto:Bernadette.Fritzsch@awi.de) (AWI)
 * **Diversity Chair**: [Joachim Wuttke](mailto:j.wuttke@fz-juelich.de) (FZJ)
