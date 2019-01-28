@@ -29,7 +29,7 @@ Bei speziellen Fragen kontaktiere die entsprechenden Personen aus dem Komitee.
 * **Talks Chairs**: [Tobias Schlauch](mailto:tobias.schlauch@dlr.de) (DLR), [Wilhelm Hasselbring](mailto:hasselbring@email.uni-kiel.de) (Uni Kiel)
 * **Workshops Chair**: [Konrad Förstner](mailto:konrad@foerstner.org) (Uni Würzburg)
 * **Poster Chair**: [Bernadette Fritzsch](mailto:Bernadette.Fritzsch@awi.de) (AWI)
-* **Diversity Chair**: [Joachim Wuttke](mailto:j.wuttke@fz-juelich.de) (FZJ)
+* **Diversity Chair**: [Joachim Wuttke](mailto:j.wuttke@fz-juelich.de) (FZJ, Garching)
 * **International Chairs**: [Kaja Scheliga](mailto:kaja.scheliga@os.helmholtz.de) (HGF, Helmholtz Open Science Koordinationsbüro), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
 * **Logistics Representatives**: [Martin Hammitzsch](mailto:martin.hammitzsch@gfz-potsdam.de) (GFZ), [Jan Dietrich](mailto:dietrich@pik-potsdam.de) (PIK), [Frederieke Miesner](mailto:frederieke.miesner@awi.de) (AWI)
 
