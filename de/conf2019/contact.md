@@ -44,4 +44,5 @@ Bei speziellen Fragen kontaktiere die entsprechenden Personen aus dem Komitee.
 ![pik logo]({{ "/assets/img/conf/pik.png" | prepend: site.baseurl }}){: width="100px"}
 ![uni jena logo]({{ "/assets/img/conf/UniJena.png" | prepend: site.baseurl }}){: width="120px"}
 ![uni kiel logo]({{ "/assets/img/conf/Uni_Kiel.svg.png" | prepend: site.baseurl }}){: width="60px"}
+![uni münchen logo]({{ "/assets/img/conf/LMU_Logo.png" | prepend: site.baseurl }}){: width="50px"}
 ![zb med logo]({{ "/assets/img/conf/ZBMED_cymk.eps.png" | prepend: site.baseurl }}){: width="80px"}
