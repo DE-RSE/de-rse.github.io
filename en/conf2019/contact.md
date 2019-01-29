@@ -21,7 +21,7 @@ If you have a specific question, feel free to get in touch with the appropriate 
 * **Sponsorship Chair**: [Stephan Druskat](mailto:stephan.druskat@hu-berlin.de) (HU Berlin)
 * **Financial Chairs**: [Carina Haupt](mailto:carina.haupt@dlr.de) (DLR), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
 * **Volunteers Chairs**: [Thomas Schneider von Deimling](mailto:thomas.schneider@awi.de) (AWI), [Frederieke Miesner](mailto:frederieke.miesner@awi.de) (AWI)
-* **Social Chair**: NN
+* **Social Chairs**: [Heidi Seibold](mailto:hseibold@ibe.med.uni-muenchen.de) (LMU München), [Kaja Scheliga](mailto:kaja.scheliga@os.helmholtz.de) (HGF, Helmholtz Open Science Koordinationsbüro)
 
 ## Program
 
@@ -45,4 +45,5 @@ If you have a specific question, feel free to get in touch with the appropriate 
 ![pik logo]({{ "/assets/img/conf/pik.png" | prepend: site.baseurl }}){: width="100px"}
 ![uni jena logo]({{ "/assets/img/conf/UniJena.png" | prepend: site.baseurl }}){: width="120px"}
 ![uni kiel logo]({{ "/assets/img/conf/Uni_Kiel.svg.png" | prepend: site.baseurl }}){: width="60px"}
+![uni münchen logo]({{ "/assets/img/conf/LMU_Logo.png" | prepend: site.baseurl }}){: width="50px"}
 ![zb med logo]({{ "/assets/img/conf/ZBMED_cymk.eps.png" | prepend: site.baseurl }}){: width="80px"}
