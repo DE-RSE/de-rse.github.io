@@ -28,5 +28,5 @@ the following measures:
 * **Evaluation and tracking** - Feedback regarding conference
   atmosphere, equity, inclusion, integrity, and diversity will
   be collected and evaluated. Results, and registration statistics,
-  will be forwarded to the organizers of the next conference,
-  for the benefit of future tracking.
+  will be forwarded to the organizers of the next conference for the
+  benefit of future tracking, and used to inform diversity reports.
