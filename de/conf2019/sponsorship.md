@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sponsorship"
-weight: 100
+weight: 300
 ---
 
 # deRSE19 - Call for Sponsors
@@ -55,21 +55,9 @@ Researchers.
 
 Vergeben - nähere Informationen folgen.
 
-### Gold: €7.500 (1x)
+### <del style="color: gray;">Gold: €7.500 (1x)</del>
 
--   Keynote (Tag 2, nach der Community-Keynote, 30 Min.)
--   1 Workshop
--   Stand in der Konferenzausstellung
--   Sponsor der Drinks Reception Tag 1
--   2 Konferenzregistrierungen
--   eigene Folie in der Slideshow zwischen allen Präsentation im
-    Haupthörsaal
--   zweimalige Möglichkeit der direkten Ansprache (150 Wörter) in Email
-    von Konferenzorganisatoren an Teilnehmende
--   Logo auf der Konferenzwebsite und im gedruckten Programm (wenn
-    erhältlich)
--   Dedizierter Tweet vom @RSE\_de-Twitter-Account und im
-    \#general-Kanal des deRSE-Slack
+Vergeben - nähere Informationen folgen.
 
 ### Silber: €5.000 (5x)
 

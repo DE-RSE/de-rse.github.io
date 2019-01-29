@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Privacy policy"
-weight: 200
+weight: 260
 ischild: true
 parent: info
 ---

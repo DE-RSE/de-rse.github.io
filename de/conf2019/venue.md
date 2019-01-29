@@ -1,7 +1,7 @@
 --- 
 layout: default 
 title: Veranstaltungsort
-weight: 1
+weight: 240
 ischild: true
 parent: info
 ---

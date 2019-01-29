@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Call for Contributions"
-weight: 1
+weight: 100
 ---
 
 # deRSE19 - Call for Contributions
@@ -17,7 +17,7 @@ Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge 
 - Fr., 22. März 2019 - Mitteilung von Entscheidungen zur Annahme
 - 04.-06. Juni 2019 - deRSE19-Konferenz
 
-Es wird erwartet, dass mindestens eine Person aus der Autorenschaft einer angenommenen Einreichung an der Konferenz teilnimmt und den Beitrag präsentiert.
+Es wird erwartet, dass mindestens eine Person aus der Autorenschaft einer angenommenen Einreichung an der Konferenz teilnimmt und den Beitrag präsentiert. Bei Registrierung zur Teilnahme fallen Konferenzgebühren an.
 
 <a href="https://derse19.uni-jena.de/derse19/cfp" class="btn btn-info glyphicon-pencil" target="_blank"> Zur Einreichung: hier klicken (https://derse19.uni-jena.de/derse19/)</a>
 
@@ -58,15 +58,9 @@ Wenn Du Fragen zur Konferenz im Allgemeinen oder speziell zur Einreichung hast, 
 
 ## Einreichungen
 
-Der Fokus von deRSE19 liegt auf der Gemeinschaft.
-Daher fragen wir nicht nach formellen akademischen Abstracts die einer spezifischen Struktur folgen.
-Einreichungen zu deRSE19 folgen einer freieren Form.
+Der Fokus von deRSE19 liegt auf der Gemeinschaft. Daher fragen wir nicht nach formellen akademischen Abstracts die einer spezifischen Struktur folgen. Einreichungen zu deRSE19 folgen einer freieren Form.
 
-Für die Einreichung ist ein Einreichungsformular auszufüllen (Link folgt). Dieses Formular
-besteht aus einem Textfeld zur Eingabe einer kurzen Zusammenfassung ("Abstract"), sowie
-anderen für weitere Details zu Deiner Person. Wir erheben diese Informationen,
-weil wir mehr über Deinen Background, Deine Perspektive, Deine Erfahrung erfahren wollen. Das wird
-uns dabei helfen, die RSE-Gemeinschaft in Deutschland besser kennenzulernen.
+Für die Einreichung ist ein [Einreichungsformular](https://derse19.uni-jena.de/derse19/cfp) auszufüllen. Dieses Formular besteht aus einem Textfeld zur Eingabe einer kurzen Zusammenfassung ("Abstract"), sowie anderen für weitere Details zu Deiner Person. Wir erheben diese Informationen, weil wir mehr über Deinen Background, Deine Perspektive, Deine Erfahrung erfahren wollen. Das wird uns dabei helfen, die RSE-Gemeinschaft in Deutschland besser kennenzulernen.
 
 Einreichungen können in Deutsch oder Englisch verfasst werden. Details folgen.
 

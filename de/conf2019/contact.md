@@ -1,14 +1,14 @@
---- 
+---
 layout: default
 title: Kontakt
-weight: 2
+weight: 400
 ---
 
 # Kontakt
 
 Bei Fragen rund um die Konferenz: [konferenz@de-rse.org](mailto:konferenz@de-rse.org)
 
-Neuigkeiten gibt es über die Mailingliste [konferenz-updates@de-rse.org](mailto:https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org), auf Twitter [@RSE_de](https://twitter.com/RSE_de) und natürlich auf <https://www.de-rse.org/conf2019>.
+Neuigkeiten gibt es über die Mailingliste [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org), auf Twitter [@RSE_de](https://twitter.com/RSE_de) und natürlich auf <https://www.de-rse.org/de/conf2019>.
 
 Bei speziellen Fragen kontaktiere die entsprechenden Personen aus dem Komitee.
 
@@ -26,10 +26,10 @@ Bei speziellen Fragen kontaktiere die entsprechenden Personen aus dem Komitee.
 ## Programm
 
 * **Program Chairs**: [Stephan Druskat](mailto:stephan.druskat@hu-berlin.de) (HU Berlin), [Frank Löffler](mailto:frank.loeffler@uni-jena.de)
-* **Talks Chairs**: [Tobias Schlauch](mailto:tobias.schlauch@dlr.de) (DLR), [Prof. Wilhelm Hasselbring](mailto:hasselbring@email.uni-kiel.de) (Uni Kiel)
+* **Talks Chairs**: [Tobias Schlauch](mailto:tobias.schlauch@dlr.de) (DLR), [Wilhelm Hasselbring](mailto:hasselbring@email.uni-kiel.de) (Uni Kiel)
 * **Workshops Chair**: [Konrad Förstner](mailto:konrad@foerstner.org) (Uni Würzburg)
 * **Poster Chair**: [Bernadette Fritzsch](mailto:Bernadette.Fritzsch@awi.de) (AWI)
-* **Diversity Chair**: [Joachim Wuttke](mailto:j.wuttke@fz-juelich.de) (FZJ)
+* **Diversity Chair**: [Joachim Wuttke](mailto:j.wuttke@fz-juelich.de) (FZJ, Garching)
 * **International Chairs**: [Kaja Scheliga](mailto:kaja.scheliga@os.helmholtz.de) (HGF, Helmholtz Open Science Koordinationsbüro), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
 * **Logistics Representatives**: [Martin Hammitzsch](mailto:martin.hammitzsch@gfz-potsdam.de) (GFZ), [Jan Dietrich](mailto:dietrich@pik-potsdam.de) (PIK), [Frederieke Miesner](mailto:frederieke.miesner@awi.de) (AWI)
 

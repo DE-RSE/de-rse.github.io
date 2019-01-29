@@ -1,12 +1,12 @@
 ---
 layout: default
 title: "Call for Contributions"
-weight: 1
+weight: 100
 ---
 
 # deRSE19 - Call for Contributions
 
-Following the success of the [first three international Conferences of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), **deRSE19**, the first international conference in Germany addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
+Following the success of the [first three international Conferences of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), **deRSE19**, the first conference in Germany addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
 
 The organising committee welcomes submissions for workshops, talks, and posters for the deRSE19 conference, as well as for splinter meetings and birds-of-a-feather (BoF) events. The aim is to reflect the diverse community of research software engineers by seeking input from all levels of experience and across a variety of domains, geographic locations, genders, and ethnicities.
 
@@ -17,7 +17,7 @@ The organising committee welcomes submissions for workshops, talks, and posters 
 - 22 March 2019 - Notification of acceptance
 - 04-06 June 2019 - deRSE19 conference
 
-At least one author of successful submissions is expected to attend the conference to present.
+If your submission is accepted, at least one of the authors is expected to attend the conference to present. Please note that conference fees apply at registration.
 
 <a href="https://derse19.uni-jena.de/derse19/cfp" class="btn btn-info glyphicon-pencil" target="_blank"> Click here to submit a contribution (https://derse19.uni-jena.de/derse19/)</a>
 
@@ -56,14 +56,9 @@ If you have any questions about the conference, or the submission of proposals, 
 
 ## Technicalities
 
-The focus of deRSE19 is on community. Therefore, instead of asking you to submit an academic abstract
-following a specific structure, submissions to deRSE19 are a bit more free form.
+The focus of deRSE19 is on community. Therefore, instead of asking you to submit an academic abstract following a specific structure, submissions to deRSE19 are a bit more free form.
 
-Simply fill out the submission form (to be announced). The form includes a field
-for the description of your submission ("abstract") as well as several others,
-asking you for details about yourself. We elicit this information because we
-would like to know a little about your background, your perspective, your
-experience. This will help us to get to know the RSE community in Germany better.
+Simply fill out the [submission form](https://derse19.uni-jena.de/derse19/cfp). The form includes a field for the description of your submission ("abstract") as well as several others, asking you for details about yourself. We elicit this information because we would like to know a little about your background, your perspective, your experience. This will help us to get to know the RSE community in Germany better.
 
 We will accept contributions in English or German. Details to follow.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sponsorship"
-weight: 100
+weight: 300
 ---
 
 # deRSE19 - Call for Sponsors
@@ -49,20 +49,9 @@ research funders, research scholars and Early Career Researchers to attend.
 
 Allocated - details to follow.
 
-### Gold: €7,500 (1x)
+### <del style="color: gray;">Gold: €7,500 (1x)</del>
 
--   Keynote (Day 2, directly after the community keynote, 30 mins.)
--   1 Workshop
--   Stall in the conference exhibition
--   Sponsorship of the Drinks Reception on Day 1
--   2 conference registrations included
--   Slide in the looped slide show before/between presentation slots (including
-keynotes) in the main conference room
--   2 direct communications of 150 words included in emails from the organizers to attendees
--   Logo placement on the conference website and in the printed programme brochure
-(if applicable)
--   Dedicated tweet from the @RSE_de Twitter account (and an @RSE_de conference
-account if applicable), and in the #general channel of the deRSE Slack
+Allocated - details to follow.
 
 ### Silver: €5,000 (5x)
 

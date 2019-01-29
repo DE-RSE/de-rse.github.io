@@ -1,7 +1,7 @@
---- 
-layout: default 
+---
+layout: default
 title: Code of Conduct
-weight: 2
+weight: 250
 parent: info
 ischild: true
 ---
@@ -10,7 +10,7 @@ ischild: true
 
 Die Organisator\*innen von deRSE19 setzen sich ein für eine inklusive, kollaborative, freundliche und belästigungsfreie Erfahrung für alle, unabhängig
 von Geschlecht, Geschlechtsidentität oder -ausdruck, Alter, sexueller Orientierung, körperlicher oder anderer Beeinträchtigung, Erscheinungsbild,
-Körpergröße, Herkunft, Hautfarbe, Religionszugehörigkeit (un -nichtzugehörigkeit), technologischen Vorlieben und anderem Gruppenstatus.
+Körpergröße, Herkunft, Hautfarbe, Religionszu- oder -nichtzugehörigkeit, technologischen Vorlieben und anderem Gruppenstatus.
 
 Um zu verdeutlichen, was wir erwarten: **alle Teilnehmenden der deRSE19** - inklusive Vortragenden, Organisator\*innen, Helfer\*innen und Besucher*innen - **sind verpflichtet, sich an den [Berlin Code of Conduct](http://berlincodeofconduct.org/de/) zu halten**. Dies gilt für die Konferenz sowie alle zugehörigen Events, inklsuive sozialer Veranstaltungen und informeller Treffen außerhalb des Veranstaltungsorts.
 

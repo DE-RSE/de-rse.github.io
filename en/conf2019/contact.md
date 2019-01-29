@@ -1,14 +1,14 @@
---- 
+---
 layout: default
 title: Contact
-weight: 2
+weight: 400
 ---
 
 # Contact
 
 Questions about the conference: [konferenz@de-rse.org](mailto:konferenz@de-rse.org)
 
-News are distributed via the mailing list [konferenz-updates@de-rse.org](mailto:https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org), Twitter [@RSE_de](https://twitter.com/RSE_de) and of course <https://www.de-rse.org/en/conf2019>.
+News are distributed via the mailing list [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org), Twitter [@RSE_de](https://twitter.com/RSE_de) and of course <https://www.de-rse.org/en/conf2019>.
 
 If you have a specific question, feel free to get in touch with the appropriate person as listed below.
 
@@ -26,13 +26,13 @@ If you have a specific question, feel free to get in touch with the appropriate 
 ## Program
 
 * **Program Chairs**: [Stephan Druskat](mailto:stephan.druskat@hu-berlin.de) (HU Berlin), [Frank Löffler](mailto:frank.loeffler@uni-jena.de)
-* **Talks Chairs**: [Tobias Schlauch](mailto:tobias.schlauch@dlr.de) (DLR), [Prof. Wilhelm Hasselbring](mailto:hasselbring@email.uni-kiel.de) (Uni Kiel)
+* **Talks Chairs**: [Tobias Schlauch](mailto:tobias.schlauch@dlr.de) (DLR), [Wilhelm Hasselbring](mailto:hasselbring@email.uni-kiel.de) (Uni Kiel)
 * **Workshops Chair**: [Konrad Förstner](mailto:konrad@foerstner.org) (Uni Würzburg)
 * **Poster Chair**: [Bernadette Fritzsch](mailto:Bernadette.Fritzsch@awi.de) (AWI)
-* **Diversity Chair**: [Joachim Wuttke](mailto:j.wuttke@fz-juelich.de) (FZJ)
-* **International Chairs**: [Kaja Scheliga](mailto:kaja.scheliga@os.helmholtz.de) (HGF, Helmholtz Open Science Coordiantion Office), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
+* **Diversity Chair**: [Joachim Wuttke](mailto:j.wuttke@fz-juelich.de) (FZJ, Garching)
+* **International Chairs**: [Kaja Scheliga](mailto:kaja.scheliga@os.helmholtz.de) (HGF, Helmholtz Open Science Coordination Office), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
 * **Logistics Representatives**: [Martin Hammitzsch](mailto:martin.hammitzsch@gfz-potsdam.de) (GFZ), [Jan Dietrich](mailto:dietrich@pik-potsdam.de) (PIK), [Frederieke Miesner](mailto:frederieke.miesner@awi.de) (AWI)
- 
+
 
 
 ![awi logo]({{ "/assets/img/conf/awi_logo.svg" | prepend: site.baseurl }}){: width="75px"}

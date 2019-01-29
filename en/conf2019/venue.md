@@ -1,7 +1,7 @@
 --- 
 layout: default 
 title: Venue
-weight: 1
+weight: 240
 parent: info
 ischild: true
 ---
