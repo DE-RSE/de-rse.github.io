@@ -8,7 +8,7 @@ parent: info
 
 # Registration
 
-A date for the opening of the reservation as well as the ticket prices are not fixed yet. Once a date is established, we will post it here and through our [information channels](contact.html).
+A date for the opening of the registration, as well as ticket prices, are not fixed yet. Once a date and prices are established, we will post them here and through our [information channels](contact.html).
 
-As a community conference run by volunteers, we try to keep the ticket prices as low as possible. [Sponsorings](sponsorship.html) support us, but will not be enough to cover all costs. For persons who can not afford to participate, we plan to offer financial support.
+As a community conference run by volunteers, we try to keep the ticket prices as low as possible. Our [sponsors](sponsorship.html) support us financially, but this will not be enough to cover all costs. We plan to offer financial support to those who can otherwise not afford to participate.
 
