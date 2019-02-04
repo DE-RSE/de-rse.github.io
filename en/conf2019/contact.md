@@ -16,12 +16,12 @@ If you have a specific question, feel free to get in touch with the appropriate 
 
 ## Organisational
 
-* **Logistics Team**: [Jan Dietrich](mailto:dietrich@pik-potsdam.de) (PIK), [Martin Hammitzsch](mailto:martin.hammitzsch@gfz-potsdam.de) (GFZ), [Thomas Schneider von Deimling](mailto:thomas.schneider@awi.de) (AWI), [Frederieke Miesner](mailto:frederieke.miesner@awi.de) (AWI), Cornelia Auer (PIK), Antonia Cozacu (GFZ), Daniel Beiter (GFZ)
+* **Logistics Team**: [Jan Dietrich (PIK), Cornelia Auer (PIK), Andrea Schwerdtfeger (GFZ), Antonia Cozacu (GFZ), Daniel Beiter (GFZ), Martin Hammitzsch (GFZ), Thomas Schneider von Deimling (AWI), Frederieke Miesner (AWI)](mailto:derse19-locals@gfz-potsdam.de)
 * **Publicity and Website Chairs**: [Frank Löffler](mailto:frank.loeffler@uni-jena.de) (Uni Jena), [Stephan Druskat](mailto:stephan.druskat@hu-berlin.de) (HU Berlin), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
 * **Sponsorship Chair**: [Stephan Druskat](mailto:stephan.druskat@hu-berlin.de) (HU Berlin)
 * **Financial Chairs**: [Carina Haupt](mailto:carina.haupt@dlr.de) (DLR), [Stephan Janosch](mailto:janosch@mpi-cbg.de) (MPI-CPG)
 * **Volunteers Chairs**: [Thomas Schneider von Deimling](mailto:thomas.schneider@awi.de) (AWI), [Frederieke Miesner](mailto:frederieke.miesner@awi.de) (AWI)
-* **Social Chair**: NN
+* **Social Chairs**: [Heidi Seibold](mailto:hseibold@ibe.med.uni-muenchen.de) (LMU München), [Kaja Scheliga](mailto:kaja.scheliga@os.helmholtz.de) (HGF, Helmholtz Open Science Koordinationsbüro)
 
 ## Program
 
@@ -45,4 +45,5 @@ If you have a specific question, feel free to get in touch with the appropriate 
 ![pik logo]({{ "/assets/img/conf/pik.png" | prepend: site.baseurl }}){: width="100px"}
 ![uni jena logo]({{ "/assets/img/conf/UniJena.png" | prepend: site.baseurl }}){: width="120px"}
 ![uni kiel logo]({{ "/assets/img/conf/Uni_Kiel.svg.png" | prepend: site.baseurl }}){: width="60px"}
+![uni münchen logo]({{ "/assets/img/conf/LMU_Logo.png" | prepend: site.baseurl }}){: width="50px"}
 ![zb med logo]({{ "/assets/img/conf/ZBMED_cymk.eps.png" | prepend: site.baseurl }}){: width="80px"}
