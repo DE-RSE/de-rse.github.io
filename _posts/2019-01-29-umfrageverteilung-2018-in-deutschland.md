@@ -9,6 +9,8 @@ menulang: de, en
 
 Hinweis: Dieses mal liessen sich nur 268 von 333 Beteiligungen zu verorten.
 
+Hinweis 2: Falls der Feedreader die Karte nicht interaktiv anzeigt, dann bitte den Beitrag im Blog direkt anschauen.
+
 
 <noscript>
 <img src="/assets/img/blog/2019/deRSE_survey_geom_distr_2018.jpg" alt="geographische Verteilung der Umfragebeteiligungen">
