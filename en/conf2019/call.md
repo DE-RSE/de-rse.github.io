@@ -60,7 +60,7 @@ The focus of deRSE19 is on community. Therefore, instead of asking you to submit
 
 Simply fill out the [submission form](https://derse19.uni-jena.de/derse19/cfp). The form includes a field for the description of your submission ("abstract") as well as several others, asking you for details about yourself. We elicit this information because we would like to know a little about your background, your perspective, your experience. This will help us to get to know the RSE community in Germany better.
 
-We will accept contributions in English or German. Details to follow.
+We will accept contributions in English or German.
 
 ### Formats
 
