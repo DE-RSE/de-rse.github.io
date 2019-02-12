@@ -27,7 +27,7 @@ dafür sind breit gefächert und äußern sich in vielfältigen Befunden, zum Be
 - Fehlende Reproduzierbarkeit, z.B. von Simulationsergebnissen
 - Unklare Regelungen zur Veröffentlichung in Bezug auf Lizenzen und Intellectual Property (IP)
 
-In der Forschung tätige Informatiker, Wissenschaftler und andere Softwareentwickler 
+In der Forschung tätige Informatikerinnen und Informatiker, Wissenschaftler und Wissenschaftlerinnen, sowie andere Softwareentwicklerinnen und -entwickler
 sind in der RSE-Gemeinschaft zusammen gekommen und haben es sich zur Aufgabe gemacht, 
 dieses Problem deutlich sichtbar zu machen und die gegenwärtige Situation 
 entscheidend zu verbessern.

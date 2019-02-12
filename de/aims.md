@@ -26,7 +26,7 @@ durch konsequente Anwendung von DOIs, Referenzierung, Metriken und Reviews
 - Professionalisierung von Softwareentwicklung in der Forschung durch Schulungen 
 und Anwendung minimal notwendiger Best Practices aus dem Software Engineering
 - Etablierung der wissenschaftlichen Softwareentwicklung als wesentlicher 
-Bestandteil von Kernkompetenzen insbesondere bei jungen Wissenschaftlern, 
+Bestandteil von Kernkompetenzen insbesondere bei jungen Wissenschaftlerinnen und Wissenschaftlern, 
 der kommenden Generation von Forschern
 - Integration in übergeordnete Aktivitäten zum Beispiel im Kontext 
 von e-Science und e-Infrastrukturen
@@ -40,7 +40,7 @@ Zur Verwirklichung unsere Ziele werden bereits folgende Aktivitäten durchgefüh
 sind geplant:
 
 - Bereitstellung eines Forums für den Austausch von den in der bzw. für die Forschung 
-entwickelnden Informatikern, Softwareentwicklern, RSEs und Wissenschaftlern
+entwickelnden Informatikerinnen und Informatikern, Softwareentwicklern und -entwicklerinnen, RSEs und Wissenschaftlerinnen bzw. Wissenschaftlern
 - Durchführung von Software Carpentry (SWC) Workshops oder Workshops, die dem SWC Konzept folgen
 - Etablierung eines Fellowship Programmes, bei dem “Botschafter” (Ambassadors) die 
 Ziele der deutschen RSE Gemeinschaft lokal, regional, national und international 
