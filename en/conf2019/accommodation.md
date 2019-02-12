@@ -1,6 +1,6 @@
 --- 
 layout: default 
-title: Accomodation
+title: Accommodation
 weight: 245
 ischild: true
 parent: info
