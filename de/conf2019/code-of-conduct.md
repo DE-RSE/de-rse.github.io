@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code of Conduct
+title: Code of Conduct & Diversität
 weight: 250
 parent: info
 ischild: true
@@ -31,3 +31,34 @@ Einschüchterung, Belästigung, beleidigende, diskriminierende, abwertende oder 
 Belästigung beinhaltet: Verletzende oder abwertende mündliche oder schriftliche Kommentare in Bezug auf Geschlecht, sexuelle Orientierung, Abstammung, Religion, Behinderung; unangemessene Verwendung von Nacktheit und/oder sexuellem Bildmaterial (inklusive Präsentationsslides); absichtliche Einschüchterung, Stalking oder Nachlaufen; belästigendes Fotografieren oder Filmen; ständige Unterbrechung von Vorträgen oder anderen Events; unangemessener Körperkontakt und unerwünschte sexuelle Zuwendung.
 
 **Wenn Du inakzeptables Verhalten erlebst oder erfährst**, wende Dich bitte an ein Mitglied des Konferenzkomitees. Du kannst dies anonym tun. Die Mitglieder des Konferenzkomittes sind auf dieser Website gelistet unter [Kontakt]({{ site.baseurl }}{% link de/conf2019/contact.md %}).
+
+# Inklusion und Diversität
+
+**Gleichstellung**, **Einbeziehung** und **Integrität** sind zentrale Werte der
+RSE-Bewegung. Die Umsetzung dieser Werte spiegelt sich naturgemäß in der
+sichtbaren Konferenzteilnahme unserer Gemeinschaft in all ihrer Verschiedenheit.
+In diesem Sinne setzt das Organisationskomitee folgende Maßnahmen um:
+
+* **Code of Conduct** – Wir übernehmen für deRSE19 den 
+[Berlin Code of Conduct](https://berlincodeofconduct.org/de/), der Teilnehmende
+an ihre individuelle Verantwortung erinnert, für eine freundliche und
+inklusive Atmosphäre zu sorgen.
+* **Diversität in Komitees** – Mitglieder des Organisationskomitees, der
+technischen Komitees und Gutachter werden ausgewählt unter Berücksichtigung
+einer möglichst diversen Zusammensetzung in Hinblick auf Forschungsrichtungen,
+Erfahrung, Standort, Institutionstypus und Geschlecht. Die Zusammensetzung der
+Komitees wird sich bei zukünftigen Konferenzen ändern.
+* **Diversität der Vortragenden** – Vortragende werden auch unter 
+Berücksichtigung von Diversität in Hinsicht auf Hintergrund und
+Interessenlagen ausgewählt.
+* **Reisestipendien** – Zusätzlich zur Evaluation von Wert und Neuartigkeit 
+sowie Interesse eines Vortrags für die anwesende Gemeinschaft werden bei der 
+Vergabe von damit verbundenen Reisestipendien auch Diversitätsaspekte 
+berücksichtigt, wie demographischer, institutioneller und geographischer
+Hintergrund der Bewerber*innen, ihre Erfahrungsstufe sowie ihre 
+Finanzierungssituation.
+* **Evaluation und Verlaufsbeobachtung** – Wir werden Feedback zur 
+Konferenzatmosphäre, sowie zu Gleichstellungsaspekten, Inklusion, Integrität und 
+Diversität abfragen und auswerten. Ergebnisse und Anmeldungsstatistiken werden
+zur weiteren Verlaufsbeobachtung an die Organisatoren einer zukünftigen 
+Konferenz weitergeleitet und in Diversitätsberichten verwendet.
