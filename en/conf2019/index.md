@@ -43,7 +43,7 @@ If you have any questions about the conference, please contact the conference or
 
 ![de-RSE logo]({{ "/assets/img/association/logo-grayscale-web.png" | prepend: site.baseurl }})
 
-[de-RSE e.V. - Society for Research Software](https://de-rse.org/de/)
+[de-RSE e.V. - Society for Research Software](http://de-rse.org/en/)
 
 ## Local organizers
 

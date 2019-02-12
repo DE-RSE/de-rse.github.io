@@ -42,7 +42,7 @@ Wenn Fragen zur Konferenz aufkommen, wende Dich bitte an das Organisatonsteam de
 
 ![de-RSE logo]({{ "/assets/img/association/logo-grayscale-web.png" | prepend: site.baseurl }})
 
-[de-RSE e.V. - Gesellschaft für Forschungssoftware](https://de-rse.org/de/)
+[de-RSE e.V. - Gesellschaft für Forschungssoftware](http://de-rse.org/de/)
 
 ## Lokale Veranstalter
 
