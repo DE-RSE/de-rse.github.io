@@ -30,7 +30,7 @@ We are expecting a lively mix of 200 attendees from different research domains. 
 At \#deRSE19 we welcome domain researchers, but also people who fund, develop, run or maintain research software and may not typically attend conferences. It's a community conference: Get involved and help us build the RSE community in Germany! So save the date, and spread the word to your peers who are in any way involved in software for research.
 
 Contributions in the form of talks (short or long), posters, workshops, and other formal and informal session proposals
-are welcome. All we ask is that you submit a very short (750 character) abstract at https://derse19.uni-jena.de/derse19/cfp by 28 February 2019.
+are welcome. All we ask is that you submit a very short (750 character) abstract at <https://derse19.uni-jena.de/derse19/cfp> by 28 February 2019.
 
 Stay in touch and get the latest updates by registering at [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org). Updates about the conference are also available via [@RSE_de on Twitter](https://twitter.com/rse_de). The hashtag for the event is #deRSE19.
 
