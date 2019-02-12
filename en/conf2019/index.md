@@ -27,9 +27,12 @@ Following the success of the [first three international Conference of Research S
 
 We are expecting a lively mix of 200 attendees from different research domains. The purpose of this national conference is to get together with people who develop software that is used in any field of research. We call these people *Research Software Engineers* (*RSE*s), but they exist under many job titles (from postdoctoral researcher to research associate and faculty).
 
-\#deRSE19 is not a generic academic conference. We welcome domain researchers, but we also want to hear from people who fund, develop, run or maintain research software and may not typically attend conferences. It's a community conference: Get involved and help us build the RSE community in Germany! So save the date, and spread the word to your peers who are in any way involved in software for research.
+At \#deRSE19 we welcome domain researchers, but also people who fund, develop, run or maintain research software and may not typically attend conferences. It's a community conference: Get involved and help us build the RSE community in Germany! So save the date, and spread the word to your peers who are in any way involved in software for research.
 
-Stay in touch and get the latest updates by registering at [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org). We will announce the call for sessions soon, followed by the calls for talks, posters, workshops and tutorials by the end of the year. Updates about the conference are also available via [@RSE_de on Twitter](https://twitter.com/rse_de). The hashtag for the event is #deRSE19.
+Contributions in the form of talks (short or long), posters, workshops, and other formal and informal session proposals
+are welcome. All we ask is that you submit a very short (750 character) abstract at https://derse19.uni-jena.de/derse19/cfp by 28 February 2019.
+
+Stay in touch and get the latest updates by registering at [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org). Updates about the conference are also available via [@RSE_de on Twitter](https://twitter.com/rse_de). The hashtag for the event is #deRSE19.
 
 If you have any questions about the conference, please contact the conference organisers at [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
 
