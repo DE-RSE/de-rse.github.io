@@ -35,17 +35,27 @@ Wenn Fragen zur Konferenz aufkommen, wende Dich bitte an das Organisatonsteam de
 ## Veranstalter
 
 ![gi logo](https://gi.de/fileadmin/GI/Allgemein/Logos/GI.png){: width="100px"}
-[Gesellschaft für Informatik e.V. (GI)](http://www.gi.de)
 
-## Mitveranstaltende Einrichtungen
+[Gesellschaft für Informatik e.V. (GI)](http://www.gi.de), [Fachbereich Softwaretechnik (SWT)](https://fb-swt.gi.de/)
+
+## Mitveranstalter
+
+![de-RSE logo]({{ "/assets/img/association/logo-grayscale-web.png" | prepend: site.baseurl }})
+
+[de-RSE e.V. - Gesellschaft für Forschungssoftware](https://de-rse.org/de/)
+
+## Lokale Veranstalter
 
 ![awi logo]({{ "/assets/img/conf/awi_logo.svg" | prepend: site.baseurl }}){: width="100px"}
+
 [Forschungsstelle Potsdam des Alfred-Wegener-Instituts (AWI)](https://www.awi.de/ueber-uns/standorte/potsdam/)
 
 ![gfz logo](https://www.gfz-potsdam.de/fileadmin/gfz/medien_kommunikation/Infothek/Mediathek/Bilder/GFZ/GFZ_Logo/GFZ-Logo_eng_RGB.svg){: width="100px"}
+
 [GFZ German Research Centre for Geosciences](https://www.gfz-potsdam.de/)
 
 ![pik logo]({{ "/assets/img/conf/pik.png" | prepend: site.baseurl }}){: width="100px"}
+
 [Potsdam-Institut für Klimafolgenforschung (PIK)](https://www.pik-potsdam.de/)
 
 ## Konferenzkomitee

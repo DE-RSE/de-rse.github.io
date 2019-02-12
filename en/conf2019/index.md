@@ -36,17 +36,27 @@ If you have any questions about the conference, please contact the conference or
 ## Organizer
 
 ![gi logo](https://gi.de/fileadmin/GI/Allgemein/Logos/GI.png){: width="100px"}
-[Gesellschaft für Informatik e.V. (GI)](http://www.gi.de)
 
-## Co-organising Institutions
+[Gesellschaft für Informatik e.V. (GI)](http://www.gi.de), [Fachbereich Softwaretechnik (SWT)](https://fb-swt.gi.de/)
+
+## Co-organizer
+
+![de-RSE logo]({{ "/assets/img/association/logo-grayscale-web.png" | prepend: site.baseurl }})
+
+[de-RSE e.V. - Society for Research Software](https://de-rse.org/de/)
+
+## Local organizers
 
 ![awi logo]({{ "/assets/img/conf/awi_logo.svg" | prepend: site.baseurl }}){: width="100px"}
+
 [Research Unit Potsdam of the Alfred Wegener Institute (AWI)](https://www.awi.de/en/about-us/sites/potsdam/standort.html)
 
-![gfz logo](https://www.gfz-potsdam.de/fileadmin/gfz/medien_kommunikation/Infothek/Mediathek/Bilder/GFZ/GFZ_Logo/GFZ-Logo_eng_RGB.svg){: width="100px"} 
+![gfz logo](https://www.gfz-potsdam.de/fileadmin/gfz/medien_kommunikation/Infothek/Mediathek/Bilder/GFZ/GFZ_Logo/GFZ-Logo_eng_RGB.svg){: width="100px"}
+
 [Helmholtz-Zentrums Potsdam - Deutsches GeoForschungsZentrum GFZ](https://www.gfz-potsdam.de/)
 
 ![pik logo]({{ "/assets/img/conf/pik.png" | prepend: site.baseurl }}){: width="100px"}
+
 [Potsdam Institute for Climate Impact Research (PIK)](https://www.pik-potsdam.de/)
 
 ## Organizing Committee
