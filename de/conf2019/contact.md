@@ -2,6 +2,8 @@
 layout: default
 title: Kontakt
 weight: 400
+ischild: true
+parent: contact-pr
 ---
 
 # Kontakt
