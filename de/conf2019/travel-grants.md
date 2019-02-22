@@ -8,6 +8,31 @@ parent: info
 
 # Reisestipendien
 
+## deRSE19 Reiseunterstützung
+
+Wir können Dich unterstützen wenn Du Schwierigkeiten hast, Deine Teilnahme an der Konferenz zu finanzieren.
+
+### Bewerbung
+
+Wenn Du Dich für eine Reiseunterstützung bewerben willst, sende eine E-Mail mit
+dem Betreff "deRSE19 travel support" an 
+[konferenz@de-rse.org](mailto:konferenz@de-rse.org).
+
+Die E-Mail sollte Folgendes beinhalten:
+
+- Deinen Namen und Deine Institutionszugehörigkeit
+- Was Du zur Konferenz beizutragen planst
+- Die Gründe für Deine Bewerbung
+- Wofür Du finanzielle Unterstützung benötigst (z.B. Anreise, Unterkunft, Registrierungsgebühr)
+- Ob/wieviel Du selbst finanziell zu Deinen Reisekosten beisteuern kannst
+- Die Summe die Du für Deine Teilnahme benötigst
+
+
+Bewerbungen werden intern begutachtet bevor eine Entscheidung über eine Unterstützungszusage getroffen wird. 
+Der Rechtsweg ist ausgeschlossen.
+
+---
+
 ## Stipendien für Beitragende aus dem Vereinigten Königreich (UKRSE-Stipendium)
 
 Wir vergeben 4 Reisestipendien zu je maximal £500,- für Beitragende aus dem Vereinigten Königreich.
