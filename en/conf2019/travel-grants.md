@@ -65,3 +65,7 @@ available after the initial round of decisions, we will accept further
 applications.
 
 Awardees will be sent further details on acceptance.
+
+## Further travel grants
+
+We anticipate the installation of further travel grants, details to follow.
