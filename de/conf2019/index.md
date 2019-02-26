@@ -16,6 +16,8 @@ weight: 1
 
 **Call for Contributions:** [Reiche Deinen Beitrag ein unter derse19.uni-jena.de/derse19/](https://derse19.uni-jena.de/derse19/) bis 28. Februar 2019, 23:59:59 CET.
 
+**[Code of Conduct & Diversity Plan](code-of-conduct.html)**
+
 ## Updates
 
 Registrier dich auf [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) um die neusten Updates zu erhalten.
