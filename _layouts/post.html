@@ -16,27 +16,66 @@
           <!-- Set variable "lang" to reflect post's menu language -->
           {% if page.menulang == "en" %}
             {% assign lang = "/en/" %}
+            {% assign conf2019_title = "deRSE19 Conference" %}
           {% elsif page.menulang == "de" %}
             {% assign lang ="/de/" %}
+            {% assign conf2019_title = "deRSE19 Konferenz" %}
           {% endif %}
           {% assign indexurl = lang | prepend: site.baseurl | append: "index.html" %}
+          {% assign page_conf2019 = false %}
+          {% assign conf2019_link = "conf2019/index.html" %}
+          {% if page.url contains "/conf2019/" %}
+              {% assign page_conf2019 = true %}
+              {% assign conf2019_link = "index.html" %}
+              <li class='navbar-conflink'><a href='{{ conf2019_link | prepend: site.baseurl }}'>{{ conf2019_title }}</a></li>
+          {% endif %}
           <!-- Get a list of pages sorted by the "weight" variable from the YAML header of each page file -->
           <a class='navbar-brand navbar-logo' href='{{ indexurl }}'><img src='{{ site.baseurl | append: "/assets/img/site/rse.png" }}'/></a>
           <a class='navbar-brand' href='{{ indexurl }}'>de-RSE</a>
         </div>
         <div id='navbar' class='collapse navbar-collapse'>
           <ul class='nav navbar-nav'>
+          <!-- Get a list of pages sorted by the "weight" variable from the YAML header of each page file -->
           {% assign pg = site.pages | sort: "weight" %}
           {% for node in pg %}
-            <!-- Neglect imprint.html and index.html in either language -->
-            {% unless node.path contains "imprint" or node.path contains "index" %}
-              <!-- Process page only if it's on the same path as the current page -->
-              {% if node.url contains lang %}
-                <!-- node.url does not contain file endings and is relative: make absolute and append file ending -->
-                <li><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
-              {% endif %}
-            {% endunless %}
+              <!-- Neglect imprint.html and index.html in either language -->
+              {% unless node.path contains "imprint" or node.path contains "index" %}
+                  <!-- Set variable "node_conf2019" if node links to a conference page -->
+                  {% assign node_conf2019 = false %}
+                  {% if node.url contains "/conf2019/" %}
+                      {% assign node_conf2019 = true %}
+                  {% endif %}
+                  <!-- Process page only if it's on the same path as the current page regarding language and conference -->
+                  {% if node.url contains lang and node_conf2019 == page_conf2019 %}
+                      <!-- node.url does not contain file endings and is relative: make absolute and append file ending -->
+                      {% if node_conf2019 %}
+                          <!-- Identify parents and children for dropdown -->
+                          {% if node.isparent == true %}
+                              {% capture parent_id %}{{ node.name | remove: ".md" }}{% endcapture %}
+                              <li class='navbar-conflink dropdown'>
+                                  <a class="nav-link dropdown-toggle" href='{{ node.url | prepend: site.baseurl | append: ".html" }}'  id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ node.title }} &#x25BC;</a>
+                                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                      {% for node in pg %}
+                                          {% if node.parent == parent_id and node.url contains lang%}
+                                              <a class="dropdown-item" href="{{ node.url | prepend: site.baseurl | append: ".html" }}">{{ node.title }}</a>
+                                          {% endif %}
+                                      {% endfor %}
+                                  </div>
+                              </li>
+                              {% capture parent_id %}"false"{% endcapture %}
+                          {% elsif node.ischild != true %}
+                                  <li class='navbar-conflink'><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
+                          {% endif %}
+                      {% else %}
+                          <li><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
+                      {% endif %}
+                  {% endif %}
+              {% endunless %}
           {% endfor %}
+          {% unless page_conf2019 %}
+              <li class='navbar-conflink'><a href='{{ conf2019_link | prepend: site.baseurl }}'>{{ conf2019_title }}</a></li>
+          {% endunless %}
+
           </ul>
           <ul class='nav navbar-nav pull-right'>
             <!-- Language menu items take the user back to the blog main page -->
