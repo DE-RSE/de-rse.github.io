@@ -36,32 +36,31 @@ Bleib mit uns in Kontakt und erhalte die neuesten Updates, indem Du Dich unter [
 
 Wenn Fragen zur Konferenz aufkommen, wende Dich bitte an das Organisatonsteam der Konferenz unter [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
 
-## Veranstalter
+<table style="width: 100%;">
+	<tr>
+		<td style="vertical-align: top;">
+			<h2 id="veranstalter">Veranstalter</h2>
+			<p><img src="https://gi.de/fileadmin/GI/Allgemein/Logos/GI.png" alt="GI logo" style="width: 100px;"/></p>
+			<p><a href="http://www.gi.de">Gesellschaft für Informatik e.V. (GI)</a>, <a href="https://fb-swt.gi.de/">Fachbereich Softwaretechnik (SWT)</a></p>
+			<h2 id="mitveranstalter">Mitveranstalter</h2>
+			<p><img src="{{ '/assets/img/association/logo-grayscale-web.png' | prepend: site.baseurl }}" style="width: 100px;"/></p>
+			<p><a href="http://de-rse.org/de/">de-RSE e.V. - Gesellschaft für Forschungssoftware</a></p>
+			<h2 id="lokale-veranstalter">Lokale Veranstalter</h2>
+			<p><img src="{{ '/assets/img/conf/awi_logo.svg' | prepend: site.baseurl }}" style="width: 100px;"/></p>
+			<p><a href="https://www.awi.de/ueber-uns/standorte/potsdam/">Forschungsstelle Potsdam des Alfred-Wegener-Instituts (AWI)</a></p>
+			<p><img src="https://www.gfz-potsdam.de/fileadmin/gfz/medien_kommunikation/Infothek/Mediathek/Bilder/GFZ/GFZ_Logo/GFZ-Logo_eng_RGB.svg" alt="gfz logo" style="width: 100px;"/></p>
+			<p><a href="https://www.gfz-potsdam.de/">GFZ German Research Centre for Geosciences</a></p>
+			<p><img src="{{ '/assets/img/conf/pik.png' | prepend: site.baseurl }}" style="width: 100px;"/></p>
+			<p><a href="https://www.pik-potsdam.de/">Potsdam-Institut für Klimafolgenforschung (PIK)</a></p>
+			<h2 id="konferenzkomitee">Konferenkomitee</h2>
+			<p>Die organisierenden Personen sind auf der <a href="%7B%7B%20site.baseurl%20%7D%7D%7B%%20link%20de/conf2019/contact.md%20%%7D">Kontakt-Seite</a> zu finden.</p>
+		</td>
 
-![gi logo](https://gi.de/fileadmin/GI/Allgemein/Logos/GI.png){: width="100px"}
-
-[Gesellschaft für Informatik e.V. (GI)](http://www.gi.de), [Fachbereich Softwaretechnik (SWT)](https://fb-swt.gi.de/)
-
-## Mitveranstalter
-
-![de-RSE logo]({{ "/assets/img/association/logo-grayscale-web.png" | prepend: site.baseurl }})
-
-[de-RSE e.V. - Gesellschaft für Forschungssoftware](http://de-rse.org/de/)
-
-## Lokale Veranstalter
-
-![awi logo]({{ "/assets/img/conf/awi_logo.svg" | prepend: site.baseurl }}){: width="100px"}
-
-[Forschungsstelle Potsdam des Alfred-Wegener-Instituts (AWI)](https://www.awi.de/ueber-uns/standorte/potsdam/)
-
-![gfz logo](https://www.gfz-potsdam.de/fileadmin/gfz/medien_kommunikation/Infothek/Mediathek/Bilder/GFZ/GFZ_Logo/GFZ-Logo_eng_RGB.svg){: width="100px"}
-
-[GFZ German Research Centre for Geosciences](https://www.gfz-potsdam.de/)
-
-![pik logo]({{ "/assets/img/conf/pik.png" | prepend: site.baseurl }}){: width="100px"}
-
-[Potsdam-Institut für Klimafolgenforschung (PIK)](https://www.pik-potsdam.de/)
-
-## Konferenzkomitee
-
-Die organisierenden Personen sind auf der [Kontakt-Seite]({{ site.baseurl }}{% link de/conf2019/contact.md %}) zu finden.
+		<td style="vertical-align: top;">
+			<h2 id="veranstalter">Wir danken unseren Sponsoren!</h2>
+			<h3>Reiseunterstützung</h3>
+			<p><img src="{{ '/assets/img/conf/sponsors/r-consortium.png' | prepend: site.baseurl }}" alt="R Consortium logo" style="height: 100px;"/></p>
+			<p><a href="http://r-consortium.org">R Consortium</a></p>
+		</td>
+	</tr>
+</table>

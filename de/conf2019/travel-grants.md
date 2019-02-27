@@ -31,6 +31,10 @@ Die E-Mail sollte Folgendes beinhalten:
 Bewerbungen werden intern begutachtet bevor eine Entscheidung über eine Unterstützungszusage getroffen wird. 
 Der Rechtsweg ist ausgeschlossen.
 
+Die Reiseunterstützung wird gesponsert von:
+
+![]({{ '/assets/img/conf/sponsors/r-consortium.png' | prepend: site.baseurl }}){: height="100px"}
+
 ---
 
 ## Stipendien für Beitragende aus dem Vereinigten Königreich (UKRSE-Stipendium)
