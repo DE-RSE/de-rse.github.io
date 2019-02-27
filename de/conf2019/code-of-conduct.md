@@ -30,7 +30,7 @@ Einschüchterung, Belästigung, beleidigende, diskriminierende, abwertende oder 
 
 Belästigung beinhaltet: Verletzende oder abwertende mündliche oder schriftliche Kommentare in Bezug auf Geschlecht, sexuelle Orientierung, Abstammung, Religion, Behinderung; unangemessene Verwendung von Nacktheit und/oder sexuellem Bildmaterial (inklusive Präsentationsslides); absichtliche Einschüchterung, Stalking oder Nachlaufen; belästigendes Fotografieren oder Filmen; ständige Unterbrechung von Vorträgen oder anderen Events; unangemessener Körperkontakt und unerwünschte sexuelle Zuwendung.
 
-**Wenn Du inakzeptables Verhalten erlebst oder erfährst**, wende Dich bitte an ein Mitglied des Konferenzkomitees. Du kannst dies anonym tun. Die Mitglieder des Konferenzkomittes sind auf dieser Website gelistet unter [Kontakt]({{ site.baseurl }}{% link de/conf2019/contact.md %}).
+**Wenn Du inakzeptables Verhalten erlebst oder erfährst**, wende Dich bitte an ein Mitglied des Konferenzkomitees. Du kannst dies anonym tun. Die Mitglieder des Konferenzkomittes sind auf dieser Website gelistet unter [Kontakt](contact).
 
 # Inklusion und Diversität
 

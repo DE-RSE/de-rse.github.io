@@ -28,7 +28,7 @@ The **following behaviour is unacceptable**:
 
 Harrassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images (including presentation slides); inappropriate depictions of violence (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
 
-If you **witness** or **are subject to unacceptable behaviour**, please contact one of the conference organizers. You can do so anonymously. The organizers are listed on this website under [Contact]({{ site.baseurl }}{% link en/conf2019/contact.md %}).
+If you **witness** or **are subject to unacceptable behaviour**, please contact one of the conference organizers. You can do so anonymously. The organizers are listed on this website under [Contact](contact).
 
 # Inclusion and Diversity Plan
 

@@ -16,5 +16,5 @@ post:
 page:
   template: _page.txt
   extension: md
-plugins:
+plugins_dir:
   - jekyll-feed
