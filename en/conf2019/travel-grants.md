@@ -30,6 +30,10 @@ The email should include:
 
 Applications will be reviewed internally before a decision about funding is made (no recourse to legal action).
 
+Travel support is sponsored by:
+
+![]({{ '/assets/img/conf/sponsors/r-consortium.png' | prepend: site.baseurl }}){: height="100px"}
+
 ---
 
 ## Travel grants for contributors from the UK (UKRSE Bursaries)
