@@ -10,42 +10,32 @@ weight: 6
 
 ## Vereinsgründung
 
-Es ist soweit: die Gründung eines Vereins für die de-RSE steht kurz bevor.
-Am **26.11.2018** sind alle Interessierten nach **Berlin** eingeladen, um bei der
-Vereinsgründung dabei zu sein, vielleicht sogar als Gründungsmitglied.
+Am **26.11.2018** trafen sich Interessierte in **Berlin** eingeladen, um bei der
+Vereinsgründung dabei zu sein.
 
-### Ablauf der Gründungsversammlung
+## Vorstand
 
-Wir treffen uns am
+Folgende Personen wurden auf der Gründungsversammlung gewählt:
 
-**26.11.2018** ab 11 Uhr (10 Uhr Einlass)
+* Frank Löffler (Friedrich-Schiller-Universität Jena, Vorstandsvorsitzender)
+* Daniel Nüst (Universität Münster, stellvertretender Vorstandsvorsitzender) 
+* Stephan Janosch (Max-Planck-Institut für Molekulare Zellbiologie und Genetik Dresden, Schatzmeister)
+* Martin Hammitzsch (Deutsches GeoForschungsZentrum Potsdam, stellvertretender Schatzmeister)
+* Bernadette Fritzsch (Alfred-Wegener-Institut Bremerhaven, Schriftführerin)
+* Stephan Druskat (Humboldt-Universität zu Berlin und Friedrich-Schiller-Universität Jena, stellvertretender Schriftführer)
 
-im
+## Vereinseintragung
 
-```
-Interdisziplinäres Labor Bild Wissen Gestaltung
-Im Hermann von Helmholtz-Zentrum für Kulturtechnik
-Sophienstraße 22a
-10178 Berlin
-```
-Anmerkung: 2. Hinterhof rechts, 2. Obergeschoss
+Der Verein wurde am 19.2.2019 im Vereinsregister in Berlin eingetragen.
 
-[Karte](https://goo.gl/maps/cD8rECTZYft)
+## Gemeinnützigkeit 
 
-14 Uhr haben wir einen Termin bei einem Notar in der Nähe, den der gewählte Vorstand aufsucht, um die Eintragung in die Wege zu leiten.
+Die Gemeinnützigkeit des Vereins wird so schnell wie möglich beantragt.
 
-Anschließend wird die Gelegenheit genutzt und auf die Gründung angestossen (auf eigene Rechnung ;-) . 
+## Mitglieder
 
-### Agenda der Gründungsversammlung
+Derzeit wird am Aufnahmeformular gearbeitet. Sobald dieses fertig ist kannst Du Mitglied werden.
 
-1.  Präliminarien
-    1.  Begrüßung und einführende Worte 
-    1.  Wahl Versammlungsleiter und Protokollführer
-    1.  Tagesordnung vorschlagen und annehmen 
-1.  Diskussion zum Satzungsentwurf und Verabschiedung der Vereinssatzung
-1.  Wahl des Vereinsvorstands
-1.  Diskussion zu Geschäftsordnung und Verabschiedung
-1.  Informationen zu Anmeldung des Vereins und weiteres Vorgehen
-1.  Sonstiges
+## Mitgliedsversammlung
 
-Schon heute kannst du dich [**hier unverbindlich anmelden**](http://nuest.staff.ifgi.de/survey/index.php/452847?lang=de-informal). Dies hilft die Veranstaltung zu organisieren.
+Die erste MV wird am Rande der deRSE19 Konferenz geplant.
