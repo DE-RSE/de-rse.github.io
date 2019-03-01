@@ -10,7 +10,7 @@ weight: 6
 
 ## Vereinsgründung
 
-Am **26.11.2018** trafen sich Interessierte in **Berlin** eingeladen, um bei der
+Am **26.11.2018** trafen sich Interessierte in **Berlin**, um bei der
 Vereinsgründung dabei zu sein.
 
 ## Vorstand
@@ -36,6 +36,6 @@ Die Gemeinnützigkeit des Vereins wird so schnell wie möglich beantragt.
 
 Derzeit wird am Aufnahmeformular gearbeitet. Sobald dieses fertig ist kannst Du Mitglied werden.
 
-## Mitgliedsversammlung
+## Mitgliederversammlung
 
 Die erste MV wird am Rande der deRSE19 Konferenz geplant.
