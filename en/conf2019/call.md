@@ -13,7 +13,7 @@ The organising committee welcomes submissions for workshops, talks, and posters 
 ## Timeline
 
 - 20 December 2018 - We are open for submissions
-- 28 February 2019 - Deadline for submissions
+- 3 March 2019 - Deadline for submissions
 - 22 March 2019 - Notification of acceptance
 - 04-06 June 2019 - deRSE19 conference
 

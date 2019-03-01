@@ -13,7 +13,7 @@ Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge 
 ## Timeline
 
 - Do., 20. Dezember 2018 - Wir nehmen Einreichungen entgegen
-- Fr., 28. Februar 2019 - Frist für Einreichungen
+- So., 3. März 2019 - Frist für Einreichungen
 - Fr., 22. März 2019 - Mitteilung von Entscheidungen zur Annahme
 - 04.-06. Juni 2019 - deRSE19-Konferenz
 
