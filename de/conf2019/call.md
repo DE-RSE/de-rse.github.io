@@ -14,12 +14,10 @@ Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge 
 
 - Do., 20. Dezember 2018 - Wir nehmen Einreichungen entgegen
 - So., 3. März 2019 - Frist für Einreichungen
-- Fr., 22. März 2019 - Mitteilung von Entscheidungen zur Annahme
-- 04.-06. Juni 2019 - deRSE19-Konferenz
+- Fr., 22. März 2019 - Mitteilung von Entscheidungen zur Annahme und <a href="https://derse19.uni-jena.de/derse19/sneak/" target="_blank">Programm</a>
+- Di-Do., 4-6. Juni 2019 - deRSE19-Konferenz
 
 Es wird erwartet, dass mindestens eine Person aus der Autorenschaft einer angenommenen Einreichung an der Konferenz teilnimmt und den Beitrag präsentiert. Bei Registrierung zur Teilnahme fallen Konferenzgebühren an.
-
-<a href="https://derse19.uni-jena.de/derse19/cfp" class="btn btn-info glyphicon-pencil" target="_blank"> Zur Einreichung: hier klicken (https://derse19.uni-jena.de/derse19/)</a>
 
 ## Konferenz-Sessions, Themen und Einreichungstypen
 
