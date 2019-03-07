@@ -15,7 +15,7 @@ The organising committee welcomes submissions for workshops, talks, and posters 
 - 20 December 2018 - We are open for submissions
 - 3 March 2019 - Deadline for submissions
 - 22 March 2019 - Notification of acceptance and <a href="https://derse19.uni-jena.de/derse19/sneak" target="_blank">program</a>
-- 04-06 June 2019 - deRSE19 conference
+- 4-6 June 2019 - deRSE19 conference
 
 If your submission is accepted, at least one of the authors is expected to attend the conference to present. Please note that conference fees apply at registration.
 
