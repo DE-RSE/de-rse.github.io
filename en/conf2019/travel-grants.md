@@ -15,9 +15,8 @@ funding their travel to the conference.
 
 ### Application
 
-If you would like to apply for travel support, please send an email with the
-subject line "deRSE19 travel support" to
-[konferenz@de-rse.org](mailto:konferenz@de-rse.org).
+If you would like to apply for travel support, please [send an email with the
+subject line "deRSE19 travel support application" to konferenz@de-rse.org](mailto:konferenz@de-rse.org?subject=[deRSE19]%20travel%20support%20application).
 
 The email should include:
 
