@@ -8,7 +8,7 @@ parent: contact-pr
 
 # Contact
 
-Questions about the conference: [konferenz@de-rse.org](mailto:konferenz@de-rse.org)
+Questions about the conference: [konferenz@de-rse.org](mailto:konferenz@de-rse.org?subject=[deRSE19]%20questions%20and%20help)
 
 News are distributed via the mailing list [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org), Twitter [@RSE_de](https://twitter.com/RSE_de) and of course <https://www.de-rse.org/en/conf2019>.
 
