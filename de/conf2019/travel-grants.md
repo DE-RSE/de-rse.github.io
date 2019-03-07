@@ -15,7 +15,7 @@ Wir können Dich unterstützen wenn Du Schwierigkeiten hast, Deine Teilnahme an 
 ### Bewerbung
 
 Wenn Du Dich für eine Reiseunterstützung bewerben willst, sende eine [E-Mail mit
-dem Betreff "deRSE19 travel support" an konferenz@de-rse.org](mailto:konferenz@de-rse.org?subject=[deRSE19%20travel%20support]).
+dem Betreff "deRSE19 travel support application" an konferenz@de-rse.org](mailto:konferenz@de-rse.org?subject=[deRSE19]%20travel%20support%20application).
 
 Die E-Mail sollte Folgendes beinhalten:
 
