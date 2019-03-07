@@ -53,7 +53,7 @@ Allocated - details to follow.
 
 Allocated - details to follow.
 
-### Silver: €5,000 (5x)
+### Silver: €5,000[^1] (5x)
 
 -   1 Workshop
 -   Stall in the conference exhibition
@@ -66,7 +66,7 @@ keynotes) in the main conference room
 -   Dedicated tweet from the @RSE_de Twitter account (and an @RSE_de conference
 account if applicable), and in the #general channel of the deRSE Slack
 
-### Bronze: €2,000 (unlimited)
+### Bronze: €2,000[^1] (unlimited)
 
 -   1 conference registration included
 -   Slide in the looped slide show before/between presentation slots (including
@@ -81,15 +81,19 @@ account if applicable), and in the #general channel of the deRSE Slack
 
 Allocated - details to follow.
 
-### Travel grants: €500 (unlimited)
+### Travel grants: €500[^1] (unlimited)
 
 -   Logo on the website and printed brochure (if applicable), dedicated travel stipends email, named on website, in Slack, on Twitter, slide in the looped slide show before/between presentation slots (including
 keynotes) in the main conference room
     
-### Support: €500 (unlimited)
+### Support: €500[^1] (unlimited)
 
 -   Logo on the website and printed brochure (if applicable), named on website, in Slack, on Twitter
 
 ## Contact
 
 Sponsorship Chair: Stephan Druskat ([stephan.druskat@hu-berlin.de](mailto:stephan.druskat@hu-berlin.de))
+
+---
+
+[^1]: <span style="font-size: small;">Plus 19% VAT (Germany).</span>

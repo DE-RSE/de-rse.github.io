@@ -59,7 +59,7 @@ Vergeben - nähere Informationen folgen.
 
 Vergeben - nähere Informationen folgen.
 
-### Silber: €5.000 (5x)
+### Silber: €5.000[^1] (5x)
 
 -   1 Workshop
 -   Stand in der Konferenzausstellung
@@ -73,7 +73,7 @@ Vergeben - nähere Informationen folgen.
 -   Dedizierter Tweet vom @RSE\_de-Twitter-Account und im
     \#general-Kanal des deRSE-Slack
 
-### Bronze: €2.000 (unbegrenzt)
+### Bronze: €2.000[^1] (unbegrenzt)
 
 -   1 Konferenzregistrierung
 -   eigene Folie in der Slideshow zwischen allen Präsentation im
@@ -89,16 +89,20 @@ Vergeben - nähere Informationen folgen.
 
 Vergeben - nähere Informationen folgen.
 
-### Reisestipendien: €500 (unbegrenzt)
+### Reisestipendien: €500[^1] (unbegrenzt)
 
 -   Logo auf der Website, eigene Reisestipendien-Email, auf Website, im Slack, auf Twitter,
     eigene Folie in der Slideshow zwischen allen Präsentation im
     Haupthörsaal
 
-### Support: €500 (unbegrenzt)
+### Support: €500[^1] (unbegrenzt)
 
 -   Logo auf Website, Nennung auf Website, im Slack, auf Twitter
 
 ## Kontakt
 
 Sponsorship Chair: Stephan Druskat ([stephan.druskat@hu-berlin.de](mailto:stephan.druskat@hu-berlin.de))
+
+---
+
+[^1]: <span style="font-size: small;">Alle Preise zzgl. 19% USt.</span>
