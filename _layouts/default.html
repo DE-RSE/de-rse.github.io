@@ -73,7 +73,7 @@
                         <li class='navbar-conflink'><a href='{{ conf2019_link | prepend: site.baseurl }}'>{{ conf2019_title }}</a></li>
                     {% endunless %}
                 </ul>
-                <ul class='nav navbar-nav'>
+                <ul class='nav navbar-nav pull-right'>
                     <!-- Build language-relative URL from current URL -->
                     {% assign en-url = page.url | replace: "/de/", "/en/" %}
                     {% assign de-url = page.url | replace: "/en/", "/de/" %}
