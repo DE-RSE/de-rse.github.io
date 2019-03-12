@@ -8,7 +8,13 @@ parent: info
 
 # Registration
 
-A date for the opening of the registration, as well as ticket prices, are not fixed yet. Once a date and prices are established, we will post them here and through our [information channels](contact.html).
+A date for the opening of the registration is not fixed yet, but will be published soon. Once the registration is open, we will post this here and through our [information channels](contact.html).
 
-As a community conference run by volunteers, we try to keep the ticket prices as low as possible. Our [sponsors](sponsorship.html) support us financially, but this will not be enough to cover all costs. We plan to offer financial support to those who can otherwise not afford to participate.
+Ticket|Early Bird|Standard|Volunteer
+-- |--|--|--
+Regular|250,00 €|275,00 €|120,00 €
+Members de-RSE or GI|200,00 €|225,00 €|120,00 €
+Students|120,00 €|120,00 €|60,00 €
 
+
+As a community conference run by volunteers, we try to keep the ticket prices as low as possible. Our [sponsors](sponsorship.html) support us financially, but this will not be enough to cover all costs. We will offer financial support to those who can otherwise not afford to participate.
