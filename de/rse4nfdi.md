@@ -21,15 +21,14 @@ sind herzlich eingeladen, bei RSE4NFDI mitzuwirken.
 Die verteilte Vorbereitung wird im Moment über gemeinsame Dokumente, eine Mailingliste und Telefonkonferenzen realisiert.
 
 Der aktuelle Zeitplan sieht im Moment so aus:
-* Montag, 25. März, 09:00 - 10:30 Uhr - Video-/Telefonkonferenz
+* ***Montag, 25. März, 09:00 - 10:30 Uhr*** - Video-/Telefonkonferenz
   * Finalisierung Extended Abstract
   * LOIs o.a. offizielles Commitment bzw. Interessensbekundung der Organisationen, die Members oder Participants des Konsortiums werden
-* 29.März 2019, Frist für Einreichung von Extended Abstracts für NFDI-Konferenz
+* ***29.März 2019***, Frist für Einreichung von Extended Abstracts für NFDI-Konferenz
 * 13.-14. Mai 2019, NFDI-Konferenz
 * Juni 2019, Veröffentlichung der Ausschreibung
 * Juni/Juli 2019, Frist für Einreichung von verbindlichen Absichtserklärungen
 *Oktober 2019, Frist für Einreichung von Anträgen
-
 
 ### Mailingliste
 
