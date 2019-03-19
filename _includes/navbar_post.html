@@ -1,0 +1,18 @@
+<ul class='nav navbar-nav'>
+    <!-- Get a list of pages sorted by the "weight" variable from the YAML header of each page file -->
+    {% assign pg = site.pages | sort: "weight" %}
+    {% for node in pg %}
+        <!-- Neglect imprint.html and index.html in either language -->
+        {% unless node.path contains "imprint" or node.path contains "index" %}
+            <!-- Neglect conf links in either language -->
+            {% unless node.dir contains "conf2019" %}
+                <!-- Process page only if it's on the same path as the current page regarding language -->
+                {% if node.dir contains lang %}
+                    <!-- node.url does not contain file endings and is relative: make absolute and append file ending -->
+                    <li><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
+                {% endif %}
+            {% endunless %}
+        {% endunless %}
+    {% endfor %}
+    <li class='navbar-conflink'><a href='{{ "conf2019/index.html" | prepend: site.baseurl }}'>deRSE19</a></li>
+</ul>

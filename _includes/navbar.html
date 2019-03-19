@@ -4,7 +4,8 @@
     {% for node in pg %}
         <!-- Neglect imprint.html and index.html in either language -->
         {% unless node.path contains "imprint" or node.path contains "index" %}
-            {% if node.dir == page.dir %}
+        <!-- Process page only if it's in the same dir as the current page -->
+        {% if node.dir == page.dir %}
                 <!-- Identify parents and children for dropdown -->
                 <li><a href='{{ node.url | prepend: site.baseurl | append: ".html" }}'>{{ node.title }}</a></li>
             {% endif %}
