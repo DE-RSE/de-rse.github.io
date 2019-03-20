@@ -41,17 +41,8 @@ Schriftlich wird über die Mailingliste ***rse4nfdi@de-rse.org*** kommuniziert. 
 
 ### Telefonkonferenz
 
-1. Mit Ihrem Browser unter Windows, MacOS, Linux: 	 \
-**[https://conf.dfn.de/webapp/conference/97964836](https://conf.dfn.de/webapp/conference/97964836)**
-2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client: \
-H.323: **004910097964836 \
-**SIP: **97964836@conf.dfn.de**
+1. Mit Ihrem Browser unter Windows, MacOS, Linux: **[https://conf.dfn.de/webapp/conference/97964836](https://conf.dfn.de/webapp/conference/97964836)**
+2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client: 004910097964836 (H.323) oder 97964836@conf.dfn.de (SIP)
 3. Mit einem Telefon (nur Audio): Wählen Sie **0049 30 200 97964836**
 4. Über Skype for Business: **97964836@vc.dfn.de**
-5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter  \
-**Android:[ https://play.google.com/store/apps/details?id=com.pexip.infinityconnect](https://play.google.com/store/apps/details?id=com.pexip.infinityconnect)**  \
-**iOS:[ https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102](https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102)** \
-Geben Sie ein: **97964836@conf.dfn.de** 
-
-\* Trotz aller Bemühungen haben wir keinen gleichwertige und ebenso niederschwellige nutzbare Alternative gefunden. 
-Vielleicht liefert die NFDI endlich konkurrenzfähige Alternativen. ;-)
+5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter [Android](https://play.google.com/store/apps/details?id=com.pexip.infinityconnect) oder [iOS](https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102) geben Sie 97964836@conf.dfn.de ein.
