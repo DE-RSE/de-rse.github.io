@@ -22,13 +22,16 @@ Die verteilte Vorbereitung wird im Moment über gemeinsame Dokumente, eine Maili
 
 Der aktuelle Zeitplan sieht im Moment so aus:
 * ***Montag, 25. März, 09:00 - 10:30 Uhr*** - Video-/Telefonkonferenz
-  * Finalisierung Extended Abstract
+  * Finalisierung [Extended Abstract](https://docs.google.com/document/d/1bKknL0uKcTeX60We7f9ZYDfug6EB_dK0k7heKSu9muo/edit)
   * LOIs o.a. offizielles Commitment bzw. Interessensbekundung der Organisationen, die Members oder Participants des Konsortiums werden
 * ***29.März 2019***, Frist für Einreichung von Extended Abstracts für NFDI-Konferenz
 * 13.-14. Mai 2019, NFDI-Konferenz
 * Juni 2019, Veröffentlichung der Ausschreibung
 * Juni/Juli 2019, Frist für Einreichung von verbindlichen Absichtserklärungen
-*Oktober 2019, Frist für Einreichung von Anträgen
+* Oktober 2019, Frist für Einreichung von Anträgen
+
+Die URL zur Mitarbeit am Extended Abstract lautet: [https://docs.google.com/document/d/1bKknL0uKcTeX60We7f9ZYDfug6EB_dK0k7heKSu9muo/edit#heading=h.v9aiy8c7pdkz](https://docs.google.com/document/d/1bKknL0uKcTeX60We7f9ZYDfug6EB_dK0k7heKSu9muo/edit#heading=h.v9aiy8c7pdkz) *
+
 
 ### Mailingliste
 
@@ -49,3 +52,6 @@ H.323: **004910097964836 \
 **Android:[ https://play.google.com/store/apps/details?id=com.pexip.infinityconnect](https://play.google.com/store/apps/details?id=com.pexip.infinityconnect)**  \
 **iOS:[ https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102](https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102)** \
 Geben Sie ein: **97964836@conf.dfn.de** 
+
+\* Trotz aller Bemühungen haben wir keinen gleichwertige und ebenso niederschwellige nutzbare Alternative gefunden. 
+Vielleicht liefert die NFDI endlich konkurrenzfähige Alternativen. ;-)
