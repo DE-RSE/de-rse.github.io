@@ -22,7 +22,7 @@ Die verteilte Vorbereitung wird im Moment über gemeinsame Dokumente, eine Maili
 
 Der aktuelle Zeitplan sieht im Moment so aus:
 * ***Montag, 25. März, 09:00 - 10:30 Uhr*** - Video-/Telefonkonferenz
-  * Finalisierung [Extended Abstract](https://docs.google.com/document/d/1bKknL0uKcTeX60We7f9ZYDfug6EB_dK0k7heKSu9muo/edit)
+  * Finalisierung [Extended Abstract](https://goo.gl/qZAZq2)
   * LOIs o.a. offizielles Commitment bzw. Interessensbekundung der Organisationen, die Members oder Participants des Konsortiums werden
 * ***29.März 2019***, Frist für Einreichung von Extended Abstracts für NFDI-Konferenz
 * 13.-14. Mai 2019, NFDI-Konferenz
@@ -30,7 +30,7 @@ Der aktuelle Zeitplan sieht im Moment so aus:
 * Juni/Juli 2019, Frist für Einreichung von verbindlichen Absichtserklärungen
 * Oktober 2019, Frist für Einreichung von Anträgen
 
-Die URL zur Mitarbeit am Extended Abstract lautet: [https://docs.google.com/document/d/1bKknL0uKcTeX60We7f9ZYDfug6EB_dK0k7heKSu9muo/edit#heading=h.v9aiy8c7pdkz](https://docs.google.com/document/d/1bKknL0uKcTeX60We7f9ZYDfug6EB_dK0k7heKSu9muo/edit#heading=h.v9aiy8c7pdkz) *
+Die URL zur Mitarbeit am ***Extended Abstract lautet [https://goo.gl/qZAZq2](https://goo.gl/qZAZq2)***
 
 
 ### Mailingliste
