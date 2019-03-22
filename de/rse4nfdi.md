@@ -30,8 +30,9 @@ Der aktuelle Zeitplan sieht im Moment so aus:
 * Juni/Juli 2019, Frist für Einreichung von verbindlichen Absichtserklärungen
 * Oktober 2019, Frist für Einreichung von Anträgen
 
-Die URL zur Mitarbeit am ***Extended Abstract lautet [https://goo.gl/qZAZq2](https://goo.gl/qZAZq2)***
+### Extended Abstract für die NFDI Konferenz im Mai
 
+Die URL zur Mitarbeit am ***Extended Abstract lautet [https://goo.gl/qZAZq2](https://goo.gl/qZAZq2)***
 
 ### Mailingliste
 
