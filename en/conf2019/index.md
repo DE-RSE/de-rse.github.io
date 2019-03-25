@@ -11,11 +11,13 @@ weight: 1
 
 **What:** First Conference for Research Software Engineers in Germany
 
-**When:** 4-6 June 2019
+**Start:** 4 June 2019, 1pm
+
+**End:** 6 June 2019, 3pm
 
 **Where:** Albert Einstein Science Park in Potsdam
 
-**Call for Contributions:** [Submit your contribution at derse19.uni-jena.de/derse19/](https://derse19.uni-jena.de/derse19/) until 28 February 2019, 23:59:59 (CET)
+**Call for Contributions:** Was open until 28 February 2019, 23:59:59 (CET)
 
 **[Code of Conduct & Diversity Plan](code-of-conduct.html)**
 
