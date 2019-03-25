@@ -10,11 +10,13 @@ weight: 1
 
 **Was:** Erste Konferenz für ForschungssoftwareentwicklerInnen in Deutschland
 
-**Wann:** 4.-6. Juni 2019
+**Beginn:** 4. Juni 2019 um 13 Uhr
+
+**Ende:** 6. Juni 2019 um ca. 15 Uhr
 
 **Wo:** Wissenschaftspark Albert Einstein in Potsdam
 
-**Call for Contributions:** [Reiche Deinen Beitrag ein unter derse19.uni-jena.de/derse19/](https://derse19.uni-jena.de/derse19/) bis 28. Februar 2019, 23:59:59 CET.
+**Call for Contributions:** War geöffnet bis 28. Februar 2019, 23:59:59 CET.
 
 **[Code of Conduct & Diversity Plan](code-of-conduct.html)**
 
