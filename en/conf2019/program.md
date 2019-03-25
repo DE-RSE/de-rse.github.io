@@ -8,7 +8,11 @@ parent: info
 
 # Program
 
-The conference will take place from 4th to 6th June 2019. A first version of the program is expected to be released at the end of April.
+The conference will take place at June 4th with the opening at 1pm. Prior to this you can register from 11.45am on and will have an opportunity to have a small lunch.
+ 
+The event will end on June 6th 2019 around 3pm. 
+
+A first version of the program is expected to be released at the end of April.
 
 Interested in contributing to the program? The [Call for Contributions](call.html) is open until March 3rd, 2019. In the call you can also find information about the plans for the conference program.
 
