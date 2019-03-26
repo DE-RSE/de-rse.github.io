@@ -61,6 +61,9 @@ If you have any questions about the conference, please contact the conference or
 		</td>
 
 		<td style="vertical-align: top;"><h2 id="veranstalter">Thank you to our sponsors!</h2>
+		<h3>Poster prizes</h3>
+		<p><img src="{{ '/assets/img/conf/sponsors/gitlab.png' | prepend: site.baseurl }}" alt="GitLab logo" style="height: 100px;"/></p>
+		<p><a href="https://about.gitlab.com/just-commit/">GitLab</a></p>
 		<h3>Travel support</h3>
 		<p><img src="{{ '/assets/img/conf/sponsors/r-consortium.png' | prepend: site.baseurl }}" alt="R Consortium logo" style="height: 100px;"/></p>
 		<p><a href="http://r-consortium.org">R Consortium</a></p></td>
