@@ -79,7 +79,7 @@ account if applicable), and in the #general channel of the deRSE Slack
 
 ### <del style="color: gray;">Poster awards: €600 (1x)</del>
 
-Allocated - details to follow.
+Allocated to [GitLab](https://about.gitlab.com/just-commit/).
 
 ### Travel grants: €500[^1] (unlimited)
 
