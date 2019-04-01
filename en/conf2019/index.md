@@ -13,7 +13,7 @@ weight: 1
 
 **Start:** 4 June 2019, 1pm
 
-**End:** 6 June 2019, 3pm
+**End:** 6 June 2019, 3pm, de-RSE general assembly until ca. 5:30pm
 
 **Where:** Albert Einstein Science Park in Potsdam
 
