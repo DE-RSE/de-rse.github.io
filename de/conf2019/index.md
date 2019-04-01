@@ -12,7 +12,7 @@ weight: 1
 
 **Beginn:** 4. Juni 2019 um 13 Uhr
 
-**Ende:** 6. Juni 2019 um ca. 15 Uhr
+**Ende:** 6. Juni 2019 um ca. 15 Uhr, de-RSE Mitgliederversammlung bis ca. 17:30 Uhr
 
 **Wo:** Wissenschaftspark Albert Einstein in Potsdam
 
