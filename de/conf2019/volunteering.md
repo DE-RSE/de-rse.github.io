@@ -12,7 +12,7 @@ Die Durchführung einer Konferenz wie der deRSE19 kann nur mit engagierten Freiw
 
 ## Full-time Volunteer
 
-Wir suchen Freiwillige die zwei halbtags Schichten (9-13h, 13-17h) übernehmen und dafür zu einem [stark vergünstigtem Preis](registrierung.html) an der Konferenz teilnehmen. Es können organisatorische/logistische (Helpdesk, Reception, etc.) oder technische Aufgaben (Support für Vortragende, Ton- und Videoaufnahmen) übernommen werden. Um Full-time Volunteer zu werden, erwerb einfach ein Volunteer Ticket bei der [Registrierung](registrierung.html).
+Wir suchen Freiwillige die zwei halbtags Schichten (9-13h, 13-17h) übernehmen und dafür zu einem [stark vergünstigtem Preis](registration.html) an der Konferenz teilnehmen. Es können organisatorische/logistische (Helpdesk, Reception, etc.) oder technische Aufgaben (Support für Vortragende, Ton- und Videoaufnahmen) übernommen werden. Um Full-time Volunteer zu werden, erwerb einfach ein Volunteer Ticket bei der [Registrierung](registration.html).
 
 ## Part-time Volunteer
 
