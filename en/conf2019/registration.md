@@ -20,7 +20,7 @@ Students|120,00 €|120,00 €|60,00 €
 
 ## Volunteer Tickets
 
-Running a conference requires a lot of helping hands. If you want to help us, buy a volunteer ticket or [contact us](contact.html). Volunteer tickets are for those who want to volunteer 50% of their time at deRSE19.
+Running a conference requires a lot of helping hands. If you want to help us, buy a volunteer ticket or [contact us](contact.html). Volunteer tickets are for those who want to volunteer 50% of their time at deRSE19. More information about volunteering can be founde [here](volunteering.html).
 
 ## Financial Aid
 
