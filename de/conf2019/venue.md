@@ -14,17 +14,17 @@ Die Konferenz wird im Wissenschaftspark Albert Einstein stattfinden. Der Wissens
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Einsteinturm_7443.jpg/320px-Einsteinturm_7443.jpg)
 [![Campusplan](/assets/img/conf/deRSE_Campusplan.png)](/assets/pdf/conf2019/deRSE_Campusplan.pdf)
 
-## Anreise
+# Anreise
 
 [![Campusplan](/assets/img/conf/deRSE_Anfahrt_Karte.png)](/assets/pdf/conf2019/deRSE_Anfahrt_Karte.pdf)
 
-### nach Potsdam Hauptbahnhof
+## nach Potsdam Hauptbahnhof
 
 * [Auto](#auto)
 * [Flugzeug](#flugzeug)
 * [Zug / ÖPNV](#zug--Öpnv)
 
-### von Potsdam Hauptbahnhof nach Telegrafenberg
+## von Potsdam Hauptbahnhof nach Telegrafenberg
 
 * [Laufen](#laufen)
 * [Taxi](#taxi)
@@ -34,6 +34,8 @@ Auf dem Gelände des Wissenschaftsparks kann nicht geparkt werden. Bitte nutzen 
 
 Für die Navigation im Nahverkehr Berlin - Potsdam - Brandenburg empfehlen wir die VBB-App des Verkehrsverbundes Berlin-Brandenburg: [VBB-App](https://www.vbb.de/fahrplan/vbb-app) 
 oder die App DB-Navigator der Deutschen Bahn: [DB-Navigator App](https://www.bahn.de/p/view/service/mobile/download_db_navigator.shtml)
+
+## nach Potsdam Hauptbahnhof
 
 ### Auto
 
@@ -107,19 +109,17 @@ Es besteht auch die Möglichkeit, die S-Bahn S7 Richtung Potsdam Hbf vom Gleis 1
 
 Um nach Potsdam zu fahren, wird ein Fahrschein der Preiskategorie ABC zum Preis von € 3,40 benötigt. Dieser kann im Bus erworben werden oder am Bahnsteig, in der U- bzw. S-Bahnstation am Fahrkartenautomaten. Falls der Fahrschein am Fahrkartenautomaten erworben wird muss dieser noch entwertet werden. Dieser befindet sich in der Nähe des Fahrkartenautomatens, bevor Sie die Bahn besteigen. Falls der Fahrschein beim Busfahrer erworben wird, braucht dieser nicht entwertet zu werden.
 
-#### Von Potsdam Hbf nach Telegrafenberg
+## Von Potsdam Hbf nach Telegrafenberg
 
-Vom Postdamer Hbf kann man entweder den Bus oder ein Taxi nehmen oder laufen.
-
-##### Laufen
+### Laufen
 
 Der Fußweg dauert maximal 15 bis 20 Minuten. Am Bahnhof Potsdam den Ausgang Friedrich-Engels-Straße benutzen. Dort die Straßenbahnschienen und Bushaltestellen sowie die Ampel an der Friedrich-Engels-Straße überqueren. Durch die kleine Gasse bis zur Heinrich-Mann-Allee weiter gehen und die Ampel überqueren. Nach der Ampel erst leicht rechts halten, dann gleich wieder links in die Albert-Einstein-Straße einbiegen. Bergauf der Albert-Einstein-Straße folgen, zunächst durch eine kleine Wohngegend, dann durch bewaldetes Gebiet, vorbei am Kletterpark. Am Ende der Albert-Einstein-Straße befindet sich der Eingang zum Wissenschaftspark Albert Einstein.
 
-##### Taxi
+### Taxi
 
 Zu beiden Ausgängen des Potsdamer Hauptbahnhofs befinden sich Taxistände in unmittelbarer Nähe. Die Taxi-Zentrale in Potsdam erreichen Sie rund um die Uhr unter der Nummer +49 (0)331 29 29 29.
 
-##### Bus
+### Bus
 
 Zum Arbeitsbeginn bzw. Arbeitsende fährt vom Steig 7 vor dem Bahnhof ein Kleinbus (691) mit Endhaltepunkt auf dem Campus vor dem Haus H. 
 

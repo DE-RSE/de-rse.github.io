@@ -14,17 +14,17 @@ The conference will take place in the Science Park Albert Einstein. The Science 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Einsteinturm_7443.jpg/320px-Einsteinturm_7443.jpg)
 [![Campusplan](/assets/img/conf/deRSE_Campusplan.png)](/assets/pdf/conf2019/deRSE_Campusplan.pdf)
 
-## Getting there
+# Getting there
 
 [![Campusplan](/assets/img/conf/deRSE_Anfahrt_Karte.png)](/assets/pdf/conf2019/deRSE_Anfahrt_Karte.pdf)
 
-### to Potsdam Hauptbahnhof
+## to Potsdam Hauptbahnhof
 
 * [Car](#car)
 * [Plane](#plane)
 * [Train / Public transport](#train--Publictransport)
 
-### from Potsdam Hauptbahnhof to Telegrafenberg
+## from Potsdam Hauptbahnhof to Telegrafenberg
 
 * [Walk](#walk)
 * [Taxi](#taxi)
@@ -34,6 +34,8 @@ On the grounds of the Science Park can not be parked. Please use the parking fac
 
 For the navigation in the suburban traffic Berlin - Potsdam - Brandenburg we recommend the VBB app of the transport association Berlin-Brandenburg: [VBB-App](https://www.vbb.de/fahrplan/vbb-app)
 or the Deutsche Bahn DB-Navigator app: [DB-Navigator App](https://www.bahn.de/p/view/service/mobile/download_db_navigator.shtml)
+
+## to Potsdam Hauptbahnhof
 
 ### Car
 
@@ -107,17 +109,17 @@ It is also possible to use the S-Bahn S7 towards Potsdam Hbf from platform 16, w
 
 In order to drive to Potsdam, a ticket of the price category ABC is required for the price of € 3.40. This can be purchased on the bus or at the platform, in the underground or S-Bahn station at the ticket machines. If the ticket is purchased at the ticket machine this must be canceled. This is near the ticket machine before boarding the train. If the ticket is purchased from the bus driver, it does not need to be validated.
 
-#### From Potsdam Hbf to Telegrafenberg
+## From Potsdam Hbf to Telegrafenberg
 
-##### **Walk**
+### Walk
 
 The walk takes a maximum of 15 to 20 minutes. At the station Potsdam use the exit Friedrich-Engels-Straße. There, cross the tram and bus stops as well as the traffic light at Friedrich-Engels-Straße. Continue through the small alley to Heinrich-Mann-Allee and cross the traffic light. After the traffic light, keep to the right, then turn left into Albert-Einstein-Straße. Follow the Albert Einstein road, first through a small residential area, then through wooded area, past the climbing park. At the end of the Albert Einstein road is the entrance to the Albert Einstein Science Park.
 
-##### **Taxi**
+### Taxi
 
 There are taxi ranks in the immediate vicinity of both exits of Potsdam Central Station. The taxi center in Potsdam can be reached around the clock at +49 (0) 331 29 29 29.
 
-##### **Bus**
+### Bus
 
 At the beginning of the work or the end of work, a minibus (691) with a final stop on the campus in front of Haus H. from Steig 7 in front of the station.
 
