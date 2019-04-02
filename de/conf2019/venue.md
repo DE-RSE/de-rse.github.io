@@ -8,7 +8,7 @@ parent: info
 
 # Wissenschaftspark Albert Einstein
 
-Die Konferenz wird im Wissenschaftspark Albert Einstein stattfinden. Der Wissenschaftspark befindet sich auf dem Telegrafenberg in Potsdam. Er beheimatet astrophysikalische, astronomische, meteorologische und geophysikalische Observatorien, die in einen englischen Landgarten integriert sind, welcher bereits im 19. Jahrhundert entworfen wurde. 
+Die Konferenz wird im Wissenschaftspark Albert Einstein stattfinden. Der Wissenschaftspark befindet sich auf dem Telegrafenberg in Potsdam. Er beheimatet astrophysikalische, astronomische, meteorologische und geophysikalische Observatorien der Institute AIP, AWI, DWD, GFZ und PIK, die in einen englischen Landgarten integriert sind, welcher bereits im 19. Jahrhundert entworfen wurde. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Signboard_of_the_Wissenschaftspark_Albert_Einstein.JPG/320px-Signboard_of_the_Wissenschaftspark_Albert_Einstein.JPG)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Einsteinturm_7443.jpg/320px-Einsteinturm_7443.jpg)
@@ -30,7 +30,18 @@ Die Konferenz wird im Wissenschaftspark Albert Einstein stattfinden. Der Wissens
 * [Taxi](#taxi)
 * [Bus](#bus)
 
+### Parken
+
 Auf dem Gelände des Wissenschaftsparks kann nicht geparkt werden. Bitte nutzen Sie die Parkmöglichkeiten in der Potsdamer Innenstadt, z.B. das Parkhaus am Hauptbahnhof.
+
+### Tickets im Nahverkehr
+
+Ein Einzelfahrausweis Berlin-ABC (Regeltarif) kostet € 3,40 und ist für 2 Stunden in ganz Berlin sowie in ganz Potsdam gültig. Alle öffentlichen Verkehrsmittel sind damit nutzbar (Regionalbahn, U-Bahn, S-Bahn, Bus, Tram, Fähre F1). 
+
+Wer nur für die Strecke von Potsdam Hauptbahnhof zum Telegrafenberg ein Ticket benötigt, kann für € 1,50 ein Kurzstreckenticket Potsdam ABC (Regeltarif) kaufen, das 4 Haltestellen lang gültig ist. 
+
+Die Tickets können in Kundenzentren, beim Fahrpersonal, an Automaten in den Bahnhöfen, U- und S-Bahnstationen oder per Handy-App gekauft werden. Tickets ohne aufgedruckten Gültigkeitsbeginn müssen vor Beginn der Fahrt entwertet werden. Die Entwerter befinden sich in der Nähe der Haltestellen bzw. auf den Bahnsteigen und in den meisten Straßenbahnen und Bussen.
+
 
 Für die Navigation im Nahverkehr Berlin - Potsdam - Brandenburg empfehlen wir die VBB-App des Verkehrsverbundes Berlin-Brandenburg: [VBB-App](https://www.vbb.de/fahrplan/vbb-app) 
 oder die App DB-Navigator der Deutschen Bahn: [DB-Navigator App](https://www.bahn.de/p/view/service/mobile/download_db_navigator.shtml)
@@ -85,15 +96,11 @@ Alternativ kann der Bus der Linie 109 bereits am Bahnhof Charlottenburg verlasse
 
 #### Via Berlin-Schönefeld
 
-Der Fußweg zur S-Bahn-Station Flughafen Berlin Schönefeld beträgt ca. 6 Minuten.
+Der Fußweg zur S-Bahn-Station Flughafen Berlin Schönefeld beträgt ca. 6 Minuten. Dort mit der S-Bahn S9 Richtung Spandau bis Treptower Park (alle 20 min, Dauer 24 min). Umsteigen in die S-Bahn S41 Richtung Gesundbrunnen oder Schöneberg und an der Station Westkreuz aussteigen (alle 10 min, Dauer 25 min). Ab hier die S-Bahn S7 Richtung Potsdam Hbf nehmen (alle 10 min, Dauer 22 min). Gesamtfahrzeit ca. 75 min. 
 
-Dort in die S-Bahn S9 Richtung Spandau und an der Station Treptower Park aussteigen. (Alle 20 min, Dauer 24 min)
-
-An der Station Treptower Park in die S-Bahn S41 Richtung Gesundbrunnen oder Schöneberg wechseln und an der Station Westkreuz aussteigen. (Alle 10 min, Dauer 25 min)
-
-Hier die S-Bahn S7 Richtung Potsdam Hbf nehmen. (Alle 10 min, Dauer 22 min)
-
-Geamtfahrtzeit ca. 75 min
+Alternativ gibt es folgende stündliche Verbindungen mit 60 - 70 Minuten Fahrtzeit: 
+* (:03) RB14 Richtung Nauen bis Berlin Ostbahnhof und Umstieg in den RE1 Richtung Brandenburg / Magdeburg bis Potsdam Hauptbahnhof.
+*  RE7 Richtung Dessau bis Berlin Hauptbahnhof oder Berlin Wannsee und Umstieg in den RE1 Richtung Brandenburg / Magdeburg bzw. die S7 bis Potsdam Hauptbahnhof. 
 
 ### Zug / ÖPNV
 
@@ -106,8 +113,6 @@ Potsdam hat keinen ICE Halt, liegt aber nah an Berlin. Es bietet sich an, eine V
 Nach Ankunft in Berlin Hbf auf die obere Ebene des Bahnhofs wechseln. Von hier kann der Regionalexpress RE1 Richtung Magdeburg bzw. Brandenburg vom Gleis 13 oder 14 nach Potsdam Hauptbahnhof genommen werden, der alle 30 Minuten fährt und ca. 25 Minuten nach Potsdam benötigt. 
 
 Es besteht auch die Möglichkeit, die S-Bahn S7 Richtung Potsdam Hbf vom Gleis 16 zu nutzen, die alle 10 Minuten fährt und ca. 35 Minuten für die Fahrt benötigt.
-
-Um nach Potsdam zu fahren, wird ein Fahrschein der Preiskategorie ABC zum Preis von € 3,40 benötigt. Dieser kann im Bus erworben werden oder am Bahnsteig, in der U- bzw. S-Bahnstation am Fahrkartenautomaten. Falls der Fahrschein am Fahrkartenautomaten erworben wird muss dieser noch entwertet werden. Dieser befindet sich in der Nähe des Fahrkartenautomatens, bevor Sie die Bahn besteigen. Falls der Fahrschein beim Busfahrer erworben wird, braucht dieser nicht entwertet zu werden.
 
 ## Von Potsdam Hbf nach Telegrafenberg
 

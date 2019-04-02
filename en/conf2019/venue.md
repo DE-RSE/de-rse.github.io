@@ -8,7 +8,7 @@ ischild: true
 
 # Science Park Albert Einstein
 
-The conference will take place in the Science Park Albert Einstein. The Science Park is located on the Telegrafenberg in Potsdam. It is home to astrophysical, astronomical, meteorological and geophysical observatories, which are integrated into an English country garden, which was already designed in the 19th century.
+The conference will take place in the Science Park Albert Einstein. The Science Park is located on the Telegrafenberg in Potsdam. It is home to astrophysical, astronomical, meteorological and geophysical observatories of the instituts AIP, AWI, DWD, GFZ, and PIK, which are integrated into an English country garden, which was already designed in the 19th century.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Signboard_of_the_Wissenschaftspark_Albert_Einstein.JPG/320px-Signboard_of_the_Wissenschaftspark_Albert_Einstein.JPG)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Einsteinturm_7443.jpg/320px-Einsteinturm_7443.jpg)
@@ -30,7 +30,16 @@ The conference will take place in the Science Park Albert Einstein. The Science 
 * [Taxi](#taxi)
 * [Bus](#bus)
 
+### Parking
+
 On the grounds of the Science Park can not be parked. Please use the parking facilities in Potsdam city center, e.g. the parking garage at the main station.
+
+### Public transport tickets
+
+A single ticket Berlin-ABC (regular rate) costs € 3.40 and is valid for 2 hours in Berlin as well as in Potsdam. All public transport is available (regional train, subway, S-Bahn, bus, tram, ferry F1).
+If you only need a ticket for the route from Potsdam Central Station to Telegrafenberg, you can buy a short-distance ticket from Potsdam ABC (regular fare) for € 1.50, which is valid for 4 stops.
+
+The tickets can be purchased in customer centers, at the drivers, at vending machines in the train stations, underground and S-Bahn stations or by mobile phone app. Tickets without printed validity must be canceled before the start of the journey. The cancellers are located near the stops or on the platforms and in most trams and buses.
 
 For the navigation in the suburban traffic Berlin - Potsdam - Brandenburg we recommend the VBB app of the transport association Berlin-Brandenburg: [VBB-App](https://www.vbb.de/fahrplan/vbb-app)
 or the Deutsche Bahn DB-Navigator app: [DB-Navigator App](https://www.bahn.de/p/view/service/mobile/download_db_navigator.shtml)
@@ -85,15 +94,11 @@ Alternatively, the bus line 109 can already be left at the Charlottenburg train 
 
 #### Via Berlin-Schönefeld
 
-The walk to the S-Bahn station Berlin Schönefeld Airport is about 6 minutes.
+The walk to the S-Bahn station Berlin Schönefeld Airport is about 6 minutes. There with the S-Bahn S9 direction Spandau to Treptower Park (every 20 min, duration 24 min). Change to S-Bahn S41 direction Gesundbrunnen or Schöneberg and get off at station Westkreuz (every 10 min, duration 25 min). From here take the S-Bahn S7 in the direction of Potsdam Hbf (every 10 minutes, duration 22 minutes). Total travel time approx. 75 min.
 
-There take the S-Bahn S9 direction Spandau and get off at the station Treptower Park. (Every 20 min, duration 24 min)
-
-Change at the station Treptower Park into the S-Bahn S41 direction Gesundbrunnen or Schöneberg and get off at the station Westkreuz. (Every 10 min, duration 25 min)
-
-Here take the S-Bahn S7 in the direction of Potsdam Hbf. (Every 10 min, duration 22 min)
-
-Total travel time approx. 75 min
+Alternatively, there are the following hourly connections with 60 - 70 minutes drive:
+* (: 03) RB14 direction Nauen to Berlin Ostbahnhof and change to the RE1 direction Brandenburg / Magdeburg to Potsdam Hauptbahnhof.
+* (: 45) RE7 direction Dessau to Berlin Hauptbahnhof or Berlin Wannsee and change to the RE1 direction Brandenburg / Magdeburg or the S7 to Potsdam Hauptbahnhof.
 
 ### Train / Public transport
 
@@ -106,8 +111,6 @@ Potsdam has no ICE stop, but is close to Berlin. It makes sense to choose a conn
 After arriving in Berlin, change to the upper level of the station. From here the regional express RE1 direction Magdeburg or Brandenburg can be taken from the track 13 or 14 to Potsdam main station, which runs every 30 minutes and needs about 25 minutes to Potsdam.
 
 It is also possible to use the S-Bahn S7 towards Potsdam Hbf from platform 16, which runs every 10 minutes and takes about 35 minutes to get there.
-
-In order to drive to Potsdam, a ticket of the price category ABC is required for the price of € 3.40. This can be purchased on the bus or at the platform, in the underground or S-Bahn station at the ticket machines. If the ticket is purchased at the ticket machine this must be canceled. This is near the ticket machine before boarding the train. If the ticket is purchased from the bus driver, it does not need to be validated.
 
 ## From Potsdam Hbf to Telegrafenberg
 
