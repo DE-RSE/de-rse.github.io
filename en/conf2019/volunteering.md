@@ -12,7 +12,7 @@ Conducting a conference like deRSE19 can only be successful with dedicated volun
 
 ## Full-time Volunteer
 
-We are looking for volunteers who take over two half-day shifts (9-13h, 13-17h) and therefore attend the conference for a [discounted price](registration.html). Organizational / logistical (helpdesk, reception, etc.) or technical tasks (support for lecturers, audio and video recordings) can be taken over. To become a full-time volunteer, simply purchase a volunteer ticket at [registration](registration.html).
+We are looking for volunteers who take over two half-day shifts (9am-1pm, 1pm-5pm) and therefore attend the conference for a [discounted price](registration.html). Also on June 4th is from 9 clock an introduction whose participation is mandatory. Organizational / logistical (helpdesk, reception, etc.) or technical tasks (support for lecturers, audio and video recordings) can be taken over. To become a full-time volunteer, simply purchase a volunteer ticket at [registration](registration.html).
 
 ## Part-time Volunteer
 
