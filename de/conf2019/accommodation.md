@@ -14,18 +14,18 @@ Wir haben in folgenden Hostels und Hotels Zimmer für Euch reserviert. Bitte ste
 Damit Ihr auf das freigehaltene **Zimmerkontigent** zugreifen könnt, bucht Eure Zimmer bitte, mit dem **Code "RSE Konferenz 2019" (per email oder telefonisch)**. Wenn Ihr Euer Institut oder Eure Uni nennt, könnt Ihr euch zusätzlich die Potsdam City-Tax sparen, diese wird für geschäftliche Aufenthalte nicht erhoben. 
 
 
-[HotelBB](https://www.hotelbb.de/en/potsdam) (Reservierung der Zimmer endet am 17. April)
-Kontingent: 45 Zimmer
+[HotelBB](https://www.hotelbb.de/en/potsdam) (Reservierung der Zimmer endet am 17. April) 
+Kontingent: 45 Zimmer 
 Preis: 58,- € (Einzelzimmer), 68,- € (Doppelzimmer)
 
-[Bed and Breakfast am Luisenplatz](https://www.bed-breakfast-potsdam.de/) (Reservierung der Zimmer endet am 15. April)
-Kontingent: 10 Zimmer
+[Bed and Breakfast am Luisenplatz](https://www.bed-breakfast-potsdam.de/) (Reservierung der Zimmer endet am 15. April) 
+Kontingent: 10 Zimmer 
 Preis: 95,- € (Einzelzimmer), 125,- € (Doppelzimmer)
 
-[Hotel am Jaegertor](http://www.potsdam-hotel-am-jaegertor.de/en) (Reservierung der Zimmer endet am 22. April)
-Kontingent: 10 Zimmer
+[Hotel am Jaegertor](http://www.potsdam-hotel-am-jaegertor.de/en) (Reservierung der Zimmer endet am 22. April) 
+Kontingent: 10 Zimmer 
 Preis: 158,- € (Einzelzimmer), 181,- € (Doppelzimmer)
 
-[Arcona Hotel](https://potsdam.arcona.de/) (Reservierung der Zimmer endet am 13. April)
-Kontingent: 30 Zimmer
+[Arcona Hotel](https://potsdam.arcona.de/) (Reservierung der Zimmer endet am 13. April) 
+Kontingent: 30 Zimmer 
 Preis: 89,- € (Einzelzimmer), 109,- € (Doppelzimmer)
