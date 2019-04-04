@@ -36,7 +36,7 @@ Auf dem Gelände des Wissenschaftsparks kann nicht geparkt werden. Bitte nutzen 
 
 ### Tickets im Fernverkehr
 
-Wir bieten zusammen mit der DB ein Veranstaltungsticket an. Die Buchung erfolgt über: https://bahn.events.ccc.de/ 
+Wir bieten zusammen mit der DB ein Veranstaltungsticket an. Die Buchung erfolgt über: [https://bahn.events.ccc.de/](https://bahn.events.ccc.de/)
 
 Klasse|Mit Zugbindung|Ohne Zugbindung
 --|--|--
