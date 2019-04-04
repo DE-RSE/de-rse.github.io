@@ -34,6 +34,17 @@ The conference will take place in the Science Park Albert Einstein. The Science 
 
 On the grounds of the Science Park can not be parked. Please use the parking facilities in Potsdam city center, e.g. the parking garage at the main station.
 
+### Tickets in long-distance traffic
+
+We offer together with the DB an event ticket. Booking is via: https://bahn.events.ccc.de/
+
+Class | With train binding | Without train binding
+- | - | -
+1st class | € 89.90 | 109.90 €
+2nd class | 54,90 € | 74,90 €
+
+The ticket includes a city ticket (validity Berlin-AB). **For the event ticket to be valid, you must carry a printed deRSE19 ticket!**
+
 ### Public transport tickets
 
 A single ticket Berlin-ABC (regular rate) costs € 3.40 and is valid for 2 hours in Berlin as well as in Potsdam. All public transport is available (regional train, subway, S-Bahn, bus, tram, ferry F1).
