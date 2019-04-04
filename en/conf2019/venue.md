@@ -1,6 +1,6 @@
 --- 
 layout: default 
-title: Venue
+title: Venue / Getting there
 weight: 240
 parent: info
 ischild: true
@@ -16,7 +16,7 @@ The conference will take place in the Science Park Albert Einstein. The Science 
 
 # Getting there
 
-[![Campusplan](/assets/img/conf/deRSE_Anfahrt_Karte.png)](/assets/pdf/conf2019/deRSE_Anfahrt_Karte.pdf)
+[![Getting there](/assets/img/conf/deRSE_Anfahrt_Karte.png)](/assets/pdf/conf2019/deRSE_Anfahrt_Karte.pdf)
 
 ## to Potsdam Hauptbahnhof
 
@@ -33,6 +33,17 @@ The conference will take place in the Science Park Albert Einstein. The Science 
 ### Parking
 
 On the grounds of the Science Park can not be parked. Please use the parking facilities in Potsdam city center, e.g. the parking garage at the main station.
+
+### Tickets in long-distance traffic
+
+We offer together with the DB an event ticket. Booking is via: https://bahn.events.ccc.de/
+
+Class | With train binding | Without train binding
+- | - | -
+1st class | € 89.90 | 109.90 €
+2nd class | 54,90 € | 74,90 €
+
+The ticket includes a city ticket (validity Berlin-AB). **For the event ticket to be valid, you must carry a printed deRSE19 ticket!**
 
 ### Public transport tickets
 

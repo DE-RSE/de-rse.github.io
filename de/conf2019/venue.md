@@ -1,6 +1,6 @@
 --- 
 layout: default 
-title: Veranstaltungsort
+title: Veranstaltungsort / Anreise
 weight: 240
 ischild: true
 parent: info
@@ -16,7 +16,7 @@ Die Konferenz wird im Wissenschaftspark Albert Einstein stattfinden. Der Wissens
 
 # Anreise
 
-[![Campusplan](/assets/img/conf/deRSE_Anfahrt_Karte.png)](/assets/pdf/conf2019/deRSE_Anfahrt_Karte.pdf)
+[![Anfahrt](/assets/img/conf/deRSE_Anfahrt_Karte.png)](/assets/pdf/conf2019/deRSE_Anfahrt_Karte.pdf)
 
 ## nach Potsdam Hauptbahnhof
 
@@ -33,6 +33,17 @@ Die Konferenz wird im Wissenschaftspark Albert Einstein stattfinden. Der Wissens
 ### Parken
 
 Auf dem Gelände des Wissenschaftsparks kann nicht geparkt werden. Bitte nutzen Sie die Parkmöglichkeiten in der Potsdamer Innenstadt, z.B. das Parkhaus am Hauptbahnhof.
+
+### Tickets im Fernverkehr
+
+Wir bieten zusammen mit der DB ein Veranstaltungsticket an. Die Buchung erfolgt über: https://bahn.events.ccc.de/ 
+
+Klasse|Mit Zugbindung|Ohne Zugbindung
+--|--|--
+1. Klasse| 89,90 €|109,90 €
+2. Klasse| 54,90 €|74,90 €
+
+Das Ticket beinhaltet ein City-Ticket (Gültigkeit Berlin-AB). **Damit das Bahnticket gültig ist muss ein ausgedrucktes deRSE19 Ticket mitgeführt werden!**
 
 ### Tickets im Nahverkehr
 

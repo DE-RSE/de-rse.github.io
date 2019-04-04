@@ -19,3 +19,5 @@ Hotel|Verfügbarkeit Kontingent|Kontingent|EZ pro Nacht|DZ pro Nacht
 [Bed and Breakfast am Luisenplatz](https://www.bed-breakfast-potsdam.de/) |April 15th|10 rooms|95,- €|125,- € 
 [Hotel am Jaegertor](http://www.potsdam-hotel-am-jaegertor.de/en)|April 22nd|10 rooms|158,- €| 181,- €
 [Arcona Hotel](https://potsdam.arcona.de/)| April 13th|30 rooms|89,- €|109,- €
+
+Eine Übersicht über den Weg zum Veranstaltungsort und zu den Hotelstandorten findet Ihr unter [Anreise](venue.html).

@@ -19,3 +19,5 @@ Hotel|Pre-reservation Dealine|Available|Single per night|Double per night
 [Bed and Breakfast am Luisenplatz](https://www.bed-breakfast-potsdam.de/) |15. April|10 Zimmer|95,- €|125,- € 
 [Hotel am Jaegertor](http://www.potsdam-hotel-am-jaegertor.de/en)|22. April|10 Zimmer|158,- €| 181,- €
 [Arcona Hotel](https://potsdam.arcona.de/)| 13. April|30 Zimmer |89,- €|109,- €
+
+For an overview how to get to the venue and of the hotel locations, see [Getting there](venue.html).
