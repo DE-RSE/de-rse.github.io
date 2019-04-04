@@ -36,7 +36,7 @@ On the grounds of the Science Park can not be parked. Please use the parking fac
 
 ### Tickets in long-distance traffic
 
-We offer together with the DB an event ticket. Booking is via: https://bahn.events.ccc.de/
+We offer together with the DB an event ticket. Booking is via: [https://bahn.events.ccc.de/](https://bahn.events.ccc.de/)
 
 Class | With train binding | Without train binding
 - | - | -
