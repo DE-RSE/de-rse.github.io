@@ -15,9 +15,9 @@ Damit Ihr auf das freigehaltene **Zimmerkontigent** zugreifen könnt, bucht Eure
 
 Hotel|Verfügbarkeit Kontingent|Kontingent|EZ pro Nacht|DZ pro Nacht
 --|--|--|--
-[HotelBB](https://www.hotelbb.de/en/potsdam)|April 17th|45 rooms|58,- €|68,- €
-[Bed and Breakfast am Luisenplatz](https://www.bed-breakfast-potsdam.de/) |April 15th|10 rooms|95,- €|125,- € 
-[Hotel am Jaegertor](http://www.potsdam-hotel-am-jaegertor.de/en)|April 22nd|10 rooms|158,- €| 181,- €
-[Arcona Hotel](https://potsdam.arcona.de/)| April 13th|30 rooms|89,- €|109,- €
+[HotelBB](https://www.hotelbb.de/en/potsdam)|17. April|45 Zimmer|58,- €|68,- €
+[Bed and Breakfast am Luisenplatz](https://www.bed-breakfast-potsdam.de/) |15. April|10 Zimmer|95,- €|125,- € 
+[Hotel am Jaegertor](http://www.potsdam-hotel-am-jaegertor.de/en)|22. April|10 Zimmer|158,- €| 181,- €
+[Arcona Hotel](https://potsdam.arcona.de/)| 13. April|30 Zimmer |89,- €|109,- €
 
 Eine Übersicht über den Weg zum Veranstaltungsort und zu den Hotelstandorten findet Ihr unter [Anreise](venue.html).
