@@ -1,6 +1,6 @@
 --- 
 layout: default 
-title: Veranstaltungsort
+title: Veranstaltungsort / Anreise
 weight: 240
 ischild: true
 parent: info
@@ -16,7 +16,7 @@ Die Konferenz wird im Wissenschaftspark Albert Einstein stattfinden. Der Wissens
 
 # Anreise
 
-[![Campusplan](/assets/img/conf/deRSE_Anfahrt_Karte.png)](/assets/pdf/conf2019/deRSE_Anfahrt_Karte.pdf)
+[![Anfahrt](/assets/img/conf/deRSE_Anfahrt_Karte.png)](/assets/pdf/conf2019/deRSE_Anfahrt_Karte.pdf)
 
 ## nach Potsdam Hauptbahnhof
 

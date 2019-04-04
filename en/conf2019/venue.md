@@ -1,6 +1,6 @@
 --- 
 layout: default 
-title: Venue
+title: Venue / Getting there
 weight: 240
 parent: info
 ischild: true
@@ -16,7 +16,7 @@ The conference will take place in the Science Park Albert Einstein. The Science 
 
 # Getting there
 
-[![Campusplan](/assets/img/conf/deRSE_Anfahrt_Karte.png)](/assets/pdf/conf2019/deRSE_Anfahrt_Karte.pdf)
+[![Getting there](/assets/img/conf/deRSE_Anfahrt_Karte.png)](/assets/pdf/conf2019/deRSE_Anfahrt_Karte.pdf)
 
 ## to Potsdam Hauptbahnhof
 
