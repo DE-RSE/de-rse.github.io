@@ -8,7 +8,7 @@ parent: info
 
 # Registration
 
-Registration opens on 08.04.2019. The Early Bird sale ends on 14.04.2019. Please book in advance your [accommodation](accommodation.html). The contingents expire in April and Potsdam is very popular in June.
+Registration opens on 08.04.2019. The Early Bird sale ends on 14.04.2019. Registration closes on 20.05.2019. Please book in advance your [accommodation](accommodation.html). The contingents expire in April and Potsdam is very popular in June.
 
 ## Prices
 
