@@ -8,7 +8,7 @@ parent: info
 
 # Anmeldung / Registrierung
 
-Die Registrierung öffnet am 08.04.2019. Der Early Bird Verkauf endet am 14.04.2019. Bucht bitte zeitnah eure [Unterkunft](accommodation.html). Die Kontingente laufen im April aus und Potsdam ist im Juni sehr beliebt.
+Die Registrierung öffnet am 08.04.2019. Der Early Bird Verkauf endet am 14.04.2019. Die Registrierung schließt am 20.05.2019. Bucht bitte zeitnah eure [Unterkunft](accommodation.html). Die Kontingente laufen im April aus und Potsdam ist im Juni sehr beliebt.
 
 ## Preise
 
