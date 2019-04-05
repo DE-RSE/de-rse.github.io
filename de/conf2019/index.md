@@ -18,13 +18,25 @@ weight: 1
 
 **Call for Contributions:** War geöffnet bis 28. Februar 2019, 23:59:59 CET.
 
-**[Code of Conduct & Diversity Plan](code-of-conduct.html)**
+**Code of Conduct & Diversity Plan**: [Siehe hier](code-of-conduct.html)
+
+## Wichtige Daten
+
+Datum | Termin
+--|--
+28.02. (Do)|Ende [Call for Contributions](call.html)
+22.03. (Fr)|Versand Bestätigung / Ablehnung
+08.04. (Mo)|Öffnung [Registrierung](registration.html)
+14.04. (So)|Ende Early Bird
+15.04. (Mo)|Veröffentlichung Programm
+20.05. (Mo)|Ende Registrierung
+04.06.-06.06. (Di-Do)|Konferenz
 
 ## Updates
 
 Registrier dich auf [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) um die neusten Updates zu erhalten.
 
-## Ankündigung
+## Über die deRSE19
 
 Nach dem Erfolg der [ersten drei internationalen Konferenzen der Research Software Engineers in Großbritannien](https://rse.ac.uk/events/past-conferences/) findet vom 4. bis 6. Juni 2019 im Wissenschaftspark Albert Einstein in Potsdam die erste internationale Konferenz in Deutschland zu Forschungssoftware und den beteiligten Personen in der deutschen Forschungslandschaft statt.
 
