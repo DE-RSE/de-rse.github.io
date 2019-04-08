@@ -21,6 +21,10 @@ weight: 1
 
 **Code of Conduct & Diversity Plan**: [See here](code-of-conduct.html)
 
+## Registration
+
+Please register for the conference at [https://pretix.derse19.uni-jena.de/de-RSE/2019/](https://pretix.derse19.uni-jena.de/de-RSE/2019/).
+
 ## Important Dates
 
 Date | Event

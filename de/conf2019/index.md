@@ -20,17 +20,21 @@ weight: 1
 
 **Code of Conduct & Diversity Plan**: [Siehe hier](code-of-conduct.html)
 
+## Registrierung
+
+Bitte registriere Dich für die Konferenz unter [https://pretix.derse19.uni-jena.de/de-RSE/2019/](https://pretix.derse19.uni-jena.de/de-RSE/2019/).
+
 ## Wichtige Daten
 
 Datum | Termin
 --|--
-28.02. (Do)|Ende [Call for Contributions](call.html)
-22.03. (Fr)|Versand Bestätigung / Ablehnung
-08.04. (Mo)|Öffnung [Registrierung](registration.html)
-14.04. (So)|Ende Early Bird
-15.04. (Mo)|Veröffentlichung Programm
-20.05. (Mo)|Ende Registrierung
-04.06.-06.06. (Di-Do)|Konferenz
+28.02. (Do) | Ende [Call for Contributions](call.html)
+22.03. (Fr) | Versand Bestätigung / Ablehnung
+08.04. (Mo) | Öffnung [Registrierung](registration.html)
+14.04. (So) | Ende Early Bird
+15.04. (Mo) | Veröffentlichung Programm
+20.05. (Mo) | Ende Registrierung
+04.06.-06.06. (Di-Do) | Konferenz
 
 ## Updates
 
