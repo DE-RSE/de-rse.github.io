@@ -63,7 +63,7 @@ based on aspects of *contribution quality*, *diversity*, and *financial situatio
 If there are more positive reviews than bursaries, awards will be drawn randomly
 (no recourse to legal action).
 
-An initial deadline for applications is **31 March 2019**. If bursaries remain
+The deadline for applications has been extended until **30 April 2019**. If bursaries remain
 available after the initial round of decisions, we will accept further
 applications.
 
