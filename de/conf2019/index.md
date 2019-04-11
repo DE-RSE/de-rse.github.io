@@ -70,7 +70,7 @@ Wenn Fragen zur Konferenz aufkommen, wende Dich bitte an das Organisatonsteam de
 			<p><a href="https://www.gfz-potsdam.de/">GFZ German Research Centre for Geosciences</a></p>
 			<p><img src="{{ '/assets/img/conf/pik.png' | prepend: site.baseurl }}" style="width: 100px;"/></p>
 			<p><a href="https://www.pik-potsdam.de/">Potsdam-Institut für Klimafolgenforschung (PIK)</a></p>
-			<h2 id="konferenzkomitee">Konferenkomitee</h2>
+			<h2 id="konferenzkomitee">Konferenzkomitee</h2>
 			<p>Die organisierenden Personen sind auf der <a href="%7B%7B%20site.baseurl%20%7D%7D%7B%%20link%20de/conf2019/contact.md%20%%7D">Kontakt-Seite</a> zu finden.</p>
 		</td>
 
