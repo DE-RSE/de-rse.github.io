@@ -149,3 +149,32 @@ Abfahrtszeiten der Buslinie 691:
   * Morgens: ab 7:01 Uhr alle 20 min (:01, :21; :41), letzte Fahrt 9:41 Uhr
   * Nachmittags: ab 15:01 Uhr alle 20 min (:01, :21; :41), letzte Fahrt 18:41 Uhr
 * siehe auch [Offizieller Fahrplan](https://www.swp-potsdam.de/content/verkehr/pdf_7/fahrplanwechsel_2018_2019/bus_09_12_2018/fahrplan_691_mo_fr_ab_09_12_2019.pdf)
+
+
+# Was Potsdam sonst noch zu bieten hat
+
+In Potsdam gibt es einiges zu tun und zu erkunden. 
+Für diejenigen, die etwas mehr Zeit in Potsdam verbringen oder für Begleitungen, haben wir ein paar Dinge zusammengestellt.
+
+#### Kletterwald 
+[AbenteuerPark Potsdam](https://www.abenteuerpark.de/home)
+
+#### Stadtführungen durch Potsdam
+- [Klassisch](https://www.potsdamtourismus.de/touren/stadtfuehrungen/)
+- [Mit dem Rad](http://potsdam-per-pedales.de/fuehrungen-kajaktouren-kurse/) 
+
+#### Schwimmbad 
+[Blu](https://www.swp-potsdam.de/de/b%C3%A4der/blu-das-sport-und-freizeitbad/)
+
+#### Fahrradverleih
+- [Nextbike](https://www.nextbike.de)
+- [Potsdam per Pedales](http://potsdam-per-pedales.de/startpage/) (hier auch Lastenräder)
+- [Fahrradstation Potsdam](http://www.fahrradstationpotsdam.de/)
+
+
+
+
+
+
+
+
