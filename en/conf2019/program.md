@@ -12,7 +12,7 @@ The conference will take place at June 4th with the opening at 1pm. Prior to thi
  
 The event will end on June 6th 2019 around 3pm. 
 
-A first version of the program is expected to be released at the end of April.
+A first version of the program has beed released: [https://derse19.uni-jena.de/derse19/schedule/]( https://derse19.uni-jena.de/derse19/schedule/)
 
 The [Call for Contributions](call.html) was open until March 3rd, 2019. 
 

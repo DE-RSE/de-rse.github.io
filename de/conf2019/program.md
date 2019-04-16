@@ -13,7 +13,7 @@ ein Mittagsimbiss.
 
 Enden wird die Konferenz am 6. Juni 2019 gegen 15 Uhr. 
 
-Eine erste Version des Programms wird vorraussichtlich Ende April veröffentlicht.
+Eine erste Version des Programms wurde veröffentlicht: [https://derse19.uni-jena.de/derse19/schedule/]( https://derse19.uni-jena.de/derse19/schedule/)
 
 Der [Call for Contributions](call.html) war bis zum 3. März 2019 geöffnet.
 
