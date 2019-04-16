@@ -18,11 +18,11 @@ weight: 1
 
 **Call for Contributions:** War geöffnet bis 28. Februar 2019, 23:59:59 CET.
 
+**Programm:** Das aktuelle [Programm](https://derse19.uni-jena.de/derse19/schedule/)
+
+**Registrierung:** Registrier Dich unter [deRSE19 Registrierung](https://pretix.derse19.uni-jena.de/de-RSE/2019/)
+
 **Code of Conduct & Diversity Plan**: [Siehe hier](code-of-conduct.html)
-
-## Registrierung
-
-Bitte registriere Dich für die Konferenz unter [https://pretix.derse19.uni-jena.de/de-RSE/2019/](https://pretix.derse19.uni-jena.de/de-RSE/2019/).
 
 ## Wichtige Daten
 
@@ -32,7 +32,7 @@ Datum | Termin
 22.03. (Fr) | Versand Bestätigung / Ablehnung
 08.04. (Mo) | Öffnung [Registrierung](registration.html)
 14.04. (So) | Ende Early Bird
-15.04. (Mo) | Veröffentlichung Programm
+15.04. (Mo) | Veröffentlichung [Programm](https://derse19.uni-jena.de/derse19/schedule/)
 20.05. (Mo) | Ende Registrierung
 04.06.-06.06. (Di-Do) | Konferenz
 

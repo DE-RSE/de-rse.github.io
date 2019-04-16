@@ -19,6 +19,10 @@ weight: 1
 
 **Call for Contributions:** Was open until 28 February 2019, 23:59:59 (CET)
 
+**Program:** Current [program](https://derse19.uni-jena.de/derse19/schedule/)
+
+**Registration:** Please register at [deRSE19 Registrierung](https://pretix.derse19.uni-jena.de/de-RSE/2019/)
+
 **Code of Conduct & Diversity Plan**: [See here](code-of-conduct.html)
 
 ## Registration
