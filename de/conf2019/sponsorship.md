@@ -87,7 +87,7 @@ Vergeben - nähere Informationen folgen.
 
 ### <del style="color: gray;">Posterpreise: €600 (1x)</del>
 
-Vergeben - nähere Informationen folgen.
+Vergeben an [GitLab](https://about.gitlab.com/just-commit/).
 
 ### Reisestipendien: €500[^1] (unbegrenzt)
 

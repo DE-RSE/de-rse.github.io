@@ -10,19 +10,37 @@ weight: 1
 
 **Was:** Erste Konferenz für ForschungssoftwareentwicklerInnen in Deutschland
 
-**Wann:** 4.-6. Juni 2019
+**Beginn:** 4. Juni 2019 um 13 Uhr
+
+**Ende:** 6. Juni 2019 um ca. 15 Uhr, de-RSE Mitgliederversammlung bis ca. 17:30 Uhr
 
 **Wo:** Wissenschaftspark Albert Einstein in Potsdam
 
-**Call for Contributions:** [Reiche Deinen Beitrag ein unter derse19.uni-jena.de/derse19/](https://derse19.uni-jena.de/derse19/) bis 28. Februar 2019, 23:59:59 CET.
+**Call for Contributions:** War geöffnet bis 28. Februar 2019, 23:59:59 CET.
 
-**[Code of Conduct & Diversity Plan](code-of-conduct.html)**
+**Code of Conduct & Diversity Plan**: [Siehe hier](code-of-conduct.html)
+
+## Registrierung
+
+Bitte registriere Dich für die Konferenz unter [https://pretix.derse19.uni-jena.de/de-RSE/2019/](https://pretix.derse19.uni-jena.de/de-RSE/2019/).
+
+## Wichtige Daten
+
+Datum | Termin
+--|--
+28.02. (Do) | Ende [Call for Contributions](call.html)
+22.03. (Fr) | Versand Bestätigung / Ablehnung
+08.04. (Mo) | Öffnung [Registrierung](registration.html)
+14.04. (So) | Ende Early Bird
+15.04. (Mo) | Veröffentlichung Programm
+20.05. (Mo) | Ende Registrierung
+04.06.-06.06. (Di-Do) | Konferenz
 
 ## Updates
 
 Registrier dich auf [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) um die neusten Updates zu erhalten.
 
-## Ankündigung
+## Über die deRSE19
 
 Nach dem Erfolg der [ersten drei internationalen Konferenzen der Research Software Engineers in Großbritannien](https://rse.ac.uk/events/past-conferences/) findet vom 4. bis 6. Juni 2019 im Wissenschaftspark Albert Einstein in Potsdam die erste internationale Konferenz in Deutschland zu Forschungssoftware und den beteiligten Personen in der deutschen Forschungslandschaft statt.
 
@@ -52,12 +70,15 @@ Wenn Fragen zur Konferenz aufkommen, wende Dich bitte an das Organisatonsteam de
 			<p><a href="https://www.gfz-potsdam.de/">GFZ German Research Centre for Geosciences</a></p>
 			<p><img src="{{ '/assets/img/conf/pik.png' | prepend: site.baseurl }}" style="width: 100px;"/></p>
 			<p><a href="https://www.pik-potsdam.de/">Potsdam-Institut für Klimafolgenforschung (PIK)</a></p>
-			<h2 id="konferenzkomitee">Konferenkomitee</h2>
+			<h2 id="konferenzkomitee">Konferenzkomitee</h2>
 			<p>Die organisierenden Personen sind auf der <a href="%7B%7B%20site.baseurl%20%7D%7D%7B%%20link%20de/conf2019/contact.md%20%%7D">Kontakt-Seite</a> zu finden.</p>
 		</td>
 
 		<td style="vertical-align: top;">
 			<h2 id="veranstalter">Wir danken unseren Sponsoren!</h2>
+			<h3>Posterpreise</h3>
+			<p><img src="{{ '/assets/img/conf/sponsors/gitlab.png' | prepend: site.baseurl }}" alt="GitLab logo" style="height: 100px;"/></p>
+			<p><a href="https://about.gitlab.com/just-commit/">GitLab</a></p>
 			<h3>Reiseunterstützung</h3>
 			<p><img src="{{ '/assets/img/conf/sponsors/r-consortium.png' | prepend: site.baseurl }}" alt="R Consortium logo" style="height: 100px;"/></p>
 			<p><a href="http://r-consortium.org">R Consortium</a></p>

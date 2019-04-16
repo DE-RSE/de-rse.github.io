@@ -11,19 +11,37 @@ weight: 1
 
 **What:** First Conference for Research Software Engineers in Germany
 
-**When:** 4-6 June 2019
+**Start:** 4 June 2019, 1pm
+
+**End:** 6 June 2019, 3pm, de-RSE general assembly until ca. 5:30pm
 
 **Where:** Albert Einstein Science Park in Potsdam
 
-**Call for Contributions:** [Submit your contribution at derse19.uni-jena.de/derse19/](https://derse19.uni-jena.de/derse19/) until 28 February 2019, 23:59:59 (CET)
+**Call for Contributions:** Was open until 28 February 2019, 23:59:59 (CET)
 
-**[Code of Conduct & Diversity Plan](code-of-conduct.html)**
+**Code of Conduct & Diversity Plan**: [See here](code-of-conduct.html)
+
+## Registration
+
+Please register for the conference at [https://pretix.derse19.uni-jena.de/de-RSE/2019/](https://pretix.derse19.uni-jena.de/de-RSE/2019/).
+
+## Important Dates
+
+Date | Event
+--|--
+Feb 28 (Thu) | End [Call for Contributions](call.html)
+Mar 22 (Fri) | Confirmation / Refusal
+Apr 08 (Mon) | Opening [Registration](registration.html)
+Apr 14 (Sun) | End Early Bird
+Apr 15 (Mon) | Publishing program
+Mai 20 (Mon) | End of registration
+June 04-06 (Tue-Thu) | Conference
 
 ## Updates
 
 Register at [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) to get the latest updates.
 
-## Announcement
+## About deRSE19
 
 Following the success of the [first three international Conference of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), the first international conference in Germany addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
 
@@ -59,6 +77,9 @@ If you have any questions about the conference, please contact the conference or
 		</td>
 
 		<td style="vertical-align: top;"><h2 id="veranstalter">Thank you to our sponsors!</h2>
+		<h3>Poster prizes</h3>
+		<p><img src="{{ '/assets/img/conf/sponsors/gitlab.png' | prepend: site.baseurl }}" alt="GitLab logo" style="height: 100px;"/></p>
+		<p><a href="https://about.gitlab.com/just-commit/">GitLab</a></p>
 		<h3>Travel support</h3>
 		<p><img src="{{ '/assets/img/conf/sponsors/r-consortium.png' | prepend: site.baseurl }}" alt="R Consortium logo" style="height: 100px;"/></p>
 		<p><a href="http://r-consortium.org">R Consortium</a></p></td>
