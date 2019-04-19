@@ -1,9 +1,7 @@
 --- 
 layout: default 
 title: Programm
-weight: 210
-ischild: true
-parent: info
+weight: 100
 ---
 
 # Programm
