@@ -2,6 +2,8 @@
 layout: default
 title: "CfP (geschlossen)"
 weight: 270
+ischild: true
+parent: info
 ---
 
 # deRSE19 - Call for Contributions
