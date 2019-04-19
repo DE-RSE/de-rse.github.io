@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CfP (geschlossen)"
+title: "Call for Contributions (geschlossen)"
 weight: 270
 ischild: true
 parent: info
