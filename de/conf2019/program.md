@@ -18,7 +18,7 @@ Tag | Keynote
 04.06. | [Alys Brett (UK Research Software Engineers Association, UK Atomic Energy Authority)](https://derse19.uni-jena.de/derse19/talk/ZD3B3K/)
  | [Sven Wildermann & Bradley Tipp (Microsoft)](https://derse19.uni-jena.de/derse19/talk/PCQSRY/)
 05.06. | [Andreas Zeller (Universität des Saarlandes)](https://derse19.uni-jena.de/derse19/talk/ZCYXEM/)
- | [Delivering on the promise of Research Computing (Brendan Bouffler, Amazon Web Services)](https://derse19.uni-jena.de/derse19/talk/CQ7KEC/)
+ | [Brendan Bouffler (Amazon Web Services)](https://derse19.uni-jena.de/derse19/talk/CQ7KEC/)
 
 ## Get together
 
