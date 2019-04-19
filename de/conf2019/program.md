@@ -30,7 +30,7 @@ Am dritten Tag klingt die Konferenz mit der jährlichen Mitgliederversammlung au
 
 ## Programm
 
-**Die aktuelle Version des Programms ihr unter [https://derse19.uni-jena.de/derse19/schedule/](https://derse19.uni-jena.de/derse19/schedule/)**.
+**Die aktuelle Version des Programms findet ihr unter [https://derse19.uni-jena.de/derse19/schedule/](https://derse19.uni-jena.de/derse19/schedule/)**.
 
 Neuigkeiten gibt es über die Mailingliste [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org), auf Twitter [@RSE_de](https://twitter.com/RSE_de) und natürlich her auf <https://www.de-rse.org/de/conf2019>.
 
