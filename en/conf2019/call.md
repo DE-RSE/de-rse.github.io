@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Call for Contributions"
+title: "Call for Contributions (closed)"
 weight: 270
 ischild: true
 parent: info
