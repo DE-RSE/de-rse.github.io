@@ -9,6 +9,24 @@ weight: 100
 
 4 Keynotes, 15 Tracks mit über 50 Talks und mehr als 10 Workshops, Birds of Feather und Splinter Meetings, 1 Poster Session mit mehr als 30 Postern, 1 Paneldiskussion, 2 Abendveranstaltungen, die jährliche Mitgliederversammlung vom de-RSE e.V. sowie über 80 Beitragende, knapp 20 Volunteers und ein 20-köpfiges Organisationskommittee machen die erste Konferenz für Forschungssoftware in Deutschland - die #deRSE19 - zu einem echten Mitmach-Event.
 
+## Tracks
+
+Track | Sprache
+-- | --
+Communication and Outreach | 
+Community Building | 
+Experience with Simulation Software | 
+Institutional RSE Communities | 
+Reproducibility | 
+Research Data Management | 
+Research Software Frameworks | 
+Software Engineering Productivity | 
+Software Quality Management | 
+Sustainable long-living Software | 
+Testing Research Software | 
+Towards Open Research Software | 
+User Interfaces | 
+
 ## Vier Keynotes und eine Panel Discussion
 
 Wir freuen uns über zwei Community Keynotes von Alys Brett und Andreas Zeller sowie über zwei Keynotes von unserem Platin Sponsor Microsoft und unserem Gold Sponsor Amazon Web Services.
