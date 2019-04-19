@@ -26,11 +26,13 @@ Nicht nur das offizielle deRSE19 Tagesprogramm, sondern auch die Abendveranstalt
 
 ## Jährliche Mitgliederversammlung de-RSE e.V. Gesellschaft für Forschungssoftware
 
-Am dritten Tag klingt die Konferenz mit der jährlichen Mitgliederversammlung aus, die nach der Gründungsversammlung im November 2018 zukünftig stets im Rahmen der Konferenz abgehalten werden soll. Details zur Agenda gibt es im Mai. Bleibt informiert und meldet Euch auf dem Mailverteiler an: 
+Am dritten Tag klingt die Konferenz mit der jährlichen Mitgliederversammlung aus, die nach der Gründungsversammlung im November 2018 zukünftig stets im Rahmen der Konferenz abgehalten werden soll. Details zur Agenda gibt es im Mai. Bleibt informiert und meldet Euch auf dem [de-RSE Mailverteiler](../join.html) an.
 
 ## Programm
 
-**Die aktuelle Version des Programms ihr unter [https://derse19.uni-jena.de/derse19/schedule/](https://derse19.uni-jena.de/derse19/schedule/)**. Neuigkeiten gibt es über die Mailingliste [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org), auf Twitter [@RSE_de](https://twitter.com/RSE_de) und natürlich her auf <https://www.de-rse.org/de/conf2019>.
+**Die aktuelle Version des Programms ihr unter [https://derse19.uni-jena.de/derse19/schedule/](https://derse19.uni-jena.de/derse19/schedule/)**.
+
+Neuigkeiten gibt es über die Mailingliste [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org), auf Twitter [@RSE_de](https://twitter.com/RSE_de) und natürlich her auf <https://www.de-rse.org/de/conf2019>.
 
 Der [Call for Contributions](call.html) war bis zum 3. März 2019 geöffnet.
 
