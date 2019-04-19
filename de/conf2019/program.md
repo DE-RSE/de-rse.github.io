@@ -9,6 +9,17 @@ weight: 100
 
 4 Keynotes, 15 Tracks mit über 50 Talks und mehr als 10 Workshops, Birds of Feather und Splinter Meetings, 1 Poster Session mit mehr als 30 Postern, 1 Paneldiskussion, 2 Abendveranstaltungen, die jährliche Mitgliederversammlung vom de-RSE e.V. sowie über 80 Beitragende, knapp 20 Volunteers und ein 20-köpfiges Organisationskommittee machen die erste Konferenz für Forschungssoftware in Deutschland - die #deRSE19 - zu einem echten Mitmach-Event.
 
+## Vier Keynotes und eine Panel Discussion
+
+Wir freuen uns über zwei Community Keynotes von Alys Brett und Andreas Zeller sowie über zwei Keynotes von unserem Platin Sponsor Microsoft und unserem Gold Sponsor Amazon Web Services.
+
+Tag | Keynote
+-- | --
+04.06. | [Alys Brett (UK Research Software Engineers Association, UK Atomic Energy Authority)](https://derse19.uni-jena.de/derse19/talk/ZD3B3K/)
+ | [Sven Wildermann & Bradley Tipp (Microsoft)](https://derse19.uni-jena.de/derse19/talk/PCQSRY/)
+05.06. | [Andreas Zeller (Universität des Saarlandes)](https://derse19.uni-jena.de/derse19/talk/ZCYXEM/)
+ | [Brendan Bouffler (Amazon Web Services)](https://derse19.uni-jena.de/derse19/talk/CQ7KEC/)
+
 ## Tracks
 
 Track | Sprache
@@ -26,17 +37,6 @@ Sustainable long-living Software |
 Testing Research Software | 
 Towards Open Research Software | 
 User Interfaces | 
-
-## Vier Keynotes und eine Panel Discussion
-
-Wir freuen uns über zwei Community Keynotes von Alys Brett und Andreas Zeller sowie über zwei Keynotes von unserem Platin Sponsor Microsoft und unserem Gold Sponsor Amazon Web Services.
-
-Tag | Keynote
--- | --
-04.06. | [Alys Brett (UK Research Software Engineers Association, UK Atomic Energy Authority)](https://derse19.uni-jena.de/derse19/talk/ZD3B3K/)
- | [Sven Wildermann & Bradley Tipp (Microsoft)](https://derse19.uni-jena.de/derse19/talk/PCQSRY/)
-05.06. | [Andreas Zeller (Universität des Saarlandes)](https://derse19.uni-jena.de/derse19/talk/ZCYXEM/)
- | [Brendan Bouffler (Amazon Web Services)](https://derse19.uni-jena.de/derse19/talk/CQ7KEC/)
 
 ## Get together
 
