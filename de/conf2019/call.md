@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Call for Contributions"
-weight: nil
+title: "CfP (geschlossen)"
+weight: 270
 ---
 
 # deRSE19 - Call for Contributions
