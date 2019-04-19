@@ -15,10 +15,10 @@ Wir freuen uns über zwei Community Keynotes von Alys Brett und Andreas Zeller s
 
 Tag | Keynote
 -- | --
-04.06. | [Keynote: Alys Brett (UK Research Software Engineers Association, UK Atomic Energy Authority)](https://derse19.uni-jena.de/derse19/talk/ZD3B3K/)
- | [Keynote: Sven Wildermann & Bradley Tipp (Microsoft)](https://derse19.uni-jena.de/derse19/talk/PCQSRY/)
-05.06. | [Keynote: Andreas Zeller (Universität des Saarlandes)](https://derse19.uni-jena.de/derse19/talk/ZCYXEM/)
- | [Keynote: Delivering on the promise of Research Computing (Brendan Bouffler, Amazon Web Services)](https://derse19.uni-jena.de/derse19/talk/CQ7KEC/)
+04.06. | [Alys Brett (UK Research Software Engineers Association, UK Atomic Energy Authority)](https://derse19.uni-jena.de/derse19/talk/ZD3B3K/)
+ | [Sven Wildermann & Bradley Tipp (Microsoft)](https://derse19.uni-jena.de/derse19/talk/PCQSRY/)
+05.06. | [Andreas Zeller (Universität des Saarlandes)](https://derse19.uni-jena.de/derse19/talk/ZCYXEM/)
+ | [Delivering on the promise of Research Computing (Brendan Bouffler, Amazon Web Services)](https://derse19.uni-jena.de/derse19/talk/CQ7KEC/)
 
 ## Get together
 
