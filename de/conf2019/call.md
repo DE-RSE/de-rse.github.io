@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Call for Contributions"
+weight: nil
 ---
 
 # deRSE19 - Call for Contributions
