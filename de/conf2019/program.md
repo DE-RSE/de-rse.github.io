@@ -11,7 +11,7 @@ weight: 100
 
 ## Vier Keynotes und eine Panel Discussion
 
-Wir freuen uns über zwei Community Keynotes von Alys Brett und Andreas Zeller sowie über zwei Keynotes von unserem Platin Sponsor Microsoft und unserem Gold Sponsor Amazon Web Services.
+Wir freuen uns auf Keynotes von Alys Brett, Andreas Zeller, Sven Wildermann & Bradley Tipp und Brendan Bouffler.
 
 Tag | Keynote
 -- | --
