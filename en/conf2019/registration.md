@@ -6,11 +6,11 @@ weight: 120
 
 # Registration
 
-Registration is open. Please register for the conference at
+Registration is open until May 20. Contributors redeem their voucher first and then select their tickets, please.
 
-> [https://pretix.derse19.uni-jena.de/de-RSE/2019/](https://pretix.derse19.uni-jena.de/de-RSE/2019/)
+<a href="https://pretix.derse19.uni-jena.de/de-RSE/2019/" class="btn btn-info glyphicon-pencil" target="_blank">Get my ticket! (hier klicken)</a>
 
-The Early Bird sale ends on 14.04.2019. Registration closes on 20.05.2019. Please book in advance your [accommodation](accommodation.html). The contingents expire in April and Potsdam is very popular in June.
+Also book your [accommodation](accommodation.html) in advance please. The contingents expire in April and Potsdam is very popular in June.
 
 ## Prices
 
