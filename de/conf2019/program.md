@@ -54,7 +54,7 @@ Die Konferenz beginnt am **Dienstag, 4. Juni, 13 Uhr** und endet am **Donnerstag
 
 Neuigkeiten zum Programm gibt es über die Mailingliste [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) und auf Twitter [@RSE_de](https://twitter.com/RSE_de).
 
-<a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Hier geht's zum Programm (hier klicken)</a>.
+<a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Programm öffnen! (hier klicken)</a>.
 
 Der [Call for Contributions](call.html) war bis zum 3. März 2019 geöffnet.
 
