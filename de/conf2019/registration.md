@@ -6,11 +6,11 @@ weight: 120
 
 # Anmeldung / Registrierung
 
-Die Registrierung ist offen. Bitte registriere Dich für die Konferenz unter
+Die Registrierung ist bis zum 20. Mai geöffnet. Beitragende lösen bitten als ersten ihren Voucher ein und wählen dann ihr Ticket.
 
-> [https://pretix.derse19.uni-jena.de/de-RSE/2019/](https://pretix.derse19.uni-jena.de/de-RSE/2019/)
+<a href="https://pretix.derse19.uni-jena.de/de-RSE/2019/" class="btn btn-info glyphicon-pencil" target="_blank">Ticket kaufen (hier klicken)</a>
 
-Der Early Bird Verkauf endet am 14.04.2019. Die Registrierung schließt am 20.05.2019. Bucht bitte zeitnah eure [Unterkunft](accommodation.html). Die Kontingente laufen im April aus und Potsdam ist im Juni sehr beliebt.
+Bucht bitte auch zeitnah eure [Unterkunft](accommodation.html). Die Kontingente laufen im April aus und Potsdam ist im Juni sehr beliebt.
 
 ## Preise
 
