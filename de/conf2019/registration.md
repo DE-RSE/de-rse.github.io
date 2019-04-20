@@ -6,7 +6,7 @@ weight: 120
 
 # Anmeldung / Registrierung
 
-Die Registrierung ist bis zum 20. Mai geöffnet. Beitragende lösen bitten als ersten ihren Voucher ein und wählen dann ihr Ticket.
+Die Registrierung ist bis zum 20. Mai geöffnet. Beitragende lösen bitte als erstes ihren Voucher ein und wählen dann ihr Ticket.
 
 <a href="https://pretix.derse19.uni-jena.de/de-RSE/2019/" class="btn btn-info glyphicon-pencil" target="_blank">Ticket kaufen! (hier klicken)</a>
 
