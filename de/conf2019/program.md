@@ -50,11 +50,11 @@ Am dritten Tag klingt die Konferenz mit der jährlichen Mitgliederversammlung au
 
 ## Programm und Ablauf
 
-Die Konferenz beginnt am **Dienstag, 4. Juni, 13 Uhr** und endet am **Donnerstag, 6. Juni 2019 gegen 15 Uhr**. Am Dienstag ist die Registrierung bereit ab 11.45 Uhr geöffnet und ab 12 Uhr gibt es einen Mittagsimbiss.
+Die Konferenz beginnt am **Dienstag, 4. Juni, 13 Uhr** und endet am **Donnerstag, 6. Juni 2019 gegen 15 Uhr**. Am Dienstag ist die Registrierung bereits ab 11.45 Uhr geöffnet und ab 12 Uhr gibt es einen Mittagsimbiss.
 
-**Die aktuelle Version des Programms findet ihr unter** <a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">https://derse19.uni-jena.de/derse19/schedule/</a>
+Neuigkeiten zum Programm gibt es über die Mailingliste [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) und auf Twitter [@RSE_de](https://twitter.com/RSE_de).
 
-Neuigkeiten gibt es über die Mailingliste [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org), auf Twitter [@RSE_de](https://twitter.com/RSE_de) und natürlich her auf <https://www.de-rse.org/de/conf2019>.
+<a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Hier geht's zum Programm (hier klicken)</a>.
 
 Der [Call for Contributions](call.html) war bis zum 3. März 2019 geöffnet.
 
