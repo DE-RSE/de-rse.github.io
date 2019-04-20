@@ -8,7 +8,7 @@ weight: 120
 
 Die Registrierung ist bis zum 20. Mai geöffnet. Beitragende lösen bitten als ersten ihren Voucher ein und wählen dann ihr Ticket.
 
-<a href="https://pretix.derse19.uni-jena.de/de-RSE/2019/" class="btn btn-info glyphicon-pencil" target="_blank">Ticket kaufen (hier klicken)</a>
+<a href="https://pretix.derse19.uni-jena.de/de-RSE/2019/" class="btn btn-info glyphicon-pencil" target="_blank">Ticket kaufen! (hier klicken)</a>
 
 Bucht bitte auch zeitnah eure [Unterkunft](accommodation.html). Die Kontingente laufen im April aus und Potsdam ist im Juni sehr beliebt.
 
