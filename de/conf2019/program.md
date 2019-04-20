@@ -7,7 +7,7 @@ weight: 100
 
 # Drei Tage volles Programm
 
-4 Keynotes, 15 Tracks mit über 50 Talks und mehr als 10 Workshops, Birds of Feather und Splinter Meetings, 1 Poster Session mit mehr als 30 Postern, 1 Paneldiskussion, 2 Abendveranstaltungen, die jährliche Mitgliederversammlung vom de-RSE e.V. sowie über 80 Beitragende, knapp 20 Volunteers und ein 20-köpfiges Organisationskommittee machen die erste Konferenz für Forschungssoftware in Deutschland - die #deRSE19 - zu einem echten Mitmach-Event.
+4 Keynotes, 17 Tracks mit über 50 Talks und mehr als 10 Workshops, Birds of Feather und Splinter Meetings, 1 Poster Session mit mehr als 30 Postern, 1 Paneldiskussion, 2 Abendveranstaltungen, die jährliche Mitgliederversammlung vom de-RSE e.V. sowie über 80 Beitragende, knapp 20 Volunteers und ein 20-köpfiges Organisationskommittee machen die erste Konferenz für Forschungssoftware in Deutschland - die #deRSE19 - zu einem echten Mitmach-Event.
 
 ## Vier Keynotes und eine Panel Discussion
 
@@ -20,23 +20,25 @@ Tag | Keynote
 05.06. | [Andreas Zeller (Universität des Saarlandes)](https://derse19.uni-jena.de/derse19/talk/ZCYXEM/)
  | [Brendan Bouffler (Amazon Web Services)](https://derse19.uni-jena.de/derse19/talk/CQ7KEC/)
 
-## Tracks
+## Tracks und Sprachen
+
+In 17 Tracks bieten wir Talks in englischer und deutscher Sprache und ermöglichen somit allen Teilnehmern ein durchgängiges Angebot an in einer der beiden Sprachen.
 
 Track | Sprache
 -- | --
-Communication and Outreach | 
-Community Building | 
-Experience with Simulation Software | 
-Institutional RSE Communities | 
-Reproducibility | 
-Research Data Management | 
-Research Software Frameworks | 
-Software Engineering Productivity | 
-Software Quality Management | 
-Sustainable long-living Software | 
-Testing Research Software | 
-Towards Open Research Software | 
-User Interfaces | 
+Communication and Outreach | EN
+Community Building | EN
+Experience with Simulation Software | EN
+Institutional RSE Communities I & II | DE 
+Reproducibility I & II | DE 
+Research Data Management | EN
+Research Software Frameworks | EN
+Software Engineering Productivity | EN
+Software Quality Management | EN
+Sustainable long-living Software I, II & III | DE & EN
+Testing Research Software | EN
+Towards Open Research Software | DE
+User Interfaces | DE
 
 ## Get together
 
