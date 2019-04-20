@@ -22,7 +22,7 @@ Tag | Keynote
 
 ## Tracks und Sprachen
 
-In 17 Tracks bieten wir Talks in englischer und deutscher Sprache und ermöglichen somit allen Teilnehmern ein durchgängiges Angebot an in einer der beiden Sprachen.
+In 17 Tracks bieten wir Talks in englischer und deutscher Sprache und ermöglichen somit allen Teilnehmern ein durchgängiges Angebot in beiden Sprachen.
 
 Track | Sprache
 -- | --
