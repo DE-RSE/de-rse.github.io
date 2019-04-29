@@ -405,8 +405,8 @@ var rseFeatures = [
         "properties": {
             "name": "Frank Förster",
             "popupContent": "<img src='../assets/img/map/frankfoerster.jpg'>" +
-		'<a href="mailto:frank.foerster@ime.fraunhofer.de">Frank Förster</a>' +
-		'<a href="http://www.insekten-biotechnologie.de/de/frank-foerster.html">Fraunhofer IME-BR</a>'+
+		'<a href="mailto:frank.foerster@ime.fraunhofer.de">Frank Förster</a><br>' +
+		'<a href="http://www.insekten-biotechnologie.de/de/frank-foerster.html">Fraunhofer IME-BR</a><br><br>'+
 		'<em>Computational Biologist/Bioinformatician with strong background in system administration/HPC.</em>'
         },
         "geometry": {
