@@ -399,5 +399,18 @@ var rseFeatures = [
         "geometry": {
             "type": "Point", "coordinates": [12.37476, 51.34067]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Frank Förster",
+            "popupContent": "<img src='../assets/img/map/frankfoerster.jpg'>" +
+		'<a href="mailto:frank.foerster@ime.fraunhofer.de">Frank Förster</a>' +
+		'<a href="http://www.insekten-biotechnologie.de/de/frank-foerster.html">Fraunhofer IME-BR</a>'+
+		'<em>Computational Biologist/Bioinformatician with strong background in system administration/HPC.</em>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [8.727556, 50.573218]
+        }
     }
 ];
