@@ -76,12 +76,16 @@ Wenn Fragen zur Konferenz aufkommen, wende Dich bitte an das Organisatonsteam de
 
 		<td style="vertical-align: top;">
 			<h2 id="veranstalter">Wir danken unseren Sponsoren!</h2>
-			<h3>Posterpreise</h3>
+			<h3 style="background-color: #FFD700; padding: 5px;">Goldsponsor</h3>
+			<p style="margin-top: 20px; margin-bottom: 20px;"><img src="{{ '/assets/img/conf/sponsors/aws.png' | prepend: site.baseurl }}" alt="Amazon Webs Services logo" style="height: 100px;"/></p>
+			<p><a href="https://aws.amazon.com/">Amazon Web Services</a></p>
+			<h3 style="background-color: #F5F5F5; padding: 5px;">Posterpreise</h3>
 			<p><img src="{{ '/assets/img/conf/sponsors/gitlab.png' | prepend: site.baseurl }}" alt="GitLab logo" style="height: 100px;"/></p>
 			<p><a href="https://about.gitlab.com/just-commit/">GitLab</a></p>
-			<h3>Reiseunterstützung</h3>
+			<h3 style="background-color: #F5F5F5; padding: 5px;">Reiseunterstützung</h3>
 			<p><img src="{{ '/assets/img/conf/sponsors/r-consortium.png' | prepend: site.baseurl }}" alt="R Consortium logo" style="height: 100px;"/></p>
 			<p><a href="http://r-consortium.org">R Consortium</a></p>
 		</td>
+
 	</tr>
 </table>
