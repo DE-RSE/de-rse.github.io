@@ -77,6 +77,9 @@ If you have any questions about the conference, please contact the conference or
 		</td>
 
 		<td style="vertical-align: top;"><h2 id="veranstalter">Thank you to our sponsors!</h2>
+		<h3 style="background-color: #e5e4e2; padding: 5px;">Platinum sponsors</h3>
+		<p style="margin-top: 20px; margin-bottom: 20px;"><img src="{{ '/assets/img/conf/sponsors/microsoft.png' | prepend: site.baseurl }}" alt="Microsoft logo" style="height: 100px;"/></p>
+		<p><a href="https://www.microsoft.com">Microsoft</a></p>
 		<h3 style="background-color: #FFD700; padding: 5px;">Gold sponsors</h3>
 		<p style="margin-top: 20px; margin-bottom: 20px;"><img src="{{ '/assets/img/conf/sponsors/aws.png' | prepend: site.baseurl }}" alt="Amazon Webs Services logo" style="height: 100px;"/></p>
 		<p><a href="https://aws.amazon.com/">Amazon Web Services</a></p>
