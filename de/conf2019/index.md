@@ -78,7 +78,7 @@ Wenn Fragen zur Konferenz aufkommen, wende Dich bitte an das Organisatonsteam de
 			<h2 id="veranstalter">Wir danken unseren Sponsoren!</h2>
 			<h3 style="background-color: #e5e4e2; padding: 5px;">Platinsponsor</h3>
 			<p style="margin-top: 20px; margin-bottom: 20px;"><img src="{{ '/assets/img/conf/sponsors/microsoft.png' | prepend: site.baseurl }}" alt="Microsoft logo" style="height: 100px;"/></p>
-			<p><a href="https://www.microsoft.com">Microsoft</a></p>
+			<p><a href="https://azure.microsoft.com/de-de/">Microsoft Deutschland GmbH</a></p>
 			<h3 style="background-color: #FFD700; padding: 5px;">Goldsponsor</h3>
 			<p style="margin-top: 20px; margin-bottom: 20px;"><img src="{{ '/assets/img/conf/sponsors/aws.png' | prepend: site.baseurl }}" alt="Amazon Webs Services logo" style="height: 100px;"/></p>
 			<p><a href="https://aws.amazon.com/">Amazon Web Services</a></p>
