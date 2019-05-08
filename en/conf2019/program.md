@@ -1,32 +1,59 @@
 --- 
 layout: default 
-title: Program
+title: Programm
 weight: 100
 ---
 
-# Program
 
-**The current version of the program can be found here: [Program](https://derse19.uni-jena.de/derse19/schedule/)**
+# Drei Tage volles Programm
 
-The [Call for Contributions](call.html) was open until March 3rd 2019.
+4 keynotes, 17 tracks with more than 50 talks and more than 10 workshops, Birds of Feather and Splinter Meetings, 1 poster session with more than 30 posters, 1 panel discussion, 2 evening events, the annual general meeting of de-RSE e.V. and over 80 contributors, nearly 20 volunteers and a 20-member organizing committee make the first conference for research software in Germany - the #deRSE19 - a real hands-on event.
 
-## Procedure
+The conference will begin on **Tuesday, June 4th, 1pm** and end on **Thursday, June 6th, 2019, around 3pm**. On Tuesday, the registration is already open from 11.45 am and from 12 am there is a small lunch.
 
-The conference will start on June 4th at 1pm. From 11:45am the registration will be open and from noon there will be a midday snack.
+<a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Open Program! (click here)</a>.
 
-The conference will end on June 6th 2019 at 3pm.
+## Four Keynotes and a Panel Discussion
 
-## Teaser
+We look forward to keynotes from Alys Brett, Andreas Zeller, Sven Wildermann & Bradley Tipp, and Brendan Bouffler.
 
-Date | Event
+Day | Keynote
 -- | --
-04.06. | [Keynote: Alys Brett (UK Research Software Engineers Association, UK Atomic Energy Authority)](https://derse19.uni-jena.de/derse19/talk/ZD3B3K/)
- | [Keynote: Sven Wildermann & Bradley Tipp (Microsoft)](https://derse19.uni-jena.de/derse19/talk/PCQSRY/)
- | [Conference Dinner](https://derse19.uni-jena.de/derse19/talk/3MJHRY/)
-05.06. | [Keynote: Andreas Zeller (Universität des Saarlandes)](https://derse19.uni-jena.de/derse19/talk/ZCYXEM/)
- | [Keynote: Delivering on the promise of Research Computing (Brendan Bouffler, Amazon Web Services)](https://derse19.uni-jena.de/derse19/talk/CQ7KEC/)
- | [Poster Session & Drinks Reception](https://derse19.uni-jena.de/derse19/talk/7E8MEA/)
+04.06. | [Alys Brett (UK Research Software Engineers Association, UK Atomic Energy Authority)](https://derse19.uni-jena.de/derse19/talk/ZD3B3K/)
+ | [Sven Wildermann & Bradley Tipp (Microsoft)](https://derse19.uni-jena.de/derse19/talk/PCQSRY/)
+05.06. | [Andreas Zeller (Universität des Saarlandes)](https://derse19.uni-jena.de/derse19/talk/ZCYXEM/)
+ | [Brendan Bouffler (Amazon Web Services)](https://derse19.uni-jena.de/derse19/talk/CQ7KEC/)
+
+## Tracks and Languages
+
+In 17 tracks, we offer talks in English and German, enabling all participants to have an integrated offer in both languages.
+
+Track | Language
+-- | --
+Communication and Outreach | EN
+Community Building | EN
+Experience with Simulation Software | EN
+Institutional RSE Communities I & II | DE 
+Reproducibility I & II | DE 
+Research Data Management | EN
+Research Software Frameworks | EN
+Software Engineering Productivity | EN
+Software Quality Management | EN
+Sustainable long-living Software I, II & III | DE & EN
+Testing Research Software | EN
+Towards Open Research Software | DE
+User Interfaces | DE
+
+## Get together
+
+Not only the official deRSE19 day program, but also the evening events allow an intensive exchange with all participants. You can share experiences and knowledge and make plans with others.
+
+## Annual General Meeting de-RSE e.V.
+
+On the third day, the conference ends with the annual general meeting, which will always be held as part of the conference after the inaugural meeting in November 2018. Agenda details are available in May. Stay informed and register on the [de-RSE mailing list](../ join.html).
 
 ## Miscellaneous
 
-Information on how to keep updated about #deRSE19 can be found at [contact](contact.html).
+News about the program can be found on the mailing list [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) and on Twitter [@RSE_de](https://twitter.com/RSE_de).
+
+The [Call for Contributions](call.html) was open until 3 March 2019.
