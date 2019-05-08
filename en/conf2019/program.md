@@ -13,6 +13,21 @@ The conference will begin on **Tuesday, June 4th, 1pm** and end on **Thursday, J
 
 <a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Open Program! (click here)</a>.
 
+<table>
+<tr>
+<td valign="top">
+<b>Programm Apps</b>
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=net.gaast.giggity">Giggity</a> (Android)</li>
+<li><a href="https://play.google.com/store/apps/details?id=org.splitbrain.giraffe">Giraffe</a> (Android)</li>
+</ul>
+</td>
+<td valign="top">
+<a href="{{ '/assets/img/conf/qrcode_program.png' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/qrcode_program.png' | prepend: site.baseurl }}" style="width: 100px;"/></a><br/>Click to increase
+</td>
+</tr>
+</table>
+
 ## Four Keynotes and a Panel Discussion
 
 We look forward to keynotes from Alys Brett, Andreas Zeller, Sven Wildermann & Bradley Tipp, and Brendan Bouffler.
