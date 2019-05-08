@@ -1,11 +1,11 @@
 --- 
 layout: default 
-title: Programm
+title: Program
 weight: 100
 ---
 
 
-# Drei Tage volles Programm
+# Three Days full Program 
 
 4 keynotes, 17 tracks with more than 50 talks and more than 10 workshops, Birds of Feather and Splinter Meetings, 1 poster session with more than 30 posters, 1 panel discussion, 2 evening events, the annual general meeting of de-RSE e.V. and over 80 contributors, nearly 20 volunteers and a 20-member organizing committee make the first conference for research software in Germany - the #deRSE19 - a real hands-on event.
 
@@ -16,7 +16,7 @@ The conference will begin on **Tuesday, June 4th, 1pm** and end on **Thursday, J
 <table>
 <tr>
 <td valign="top">
-<b>Programm Apps</b>
+<b>Program Apps</b>
 <ul>
 <li><a href="https://play.google.com/store/apps/details?id=net.gaast.giggity">Giggity</a> (Android)</li>
 <li><a href="https://play.google.com/store/apps/details?id=org.splitbrain.giraffe">Giraffe</a> (Android)</li>
