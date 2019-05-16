@@ -31,7 +31,7 @@ Das aktuelle Programm immer bereit haben mit einer der folgenden Mobile Apps:
 </table>
 
 
-## Vier Keynotes und eine Panel Discussion
+## Vier Keynotes und eine Podiumsdiskussion
 
 Wir freuen uns auf Keynotes von Alys Brett, Andreas Zeller, Sven Wildermann & Bradley Tipp und Brendan Bouffler.
 
@@ -44,7 +44,7 @@ Tag | Keynote
 
 ## Tracks und Sprachen
 
-In 17 Tracks bieten wir Talks in englischer und deutscher Sprache und ermöglichen somit allen Teilnehmern ein durchgängiges Angebot in beiden Sprachen.
+In 17 Tracks bieten wir Talks in englischer und deutscher Sprache und ermöglichen somit allen Teilnehmern ein durchgängiges Angebot in einer oder beiden Sprachen.
 
 Track | Sprache
 -- | --
@@ -64,11 +64,11 @@ User Interfaces | DE
 
 ## Get together
 
-Nicht nur das offizielle deRSE19 Tagesprogramm, sondern auch die Abendveranstaltungen ermöglichen einen intensiven Austausch mit allen Teilnehmern. Ihr könnt Erfahrungen und Wissen teilen und Pläne mit anderen schmieden.
+Nicht nur das offizielle deRSE19 Tagesprogramm, sondern auch die Abendveranstaltungen ermöglichen einen intensiven Austausch mit allen Teilnehmern. Hier könnt Ihr networken, Erfahrungen und Wissen teilen und Pläne mit anderen schmieden.
 
-## Jährliche Mitgliederversammlung de-RSE e.V.
+## Ordentliche Mitgliederversammlung des *de-RSE e.V - Gesellschaft für Forschungssoftware*.
 
-Am dritten Tag klingt die Konferenz mit der jährlichen Mitgliederversammlung aus, die nach der Gründungsversammlung im November 2018 zukünftig stets im Rahmen der Konferenz abgehalten werden soll. Details zur Agenda gibt es im Mai. Bleibt informiert und meldet Euch auf dem [de-RSE Mailverteiler](../join.html) an.
+Am dritten Tag klingt die Konferenz mit der ordentlichen Mitgliederversammlung aus, die nach der Gründungsversammlung im November 2018 zukünftig stets im Rahmen der Konferenz abgehalten werden soll. Details zur Agenda gibt es im Mai. Bleibt informiert und meldet Euch auf dem [de-RSE Mailverteiler](../join.html) an.
 
 ## Sonstiges
 

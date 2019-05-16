@@ -43,7 +43,7 @@ Day | Keynote
 
 ## Tracks and Languages
 
-In 17 tracks, we offer talks in English and German, enabling all participants to have an integrated offer in both languages.
+In 17 tracks, we offer talks in English and German, enabling all participants to experience the conference in a single or both languages.
 
 Track | Language
 -- | --
@@ -63,11 +63,11 @@ User Interfaces | DE
 
 ## Get together
 
-Not only the official deRSE19 day program, but also the evening events allow an intensive exchange with all participants. You can share experiences and knowledge and make plans with others.
+In addition to the official deRSE19 day programme, the evening events allow an intensive exchange with all participants. You can network, share experiences and knowledge, and make plans with others.
 
 ## Annual General Meeting de-RSE e.V.
 
-On the third day, the conference ends with the annual general meeting, which will always be held as part of the conference after the inaugural meeting in November 2018. Agenda details are available in May. Stay informed and register on the [de-RSE mailing list](../join.html).
+On the third day, the conference ends with the annual general meeting. We plan to always hold it as part of the annual conference, after the inaugural meeting in November 2018. Agenda details are available in May. Stay informed and register on the [de-RSE mailing list](../join.html).
 
 ## Miscellaneous
 
