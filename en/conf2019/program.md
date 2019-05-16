@@ -20,11 +20,10 @@ The conference will end on June 6th 2019 at 3pm.
 
 Date | Event
 -- | --
-04.06. | [Keynote: Alys Brett (UK Research Software Engineers Association, UK Atomic Energy Authority)](https://derse19.uni-jena.de/derse19/talk/ZD3B3K/)
- | [Keynote: Sven Wildermann & Bradley Tipp (Microsoft)](https://derse19.uni-jena.de/derse19/talk/PCQSRY/)
- | [Conference Dinner](https://derse19.uni-jena.de/derse19/talk/3MJHRY/)
-05.06. | [Keynote: Andreas Zeller (Universität des Saarlandes)](https://derse19.uni-jena.de/derse19/talk/ZCYXEM/)
- | [Keynote: Delivering on the promise of Research Computing (Brendan Bouffler, Amazon Web Services)](https://derse19.uni-jena.de/derse19/talk/CQ7KEC/)
+04.06. | [Alys Brett (UK Research Software Engineers Association, UK Atomic Energy Authority)](https://derse19.uni-jena.de/derse19/talk/ZD3B3K/)
+ | [Sven Wildermann](https://derse19.uni-jena.de/derse19/speaker/PLTTQ3/) & [Bradley Tipp](https://derse19.uni-jena.de/derse19/speaker/RKFTQ8/) ([Microsoft](https://azure.microsoft.com/de-de/)): [*Building a Future with AI*](https://derse19.uni-jena.de/derse19/talk/PCQSRY/)
+05.06. | [Andreas Zeller](https://www.st.cs.uni-saarland.de/zeller/) ([CISPA](https://www.cispa.saarland/), [Universität des Saarlandes](https://www.st.cs.uni-saarland.de/)): [*Sustainable Research Software – as Code, as Paper, as Book*](https://derse19.uni-jena.de/derse19/talk/ZCYXEM/)
+ | [Brendan Bouffler](https://derse19.uni-jena.de/derse19/speaker/7PGVRZ/) ([Amazon Web Services](https://aws.amazon.com/)): [*Delivering on the promise of Research Computing*](https://derse19.uni-jena.de/derse19/talk/CQ7KEC/)	
  | [Poster Session & Drinks Reception](https://derse19.uni-jena.de/derse19/talk/7E8MEA/)
 
 ## Miscellaneous
