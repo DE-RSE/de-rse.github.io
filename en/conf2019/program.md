@@ -5,30 +5,32 @@ weight: 100
 ---
 
 
-# Three Days full Program 
+# Three jam-packed days of programme points
 
-4 keynotes, 17 tracks with more than 50 talks and more than 10 workshops, Birds of Feather and Splinter Meetings, 1 poster session with more than 30 posters, 1 panel discussion, 2 evening events, the annual general meeting of de-RSE e.V. and over 80 contributors, nearly 20 volunteers and a 20-member organizing committee make the first conference for research software in Germany - the #deRSE19 - a real hands-on event.
+4 keynotes, 17 tracks with more than 50 talks, and more than 10 workshops, birds-of-a-feather events and splinter meetings, 1 poster session with more than 30 posters, 1 panel discussion, 2 evening events, the annual general meeting of *de-RSE e.V. - Gesellschaft für Forschungssoftware* and over 80 contributors, nearly 20 volunteers and a 20-member organizing committee make the first conference for research software in Germany - the #deRSE19 - a real community event.
 
-The conference will begin on **Tuesday, June 4th, 1pm** and end on **Thursday, June 6th, 2019, around 3pm**. On Tuesday, the registration is already open from 11.45 am and from 12 am there is a small lunch.
+The conference will begin on **Tuesday, June 4th, 1pm** and end on **Thursday, June 6th, 2019, around 3pm**. On Tuesday, the registration is already open from 11.45 am, and there is a small lunch from 12 am.
 
-<a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Open Program! (click here)</a>.
+<a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Explore the **full programme**! (click here)</a>.
+
+Always have the up-to-date programme handy with one of the following mobile apps.
 
 <table>
 <tr>
 <td valign="top">
-<b>Program Apps</b>
+<b>Programme apps</b>
 <ul>
 <li><a href="https://play.google.com/store/apps/details?id=net.gaast.giggity">Giggity</a> (Android)</li>
 <li><a href="https://play.google.com/store/apps/details?id=org.splitbrain.giraffe">Giraffe</a> (Android)</li>
 </ul>
 </td>
 <td valign="top">
-<a href="{{ '/assets/img/conf/qrcode_program.png' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/qrcode_program.png' | prepend: site.baseurl }}" style="width: 100px;"/></a><br/>Click to increase
+<a href="{{ '/assets/img/conf/qrcode_program.png' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/qrcode_program.png' | prepend: site.baseurl }}" style="width: 100px;"/></a><br/>Click for larger version
 </td>
 </tr>
 </table>
 
-## Four Keynotes and a Panel Discussion
+## Four keynotes and a panel discussion
 
 We look forward to keynotes from Alys Brett, Andreas Zeller, Sven Wildermann & Bradley Tipp, and Brendan Bouffler.
 

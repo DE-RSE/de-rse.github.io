@@ -11,12 +11,14 @@ weight: 100
 
 Die Konferenz beginnt am **Dienstag, 4. Juni, 13 Uhr** und endet am **Donnerstag, 6. Juni 2019 gegen 15 Uhr**. Am Dienstag ist die Registrierung bereits ab 11.45 Uhr geöffnet und ab 12 Uhr gibt es einen Mittagsimbiss.
 
-<a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Programm öffnen! (hier klicken)</a>.
+<a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Programm öffnen! (hier klicken)</a>
+
+Das aktuelle Programm immer bereit haben mit einer der folgenden Mobile Apps:
 
 <table>
 <tr>
 <td valign="top">
-<b>Programm Apps</b>
+<b>Programm-Apps</b>
 <ul>
 <li><a href="https://play.google.com/store/apps/details?id=net.gaast.giggity">Giggity</a> (Android)</li>
 <li><a href="https://play.google.com/store/apps/details?id=org.splitbrain.giraffe">Giraffe</a> (Android)</li>
