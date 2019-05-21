@@ -3,27 +3,28 @@ layout: default
 title: Events
 weight: 3
 ---
-# Events 2019  
+
+# Events
 
 We think this list of events is relevant. That's why simply collected them in a table. We are not the organizers of of these events!
 
 If you think, we are missing an event, please [contact](join.html) us.
+
+## 2019  
 
 | Event | Date | Place | URL | Remarks |
 | --- | --- | --- | --- | --- |
 {% include events/2019.md %}
 {: .table .table-hover}
 
-## Events 2018  
+## 2018  
 
 | Event | Date | Place | URL | Remarks |
 | --- | --- | --- | --- | --- |
 {% include events/2018.md %}
 {: .table .table-hover}
 
-## Past Events
-
-### Events 2017
+## 2017
 
 | Event | Date | Place | URL | Remarks |
 | --- | --- | --- | --- | --- |

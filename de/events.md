@@ -3,7 +3,8 @@ layout: default
 title: Termine
 weight: 3
 ---
-# Termine 2019  
+
+# Termine
 
 Diese Liste von Veranstaltungen halten wir für relevant und haben sie
 deshalb in einer Tabelle zusammengefasst. Die jeweilgen Veranstalter
@@ -11,23 +12,21 @@ sind auf den verwiesenen Webseiten zu finden.
 
 Falls eine Veranstaltung fehlt, [kontaktiere](join.html) uns bitte.
 
+## 2019  
+
 | Veranstaltung | Datum | Ort | URL | Bemerkung |
 | --- | --- | --- | --- | --- |
 {% include events/2019.md %}
 {: .table .table-hover}
 
-
-# Termine 2018  
+## 2018  
 
 | Veranstaltung | Datum | Ort | URL | Bemerkung |
 | --- | --- | --- | --- | --- |
 {% include events/2018.md %}
 {: .table .table-hover}
 
-
-## Vergangene Veranstaltungen 
-
-### Termine 2017
+## 2017
 
 | Veranstaltung | Datum | Ort | URL | Bemerkung |
 | --- | --- | --- | --- | --- |
