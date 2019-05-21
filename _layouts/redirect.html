@@ -1,11 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-{% include head.html %}
+
+<head>
+    <meta charset="utf-8">
+  
+    {% include head_default.html %}
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="refresh" content="0;url={{ page.redirect_page_to }}" />
+</head>
 
 <body class="home">
     
     {% include navbar.html %}
-    
+
     <div class="container">
         <div class="starter-template">
             {{ content }}
