@@ -11,7 +11,7 @@ weight: 100
 
 The conference will begin on **Tuesday, June 4th, 1pm** and end on **Thursday, June 6th, 2019, around 3pm**. On Tuesday, the registration is already open from 11.45 am, and there is a small lunch from 12 am.
 
-<a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Explore the **full programme**! (click here)</a>.
+<a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Explore the **full programme**! (click here)</a>
 
 Always have the up-to-date programme handy with one of the following mobile apps.
 
@@ -35,11 +35,11 @@ Always have the up-to-date programme handy with one of the following mobile apps
 We look forward to keynotes from Alys Brett, Andreas Zeller, Sven Wildermann & Bradley Tipp, and Brendan Bouffler.
 
 Day | Keynote
-04.06. | [Alys Brett (UK Research Software Engineers Association, UK Atomic Energy Authority)](https://derse19.uni-jena.de/derse19/talk/ZD3B3K/)
+--|--
+04.06. | [Alys Brett](https://derse19.uni-jena.de/derse19/speaker/FJWC3N/) ([UK Research Software Engineers Association](https://rse.ac.uk/), [UK Atomic Energy Authority](https://www.gov.uk/government/organisations/uk-atomic-energy-authority)): [*RSEs together - building networks, groups, organisations and careers*](https://derse19.uni-jena.de/derse19/talk/ZD3B3K/)
  | [Sven Wildermann](https://derse19.uni-jena.de/derse19/speaker/PLTTQ3/) & [Bradley Tipp](https://derse19.uni-jena.de/derse19/speaker/RKFTQ8/) ([Microsoft](https://azure.microsoft.com/de-de/)): [*Building a Future with AI*](https://derse19.uni-jena.de/derse19/talk/PCQSRY/)
 05.06. | [Andreas Zeller](https://www.st.cs.uni-saarland.de/zeller/) ([CISPA](https://www.cispa.saarland/), [Universität des Saarlandes](https://www.st.cs.uni-saarland.de/)): [*Sustainable Research Software – as Code, as Paper, as Book*](https://derse19.uni-jena.de/derse19/talk/ZCYXEM/)
  | [Brendan Bouffler](https://derse19.uni-jena.de/derse19/speaker/7PGVRZ/) ([Amazon Web Services](https://aws.amazon.com/)): [*Delivering on the promise of Research Computing*](https://derse19.uni-jena.de/derse19/talk/CQ7KEC/)	
- | [Poster Session & Drinks Reception](https://derse19.uni-jena.de/derse19/talk/7E8MEA/)
 
 ## Tracks and Languages
 
