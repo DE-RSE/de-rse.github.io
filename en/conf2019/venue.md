@@ -148,7 +148,7 @@ Departure times of bus line 691:
   * In the afternoon: from 15:01 every 20 minutes (: 01,: 21;: 41), last ride 18:41
 * see also [Official timetable](https://www.swp-potsdam.de/content/verkehr/pdf_7/fahrplanwechsel_2018_2019/bus_09_12_2018/fahrplan_691_mo_fr_ab_09_12_2019.pdf)
 
-
+<!---
 # What else does Potsdam have to offer?
 
 Potsdame is a city with lot's of options for your free time and for exploring.
@@ -169,3 +169,4 @@ For those of you who have some extra time to spare during your visit in Potsdam 
 - [Nextbike](https://www.nextbike.de/en/)
 - [Potsdam per Pedales](http://potsdam-per-pedales.de/startpage/) (they also have cargo bikes)
 - [Fahrradstation Potsdam](http://www.fahrradstationpotsdam.de/)
+-->
