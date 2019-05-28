@@ -32,9 +32,11 @@ Der Verein wurde am 19.2.2019 im Vereinsregister in Berlin eingetragen.
 
 Die Gemeinnützigkeit des Vereins wird so schnell wie möglich beantragt.
 
-## Mitglieder
+## Mitgliedschaft
 
-Derzeit wird am Aufnahmeformular gearbeitet. Sobald dieses fertig ist kannst Du Mitglied werden.
+[Download der Beitrittserklärung](/assets/pdf/association/de-RSE_Beitrittserklärung.pdf)
+
+Bitte die ausgefüllte Erklärung per Post an die in der Erklärung aufgeführte Anschrift senden.
 
 ## Mitgliederversammlung
 
