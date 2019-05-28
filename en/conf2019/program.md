@@ -71,6 +71,6 @@ On the third day, the conference ends with the annual general meeting. We plan t
 
 ## Miscellaneous
 
-News about the program can be found on the mailing list [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) and on Twitter [@RSE_de](https://twitter.com/RSE_de).
+News about the program can be found on the mailing list [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) and on Twitter [@RSE_de](https://twitter.com/RSE_de).
 
 The [Call for Contributions](call.html) was open until 3 March 2019.
