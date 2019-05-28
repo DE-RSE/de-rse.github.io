@@ -8,4 +8,5 @@ weight: 6
 
 # Association
 
-Content not yet in english available. Coming soon. 
+The association de-RSE e.V. was founded in November 2018.
+Find more information about it and the activities on the [German website](/de/association.html).
