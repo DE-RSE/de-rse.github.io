@@ -39,7 +39,7 @@ June 04-06 (Tue-Thu) | Conference
 
 ## Updates
 
-Register at [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) to get the latest updates.
+Register at [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) to get the latest updates.
 
 ## About deRSE19
 
@@ -52,7 +52,7 @@ At \#deRSE19 we welcome domain researchers, but also people who fund, develop, r
 Contributions in the form of talks (short or long), posters, workshops, and other formal and informal session proposals
 are welcome. All we ask is that you submit a very short (750 character) abstract at <https://derse19.uni-jena.de/derse19/cfp> by 28 February 2019.
 
-Stay in touch and get the latest updates by registering at [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org). Updates about the conference are also available via [@RSE_de on Twitter](https://twitter.com/rse_de). The hashtag for the event is #deRSE19.
+Stay in touch and get the latest updates by registering at [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org). Updates about the conference are also available via [@RSE_de on Twitter](https://twitter.com/rse_de). The hashtag for the event is #deRSE19.
 
 If you have any questions about the conference, please contact the conference organisers at [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
 
