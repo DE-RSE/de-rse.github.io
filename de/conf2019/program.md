@@ -72,6 +72,6 @@ Am dritten Tag klingt die Konferenz mit der ordentlichen Mitgliederversammlung a
 
 ## Sonstiges
 
-Neuigkeiten zum Programm gibt es über die Mailingliste [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) und auf Twitter [@RSE_de](https://twitter.com/RSE_de).
+Neuigkeiten zum Programm gibt es über die Mailingliste [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) und auf Twitter [@RSE_de](https://twitter.com/RSE_de).
 
 Der [Call for Contributions](call.html) war bis zum 3. März 2019 geöffnet.
