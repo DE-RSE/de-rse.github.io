@@ -38,7 +38,7 @@ Datum | Termin
 
 ## Updates
 
-Registrier dich auf [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) um die neusten Updates zu erhalten.
+Registrier dich auf [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) um die neusten Updates zu erhalten.
 
 ## Über die deRSE19
 
@@ -50,7 +50,7 @@ Zu \#deRSE19 begrüßen wir Wissenschaftler und Wissenschaftlerinnen, aber auch 
 
 Wir begrüßen Beiträge in Form von Vorträgen (kurz oder lang), Postern, Workshops oder anderen formellen oder informellen Sessions. Um beizutragen bitten wir Dich lediglich, eine sehr kurze (750 Zeichen) Zusammenfassung Deines Vorschlags bis zum 28. Februar 2019 einzureichen unter <https://derse19.uni-jena.de/derse19/cfp>.
 
-Bleib mit uns in Kontakt und erhalte die neuesten Updates, indem Du Dich unter [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) registrierst. Updates über die Konferenz werden auch über [@RSE_de auf Twitter](https://twitter.com/rse_de) verfügbar sein. Der Hashtag für das Ereignis ist #deRSE19.
+Bleib mit uns in Kontakt und erhalte die neuesten Updates, indem Du Dich unter [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) registrierst. Updates über die Konferenz werden auch über [@RSE_de auf Twitter](https://twitter.com/rse_de) verfügbar sein. Der Hashtag für das Ereignis ist #deRSE19.
 
 Wenn Fragen zur Konferenz aufkommen, wende Dich bitte an das Organisatonsteam der Konferenz unter [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
 
