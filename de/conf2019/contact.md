@@ -10,7 +10,7 @@ parent: contact-pr
 
 Bei Fragen rund um die Konferenz: [konferenz@de-rse.org](mailto:konferenz@de-rse.org?subject=[deRSE19]%20Fragen%20und%20Hilfe)
 
-Neuigkeiten gibt es über die Mailingliste [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org), auf Twitter [@RSE_de](https://twitter.com/RSE_de) und natürlich auf <https://www.de-rse.org/de/conf2019>.
+Neuigkeiten gibt es über die Mailingliste [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org), auf Twitter [@RSE_de](https://twitter.com/RSE_de) und natürlich auf <https://www.de-rse.org/de/conf2019>.
 
 Bei speziellen Fragen kontaktiere die entsprechenden Personen aus dem Komitee.
 
