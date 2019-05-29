@@ -62,9 +62,9 @@ Testing Research Software | EN
 Towards Open Research Software | DE
 User Interfaces | DE
 
-## Get together
+## Rahmenprogramm
 
-Nicht nur das offizielle deRSE19 Tagesprogramm, sondern auch die Abendveranstaltungen ermöglichen einen intensiven Austausch mit allen Teilnehmern. Hier könnt Ihr networken, Erfahrungen und Wissen teilen und Pläne mit anderen schmieden.
+Nicht nur das offizielle deRSE19 Tagesprogramm, sondern auch die Rahmenveranstaltungen ermöglichen einen intensiven Austausch mit allen Teilnehmern. Hier könnt Ihr networken, Erfahrungen und Wissen teilen und Pläne mit anderen schmieden. Details finden sich [hier](social.html).
 
 ## Ordentliche Mitgliederversammlung des *de-RSE e.V - Gesellschaft für Forschungssoftware*.
 

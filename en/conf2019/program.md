@@ -61,9 +61,9 @@ Testing Research Software | EN
 Towards Open Research Software | DE
 User Interfaces | DE
 
-## Get together
+## Social program
 
-In addition to the official deRSE19 day programme, the evening events allow an intensive exchange with all participants. You can network, share experiences and knowledge, and make plans with others.
+In addition to the official deRSE19 day programme, the social events allow an intensive exchange with all participants. You can network, share experiences and knowledge, and make plans with others. You can find all details [here](social.html)
 
 ## Annual General Meeting de-RSE e.V.
 
