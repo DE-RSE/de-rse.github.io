@@ -34,7 +34,7 @@ Die Gemeinnützigkeit des Vereins wird so schnell wie möglich beantragt.
 
 ## Mitglieder
 
-Derzeit wird am Aufnahmeformular gearbeitet. Sobald dieses fertig ist kannst Du Mitglied werden.
+Hier kannst Du das <a href="{{ '/assets/pdf/association/de-RSE_Beitrittserklärung.pdf' | prepend: site.baseurl }}">Beitrittsformular</a> herunterladen. Bitte drucke und fülle es aus, unterschreibe und schicke es an die auf dem Formular angegebene Adresse.
 
 ## Mitgliederversammlung
 
