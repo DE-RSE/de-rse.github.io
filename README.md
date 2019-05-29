@@ -57,6 +57,16 @@ Blog posts will be displayed ordered by publication date on `blog.html`. They al
 
 `menulang` determines the language of the main menu as displayed on the post page (default: `en`). The language menu items ("Deutsch", "English") link back to the blog index page in the respective language.
 
+### Redirects
+
+You can also redirect pages to another URL by using the `layout: redirect` and defining a page to redirect to using a [meta refresh](https://en.wikipedia.org/wiki/Meta_refresh).
+
+    ---
+    title: 
+    layout: redirect
+    redirect_page_to: https://xkcd.com
+    ---
+
 ## kramdown
 
 For help on syntax have a look at: 
@@ -72,7 +82,7 @@ The map appeared on Dec 6th 2017 on the website. It's based on [leaflet](http://
      
 ## Events
      
-Events are included per year from https://github.com/DE-RSE/www/tree/gh-pages/_includes/events. No language specific remarks in favor of maintainability.     
+Events are included per year from https://github.com/DE-RSE/www/tree/gh-pages/_includes/events. No language specific remarks in favor of maintainability.
 
 ## Converting slack signup domain list
 

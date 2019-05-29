@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Call for Contributions"
-weight: 100
+title: "Call for Contributions (closed)"
+weight: 270
+ischild: true
+parent: info
 ---
 
 # deRSE19 - Call for Contributions

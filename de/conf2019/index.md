@@ -18,13 +18,29 @@ weight: 1
 
 **Call for Contributions:** War geöffnet bis 28. Februar 2019, 23:59:59 CET.
 
-**[Code of Conduct & Diversity Plan](code-of-conduct.html)**
+**Programm:** Das aktuelle [Programm](https://derse19.uni-jena.de/derse19/schedule/)
+
+**Registrierung:** Registrier Dich unter [deRSE19 Registrierung](https://pretix.derse19.uni-jena.de/de-RSE/2019/)
+
+**Code of Conduct & Diversity Plan**: [Siehe hier](code-of-conduct.html)
+
+## Wichtige Daten
+
+Datum | Termin
+--|--
+28.02. (Do) | Ende [Call for Contributions](call.html)
+22.03. (Fr) | Versand Bestätigung / Ablehnung
+08.04. (Mo) | Öffnung [Registrierung](registration.html)
+14.04. (So) | Ende Early Bird
+15.04. (Mo) | Veröffentlichung [Programm](https://derse19.uni-jena.de/derse19/schedule/)
+20.05. (Mo) | Ende Registrierung
+04.06.-06.06. (Di-Do) | Konferenz
 
 ## Updates
 
-Registrier dich auf [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) um die neusten Updates zu erhalten.
+Registrier dich auf [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) um die neusten Updates zu erhalten.
 
-## Ankündigung
+## Über die deRSE19
 
 Nach dem Erfolg der [ersten drei internationalen Konferenzen der Research Software Engineers in Großbritannien](https://rse.ac.uk/events/past-conferences/) findet vom 4. bis 6. Juni 2019 im Wissenschaftspark Albert Einstein in Potsdam die erste internationale Konferenz in Deutschland zu Forschungssoftware und den beteiligten Personen in der deutschen Forschungslandschaft statt.
 
@@ -34,7 +50,7 @@ Zu \#deRSE19 begrüßen wir Wissenschaftler und Wissenschaftlerinnen, aber auch 
 
 Wir begrüßen Beiträge in Form von Vorträgen (kurz oder lang), Postern, Workshops oder anderen formellen oder informellen Sessions. Um beizutragen bitten wir Dich lediglich, eine sehr kurze (750 Zeichen) Zusammenfassung Deines Vorschlags bis zum 28. Februar 2019 einzureichen unter <https://derse19.uni-jena.de/derse19/cfp>.
 
-Bleib mit uns in Kontakt und erhalte die neuesten Updates, indem Du Dich unter [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) registrierst. Updates über die Konferenz werden auch über [@RSE_de auf Twitter](https://twitter.com/rse_de) verfügbar sein. Der Hashtag für das Ereignis ist #deRSE19.
+Bleib mit uns in Kontakt und erhalte die neuesten Updates, indem Du Dich unter [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) registrierst. Updates über die Konferenz werden auch über [@RSE_de auf Twitter](https://twitter.com/rse_de) verfügbar sein. Der Hashtag für das Ereignis ist #deRSE19.
 
 Wenn Fragen zur Konferenz aufkommen, wende Dich bitte an das Organisatonsteam der Konferenz unter [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
 
@@ -54,18 +70,26 @@ Wenn Fragen zur Konferenz aufkommen, wende Dich bitte an das Organisatonsteam de
 			<p><a href="https://www.gfz-potsdam.de/">GFZ German Research Centre for Geosciences</a></p>
 			<p><img src="{{ '/assets/img/conf/pik.png' | prepend: site.baseurl }}" style="width: 100px;"/></p>
 			<p><a href="https://www.pik-potsdam.de/">Potsdam-Institut für Klimafolgenforschung (PIK)</a></p>
-			<h2 id="konferenzkomitee">Konferenkomitee</h2>
+			<h2 id="konferenzkomitee">Konferenzkomitee</h2>
 			<p>Die organisierenden Personen sind auf der <a href="%7B%7B%20site.baseurl%20%7D%7D%7B%%20link%20de/conf2019/contact.md%20%%7D">Kontakt-Seite</a> zu finden.</p>
 		</td>
 
 		<td style="vertical-align: top;">
 			<h2 id="veranstalter">Wir danken unseren Sponsoren!</h2>
-			<h3>Posterpreise</h3>
+			<h3 style="background-color: #e5e4e2; padding: 5px;">Platinsponsor</h3>
+			<p style="margin-top: 20px; margin-bottom: 20px;"><img src="{{ '/assets/img/conf/sponsors/microsoft.png' | prepend: site.baseurl }}" alt="Microsoft logo" style="height: 100px;"/></p>
+			<p><a href="https://azure.microsoft.com/de-de/">Microsoft Deutschland GmbH</a></p>
+			<h3 style="background-color: #FFD700; padding: 5px;">Goldsponsor</h3>
+			<p style="margin-top: 20px; margin-bottom: 20px;"><img src="{{ '/assets/img/conf/sponsors/aws.png' | prepend: site.baseurl }}" alt="Amazon Webs Services logo" style="height: 100px;"/></p>
+			<p><a href="https://aws.amazon.com/">Amazon Web Services</a></p>
+			<h3 style="background-color: #F5F5F5; padding: 5px;">Posterpreise</h3>
 			<p><img src="{{ '/assets/img/conf/sponsors/gitlab.png' | prepend: site.baseurl }}" alt="GitLab logo" style="height: 100px;"/></p>
 			<p><a href="https://about.gitlab.com/just-commit/">GitLab</a></p>
-			<h3>Reiseunterstützung</h3>
+			<h3 style="background-color: #F5F5F5; padding: 5px;">Reiseunterstützung</h3>
 			<p><img src="{{ '/assets/img/conf/sponsors/r-consortium.png' | prepend: site.baseurl }}" alt="R Consortium logo" style="height: 100px;"/></p>
 			<p><a href="http://r-consortium.org">R Consortium</a></p>
-		</td>
+			<p><img src="{{ '/assets/img/conf/sponsors/pythonverband.png' | prepend: site.baseurl }}" alt="Python Software Verband e.V." style="height: 80px;"/></p>
+			<p><a href="https://python-verband.org/">Python Software Verband e.V.</a></p></td>
+
 	</tr>
 </table>

@@ -19,13 +19,29 @@ weight: 1
 
 **Call for Contributions:** Was open until 28 February 2019, 23:59:59 (CET)
 
-**[Code of Conduct & Diversity Plan](code-of-conduct.html)**
+**Program:** Current [program](https://derse19.uni-jena.de/derse19/schedule/)
+
+**Registration:** Please register at [deRSE19 Registrierung](https://pretix.derse19.uni-jena.de/de-RSE/2019/)
+
+**Code of Conduct & Diversity Plan**: [See here](code-of-conduct.html)
+
+## Important Dates
+
+Date | Event
+--|--
+Feb 28 (Thu) | End [Call for Contributions](call.html)
+Mar 22 (Fri) | Confirmation / Refusal
+Apr 08 (Mon) | Opening [Registration](https://derse19.uni-jena.de/derse19/schedule/)
+Apr 14 (Sun) | End Early Bird
+Apr 15 (Mon) | Publishing [program]()
+Mai 20 (Mon) | End of registration
+June 04-06 (Tue-Thu) | Conference
 
 ## Updates
 
-Register at [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) to get the latest updates.
+Register at [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) to get the latest updates.
 
-## Announcement
+## About deRSE19
 
 Following the success of the [first three international Conference of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), the first international conference in Germany addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
 
@@ -36,7 +52,7 @@ At \#deRSE19 we welcome domain researchers, but also people who fund, develop, r
 Contributions in the form of talks (short or long), posters, workshops, and other formal and informal session proposals
 are welcome. All we ask is that you submit a very short (750 character) abstract at <https://derse19.uni-jena.de/derse19/cfp> by 28 February 2019.
 
-Stay in touch and get the latest updates by registering at [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org). Updates about the conference are also available via [@RSE_de on Twitter](https://twitter.com/rse_de). The hashtag for the event is #deRSE19.
+Stay in touch and get the latest updates by registering at [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org). Updates about the conference are also available via [@RSE_de on Twitter](https://twitter.com/rse_de). The hashtag for the event is #deRSE19.
 
 If you have any questions about the conference, please contact the conference organisers at [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
 
@@ -61,11 +77,19 @@ If you have any questions about the conference, please contact the conference or
 		</td>
 
 		<td style="vertical-align: top;"><h2 id="veranstalter">Thank you to our sponsors!</h2>
-		<h3>Poster prizes</h3>
+		<h3 style="background-color: #e5e4e2; padding: 5px;">Platinum sponsors</h3>
+		<p style="margin-top: 20px; margin-bottom: 20px;"><img src="{{ '/assets/img/conf/sponsors/microsoft.png' | prepend: site.baseurl }}" alt="Microsoft logo" style="height: 100px;"/></p>
+		<p><a href="https://azure.microsoft.com">Microsoft Deutschland GmbH</a></p>
+		<h3 style="background-color: #FFD700; padding: 5px;">Gold sponsors</h3>
+		<p style="margin-top: 20px; margin-bottom: 20px;"><img src="{{ '/assets/img/conf/sponsors/aws.png' | prepend: site.baseurl }}" alt="Amazon Webs Services logo" style="height: 100px;"/></p>
+		<p><a href="https://aws.amazon.com/">Amazon Web Services</a></p>
+		<h3 style="background-color: #F5F5F5; padding: 5px;">Poster prizes</h3>
 		<p><img src="{{ '/assets/img/conf/sponsors/gitlab.png' | prepend: site.baseurl }}" alt="GitLab logo" style="height: 100px;"/></p>
 		<p><a href="https://about.gitlab.com/just-commit/">GitLab</a></p>
-		<h3>Travel support</h3>
+		<h3 style="background-color: #F5F5F5; padding: 5px;">Travel support</h3>
 		<p><img src="{{ '/assets/img/conf/sponsors/r-consortium.png' | prepend: site.baseurl }}" alt="R Consortium logo" style="height: 100px;"/></p>
-		<p><a href="http://r-consortium.org">R Consortium</a></p></td>
+		<p><a href="http://r-consortium.org">R Consortium</a></p>
+		<p><img src="{{ '/assets/img/conf/sponsors/pythonverband.png' | prepend: site.baseurl }}" alt="Python Software Verband e.V." style="height: 80px;"/></p>
+		<p><a href="https://python-verband.org/">Python Software Verband e.V.</a></p></td>
 	</tr>
 </table>

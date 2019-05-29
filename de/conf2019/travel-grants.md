@@ -66,8 +66,7 @@ Beachtung der Aspekte *Qualität der Einreichung*, *Diversität* und
 *Finanzierungssituation*. Bei mehr positiven Gutachten als zu 
 vergebenden Stipendien entscheidet das Los (der Rechtsweg ist ausgeschlossen).
 
-Die initiale Deadline für die Bewerbung um ein UKRSE-Stipendium ist
-der **31. März 2019**. Sollten darüber hinaus Stipendien verfügbar bleiben
+Die Deadline für die Bewerbung um ein UKRSE-Stipendium ist verlängert bis **30. April 2019**. Sollten darüber hinaus Stipendien verfügbar bleiben
 werden weitere Bewerbungen akzeptiert.
 
 Stipendiat*innen gehen weitere Details bei Annahme zu.
