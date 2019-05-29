@@ -88,6 +88,8 @@ If you have any questions about the conference, please contact the conference or
 		<p><a href="https://about.gitlab.com/just-commit/">GitLab</a></p>
 		<h3 style="background-color: #F5F5F5; padding: 5px;">Travel support</h3>
 		<p><img src="{{ '/assets/img/conf/sponsors/r-consortium.png' | prepend: site.baseurl }}" alt="R Consortium logo" style="height: 100px;"/></p>
-		<p><a href="http://r-consortium.org">R Consortium</a></p></td>
+		<p><a href="http://r-consortium.org">R Consortium</a></p>
+		<p><img src="{{ '/assets/img/conf/sponsors/pythonverband.png' | prepend: site.baseurl }}" alt="Python Software Verband e.V." style="height: 80px;"/></p>
+		<p><a href="https://python-verband.org/">Python Software Verband e.V.</a></p></td>
 	</tr>
 </table>
