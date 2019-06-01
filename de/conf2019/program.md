@@ -15,11 +15,11 @@ Die Konferenz beginnt am **Dienstag, 4. Juni, 13 Uhr** und endet am **Donnerstag
 
 <b>Programm Download (PDF und Druck)</b>
 
-[![Programm](/assets/img/conf/Programm.png)](/assets/pdf/conf2019/Programm.pdf)
+<a href="{{ '/assets/pdf/conf2019/Programm.pdf' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/Programm.png' | prepend: site.baseurl }}" style="width: 200px;"/></a>
 
-[![Programm Druck](/assets/img/conf/Programm-Print-A3-Duplex.png)](/assets/pdf/conf2019/Programm-Print-A3-Duplex.pdf)
+<a href="{{ '/assets/pdf/conf2019/Programm-Print-A3-Duplex.pdf' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/Programm-Print-A3-Duplex.png' | prepend: site.baseurl }}" style="width: 200px;"/></a>
 
-Das aktuelle Programm immer bereit haben mit einer der folgenden Mobile Apps:
+<b>Programm Apps</b>
 
 <table>
 <tr>
