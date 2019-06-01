@@ -13,6 +13,12 @@ Die Konferenz beginnt am **Dienstag, 4. Juni, 13 Uhr** und endet am **Donnerstag
 
 <a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Programm öffnen! (hier klicken)</a>
 
+<b>Programm Download (PDF und Druck)</b>
+
+[![Programm](/assets/img/conf/Programm.png)](/assets/pdf/conf2019/Programm.pdf)
+
+[![Programm Druck](/assets/img/conf/Programm-Print-A3-Duplex.png)](/assets/pdf/conf2019/Programm-Print-A3-Duplex.pdf)
+
 Das aktuelle Programm immer bereit haben mit einer der folgenden Mobile Apps:
 
 <table>
