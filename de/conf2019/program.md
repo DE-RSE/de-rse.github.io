@@ -15,14 +15,13 @@ Die Konferenz beginnt am **Dienstag, 4. Juni, 13 Uhr** und endet am **Donnerstag
 
 <b>Programm Download (PDF und Druck)</b>
 <br/>
-<a href="{{ '/assets/pdf/conf2019/Programm.pdf' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/Programm.png' | prepend: site.baseurl }}" style="width: 150px;"/></a> <a href="{{ '/assets/pdf/conf2019/Programm-Print-A3-Duplex.pdf' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/Programm-Print-A3-Duplex.png' | prepend: site.baseurl }}" style="width: 150px;"/></a>
+<a href="{{ '/assets/pdf/conf2019/Programm.pdf' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/Programm.png' | prepend: site.baseurl }}" style="width: 200px; margin: 20px;"/></a> <a href="{{ '/assets/pdf/conf2019/Programm-Print-A3-Duplex.pdf' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/Programm-Print-A3-Duplex.png' | prepend: site.baseurl }}" style="width: 200px; margin: 20px;"/></a>
 
 <b>Programm Apps</b>
 <br/>
 <table>
 <tr>
 <td valign="top">
-<b>Programm-Apps</b>
 <ul>
 <li><a href="https://play.google.com/store/apps/details?id=net.gaast.giggity">Giggity</a> (Android)</li>
 <li><a href="https://play.google.com/store/apps/details?id=org.splitbrain.giraffe">Giraffe</a> (Android)</li>
