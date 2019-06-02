@@ -28,7 +28,7 @@ Zum Aufwärmen vor der Konferenz laden wir Euch ein, am morgendlichen Lauf vor B
 Es wird eine Führung geben, bei der Ihr die Gelegenheit habt den Telegrafenberg und seine Geschichten zu entdecken. Die Führung wird voraussichtlich ca. 45 Minuten dauern, Ihr habt also noch genug Zeit fürs Mittagessen und die Registrierung vor dem Beginn der Konferenz. 
 
 - **Wann?** 04.06.2019 um 11:30 Uhr.
-- **Wo?** Telegrafenberg, Treffpunkt: TBD. 
+- **Wo?** Telegrafenberg, Treffpunkt: Vor Haus H. 
 - **Interesse?** Gerne hier eintragen: [https://terminplaner4.dfn.de/p7BTQruoxop7AY73](https://terminplaner4.dfn.de/p7BTQruoxop7AY73).
 Wichtiger Hinweis: Bitte sagt uns Bescheid, falls Ihr Eure Meinung ändert oder nicht laufen könnt. Danke. 
 - Fragen? [Kontaktiere](https://www.de-rse.org/de/conf2019/contact.html) unser Logistics Team (Andrea Schwerdtfeger).
