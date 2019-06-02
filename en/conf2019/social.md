@@ -29,7 +29,7 @@ There will be limited shower options on the Telegrafenberg.
 There will be a guided tour (walk) where you get to discover the sights and (hi)stories of the Telegrafenberg. The tour will last approximately 45 minutes, so you will have enough time for lunch and registration before the start of the conference. 
 
 - **When?** 04.06.2019 at 11:30 am. 
-- **Where?** Telegrafenberg, meeting-point: TBD. 
+- **Where?** Telegrafenberg, meeting-point: In front of House H. 
 - Interested? Please sign up here: [https://terminplaner4.dfn.de/p7BTQruoxop7AY73](https://terminplaner4.dfn.de/p7BTQruoxop7AY73). Important note for planning purposes: Please let us know in case you change your mind or cannot make it. Thanks. 
 - Questions? You can [contact](https://www.de-rse.org/en/conf2019/contact.html) our Logistics Team Members (Andrea Schwerdtfeger).
 
