@@ -16,6 +16,8 @@ weight: 1
 
 **Wo:** Wissenschaftspark Albert Einstein in Potsdam
 
+**(Wo noch?)** Livestreams aus 2 Hörsälen: [Haus H](https://vimeo.com/event/8288), [A56](https://vimeo.com/event/8287), Passwort: `deRSE19`
+
 **Call for Contributions:** War geöffnet bis 28. Februar 2019, 23:59:59 CET.
 
 **Programm:** Das aktuelle [Programm](https://derse19.uni-jena.de/derse19/schedule/)
