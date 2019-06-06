@@ -8,21 +8,11 @@ weight: 6
 
 # Verein
 
-## Vereinsgründung
+## Kontakt
 
-Am **26.11.2018** trafen sich Interessierte in **Berlin**, um bei der
-Vereinsgründung dabei zu sein. Insgesamt 20 Gründungsmitglieder wurden hierbei
-in den Verein aufgenommen.
-
-## Jahreshauptversammlung 2019
-
-Am **6.6.2019** fand die erste Jahreshauptversammlung im Rahmen der deRSE19-Konferenz
-in Potsdam statt. 23 stimmberechtigte Mitglieder waren anwesend. Dabei wurde der
-Gründungsvorstand einstimming für ein Jahr wiedergewählt.
+vorstand@de-rse.org
 
 ## Vorstand
-
-Folgende Personen wurden auf der Gründungsversammlung gewählt und auf der 1. Jahreshauptversammlung bestätigt:
 
 * Frank Löffler (Friedrich-Schiller-Universität Jena, Vorstandsvorsitzender)
 * Daniel Nüst (Universität Münster, stellvertretender Vorstandsvorsitzender) 
@@ -31,15 +21,22 @@ Folgende Personen wurden auf der Gründungsversammlung gewählt und auf der 1. J
 * Bernadette Fritzsch (Alfred-Wegener-Institut Bremerhaven, Schriftführerin)
 * Stephan Druskat (Humboldt-Universität zu Berlin und Friedrich-Schiller-Universität Jena, stellvertretender Schriftführer)
 
-## Vereinseintragung
+## Vereinsgründung & Satzung
 
+Am **26.11.2018** trafen sich 20 RSEs in **Berlin** um den Verein de-RSE e.V. zu gründen.
 Der Verein wurde am 19.2.2019 im Vereinsregister in Berlin eingetragen.
+
+[Download der Satzung](https://github.com/DE-RSE/satzung/raw/master/de-RSE-e.V._Satzung_2019-01-07.pdf)
 
 ## Gemeinnützigkeit 
 
-Die Gemeinnützigkeit des Vereins wird so schnell wie möglich beantragt.
+Die Gemeinnützigkeit des Vereins wird derzeit beantragt.
 
-## Mitglieder
+## Mitgliedschaft
 
-Hier kannst Du das <a href="{{ '/assets/pdf/association/de-RSE_Beitrittserklärung.pdf' | prepend: site.baseurl }}">Beitrittsformular</a> herunterladen. Bitte fülle es aus und drucke es, unterschreibe und schicke es an die auf dem Formular angegebene Adresse.
+Hier kannst Du das <a href="{{ '/assets/pdf/association/de-RSE_Beitrittserklärung.pdf' | prepend: site.baseurl }}">Beitrittsformular</a> herunterladen. Bitte fülle es aus und drucke es, unterschreibe und schicke es per Post an die auf der Erklärung angegebene Adresse.
 
+## Protokolle
+
+Protokolle von Vorstandssitzungen und Versammlungen sind, sofern möglich in vollem Umfang, online verfügbar im [Protokolle Repository](https://github.com/DE-RSE/protokolle).
+>>>>>>> e20dcc5eb3d57380a31fc85e41e5068b8a3f4411

@@ -8,19 +8,11 @@ weight: 6
 
 # Association
 
-## Founding of the association
+## Contact
 
-Parties interested in the RSE topic met on **26th of November 2018** in **Berlin** to witness
-the founding of the association. At this event, 20 members became founding members.
-
-## Annual general meeting
-
-The first annual general meeting was held on **6th of June 2019** as part of the deRSE19 conference
-in Potsdam. 23 voting members reestablished unanimously the existing board for one year.
+vorstand@de-rse.org
 
 ## Board
-
-The following persons form the board of the association since it's founding in 2018:
 
 * Frank Löffler (Friedrich Schiller University Jena, Chair)
 * Daniel Nüst (University Münster, Vice Chair) 
@@ -29,10 +21,21 @@ The following persons form the board of the association since it's founding in 2
 * Bernadette Fritzsch (Alfred Wegener Institute Bremerhaven, Secretary)
 * Stephan Druskat (Humboldt University Berlin and Friedrich Schiller University Jena, Vice Secretary)
 
-## Registration of the association
+## Founding of the association and its statutes
 
-The association was registered in Berlin on 2019-02-19.
+Parties interested in the RSE topic met on **26th of November 2018** in **Berlin** to witness
+the founding of the association. The association was registered in Berlin on 2019-02-19.
 
-## Members
+[Download of the statutes](https://github.com/DE-RSE/satzung/raw/master/de-RSE-e.V._Satzung_2019-01-07.pdf) (in German)
 
-The form to become a member of the association can be downloaded <a href="{{ '/assets/pdf/association/de-RSE_Beitrittserklärung.pdf' | prepend: site.baseurl }}">here</a> (only in German for now, will be added in English too later). Please enter your data, print and sign it and send it to the address on the form.
+## Non-profit-status
+
+The non-profit-status of the association is being applied for at the moment.
+
+## Membership
+
+The form to become a member of the association can be downloaded <a href="{{ '/assets/pdf/association/de-RSE_Beitrittserklärung.pdf' | prepend: site.baseurl }}">here</a> (only in German for now, will be added in English too later). Please enter your data, print and sign it and send it by regular mail to the address on the form.
+
+## Protocols
+
+Protocols of board and other meetings are available online, as much as possible complete, within the[protokol repository](https://github.com/DE-RSE/protokolle).

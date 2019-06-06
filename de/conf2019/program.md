@@ -13,12 +13,15 @@ Die Konferenz beginnt am **Dienstag, 4. Juni, 13 Uhr** und endet am **Donnerstag
 
 <a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Programm öffnen! (hier klicken)</a>
 
-Das aktuelle Programm immer bereit haben mit einer der folgenden Mobile Apps:
+<b>Programm Download (PDF und Druck)</b>
+<br/>
+<a href="{{ '/assets/pdf/conf2019/Programm.pdf' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/Programm.png' | prepend: site.baseurl }}" style="width: 200px; margin: 20px;"/></a> <a href="{{ '/assets/pdf/conf2019/Programm-Print-A3-Duplex.pdf' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/Programm-Print-A3-Duplex.png' | prepend: site.baseurl }}" style="width: 200px; margin: 20px;"/></a>
 
+<b>Programm Apps</b>
+<br/>
 <table>
 <tr>
 <td valign="top">
-<b>Programm-Apps</b>
 <ul>
 <li><a href="https://play.google.com/store/apps/details?id=net.gaast.giggity">Giggity</a> (Android)</li>
 <li><a href="https://play.google.com/store/apps/details?id=org.splitbrain.giraffe">Giraffe</a> (Android)</li>
@@ -62,9 +65,9 @@ Testing Research Software | EN
 Towards Open Research Software | DE
 User Interfaces | DE
 
-## Get together
+## Rahmenprogramm
 
-Nicht nur das offizielle deRSE19 Tagesprogramm, sondern auch die Abendveranstaltungen ermöglichen einen intensiven Austausch mit allen Teilnehmern. Hier könnt Ihr networken, Erfahrungen und Wissen teilen und Pläne mit anderen schmieden.
+Nicht nur das offizielle deRSE19 Tagesprogramm, sondern auch die Rahmenveranstaltungen ermöglichen einen intensiven Austausch mit allen Teilnehmern. Hier könnt Ihr networken, Erfahrungen und Wissen teilen und Pläne mit anderen schmieden. Details finden sich [hier](social.html).
 
 ## Ordentliche Mitgliederversammlung des *de-RSE e.V - Gesellschaft für Forschungssoftware*.
 
