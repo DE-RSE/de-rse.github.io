@@ -39,4 +39,3 @@ Hier kannst Du das <a href="{{ '/assets/pdf/association/de-RSE_Beitrittserkläru
 ## Protokolle
 
 Protokolle von Vorstandssitzungen und Versammlungen sind, sofern möglich in vollem Umfang, online verfügbar im [Protokolle Repository](https://github.com/DE-RSE/protokolle).
->>>>>>> e20dcc5eb3d57380a31fc85e41e5068b8a3f4411
