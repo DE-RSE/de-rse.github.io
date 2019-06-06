@@ -8,14 +8,11 @@ weight: 6
 
 # Verein
 
-## Vereinsgründung
+## Kontakt
 
-Am **26.11.2018** trafen sich Interessierte in **Berlin**, um bei der
-Vereinsgründung dabei zu sein.
+vorstand@de-rse.org
 
 ## Vorstand
-
-Folgende Personen wurden auf der Gründungsversammlung gewählt:
 
 * Frank Löffler (Friedrich-Schiller-Universität Jena, Vorstandsvorsitzender)
 * Daniel Nüst (Universität Münster, stellvertretender Vorstandsvorsitzender) 
@@ -24,18 +21,23 @@ Folgende Personen wurden auf der Gründungsversammlung gewählt:
 * Bernadette Fritzsch (Alfred-Wegener-Institut Bremerhaven, Schriftführerin)
 * Stephan Druskat (Humboldt-Universität zu Berlin und Friedrich-Schiller-Universität Jena, stellvertretender Schriftführer)
 
-## Vereinseintragung
+## Vereinsgründung & Satzung
 
+Am **26.11.2018** trafen sich 20 RSEs in **Berlin** um den Verein de-RSE e.V. zu gründen.
 Der Verein wurde am 19.2.2019 im Vereinsregister in Berlin eingetragen.
+
+[Download der Satzung](https://github.com/DE-RSE/satzung/raw/master/de-RSE-e.V._Satzung_2019-01-07.pdf)
 
 ## Gemeinnützigkeit 
 
-Die Gemeinnützigkeit des Vereins wird so schnell wie möglich beantragt.
+Die Gemeinnützigkeit des Vereins wird derzeit beantragt.
 
-## Mitglieder
+## Mitgliedschaft
 
 Hier kannst Du das <a href="{{ '/assets/pdf/association/de-RSE_Beitrittserklärung.pdf' | prepend: site.baseurl }}">Beitrittsformular</a> herunterladen. Bitte drucke und fülle es aus, unterschreibe und schicke es an die auf dem Formular angegebene Adresse.
 
-## Mitgliederversammlung
+Bitte die ausgefüllte Erklärung per Post an die in der Erklärung aufgeführte Anschrift senden.
 
-Die erste MV wird am Rande der deRSE19 Konferenz geplant.
+## Protokolle
+
+Protokolle von Vorstandssitzungen und Versammlungen sind, sofern möglich in vollem Umfang, online verfügbar im [Protokolle Repository](https://github.com/DE-RSE/protokolle).
