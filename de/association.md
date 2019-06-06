@@ -38,21 +38,6 @@ Hier kannst Du das <a href="{{ '/assets/pdf/association/de-RSE_Beitrittserkläru
 
 Bitte die ausgefüllte Erklärung per Post an die in der Erklärung aufgeführte Anschrift senden.
 
-## Mitgliederversammlung
+## Protokolle
 
-Die erste Jahreshauptversammlung wird im Rahmen der deRSE19 Konferenz am 6. Juni 2019 um 15:15 Uhr im Konferenzsaal A56 im Wissenschaftspark Albert Einstein in Potsdam stattfinden.
-
-**Tagesordnung**
-
-1. Eröffnung der Mitgliederversammlung
-2. Wahl der Schriftführung
-3. Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
-4. Bekanntgabe und Genehmigung der Tagesordnung
-5. Berichte 2018
-6. Entlastung des Vorstands für 2018
-7. Vorläufige Berichte 2019
-8. Neuwahl des Vorstands
-9. Neuwahl der Kassenprüfer
-10. Satzungsgemäß gestellte Anträge
-11. Sonstiges
-12. Schließung des Mitgliederversammlung
+Protokolle von Vorstandssitzungen und Versammlungen sind, sofern möglich in vollem Umfang, online verfügbar im [Protokolle Repository](https://github.com/DE-RSE/protokolle).
