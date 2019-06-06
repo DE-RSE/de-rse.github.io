@@ -16,6 +16,8 @@ weight: 1
 
 **Wo:** Wissenschaftspark Albert Einstein in Potsdam
 
+**(Wo noch?)** Livestreams aus 2 Hörsälen: [Haus H](https://vimeo.com/event/8288), [A56](https://vimeo.com/event/8287), Passwort: `deRSE19`
+
 **Call for Contributions:** War geöffnet bis 28. Februar 2019, 23:59:59 CET.
 
 **Programm:** Das aktuelle [Programm](https://derse19.uni-jena.de/derse19/schedule/)
@@ -88,7 +90,8 @@ Wenn Fragen zur Konferenz aufkommen, wende Dich bitte an das Organisatonsteam de
 			<h3 style="background-color: #F5F5F5; padding: 5px;">Reiseunterstützung</h3>
 			<p><img src="{{ '/assets/img/conf/sponsors/r-consortium.png' | prepend: site.baseurl }}" alt="R Consortium logo" style="height: 100px;"/></p>
 			<p><a href="http://r-consortium.org">R Consortium</a></p>
-		</td>
+			<p><img src="{{ '/assets/img/conf/sponsors/pythonverband.png' | prepend: site.baseurl }}" alt="Python Software Verband e.V." style="height: 80px;"/></p>
+			<p><a href="https://python-verband.org/">Python Software Verband e.V.</a></p></td>
 
 	</tr>
 </table>

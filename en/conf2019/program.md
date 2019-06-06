@@ -13,12 +13,15 @@ The conference will begin on **Tuesday, June 4th, 1pm** and end on **Thursday, J
 
 <a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Explore the **full programme**! (click here)</a>
 
-Always have the up-to-date programme handy with one of the following mobile apps.
+<b>Program Download (PDF and Print)</b>
+<br/>
+<a href="{{ '/assets/pdf/conf2019/Programm.pdf' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/Programm.png' | prepend: site.baseurl }}" style="width: 200px; margin: 20px;"/></a> <a href="{{ '/assets/pdf/conf2019/Programm-Print-A3-Duplex.pdf' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/Programm-Print-A3-Duplex.png' | prepend: site.baseurl }}" style="width: 200px; margin: 20px;"/></a>
 
+<b>Programm Apps</b>
+<br/>
 <table>
 <tr>
 <td valign="top">
-<b>Programme apps</b>
 <ul>
 <li><a href="https://play.google.com/store/apps/details?id=net.gaast.giggity">Giggity</a> (Android)</li>
 <li><a href="https://play.google.com/store/apps/details?id=org.splitbrain.giraffe">Giraffe</a> (Android)</li>
@@ -61,9 +64,9 @@ Testing Research Software | EN
 Towards Open Research Software | DE
 User Interfaces | DE
 
-## Get together
+## Social program
 
-In addition to the official deRSE19 day programme, the evening events allow an intensive exchange with all participants. You can network, share experiences and knowledge, and make plans with others.
+In addition to the official deRSE19 day programme, the social events allow an intensive exchange with all participants. You can network, share experiences and knowledge, and make plans with others. You can find all details [here](social.html)
 
 ## Annual General Meeting de-RSE e.V.
 

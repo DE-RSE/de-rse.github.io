@@ -34,7 +34,7 @@ Die Gemeinnützigkeit des Vereins wird derzeit beantragt.
 
 ## Mitgliedschaft
 
-[Download der Beitrittserklärung](/assets/pdf/association/de-RSE_Beitrittserklärung.pdf)
+Hier kannst Du das <a href="{{ '/assets/pdf/association/de-RSE_Beitrittserklärung.pdf' | prepend: site.baseurl }}">Beitrittsformular</a> herunterladen. Bitte drucke und fülle es aus, unterschreibe und schicke es an die auf dem Formular angegebene Adresse.
 
 Bitte die ausgefüllte Erklärung per Post an die in der Erklärung aufgeführte Anschrift senden.
 
