@@ -81,8 +81,12 @@
                 {% assign en-url = "/en/" %}
                 {% assign de-url = "/de/" %}
                 {% endif %}
-                <li><a href='{{ de-url | prepend: site.baseurl }}'>Deutsch</a></li>
-                <li><a href='{{ en-url | prepend: site.baseurl }}'>English</a></li>
+
+                {% if lang contains "/en/" %}
+                  <li><a href='{{ de-url | prepend: site.baseurl }}'>German/Deutsch</a></li>
+                {% else %}
+                  <li><a href='{{ en-url | prepend: site.baseurl }}'>Englisch/English</a></li>
+                {% endif %}
             </ul>
         </div>
         <!--/.nav-collapse -->

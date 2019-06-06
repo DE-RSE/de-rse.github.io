@@ -79,8 +79,11 @@
           </ul>
           <ul class='nav navbar-nav pull-right'>
             <!-- Language menu items take the user back to the blog main page -->
-            <li><a href='{{ "/de/blog.html" | prepend: site.baseurl }}'>Deutsch</a></li>
-            <li><a href='{{ "/en/blog.html" | prepend: site.baseurl }}'>English</a></li>
+            {% if lang contains "/en/" %}
+              <li><a href='{{ "/de/blog.html" | prepend: site.baseurl }}'>German/Deutsch</a></li>
+            {% else %}
+              <li><a href='{{ "/en/blog.html" | prepend: site.baseurl }}'>Englisch/English</a></li>
+            {% endif %}
           </ul>
         </div><!--/.nav-collapse -->
       </div>
