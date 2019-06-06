@@ -11,11 +11,18 @@ weight: 6
 ## Vereinsgründung
 
 Am **26.11.2018** trafen sich Interessierte in **Berlin**, um bei der
-Vereinsgründung dabei zu sein.
+Vereinsgründung dabei zu sein. Insgesamt 20 Gründungsmitglieder wurden hierbei
+in den Verein aufgenommen.
+
+## Jahreshauptversammlung 2019
+
+Am **6.6.2019** fand die erste Jahreshauptversammlung im Rahmen der deRSE19-Konferenz
+in Potsdam statt. 23 stimmberechtigte Mitglieder waren anwesend. Dabei wurde der
+Gründungsvorstand einstimming für ein Jahr wiedergewählt.
 
 ## Vorstand
 
-Folgende Personen wurden auf der Gründungsversammlung gewählt:
+Folgende Personen wurden auf der Gründungsversammlung gewählt und auf der 1. Jahreshauptversammlung bestätigt:
 
 * Frank Löffler (Friedrich-Schiller-Universität Jena, Vorstandsvorsitzender)
 * Daniel Nüst (Universität Münster, stellvertretender Vorstandsvorsitzender) 
@@ -34,8 +41,5 @@ Die Gemeinnützigkeit des Vereins wird so schnell wie möglich beantragt.
 
 ## Mitglieder
 
-Hier kannst Du das <a href="{{ '/assets/pdf/association/de-RSE_Beitrittserklärung.pdf' | prepend: site.baseurl }}">Beitrittsformular</a> herunterladen. Bitte drucke und fülle es aus, unterschreibe und schicke es an die auf dem Formular angegebene Adresse.
+Hier kannst Du das <a href="{{ '/assets/pdf/association/de-RSE_Beitrittserklärung.pdf' | prepend: site.baseurl }}">Beitrittsformular</a> herunterladen. Bitte fülle es aus und drucke es, unterschreibe und schicke es an die auf dem Formular angegebene Adresse.
 
-## Mitgliederversammlung
-
-Die erste MV wird am Rande der deRSE19 Konferenz geplant.
