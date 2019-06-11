@@ -5,4 +5,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Fix auto regeneration on Windows
 gem 'wdm', '~> 0.1.1' if Gem.win_platform?
 
-gem 'jekyll-feed'
+gem 'github-pages', group: :jekyll_plugins
