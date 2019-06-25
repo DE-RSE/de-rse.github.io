@@ -7,4 +7,6 @@ gem 'wdm', '~> 0.1.1' if Gem.win_platform?
 
 gem 'rake'
 
-gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll'
+gem 'kramdown'
+gem 'jekyll-feed', group: :jekyll_plugins
