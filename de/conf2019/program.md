@@ -4,77 +4,87 @@ title: Programm
 weight: 100
 ---
 
+deRSE19 lief von 4.-6.6.2019. Unten ist eine statische Version des Programms, mit Links zu Videos und Folien, so es welche gibt.
 
-# Drei Tage volles Programm
+Das Live-Programm ist [hier](../../en/conf2019/https://derse19.uni-jena.de/derse19/schedule).
 
-4 Keynotes, 17 Tracks mit über 50 Talks und mehr als 10 Workshops, Birds of Feather und Splinter Meetings, 1 Poster Session mit mehr als 30 Postern, 1 Paneldiskussion, 2 Abendveranstaltungen, die jährliche Mitgliederversammlung vom de-RSE e.V. sowie über 80 Beitragende, knapp 20 Volunteers und ein 20-köpfiges Organisationskommittee machen die erste Konferenz für Forschungssoftware in Deutschland - die #deRSE19 - zu einem echten Mitmach-Event.
-
-Die Konferenz beginnt am **Dienstag, 4. Juni, 13 Uhr** und endet am **Donnerstag, 6. Juni 2019 gegen 15 Uhr**. Am Dienstag ist die Registrierung bereits ab 11.45 Uhr geöffnet und ab 12 Uhr gibt es einen Mittagsimbiss.
-
-<a href="https://derse19.uni-jena.de/derse19/schedule/" class="btn btn-info glyphicon-pencil" target="_blank">Programm öffnen! (hier klicken)</a>
-
-<b>Programm Download (PDF und Druck)</b>
-<br/>
-<a href="{{ '/assets/pdf/conf2019/Programm.pdf' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/Programm.png' | prepend: site.baseurl }}" style="width: 200px; margin: 20px;"/></a> <a href="{{ '/assets/pdf/conf2019/Programm-Print-A3-Duplex.pdf' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/Programm-Print-A3-Duplex.png' | prepend: site.baseurl }}" style="width: 200px; margin: 20px;"/></a>
-
-<b>Programm Apps</b>
-<br/>
-<table>
-<tr>
-<td valign="top">
-<ul>
-<li><a href="https://play.google.com/store/apps/details?id=net.gaast.giggity">Giggity</a> (Android)</li>
-<li><a href="https://play.google.com/store/apps/details?id=org.splitbrain.giraffe">Giraffe</a> (Android)</li>
-</ul>
-</td>
-<td valign="top">
-<a href="{{ '/assets/img/conf/qrcode_program.png' | prepend: site.baseurl }}"><img src="{{ '/assets/img/conf/qrcode_program.png' | prepend: site.baseurl }}" style="width: 100px;"/></a><br/>Zum vergrößern anklicken
-</td>
-</tr>
-</table>
+---
 
 
-## Vier Keynotes und eine Podiumsdiskussion
 
-Wir freuen uns auf Keynotes von Alys Brett, Andreas Zeller, Sven Wildermann & Bradley Tipp und Brendan Bouffler.
+# 4 June 2019
 
-Tag | Keynote
--- | --
-04.06. | [Alys Brett](https://derse19.uni-jena.de/derse19/speaker/FJWC3N/) ([UK Research Software Engineers Association](https://rse.ac.uk/), [UK Atomic Energy Authority](https://www.gov.uk/government/organisations/uk-atomic-energy-authority)): [*RSEs together - building networks, groups, organisations and careers*](https://derse19.uni-jena.de/derse19/talk/ZD3B3K/)
- | [Sven Wildermann](https://derse19.uni-jena.de/derse19/speaker/PLTTQ3/) & [Bradley Tipp](https://derse19.uni-jena.de/derse19/speaker/RKFTQ8/) ([Microsoft](https://azure.microsoft.com/de-de/)): [*Building a Future with AI*](https://derse19.uni-jena.de/derse19/talk/PCQSRY/)
-05.06. | [Andreas Zeller](https://www.st.cs.uni-saarland.de/zeller/) ([CISPA](https://www.cispa.saarland/), [Universität des Saarlandes](https://www.st.cs.uni-saarland.de/)): [*Sustainable Research Software – as Code, as Paper, as Book*](https://derse19.uni-jena.de/derse19/talk/ZCYXEM/)
- | [Brendan Bouffler](https://derse19.uni-jena.de/derse19/speaker/7PGVRZ/) ([Amazon Web Services](https://aws.amazon.com/)): [*Delivering on the promise of Research Computing*](https://derse19.uni-jena.de/derse19/talk/CQ7KEC/)
+|                                        Opening session                                        |
+|-----------------------------------------------------------------------------------------------|
+| [Welcome to deRSE19](../../en/conf2019/talk/BUKLJF/)                                                            |
+| [deRSE19 & de-RSE e.V. - Society for Research Software](../../en/conf2019/talk/M9JJH7/)                         |
+| [Welcome from the Gesellschaft für Informatik (GI)](../../en/conf2019/talk/3ZBVAN/)                             |
+| [Welcome from AWI](../../en/conf2019/talk/DXV7GX/)                                                              |
+| [Welcome from PIK](../../en/conf2019/talk/GVZRZB/)                                                              |
+| [Welcome from GFZ](../../en/conf2019/talk/EZZGWC/)                                                              |
+| [Keynote: RSEs together - building networks, groups, organisations and careers](../../en/conf2019/talk/ZD3B3K/) |
+| [Keynote: Building a Future with AI](../../en/conf2019/talk/PCQSRY/)                                            |
 
-## Tracks und Sprachen
+|                                                                     Testing Research Software                                                                     |                         Sustainable long-living Software I                        |                                       Community Building                                      |                               Workshops                               |                                                Workshops                                                 |                                        Workshops                                        |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| [Challenges for Verifying and Validating Scientific Software in Computational Materials Science](../../en/conf2019/talk/VYX8TW/)                                                    | [Lebensverlängernde Maßnahmen für Fortran-Codes](../../en/conf2019/talk/VPPA77/)                    | [Building research software communities](../../en/conf2019/talk/KWUFQW/)                                        | [Jupyter: Interactive visualizations in Python and C++](../../en/conf2019/talk/FSP7QH/) | [Developing for the Cloud - Azure Notebook, DevOps, Cognitive Services, VM and DataBricks](../../en/conf2019/talk/WWMELC/) | [Libraries (the brick and mortar type) for Research Software & Engineers](../../en/conf2019/talk/9XGBBH/) |
+| [The Quest For Better Tests In Scientific Computing](../../en/conf2019/talk/MNQFUV/)                                                                                                | [Entwicklung der Forschungssoftware RCE im DLR](../../en/conf2019/talk/GXSUFU/)                     | [Building scientific communities - Lessons learned with AIRR](../../en/conf2019/talk/D7DCP8/)                   |                                                                       |                                                                                                          |                                                                                         |
+| [Decentralized software development facilitating CI/CD to produce high quality, open-source code in a European metrological joint research project](../../en/conf2019/talk/TZFTBE/) | [Softwareentwicklung zwischen Forschungscode und Industriereleases](../../en/conf2019/talk/UFWKT3/) | [Building a healthy and vibrant volunteer driven community: The Bio-IT project](../../en/conf2019/talk/MMLFWX/) |                                                                       |                                                                                                          |                                                                                         |
+|                                                                                                                                                                   |                                                                                   | [Help me help you](../../en/conf2019/talk/RYQN3Y/)                                                              |                                                                       |                                                                                                          |                                                                                         |
 
-In 17 Tracks bieten wir Talks in englischer und deutscher Sprache und ermöglichen somit allen Teilnehmern ein durchgängiges Angebot in einer oder beiden Sprachen.
+|                                 Software Quality Management                                  |                                                  Sustainable long-living Software II                                                  |                                                             Institutional RSE Communities I                                                              |                                        Workshops                                        |                            Workshops                             |                                        Workshops                                         |
+|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| [The art of giving and receiving code reviews](../../en/conf2019/talk/TF8EKE/)                                 | [Die Hard 1.1024.0: backward compatibility of a search engine with persistant IDs](../../en/conf2019/talk/78JDY7/)                                      | ["HIFIS Software Services“, das Competence Cluster für eine nachhaltige Softwareentwicklung in der Helmholtz-Gemeinschaft](../../en/conf2019/talk/SVW9DD/)                 | [Agiles Software Engineering für lokale Teams mit Scrum, eine Einführung](../../en/conf2019/talk/8LC97B/) | [Frauen in der Entwicklung von Forschungssoftware](../../en/conf2019/talk/XAMSLD/) | [Restructuring Scientific Software using Semantic Patching with Coccinelle](../../en/conf2019/talk/URQ7X3/) |
+| [Develop, License, Test, Curate - Mathematical Optimization In The Real World](../../en/conf2019/talk/MDKJ9D/) | [Challenges and Opportunities of Open-Source Software: the case of SU2](../../en/conf2019/talk/FAKFHV/)                                                 | [Rahmenbedingungen für einen nachhaltigen Umgang mit Forschungssoftware am Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum GFZ](../../en/conf2019/talk/K9JEM7/) |                                                                                         |                                                                  |                                                                                          |
+| [GitLab pipelines for every need: testing, documentation, and writing a paper](../../en/conf2019/talk/KVREQV/) | [New Approaches towards User Research and Software Architecture in Research Software Engineering: A Humanities Example](../../en/conf2019/talk/YKUSYM/) | [Eine virtuelle Werkstatt für die Digitalisierung in den Wissenschaften](../../en/conf2019/talk/FMHV8M/)                                                                   |                                                                                         |                                                                  |                                                                                          |
 
-Track | Sprache
--- | --
-Communication and Outreach | EN
-Community Building | EN
-Experience with Simulation Software | EN
-Institutional RSE Communities I & II | DE 
-Reproducibility I & II | DE 
-Research Data Management | EN
-Research Software Frameworks | EN
-Software Engineering Productivity | EN
-Software Quality Management | EN
-Sustainable long-living Software I, II & III | DE & EN
-Testing Research Software | EN
-Towards Open Research Software | DE
-User Interfaces | DE
+# 5 June 2019
 
-## Rahmenprogramm
+|                                   Opening session                                   |
+|-------------------------------------------------------------------------------------|
+| [Keynote: Sustainable Research Software – as Code, as Paper, as Book](../../en/conf2019/talk/ZCYXEM/) |
+| [Keynote: Delivering on the promise of Research Computing](../../en/conf2019/talk/CQ7KEC/)            |
 
-Nicht nur das offizielle deRSE19 Tagesprogramm, sondern auch die Rahmenveranstaltungen ermöglichen einen intensiven Austausch mit allen Teilnehmern. Hier könnt Ihr networken, Erfahrungen und Wissen teilen und Pläne mit anderen schmieden. Details finden sich [hier](social.html).
+|                              Software Engineering Productivity                              |                                                                 Reproducibility I                                                                  |                                        Research Data Management                                        |                                                             Workshops                                                              |              BoFs             |
+|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+| [Optimizing Developer Productivity in Endangered Language Documentation Apps](../../en/conf2019/talk/NFAVXV/) | [Curious Containers: Framework zur Reproduzierbarkeit von digitalen Experimenten](../../en/conf2019/talk/7LLTCN/)                                                    | [Evaluation of the semantic research data management system CaosDB in glaciology](../../en/conf2019/talk/RXPHHP/)        | [Herausforderungen für die nachhaltige Entwicklung, Bereitstellung und Pflege von Forschungssoftware in Deutschland](../../en/conf2019/talk/PVEXDH/) | [FAIR Software](../../en/conf2019/talk/S8T8HW/) |
+| [ediarum - from bottom-up to generic programming](../../en/conf2019/talk/NKP9AH/)                             | [Portable Container zum Entwickeln, Erstellen, Verteilen und Ausführen von komplexer wissenschaftlicher Software](../../en/conf2019/talk/EKPHXX/)                    | [How to save a scientist’s career with data classes](../../en/conf2019/talk/3UTPZN/)                                     |                                                                                                                                    |                               |
+| [Debian Astro - A "Debian Pure Blend" for Astronomy and Astrophysics](../../en/conf2019/talk/JSCVWP/)         | [Integrierte Entwicklungs- und Publikationsumgebung für Forschungssoftware und Daten am Helmholtz-Zentrum Dresden-Rossendorf (HZDR)](../../en/conf2019/talk/WQXWWR/) | [Linking biological data using data science and cross-disciplinary software development](../../en/conf2019/talk/KAHXYP/) |                                                                                                                                    |                               |
+|                                                                                             |                                                                                                                                                    | [Against Schematisation – Mapping the Choreographic Vector Space](../../en/conf2019/talk/ALTSUB/)                        |                                                                                                                                    |                               |
 
-## Ordentliche Mitgliederversammlung des *de-RSE e.V - Gesellschaft für Forschungssoftware*.
+|                                Research Software Frameworks                                |                                                         Reproducibility II                                                        |                     Institutional RSE Communities II                    |                                                                 Workshops                                                                  |                                                       BoFs                                                       |
+|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| [Automated Deadline-Based Scaling of Experiments in the Cloud with MiCADO](../../en/conf2019/talk/3N7FJP/)   | [Data mining made easy, reproducible and open-source](../../en/conf2019/talk/7RWN7Y/)                                                               | [Kollaborationsmodelle für Softwareentwicklung an der HU](../../en/conf2019/talk/HDSNMP/) | [Herausforderungen für die nachhaltige Entwicklung, Bereitstellung und Pflege von Forschungssoftware in Deutschland (cont.)](../../en/conf2019/talk/PVEXDH/) | [GitLab selbst betreiben: Wie sind die Erfahrungen? Wie ermöglichen wir Kooperation mit Externen?](../../en/conf2019/talk/WUCYDR/) |
+| [Parallel-in-Time integration with PFASST: from prototyping to applications](../../en/conf2019/talk/AAVTZY/) | [Reproducibility of Particle-In-Cell Simulations in Plasma Physics](../../en/conf2019/talk/JPAVB9/)                                                 | [Empfehlungen für bessere Forschungssoftware](../../en/conf2019/talk/KASRSJ/)             |                                                                                                                                            |                                                                                                                  |
+| [Software for autonomous astronomical observatories](../../en/conf2019/talk/ETRNMR/)                         | [Common Workflow Language (CWL)-based software pipeline for de novo genome assembly from long- and short-read data](../../en/conf2019/talk/WB9Z9C/) | [Zwischen Digital und Humanities](../../en/conf2019/talk/YUY3FT/)                         |                                                                                                                                            |                                                                                                                  |
+| [xtensor: A n-dimensional container for C++](../../en/conf2019/talk/RHRXEM/)                                 |                                                                                                                                   |                                                                         |                                                                                                                                            |                                                                                                                  |
+| [Generation of a wrapper library for MPI - MeDiPack](../../en/conf2019/talk/CBYUMJ/)                         |                                                                                                                                   |                                                                         |                                                                                                                                            |                                                                                                                  |
 
-Am dritten Tag klingt die Konferenz mit der ordentlichen Mitgliederversammlung aus, die nach der Gründungsversammlung im November 2018 zukünftig stets im Rahmen der Konferenz abgehalten werden soll. Details zur Agenda gibt es im Mai. Bleibt informiert und meldet Euch auf dem [de-RSE Mailverteiler](../join.html) an.
+|                                Experience with Simulation Software                                 |                   Towards Open Research Software                   |                                                         Splinter meetings                                                          |                                                                   Splinter meetings                                                                   |
+|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Insight Earth System Models](../../en/conf2019/talk/WDLWEB/)                                                        | [Von Closed zu Open Source](../../en/conf2019/talk/UJRJKT/)                          | [RSE4NFDI – Nachhaltigkeit von Forschungssoftware in der nationalen Forschungsdateninfrastruktur (NFDI) Deutschland](../../en/conf2019/talk/GGVMDV/) | [Anforderungen, Wünsche und Erfahrungen für den Aufbau des HIFIS Competence Clusters „Software Services“ in der Helmholtz-Gemeinschaft](../../en/conf2019/talk/LQDSZW/) |
+| [PALM – a story of developing and maintaining a scientific model system](../../en/conf2019/talk/PX89AP/)             | [Forschungssoftware als digitale Ressource erhalten](../../en/conf2019/talk/9REBTF/) |                                                                                                                                    |                                                                                                                                                       |
+| [How to build a modern particle based CFD framework for both - Industry and Science](../../en/conf2019/talk/PGKUVS/) | [Neukonzeption des DLR Software-Katalogs](../../en/conf2019/talk/7RPXZR/)            |                                                                                                                                    |                                                                                                                                                       |
+| [ESM-TOOLS: A Software Tool for Earth System Modelling Scientists](../../en/conf2019/talk/9GHU9G/)                   |                                                                    |                                                                                                                                    |                                                                                                                                                       |
 
-## Sonstiges
+|              Poster session              |
+|------------------------------------------|
+| [Poster Lightning Talks](../../en/conf2019/talk/H9RMNX/)   |
+| [Poster Session & Geo BoF](../../en/conf2019/talk/7E8MEA/) |
 
-Neuigkeiten zum Programm gibt es über die Mailingliste [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) und auf Twitter [@RSE_de](https://twitter.com/RSE_de).
+# 6 June 2019
 
-Der [Call for Contributions](call.html) war bis zum 3. März 2019 geöffnet.
+|                                                        User Interfaces                                                         |                               Communication and Outreach                              |                                    Workshops                                    |                                 BoFs                                 |
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| [GUI-Architektur für interaktive Datenanalyse](../../en/conf2019/talk/BEJ88P/)                                                                   | [The Research Software Engineering Landscape in Germany](../../en/conf2019/talk/9WDH39/)                | [Entwicklung von Policies und Richtlinien für Forschungssoftware](../../en/conf2019/talk/KZX8VD/) | [Organisation von lokalen und regionalen RSE Chapters](../../en/conf2019/talk/CH7TTH/) |
+| [NICOS - ein Steuerungsframework für Großforschungsgeräte](../../en/conf2019/talk/8LTN8W/)                                                       | [RSE 2.0](../../en/conf2019/talk/NJSQBN/)                                                               |                                                                                 |                                                                      |
+| [Umsetzung effizienter plattformunabhängiger App-Entwicklung in einer bestehenden Forschungssoftware-Landschaft](../../en/conf2019/talk/DFE7YK/) | [Research Software Network for the Digital Humanities](../../en/conf2019/talk/PHNATV/)                  |                                                                                 |                                                                      |
+|                                                                                                                                | [Development of research software at DLR - role and status in practice](../../en/conf2019/talk/MQCZ3N/) |                                                                                 |                                                                      |
+
+|                                               Panels                                               |                                        Workshops                                        |                                                  BoFs                                                  |                          Workshops                          |
+|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| [Paneldiskussion "Nachhaltigkeit von Forschungssoftware in Deutschland" (in German)](../../en/conf2019/talk/DS97LW/) | [Entwicklung von Policies und Richtlinien für Forschungssoftware (cont.)](../../en/conf2019/talk/KZX8VD/) | [Organisations- und Projektmanagementmetoden in Forschungssoftwareentwicklungsprojekten](../../en/conf2019/talk/3NMQJM/) | [Cost Effective Research Leveraging AWS Spot](../../en/conf2019/talk/J7RUXT/) |
+
+|         Closing Session         |
+|---------------------------------|
+| [Closing Session](../../en/conf2019/talk/WGEJMA/) |
