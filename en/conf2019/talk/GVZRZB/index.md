@@ -7,4 +7,4 @@ title: 'Welcome from PIK'
 
 ## [Dr. Elmar Kriegler](../../speaker/GZX8PQ/)
 
-tba
+🎥 **This talk was recorded on video and is available at <https://doi.org/10.5446/42526>.**
