@@ -412,5 +412,18 @@ var rseFeatures = [
         "geometry": {
             "type": "Point", "coordinates": [8.727556, 50.573218]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Lars Bilke",
+            "popupContent": "<img src='https://avatars1.githubusercontent.com/u/149656?s=460&v=4'>" +
+		'<a href="mailto:lars.bilke@ufz.de">Lars Bilke</a><br>' +
+		'<a href="https://www.ufz.de/index.php?de=38480">Helmholtz-Zentrum für Umweltforschung GmbH - UFZ</a><br><br>'+
+		'<a href="https://www.opengeosys.org">OpenGeoSys</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [12.43251, 51.35349]
+        }
     }
 ];
