@@ -1,11 +1,11 @@
 ---
-tags: rse
+title: "deRSE19-WS-Policies-1"
+layout: post
+author:Jürgen Fuhrmann, Bernadette Fritzsch, Tobias Schlauch, Kaja Scheliga
+menulang: de
 ---
-de-RSE19 Workshop "Entwicklung von Policies und Richtlinien für Forschungssoftware"
-=========
-
 ## Wann & Wo ?
-Der [Workshop](https://derse19.uni-jena.de/derse19/talk/KZX8VD/) startete am Freitag, dem 6.6.2019 in der großen Kuppel des Gebäudes A31 (PIK).
+Der [Workshop](https://derse19.uni-jena.de/derse19/talk/KZX8VD/) "Entwicklung von Policies und Richtlinien für Forschungssoftware"startete am Freitag, dem 6.6.2019 in der großen Kuppel des Gebäudes A31 (PIK).
 
 ## Wer ?
 Die Organisatoren kamen von zwei Initiativen, die sich mit der Entwicklung von Policies und Richtlinien für Forschungssoftware befassen. 
@@ -47,9 +47,3 @@ Die ausgewählten Themen wurden nach der [World Cafe-Methode](https://de.wikiped
 (&copy; www.tanjafoehr.com)
 
 Die Ergebnisse der angeregten Diskussionen stellen wir in nachfolgenden Posts in diesem Blog vor.
-
-<!-- HackMD Links:
-Qualitätssicherug
-(https://hackmd.io/JjaFcWkfStKVl2W3U69hZA), **Lizenzierung**(https://hackmd.io/SOOXY5ORTjC3THT6DKsqQw), **Publikation & Zitation**(https://hackmd.io/SrdJPb_ETumu0RQ0coOAzQ) gewählt.
- -->
- 
