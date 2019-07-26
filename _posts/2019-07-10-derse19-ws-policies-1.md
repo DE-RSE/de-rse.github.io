@@ -37,7 +37,9 @@ Nach einer kurzen [Einführung](https://doi.org/10.5281/zenodo.3264893) stellten
 Nach Abstimmung unter den Teilnehmer\*innen wurden die drei Themen **Qualitätssicherung**, **Lizensierung** sowie **Publikation & Zitation** für die weitere Bearbeitung ausgewählt.
 
 ## Wie ?
-Die ausgewählten Themen wurden nach der [Methode World Cafe](https://de.wikipedia.org/wiki/World-Caf%C3%A9) in drei Arbeitsgruppen und je zwei Diskussionsrunden bearbeitet. Die Ergebnisse der angeregten Diskussionen stellen wir in nachfolgenden Posts in diesem Blog vor.
+Die ausgewählten Themen wurden nach der [Methode World Cafe](https://de.wikipedia.org/wiki/World-Caf%C3%A9) in drei Arbeitsgruppen und je zwei Diskussionsrunden bearbeitet. Die Ergebnisse der angeregten Diskussionen stellen wir in nachfolgenden Posts in diesem Blog vor:
+
+- [Teil 2: Publikation und Zitation von Forschungssoftware]({% post_url 2019-07-26-derse19-ws-policies-2 %})
 
 ![World Cafe](https://innovationskulturmanagen.files.wordpress.com/2016/02/fullsizerender.jpg?w=1024)
 (&copy; www.tanjafoehr.com)
