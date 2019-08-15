@@ -3,10 +3,10 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Marc-André Hermanns",
-            "popupContent": "<img src='../assets/img/map/mahermanns.jpg'><a href='http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/hermanns_m.html'>Marc-Andr&eacute; Hermanns</a>, J&uuml;lich Supercomputing Centre, Forschungszentrum J&uuml;lich, m.a.hermanns@fz-juelich.de<br><em>Research and development in performance analysis tools for high-performance computing (HPC)</em>"
+            "popupContent": "<img src='../assets/img/map/mahermanns.jpg'>Marc-Andr&eacute; Hermanns, <a href='https://www.itc.rwth-aachen.de/'>IT Center</a>, <a href='https://www.rwth-aachen.de/'>RWTH Aachen University</a>, hermanns@itc.rwth-aachen.de<br><em>Research and development in performance analysis tools for high-performance computing (HPC)</em>"
         },
         "geometry": {
-            "type": "Point", "coordinates": [6.40609, 50.90941]
+            "type": "Point", "coordinates": [6.0651290, 50.7809570]
         }
     },
     {
