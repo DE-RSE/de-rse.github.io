@@ -26,3 +26,4 @@ Some of the poster are available in PDF format. Unless otherwise noted on the po
 - [SeisSol - a community code for reproducible computational seismology (Duo Li, Alice-Agnes Gabriel, Michael Bader, Anton Frank)](28.pdf)
 - [Towards Sustainable Software Engineering and Citable Software Publications at GEOMAR (Claas Faber, Markus Scheinert, Barbara Schmidt)](34.pdf)
 - [BEXIS 2 - A Generic and Modular Data Management Platform (Sven Thiel, David Schöne)](37.pdf)
+- [Policy-Entwicklung für Forschungssoftware (Kaja Scheliga)] (38.pdf)
