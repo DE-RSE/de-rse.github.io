@@ -1,7 +1,7 @@
 ---
 title: "Map"
 layout: default
-weight: 4
+weight: 40
 ---
 
 # RSEs in Germany

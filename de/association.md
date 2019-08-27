@@ -1,7 +1,7 @@
 ---
 title: "Verein"
 layout: default
-weight: 6
+weight: 60
 ---
 <!-- Set variable "lang" to reflect page language -->
 {% assign pagelang = "de" %}

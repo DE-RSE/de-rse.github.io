@@ -1,7 +1,7 @@
 ---
 title: "Karte"
 layout: default
-weight: 4
+weight: 40
 ---
 
 # RSEs in Deutschland
