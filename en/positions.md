@@ -21,6 +21,8 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 
 The following positions are currently developed.
 
+- [Development process for positions of the Society](https://github.com/DE-RSE/www/pull/129)
+
 ## Development process
 
 The development process for positions of the Society has been developed by its members and can be changed by its members if the need arises. It has three phases, which are set up as follows.
