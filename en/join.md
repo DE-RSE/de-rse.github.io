@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Join
-weight: 2
+weight: 20
 ---        
 
 # Join us!
