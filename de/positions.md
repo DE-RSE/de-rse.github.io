@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Positionen
-weight: 2
+weight: 15
 ---        
 
 # Positionen
