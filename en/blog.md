@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 layout: default
-weight: 50
+weight: 5
 ---
 <!-- Set variable "lang" to reflect page language -->
 {% assign pagelang = "en" %}

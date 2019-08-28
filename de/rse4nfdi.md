@@ -1,7 +1,7 @@
 ---
 title: "RSE4NFDI"
 layout: redirect
-weight: 70
+weight: 7
 redirect_page_to: https://www.rse4nfdi.de/
 ---
 <!-- Set variable "lang" to reflect page language -->

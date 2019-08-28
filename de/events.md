@@ -1,7 +1,7 @@
 --- 
 layout: default 
 title: Termine
-weight: 30
+weight: 3
 ---
 
 # Termine

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mitmachen
-weight: 20
+weight: 2
 ---        
 
 # Mitmachen

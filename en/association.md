@@ -1,7 +1,7 @@
 ---
 title: "Association"
 layout: default
-weight: 60
+weight: 6
 ---
 <!-- Set variable "lang" to reflect page language -->
 {% assign pagelang = "en" %}

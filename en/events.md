@@ -1,7 +1,7 @@
 --- 
 layout: default 
 title: Events
-weight: 30
+weight: 3
 ---
 
 # Events
