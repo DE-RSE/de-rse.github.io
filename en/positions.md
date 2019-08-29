@@ -30,7 +30,7 @@ The development process for positions of the Society has been developed by its m
 ### 1. Call and work phase
 
 1. **Call for Collaboration:** Initiators of a position announce the topic on the Society's mailing list (list@de-rse.org, with subject `[Call for contributions]`), and invite all members to collaborate. The call names main authors of the position text, and explains the prerequisites for authorship.
-2. **Collaboration:** Collaboration starts on a - preferably public - platform of the initiators' choice (\*Pad, repository, hackmd.io, Overleaf, etc.). At the same time, the project is presented and linked to on the de-rse.org website under ["Positions" > "Work in progress"](https://de-rse.org/en/positions.html#work-in-progress).
+2. **Collaboration:** Collaboration starts on a - preferably public - platform of the initiators' choice (\*Pad, repository, hackmd.io, Overleaf, etc.). At the same time, the project is presented and linked to on the de-rse.org website under ["Positions" > "Work in progress"](https://www.de-rse.org/en/positions.html#work-in-progress).
 
 ### 2. Review phase
 

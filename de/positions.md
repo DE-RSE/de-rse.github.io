@@ -30,7 +30,7 @@ Der Entwicklungsprozess für die Positionen der Gesellschaft wurde durch die Mit
 ### 1. Aufruf- und Arbeitsphase
 
 1. **Call for Collaboration:** Initiatorinnen und Initiatoren einer Position kündigen das Thema auf der Mailingliste der Gesellschaft (liste@de-rse.org, mit Thema `[Call for Contribution]`) an und rufen die Mitglieder zur Mitarbeit auf. Dabei werden Hauptautorinnen und -autoren des Positionstextes benannt und die Bedingungen für Mitautorschaft erläutert.
-2. **Zusammenarbeit:** Zusammenarbeit beginnt auf einer bevorzugt öffentlichen Plattform nach Wahl der Initiatorinnen und Initiatoren (\*Pad, Repository, hackmd.io, Overleaf, o.ä.). Das Projekt wird gleichzeitig vorgestellt und verlinkt auf der de-rse.org Website unter ["Positionen" > "Work in progress"](https://de-rse.org/de/positions.html#work-in-progress).
+2. **Zusammenarbeit:** Zusammenarbeit beginnt auf einer bevorzugt öffentlichen Plattform nach Wahl der Initiatorinnen und Initiatoren (\*Pad, Repository, hackmd.io, Overleaf, o.ä.). Das Projekt wird gleichzeitig vorgestellt und verlinkt auf der de-rse.org Website unter ["Positionen" > "Work in progress"](https://www.de-rse.org/de/positions.html#work-in-progress).
 
 ### 2. Begutachtungsphase
 
