@@ -21,7 +21,10 @@ Vertreten Mitglieder von de-RSE e.V. berechtigterweise die Gesellschaft in der �
 
 Folgende Positionen sind derzeit in Arbeit.
 
-- [Entwicklungsprozess für Positionen von de-RSE e.V. - Gesellschaft für Forschungssoftware](https://github.com/DE-RSE/www/pull/129)
+[//]: # - [Entwicklungsprozess für Positionen von de-RSE e.V. - Gesellschaft für Forschungssoftware](https://github.com/DE-RSE/www/pull/129)
+
+(keine)
+
 
 ## Entwicklungsprozess
 

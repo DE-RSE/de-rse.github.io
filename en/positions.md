@@ -21,7 +21,10 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 
 The following positions are currently developed.
 
-- [Development process for positions of the Society](https://github.com/DE-RSE/www/pull/129)
+
+[//]: # - [Development process for positions of the Society](https://github.com/DE-RSE/www/pull/129)
+
+(none)
 
 ## Development process
 
