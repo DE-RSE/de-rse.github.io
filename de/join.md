@@ -35,17 +35,10 @@ Bitte beachtet, dass die Mailing Liste im Moment nur Mails mit einer Größe von
 und andere Anhänge hinweisen möchte, kann die URL Adresse angeben und falls nötig 
 vorher das Material an einem anderen Ort hochladen und so zur Verfügung stellen.
 
-## Slack![Slack logo](../assets/img/site/logo_slack.png){: height="60em"}
+## Chat
 
-Für Diskussionen bitte nicht die Mailing Liste nutzen, sondern Slack 
-<https://de-rse.slack.com/>. Den Zugang 
-bekommt Ihr von Stephan, Frank oder Martin (siehe unten) - einfach per Mail anschreiben.
-
-Slack-Benutzer dürfen andere einladen.
-
-Mitglieder folgender Domains können alternativ auch den [Sign-Up-Link](https://join.slack.com/t/de-rse/signup) benutzen. 
-
-{% include slack_domains.html %}
+Für Diskussionen bitte nicht die Mailing Liste nutzen, sondern den GWDG RocketChat Channel
+<https://chat.gwdg.de/channel/derse>.
 
 ## Monatlicher Call
 
