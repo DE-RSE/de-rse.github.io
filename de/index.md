@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research Software Engineers (RSEs) - verantwortlich für wissenschaftliche Software
+exclude: true
 ---        
 
 # Research Software Engineers (RSEs) - verantwortlich für wissenschaftliche Software

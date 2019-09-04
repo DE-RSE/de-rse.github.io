@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research Software Engineers (RSEs) - Impressum (legal notice)
+exclude: true
 ---
 
 # Impressum (legal notice)

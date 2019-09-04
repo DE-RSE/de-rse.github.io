@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research Software Engineers (RSEs) - The people behind research software
+exclude: true
 ---
 
 # Research Software Engineers (RSEs) - The people behind research software
