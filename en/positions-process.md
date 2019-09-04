@@ -6,7 +6,8 @@ exclude: true
 
 ## Development process
 
-The development process for [positions of the Society](./positions.html) has been developed by its members and can be changed by its members if the need arises. It has three phases, which are set up as follows.
+The development process for [positions of the Society](./positions.html) has been developed by its members. It has three phases, which are set up as follows.
+The process can be changed by its members, following the same procedure as the development of positions.
 
 ### 1. Call and work phase
 

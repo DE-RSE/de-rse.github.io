@@ -7,7 +7,7 @@ exclude: true
 
 # Entwicklungsprozess
 
-Der Entwicklungsprozess für die [Positionen der Gesellschaft](./positions.html) wurde durch die Mitglieder gestaltet und kann bei Bedarf durch die Mitglieder verändert werden. Er verläuft in drei Phasen, die wie folgt gestaltet sind.
+Der Entwicklungsprozess für die [Positionen der Gesellschaft](./positions.html) wurde durch die Mitglieder erarbeitet. Er verläuft in drei Phasen, die wie folgt gestaltet sind. Der Prozess kann bei Bedarf durch die Mitglieder verändert werden, wobei das Vorgehen hierbei dasselbe wie bei der Erarbeitung einer Position ist.
 
 ### 1. Aufruf- und Arbeitsphase
 
