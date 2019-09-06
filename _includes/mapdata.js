@@ -389,6 +389,17 @@ var rseFeatures = [
         }
     },
     {
+      "type": "Feature",
+      "properties": {
+        "name": "Jan Philipp Thiele",
+        "popupContent": "<a href='https://www.ifam.uni-hannover.de/thiele'>Jan Philipp Thiele</a>, Institut fuer Angewandte Mathematik (IfAM), Leibniz Universität Hannover (LUH)"
+      },
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [9.71710, 52.38285]
+      }
+    },
+    {
         "type": "Feature",
         "properties": {
             "name": "Ronny Gey",
