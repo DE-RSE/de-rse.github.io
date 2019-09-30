@@ -1,9 +1,89 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Society"
+    url: /society/
+  - title: "Community"
+    url: /community/
+  - title: "Events & Training"
+    url: /events/
+  - title: "Get involved"
+    url: /get-involved/
+  - title: "Careers"
+    url: /careers/
+  - title: "News & blog"
+    url: /blog/
+  - title: "Conference"
+    url: /conference/
+
+society:
+  - title: "Better software, better research"
+    children:
+      - title: "Aims"
+        url: /society/aims/
+      - title: "Positions"
+        url: /society/positions/
+  - title: "The Society"
+    children:
+      - title: "Board"
+        url: /society/board/
+      - title: "Contact"
+        url: /society/contact/
+      - title: "Fellows"
+        url: /society/fellows/
+      - title: "Code of Conduct"
+        url: /society/code-of-conduct/
+      - title: "Press"
+        url: /society/press/
+      - title: "Governance"
+        url: /society/governance/
+      - title: "Policies"
+        url: /society/policies/
+      - title: "Roles"
+        url: /society/roles/
+
+community:
+  - title: "Community"
+    children:
+      - title: "Groups"
+        url: /community/groups/
+      - title: "Map"
+        url: /community/map/
+      - title: "Blog (?)"
+        url: /community/blog/
+      - title: "Champions"
+        url: /community/champions/
+      - title: "Collaborations"
+        url: /community/collaborations/
+
+events:
+  - title: "Events"
+    children:
+      - title: "Events"
+        url: /events/list/
+      - title: "Aspiring RSE Leaders"
+        url: /events/rse-leaders/
+      - title: "International Leaders Meeting"
+        url: /events/international-leaders/
+  - title: "Training"
+    children:
+      - title: "Carpentries"
+        url: /events/carpentries/
+
+get-involved:
+  - title: "Get involved"
+    children:
+      - title: "Become a member"
+        url: /get-involved/membership/
+      - title: "AGM"
+        url: /get-involved/agm/
+      - title: "Lists/chat"
+        url: /get-involved/communication/
+
+careers:
+  - title: "Careers"
+    children:
+      - title: "What is an RSE?"
+        url: /careers/what-is-an-rse/
+      - title: "Job description"
+        url: /careers/job-description/
+      - title: "Vacancies"
+        url: /careers/vacancies/
