@@ -12,26 +12,26 @@ excerpt: >
   <small>Bessere Software = bessere Forschung</small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    alt: "Positions"
+    title: "Positions"
+    excerpt: "Read up about the positions we take with regard to research software and the people involved in it."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - image_path: /assets/images/conf2019.png
+    alt: "Conference series #deRSE"
+    title: "Conference 2019"
+    excerpt: "The 1st conference of Research Software Engineers, deRSE19, was held in June 2019 in Potsdam."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+  - image_path: /assets/images/nfdi4rse.png
+    alt: "NFDI4RSE"
+    title: "NFDI4RSE"
+    excerpt: "National Research Data Infrastructure (NFDI) consortium for research software, led by the de-RSE community."
+    url: "http://rse4nfdi.de"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Go to website"      
 ---
 
 {% include feature_row %}

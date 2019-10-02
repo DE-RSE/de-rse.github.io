@@ -12,7 +12,7 @@ main:
   - title: "News & blog"
     url: /blog/
   - title: "Conference"
-    url: /conference/
+    url: http://de-rse.org/en/conf2019/
 
 society:
   - title: "Better software, better research"
