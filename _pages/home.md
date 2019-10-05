@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "rgb(151,49,110)"
-  # overlay_image: /assets/images/mm-home-page-feature.jpg TODO?
+  overlay_image: /assets/images/splash-background.png
   actions:
     - label: "Become a member <i class='fas fa-user-check'></i>"
       url: "/docs/quick-start-guide/"
