@@ -13,6 +13,8 @@ main:
     url: /blog/
   - title: "Conference"
     url: http://de-rse.org/en/conf2019/
+  - title: "NFDI4RSE"
+    url: http://rse4nfdi.de
 
 society:
   - title: "Better software, better research"
