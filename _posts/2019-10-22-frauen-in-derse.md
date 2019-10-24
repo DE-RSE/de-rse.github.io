@@ -93,6 +93,6 @@ Technology Uncovering and Measuring Key Dimensions of Daily Work Experiences.
 [10.1109/ICE.2018.8436351](https://doi.org/10.1109/ICE.2018.8436351).
 
 [2]
-https://www.scientificamerican.com/report/how-diversity-empowers-science-and-innovation/
+<https://www.scientificamerican.com/report/how-diversity-empowers-science-and-innovation/>
 
 [3] https://de.wikipedia.org/wiki/World-Caf%C3%A9
