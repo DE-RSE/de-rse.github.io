@@ -1,5 +1,5 @@
 ---
-menulang: en
+menulang: de
 layout: post
 title: Frauen in deRSE
 author: Bernadette Fritzsch
