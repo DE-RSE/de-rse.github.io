@@ -90,7 +90,7 @@ Referenzen und Anmerkungen
 
 [1] z.B. Holtzblatt, Karen & Marsden, Nicola. (2018). Retaining Women in
 Technology Uncovering and Measuring Key Dimensions of Daily Work Experiences.
-10.1109/ICE.2018.8436351.
+[10.1109/ICE.2018.8436351](https://doi.org/10.1109/ICE.2018.8436351).
 
 [2]
 https://www.scientificamerican.com/report/how-diversity-empowers-science-and-innovation/
