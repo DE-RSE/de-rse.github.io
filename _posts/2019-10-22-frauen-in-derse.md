@@ -83,7 +83,7 @@ verschiedenen Ebenen gefördert werden. Eine davon ist die Vernetzung von Frauen
 untereinander. Unter dem Dach des de-RSE e.V. gibt es jetzt eine Mailingliste 
 derse_women@listserv.dfn.de und
 einen Kanel derse_women unter RocketChat bei der GWDG (https://chat.gwdg.de) für Frauen. 
-Wer Interesse daran hat, melde sich bei Bernadette.Fritzsch\@awi.de.
+Wer Interesse daran hat, melde sich bei Bernadette.Fritzsch@awi.de.
 
 Referenzen und Anmerkungen
 --------------------------
