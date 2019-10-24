@@ -10,7 +10,7 @@ author: Bernadette Fritzsch
 Einleitung
 ----------
 
-Frauen sind bei den Research Software Experts/Engineers - wie auch in anderen
+Frauen sind bei den Research Software Engineers - wie auch in anderen
 Bereichen der Informatik - stark unterrepräsentiert. Im Rahmen der deRSE19
 organisierten daher Bernadette Fritzsch (AWI) und Dagmar Krefting (HTW) am
 04.06.2019 einen Workshop, um die Gründe dafür zu diskutieren und Wege
