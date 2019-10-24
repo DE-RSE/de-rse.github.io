@@ -1,7 +1,7 @@
 ---
 menulang: de
 layout: post
-title: Frauen in deRSE
+title: Frauen in de-RSE
 author: Bernadette Fritzsch
 ---
 
