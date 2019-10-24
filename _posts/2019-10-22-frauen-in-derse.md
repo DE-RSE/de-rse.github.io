@@ -95,4 +95,4 @@ Technology Uncovering and Measuring Key Dimensions of Daily Work Experiences.
 [2]
 <https://www.scientificamerican.com/report/how-diversity-empowers-science-and-innovation/>
 
-[3] https://de.wikipedia.org/wiki/World-Caf%C3%A9
+[3] <https://de.wikipedia.org/wiki/World-Caf%C3%A9>
