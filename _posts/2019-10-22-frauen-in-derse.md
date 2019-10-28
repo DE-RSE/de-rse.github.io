@@ -30,7 +30,7 @@ wohingegen prekäre Arbeitsbedingungen eher abschreckend wirken.
 Arbeitsphase
 ------------
 
-Im Workshop wurden drei Fragen mit der Methode World Cafe [3] diskutiert. Einige
+Im Workshop wurden drei Fragen mit der [Methode World Cafe](https://de.wikipedia.org/wiki/World-Caf%C3%A9) diskutiert. Einige
 Ergebnisse, die ausführlicher im
 [Workshopbericht](https://www.de-rse.org/de/conf2019/talk/XAMSLD/deRSE19-WS-Frauen-report.pdf)
 nachzulesen sind, sollen hier kurz dargestellt werden.
@@ -95,4 +95,3 @@ Technology Uncovering and Measuring Key Dimensions of Daily Work Experiences.
 [2]
 <https://www.scientificamerican.com/report/how-diversity-empowers-science-and-innovation/>
 
-[3] <https://de.wikipedia.org/wiki/World-Caf%C3%A9>
