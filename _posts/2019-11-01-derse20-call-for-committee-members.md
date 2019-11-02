@@ -19,7 +19,7 @@ Organisiert wurde die deRSE19 von der Community für die Community der Research 
 2020 wollen wir die Konferenz fortführen, um die Community wieder zusammenzubringen und auszubauen.
 
 Die Konferenz wird aller Voraussicht nach an **3 Tagen im Zeitraum 17.08.-27.08.2020 in Jena** stattfinden.
-<!-- Wenn Du auf dem Laufenden bleiben willst, abonniere die Mailingliste [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org). -->
+Wenn Du auf dem Laufenden bleiben willst, abonniere die Mailingliste [konferenz-updates@de-rse.org](https://ml-cgn10.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org).
 
 Um die Konferenz planen und durchführen zu können, suchen wir Chairs und Komiteemitglieder, die am Gelingen der Konferenz mitarbeiten wollen.
 
