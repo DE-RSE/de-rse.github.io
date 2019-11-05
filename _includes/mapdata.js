@@ -436,5 +436,16 @@ var rseFeatures = [
         "geometry": {
             "type": "Point", "coordinates": [12.43251, 51.35349]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Florian Thiery",
+            "popupContent": "<img src='http://dernettekleinenerd.de/thiery75.png'>Florian Thiery, Research Squirrel Engineers, rse@fthiery.de<br><br><em>research Software Engineer am RGZM, Mainz. Geodät und Software Engineer.</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.246979, 49.978206]
+        }
     }
 ];
