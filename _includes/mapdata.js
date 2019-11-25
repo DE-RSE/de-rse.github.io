@@ -3,10 +3,10 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Marc-André Hermanns",
-            "popupContent": "<img src='../assets/img/map/mahermanns.jpg'><a href='http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/hermanns_m.html'>Marc-Andr&eacute; Hermanns</a>, J&uuml;lich Supercomputing Centre, Forschungszentrum J&uuml;lich, m.a.hermanns@fz-juelich.de<br><em>Research and development in performance analysis tools for high-performance computing (HPC)</em>"
+            "popupContent": "<img src='../assets/img/map/mahermanns.jpg'>Marc-Andr&eacute; Hermanns, <a href='https://www.itc.rwth-aachen.de/'>IT Center</a>, <a href='https://www.rwth-aachen.de/'>RWTH Aachen University</a>, hermanns@itc.rwth-aachen.de<br><em>Research and development in performance analysis tools for high-performance computing (HPC)</em>"
         },
         "geometry": {
-            "type": "Point", "coordinates": [6.40609, 50.90941]
+            "type": "Point", "coordinates": [6.0651290, 50.7809570]
         }
     },
     {
@@ -389,6 +389,17 @@ var rseFeatures = [
         }
     },
     {
+      "type": "Feature",
+      "properties": {
+        "name": "Jan Philipp Thiele",
+        "popupContent": "<a href='https://www.ifam.uni-hannover.de/thiele'>Jan Philipp Thiele</a>, Institut fuer Angewandte Mathematik (IfAM), Leibniz Universität Hannover (LUH)"
+      },
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [9.71710, 52.38285]
+      }
+    },
+    {
         "type": "Feature",
         "properties": {
             "name": "Ronny Gey",
@@ -411,6 +422,30 @@ var rseFeatures = [
         },
         "geometry": {
             "type": "Point", "coordinates": [8.727556, 50.573218]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Lars Bilke",
+            "popupContent": "<img src='https://avatars1.githubusercontent.com/u/149656?s=460&v=4'>" +
+		'<a href="mailto:lars.bilke@ufz.de">Lars Bilke</a><br>' +
+		'<a href="https://www.ufz.de/index.php?de=38480">Helmholtz-Zentrum für Umweltforschung GmbH - UFZ</a><br><br>'+
+		'<a href="https://www.opengeosys.org">OpenGeoSys</a>'
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [12.43251, 51.35349]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Florian Thiery",
+            "popupContent": "<img src='http://dernettekleinenerd.de/thiery75.png'>Florian Thiery, Research Squirrel Engineers, rse@fthiery.de<br><br><em>research Software Engineer am RGZM, Mainz. Geodät und Software Engineer.</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.246979, 49.978206]
         }
     }
 ];

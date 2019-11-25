@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ziele
-weight: 1
+weight: 10
 ---        
 
 # Ziele

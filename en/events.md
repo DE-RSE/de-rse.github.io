@@ -1,7 +1,7 @@
 --- 
 layout: default 
 title: Events
-weight: 3
+weight: 30
 ---
 
 # Events
@@ -9,6 +9,16 @@ weight: 3
 We think this list of events is relevant. That's why simply collected them in a table. We are not the organizers of of these events!
 
 If you think, we are missing an event, please [contact](join.html) us.
+
+## deRSE conferences
+
+We organize the international **deRSE** conferences, by and for Research Software Engineers.
+
+### deRSE19
+
+The 1st conference of Research Software Engineers in Germany took place from 4 - 6 June 2019 in Potsdam.
+
+#### \> [Conference website for deRSE19](conf2019/)
 
 ## 2019  
 

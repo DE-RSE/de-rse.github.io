@@ -1,7 +1,7 @@
 --- 
 layout: default 
 title: Termine
-weight: 3
+weight: 30
 ---
 
 # Termine
@@ -11,6 +11,16 @@ deshalb in einer Tabelle zusammengefasst. Die jeweilgen Veranstalter
 sind auf den verwiesenen Webseiten zu finden.
 
 Falls eine Veranstaltung fehlt, [kontaktiere](join.html) uns bitte.
+
+## deRSE-Konferenzen
+
+Die **deRSE**-Konferenzen sind von uns veranstaltete, internationale Konferenzen von und für Research Software Engineers.
+
+### deRSE19
+
+Die 1. Konferenz für ForschungssoftwareentwicklerInnen in Deutschland fand vom 4.6. - 6.6. 2019 in Potsdam statt.
+
+#### \> [Konferenzwebsite für deRSE19](conf2019/)
 
 ## 2019  
 
