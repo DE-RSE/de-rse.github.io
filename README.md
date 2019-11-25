@@ -4,8 +4,8 @@ This repository contains the source files for the de-RSE website. Its official h
 
 The site is made to be built with [Jekyll](https://jekyllrb.com/) >= 3.4.1.
 
-To build, run `bundle install` once and then  `jekyll build`.
-To preview locally, run `jekyll serve` and browse to <http://localhost:4000>.
+To build, run `bundle install` once and then  `bundle exec jekyll build`.
+To preview locally, run `bundle exec jekyll serve` and browse to <http://localhost:4000>.
 To include drafts in the preview add the `--drafts` flag.
 
 ## Contributions
