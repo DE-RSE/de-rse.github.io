@@ -20,6 +20,13 @@ The 1st conference of Research Software Engineers in Germany took place from 4 -
 
 #### \> [Conference website for deRSE19](conf2019/)
 
+## 2020  
+
+| Event | Date | Place | URL | Remarks |
+| --- | --- | --- | --- | --- |
+{% include events/2020.md %}
+{: .table .table-hover}
+
 ## 2019  
 
 | Event | Date | Place | URL | Remarks |

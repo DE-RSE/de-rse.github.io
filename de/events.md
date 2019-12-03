@@ -22,6 +22,13 @@ Die 1. Konferenz für ForschungssoftwareentwicklerInnen in Deutschland fand vom 
 
 #### \> [Konferenzwebsite für deRSE19](conf2019/)
 
+## 2020  
+
+| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| --- | --- | --- | --- | --- |
+{% include events/2020.md %}
+{: .table .table-hover}
+
 ## 2019  
 
 | Veranstaltung | Datum | Ort | URL | Bemerkung |
