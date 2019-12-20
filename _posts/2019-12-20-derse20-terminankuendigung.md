@@ -5,10 +5,10 @@ author: deRSE e.V. - Gesellschaft für Forschungssoftware
 menulang: de
 ---
 
-Die erstmalige Ausrichtung der Konferenz für ForschungssoftwareentwicklerInnen, im Juni diesen Jahres auf dem Telegrafenberg in Potsdam, war ein voller Erfolg.
-Darum freuen wir uns euch mitteilen zu können, dass die Organisation für die "[2. Internationale Konferenz für research software engineers in Deutschland](https://de-rse.org/deRSE20/)" begonnen hat.
+Die erstmalige Ausrichtung der Konferenz für Research Software Engineers im Juni diesen Jahres auf dem Telegrafenberg in Potsdam war ein voller Erfolg.
+Darum freuen wir uns euch mitteilen zu können, dass die Organisation für die "[2. Internationale Konferenz für Research Software Engineers in Deutschland](https://de-rse.org/deRSE20/)" begonnen hat.
   
-Die Konferenz wird voraussichtlich von Dienstagmittag, dem **25.08.2020**, bis Donnerstagmittag, dem **27.08.2020**, an der Friedrich Schiller Uni Jena stattfinden! Wir freuen uns sehr darauf, euch dort zu begrüßen.
+Die Konferenz wird voraussichtlich von Dienstagmittag, dem **25.08.2020**, bis Donnerstagmittag, dem **27.08.2020**, an der Friedrich-Schiller-Universität Jena stattfinden! Wir freuen uns sehr darauf, euch dort zu begrüßen.
 
 Wir wissen, dass in einigen Bundesländern zu diesem Zeitpunkt Ferien sind, sind aber durch die Vorauswahl des Ortes an verfügbare Zeiten gebunden.
 
@@ -25,7 +25,7 @@ Unser Ziel ist es auch in 2020, die Vielfalt der Themen und beteiligten Personen
 
 Wenn du Fragen zur Konferenz hast, wende dich bitte an die Organisatoren der Konferenz unter [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
 
-Mit freundlichen Grüßen
+Wir sehen uns in Jena!
 
 Das #deRSE20 Konferenzkomitee
 
