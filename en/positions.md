@@ -33,12 +33,12 @@ The development process for positions of the Society has been developed by its m
 ### 1. Call and work phase
 
 1. **Call for Collaboration:** Initiators of a position announce the topic on the Society's mailing list (list@de-rse.org, with subject `[Call for contributions]`), and invite all members to collaborate. The call names main authors of the position text, and explains the prerequisites for authorship.
-2. **Collaboration:** Collaboration starts on a - preferably public - platform of the initiators' choice (\*Pad, repository, hackmd.io, Overleaf, etc.). At the same time, the project is presented and linked to on the de-rse.org website under ["Positions" > "Work in progress"](https://www.de-rse.org/en/positions.html#work-in-progress).
+2. **Collaboration:** Collaboration starts on a - preferably public - platform of the initiators' choice (\*Pad, repository, hackmd.io, Overleaf, etc.). At the same time, the project is presented and linked to on the de-rse.org website under ["Positions" > "Work in progress"](https://www.de-rse.org/en/positions.html#work-in-progress) (per Pull Request against the Positions pages (en/de) on <https://github.com/DE-RSE/de-rse.github.io>).
 
 ### 2. Review phase
 
 1. **Publication:** Once a draft is deemed ready for publication, it is published for review:
-    - If the position is to be published on the de-RSE website under "Positions", a respective pull request (PR) is created against <https://github.com/DE-RSE/www>.
+    - If the position is to be published on the de-RSE website under "Positions", a respective pull request (PR) is created against <https://github.com/DE-RSE/positions/>  (Draft files in a dedicated subfolder).
     - If the position is to be published in another format, a respective issue is created on <https://github.com/DE-RSE/projekte>, which contains a link to the draft.
 2. **Call for reviews:** The draft publication is announced on the mailing list (liste@de-rse.org, with subject `[Call for Reviews]`), and the link to the respective issue/PR is provided. All members are invited to review the draft until a suitable date.
 3. **Reviews:** Members review the draft publicly in the PR/issue. Should the draft initiate a controversial discussion, the PR/issue is marked with the label `[Kontroverse]`. Controversial discussions/reviews are those which, in a peer review process, would lead to a rejection or "major revision" decision.
