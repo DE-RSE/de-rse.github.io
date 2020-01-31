@@ -20,4 +20,6 @@ Therefore, we are happy to present the **deRSE20 Topic Bazaar**! What may sound 
 
 We hope to see many fruitful collaborative contributions at deRSE20!
 
+We encourage you use the topic bazaar especially if plan to submit a workshop proposal! Please don't leave this until the last minute, as collaboration takes time.
+
 The **deRSE20 Topic Bazaar** can be found at **<https://bit.ly/deRSE20-bazaar>**.
