@@ -447,5 +447,18 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [8.246979, 49.978206]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "René Fritze",
+            "popupContent": "<img src='https://avatars1.githubusercontent.com/u/47802?s=460&v=4'>René Fritze<br>" +
+            '<a href="https://www.uni-muenster.de/AMM/ohlberger/team/rene_fritze.shtml">Angewandte Mathematik Münster</a><br>' +
+            '<a href="https://www.uni-muenster.de/forschungaz/project/11409?lang=en">pyMOR - Sustainable Software for Model Order Reduction</a>'
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.603546, 51.966485]
+        }
     }
 ];
