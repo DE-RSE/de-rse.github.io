@@ -21,7 +21,7 @@
                 {% endif %}
                 <!-- Set variable "page_conf2019" to reflect if we are on a conference page -->
                 {% assign page_conf2019 = false %}
-                {% assign conf2019_link = "../deRSE20" %}
+                {% assign conf2019_link = lang + "/deRSE20" %}
                 {% if page.url contains "/conf2019/" %}
                     {% assign page_conf2019 = true %}
                     {% assign conf2019_link = "index.html" %}

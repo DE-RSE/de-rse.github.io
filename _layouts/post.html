@@ -23,7 +23,7 @@
           {% endif %}
           {% assign indexurl = lang | prepend: site.baseurl | append: "index.html" %}
           {% assign page_conf2019 = false %}
-          {% assign conf2019_link = "/deRSE20/" %}
+          {% assign conf2019_link = lang + "/deRSE20/index.html" %}
           {% if page.url contains "/conf2019/" %}
               {% assign page_conf2019 = true %}
               {% assign conf2019_link = "index.html" %}
