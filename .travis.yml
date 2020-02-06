@@ -1,0 +1,19 @@
+language: ruby
+
+cache: bundler # caching bundler gem packages will speed up build
+
+rvm:
+  - 2.6
+
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true #speedup build if nokogiri is used
+    - JEKYLL_ENV=production
+
+before_install: #update to bundler 2.x
+  - gem install bundler
+
+# --future will additionally build posts with a date in the future
+script:
+  - bundle exec jekyll build --future
+  - bundle exec rake test
