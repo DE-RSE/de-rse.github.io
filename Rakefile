@@ -225,3 +225,12 @@ task :transfer do
     raise "#{command} isn't a valid file transfer command."
   end
 end
+
+# rake test
+require 'html-proofer'
+desc "Run html-proofer on the generated html"
+task :test do
+  sh "bundle exec jekyll build"
+  options = { :assume_extension => true }
+  HTMLProofer.check_directory("./_site", options).run
+end
