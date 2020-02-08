@@ -11,4 +11,4 @@ This weblog will contain posts on subjects that are relevant to the Research Sof
 
 Happy reading, happy contributing!
 
-[![]({{ "/assets/img/site/feed-icon.png" | prepend: site.baseurl }}){: height="20px"}]({{ "/feed.xml" | prepend: site.baseurl }})
+[![RSS feed icon]({{ "/assets/img/site/feed-icon.png" | prepend: site.baseurl }}){: height="20px"}]({{ "/feed.xml" | prepend: site.baseurl }})

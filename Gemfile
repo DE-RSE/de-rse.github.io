@@ -10,3 +10,4 @@ gem 'rake'
 gem 'jekyll'
 gem 'kramdown'
 gem 'jekyll-feed', group: :jekyll_plugins
+gem 'html-proofer'
