@@ -20,7 +20,7 @@ Die **deRSE**-Konferenzen sind von uns veranstaltete, internationale Konferenzen
 
 Die 2. Konferenz für ForschungssoftwareentwicklerInnen in Deutschland findet vom 25.8. - 27.8. 2020 in Jena statt.
 
-#### \> [Konferenzwebsite für deRSE20](deRSE20/)
+#### \> [Konferenzwebsite für deRSE20](../deRSE20/)
 
 ## 2020
 

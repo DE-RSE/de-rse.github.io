@@ -18,7 +18,7 @@ We organize the international **deRSE** conferences, by and for Research Softwar
 
 The 2nd conference of Research Software Engineers in Germany will take place from 25 - 27 August 2020 in Jena.
 
-#### \> [Conference website for deRSE19](deRSE20/)
+#### \> [Conference website for deRSE19](../deRSE20/)
 
 ## 2020 
 
