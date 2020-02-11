@@ -22,6 +22,13 @@ Die 2. Konferenz für ForschungssoftwareentwicklerInnen in Deutschland findet vo
 
 #### \> [Konferenzwebsite für deRSE20](deRSE20/)
 
+## 2020
+
+| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| --- | --- | --- | --- | --- |
+{% include events/2020.md %}
+{: .table .table-hover}
+
 ## 2019  
 
 | Veranstaltung | Datum | Ort | URL | Bemerkung |

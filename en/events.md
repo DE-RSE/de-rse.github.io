@@ -20,6 +20,13 @@ The 2nd conference of Research Software Engineers in Germany will take place fro
 
 #### \> [Conference website for deRSE19](deRSE20/)
 
+## 2020 
+
+| Event | Date | Place | URL | Remarks |
+| --- | --- | --- | --- | --- |
+{% include events/2020.md %}
+{: .table .table-hover}
+
 ## 2019  
 
 | Event | Date | Place | URL | Remarks |
