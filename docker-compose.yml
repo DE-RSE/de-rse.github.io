@@ -1,0 +1,21 @@
+version: '2'
+
+# install required jekyll dependencies in image
+# serve at http://localhost:4000/ with `docker-compose up`
+# jekyll will watch for file changes and incrementally rebuild the site
+# you can run one-off rake tasks with `docker-compose run site rake SOME_TASK`
+
+services:
+  site:
+    image: derse/jekyll
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    ports:
+      - 4000:4000
+    volumes:
+      - ./:/srv/jekyll
+    restart: "no"
+    command: >
+      jekyll serve --watch --incremental
