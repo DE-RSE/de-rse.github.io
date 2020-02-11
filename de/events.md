@@ -16,11 +16,18 @@ Falls eine Veranstaltung fehlt, [kontaktiere](join.html) uns bitte.
 
 Die **deRSE**-Konferenzen sind von uns veranstaltete, internationale Konferenzen von und für Research Software Engineers.
 
-### deRSE19
+### deRSE20
 
-Die 1. Konferenz für ForschungssoftwareentwicklerInnen in Deutschland fand vom 4.6. - 6.6. 2019 in Potsdam statt.
+Die 2. Konferenz für ForschungssoftwareentwicklerInnen in Deutschland findet vom 25.8. - 27.8. 2020 in Jena statt.
 
-#### \> [Konferenzwebsite für deRSE19](conf2019/)
+#### \> [Konferenzwebsite für deRSE20](deRSE20/)
+
+## 2020
+
+| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| --- | --- | --- | --- | --- |
+{% include events/2020.md %}
+{: .table .table-hover}
 
 ## 2019  
 

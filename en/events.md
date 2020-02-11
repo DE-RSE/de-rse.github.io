@@ -14,11 +14,18 @@ If you think, we are missing an event, please [contact](join.html) us.
 
 We organize the international **deRSE** conferences, by and for Research Software Engineers.
 
-### deRSE19
+### deRSE20
 
-The 1st conference of Research Software Engineers in Germany took place from 4 - 6 June 2019 in Potsdam.
+The 2nd conference of Research Software Engineers in Germany will take place from 25 - 27 August 2020 in Jena.
 
-#### \> [Conference website for deRSE19](conf2019/)
+#### \> [Conference website for deRSE19](deRSE20/)
+
+## 2020 
+
+| Event | Date | Place | URL | Remarks |
+| --- | --- | --- | --- | --- |
+{% include events/2020.md %}
+{: .table .table-hover}
 
 ## 2019  
 
