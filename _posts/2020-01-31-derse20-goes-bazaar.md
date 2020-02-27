@@ -2,9 +2,8 @@
 title: "deRSE20 Goes Bazaar"
 layout: post
 author: Stephan Druskat
-menulang: 
-  - en
-  - de
+menulang: en
+
 ---
 
 Have you read the essay ["The Cathedral and the Bazaar", by Eric S. Raymond](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/) about open source development?
