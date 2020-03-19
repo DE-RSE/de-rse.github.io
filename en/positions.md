@@ -21,10 +21,8 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 
 The following positions are currently developed.
 
-
-[//]: # - [Development process for positions of the Society](https://github.com/DE-RSE/www/pull/129)
-
-(none)
+[//]: (none)
+# - [An Environment for Sustainable Research Software in Germany and Beyond: Current State, Open Challenges, and Call for Action](https://github.com/DE-RSE/positions/pull/1)
 
 ## Development process
 
