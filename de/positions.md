@@ -22,7 +22,7 @@ Vertreten Mitglieder von de-RSE e.V. berechtigterweise die Gesellschaft in der Ã
 Folgende Positionen sind derzeit in Arbeit.
 
 [//]: (none)
-# - [An Environment for Sustainable Research Software in Germany and Beyond: Current State, Open Challenges, and Call for Action](https://github.com/DE-RSE/positions/pull/1)
+- [An Environment for Sustainable Research Software in Germany and Beyond: Current State, Open Challenges, and Call for Action](https://github.com/DE-RSE/positions/pull/1)
 
 ## Entwicklungsprozess
 
