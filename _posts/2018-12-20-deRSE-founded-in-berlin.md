@@ -1,26 +1,31 @@
 ---
-title: "de-RSE association founded in Berlin"
+lang: de
+title: "de-RSE e.V. in Berlin gegründet"
 author: Stephan Druskat, Frank Löffler, Bernadette Fritzsch, Martin Hammitzsch, Daniel Nüst, Stephan Janosch
 categories: 
     - Blog
 ---
 
-The German community of Research Software Engineers finally has a new home: On Monday, 26th November 2018, the association **de-RSE e.V. - Gesellschaft für Forschungssoftware** was founded at the Interdisciplinary Laboratory Image Knowledge Gestaltung at Humboldt-Universität zu Berlin.
+Die in Deutschland ansässige Community der Research Software Engineers hat ein
+Zuhause: Am Montag, dem 26.11.2018, wurde in den Räumen des
+Exzellenzcluster Bild-Wissen-Gestaltung der Humboldt-Universität zu Berlin der
+Verein **de-RSE e.V. - Gesellschaft für Forschungssoftware** gegründet. Damit haben
+wir nun einen formellen Rahmen, um die Aktivitäten all jener zu bündeln, die sich mit
+Forschungssoftware befassen.
 
-![participants]({{ "/assets/images/blog/2018/2018-11_de_rse_grundueng_alle.jpg" | prepend: site.baseurl }}){: width="800px"}
+![Teilnehmer]({{ "/assets/images/blog/2018/2018-11_de_rse_grundueng_alle.jpg" | prepend: site.baseurl }}){: width="800px"}
 
-The community now has a framework to bundle all its activities around research software.
-During the inaugural meeting, the 21 participants discussed and passed the 
-association charter and its bylaws.
+Die 21 Teilnehmer der Gründungsversammlung diskutierten und verabschiedeten
+die Satzung und Geschäftsordnung des Vereins und wählten den sechsköpfigen
+Vereinsvorstand, der im Anschluss die Registrierung des Vereins im 
+Vereinsregister Berlin notariell auf den Weg brachte.
 
-![voting]({{ "/assets/images/blog/2018/2018-11_de_rse_grundueng_wahl.jpg" | prepend: site.baseurl }}){: width="400px"}
+![Wahl]({{ "/assets/images/blog/2018/2018-11_de_rse_grundueng_wahl.jpg" | prepend: site.baseurl }}){: width="400px"}
 
-They further elected the six members of the association board, who went on to initiate the formal registration with the register of associations of Berlin.
+Der Gründungsvorstand besteht aus Frank Löffler (Friedrich-Schiller-Universität Jena, Vorstandsvorsitzender), Daniel Nüst (Universität Münster, stellvertretender Vorstandsvorsitzender), Stephan Janosch (Max-Planck-Institut für Molekulare Zellbiologie und Genetik Dresden, Schatzmeister), Martin Hammitzsch (Deutsches GeoForschungsZentrum Potsdam, stellvertretender Schatzmeister), Bernadette Fritzsch (Alfred-Wegener-Institut Bremerhaven, Schriftführerin), und Stephan Druskat (Humboldt-Universität zu Berlin und Friedrich-Schiller-Universität Jena, stellvertretender Schriftführer).
 
-The founding board consists of Frank Löffler (Friedrich Schiller University Jena, chairperson), Daniel Nüst (University of Münster, deputy chairperson), Stephan Janosch (Max Planck Institute of Molecular Cell Biology and Genetics Dresden, treasurer), Martin Hammitzsch (German Research Centre for Geosciences Potsdam, deputy treasurer), Bernadette Fritzsch (Alfred Wegener Institute Bremerhaven, secretary), und Stephan Druskat (Humboldt-Universität zu Berlin and Friedrich Schiller University Jena, deputy secretary).
-
-![founding board]({{ "/assets/images/blog/2018/2018-11_de_rse_grundueng_vorstand.jpg" | prepend: site.baseurl }}){: width="400px"}
+![Vorstand]({{ "/assets/images/blog/2018/2018-11_de_rse_grundueng_vorstand.jpg" | prepend: site.baseurl }}){: width="400px"}
 
 {% comment %}
-[[Press release](assets/pdf/association/press/press-release-de-rse-association.pdf)]
+[[Pressemitteilung](assets/pdf/association/press/pressemitteilung-de-rse-ev.pdf)]
 {% endcomment %}

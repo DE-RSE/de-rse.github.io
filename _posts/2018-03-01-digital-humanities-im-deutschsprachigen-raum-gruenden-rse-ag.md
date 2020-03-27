@@ -1,4 +1,5 @@
 ---
+lang: de
 title: "Digital Humanities im deutschsprachigen Raum gründen AG DH-RSE"
 author: Stephan Janosch
 categories: 

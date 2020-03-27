@@ -1,39 +1,49 @@
 ---
-title: "Survey about research software in Germany, and the people involved in it - #deRSEsurvey2017"
+lang: de
+title: "Umfrage zu Forschungssoftware und beteiligten Personen 2017 in Deutschland - #deRSEsurvey2017"
 author: Stephan Janosch
 categories: 
     - Blog
 ---
-Do you develop research software, or are you involved in the scientific
-software creation process? Then we would very much like you to
-participate in the following survey:
+Du entwickelst Software in Forschung und Wissenschaft, oder bist
+anderweitig in die wissenschaftliche Softwareentwicklung eingebunden?
+Dann würden wir uns freuen, wenn Du an folgender Umfrage teilnimmst:
 
-[https://softwaresaved.limequery.com/661559?lang=en](https://softwaresaved.limequery.com/661559?lang=en)
+[https://softwaresaved.limequery.com/661559?lang=de-informal](https://softwaresaved.limequery.com/661559?lang=de-informal)
 
-As of now there is not much knowledge about the community of those in
-research and science who develop software. This survey aims to gain
-valuable insights into this community in order to support research
-funders and other institutions to develop strategies and funding
-programs as well as policies.
+Derzeit gibt es kaum zuverlässige Informationen über die Gemeinschaft
+der Software entwickelnden Personen in Forschung und Wissenschaft. Die
+Umfrage soll dabei helfen, Einblicke in und Informationen über diese
+Gemeinschaft zu gewinnen, um mit diesen Ergebnissen Förderorganisationen
+und Wissenschaftseinrichtungen bei der Entwicklung von Strategien und
+Förderprogrammen sowie von Leit- und Richtlinien zu unterstützen.
 
-This survey gives you the opportunity to make your point of view and
-experiences be heard, and thus be part of the development of this community.
+Die Umfrage gibt Dir die Möglichkeit, Deine Sicht und Erfahrung mit
+einfließen zu lassen und damit an der zukünftigen Gestaltung der
+Community teilzuhaben.
 
-In case you know others who develop software in research, please feel
-free to forward this invitation. If you forward this mail to a mailing
-list, please be so kind and copy in Martin (janosch@mpi-cbg.de) and
-Stephan (martin.hammitzsch@gfz-potsdam.de).
+Du kennst Andere, die Software im Umfeld von Forschung und Wissenschaft
+entwickeln? Dann informiere sie bitte über diese Umfrage! Nur eine rege
+Teilnahme und Antworten, die von überall aus Deutschland kommen und die
+unterschiedlichsten Bereiche repräsentieren, gewährleisten einen
+umfassenden Einblick zu diesem Thema.
 
-The survey results will be published under a CC BY-NC license, and will
-be announced and evaluated via the [de-RSE mailing list](https://www.de-rse.org/en/join.html) and the
-[de-RSE blog](https://www.de-rse.org/en/blog.html). Simultaneously, similar surveys are conducted in the
-UK, Canada, Australia, Norway, the Netherlands, the USA and South
-Africa. For reasons of comparability, this survey was closely
-coordinated with the others.
+Sollte diese E-Mail von Dir an Mailinglisten weitergeleitet werden, dann
+nehmt uns, Stephan (janosch@mpi-cbg.de) und Martin
+(martin.hammitzsch@gfz-potsdam.de), bitte ins Cc, damit wir dies bei der
+Auswertung der Umfrage berücksichtigen können.
 
-We look forward to your participation in the survey!
+Die Ergebnisse werden unter einer CC-BY-NC Lizenz veröffentlicht und
+zusätzlich auf der [de-RSE Mailingliste](https://www.de-rse.org/de/join.html) und dem [de-RSE Blog](https://www.de-rse.org/de/blog.html)
+angekündigt und ausgewertet. Darüber hinaus werden ähnliche Umfragen in
+Großbritannien, Kanada, Australien, Norwegen, den USA, Südafrika und den
+Niederlanden durchgeführt. Um eine gute Vergleichbarkeit zu
+gewährleisten, wurde die Gestaltung der deutschen Umfrage in enger
+Abstimmung mit diesen Umfragen durchgeführt.
 
-Many thanks,
-Martin Hammitzsch and Stephan Janosch
+Wir freuen uns über Eure Teilnahme!
 
-![survey research software 2017]({{ "/assets/images/blog/2017/survey2017en.png" | prepend: site.baseurl }}){: width="1000px"}
+Vielen Dank,
+Martin Hammitzsch und Stephan Janosch
+
+![Umfrage Forschungssoftware Deutschland 2017]({{ "/assets/images/blog/2017/survey2017de.png" | prepend: site.baseurl }}){: width="1000px"}

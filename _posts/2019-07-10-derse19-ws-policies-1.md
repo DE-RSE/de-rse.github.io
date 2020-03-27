@@ -1,4 +1,5 @@
 ---
+lang: de
 title: "deRSE19: Rückblick auf den Workshop \"Entwicklung von Policies und Richtlinien für Forschungssoftware\""
 author: Jürgen Fuhrmann, Bernadette Fritzsch, Tobias Schlauch, Kaja Scheliga
 categories: 

@@ -1,4 +1,5 @@
 ---
+lang: de
 title: "Umfrageverteilung 2018 in Deutschland"
 author: Stephan Janosch
 categories: 

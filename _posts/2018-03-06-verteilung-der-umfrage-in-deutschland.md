@@ -1,4 +1,5 @@
 ---
+lang: de
 title: "Verteilung der Umfrage in Deutschland"
 author: Stephan Janosch
 categories: 

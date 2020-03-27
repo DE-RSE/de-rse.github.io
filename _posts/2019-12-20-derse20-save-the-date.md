@@ -1,38 +1,34 @@
 ---
-title: "Save the Date: deRSE20 - 2nd International Conference of Research Software Engineers in Germany, 25-27 August 2020"
+lang: de
+title: "Terminankündigung: deRSE20 - 2. Internationale Konferenz für Research Software Engineers in Deutschland, 25.-27. August 2020"
 author: deRSE e.V. - Gesellschaft für Forschungssoftware
 categories: 
     - Blog
 ---
-The *1st International Conference for Research Software Engineers in Germany* this year in June in Potsdam was a great success.
-Therefore we are very happy to announce that planning for the ***[2nd International Conference for Research Software Engineers in Germany]((https://de-rse.org/deRSE20/))*** has started!
 
-## Save the date!
+Die erstmalige Ausrichtung der Konferenz für ForschungssoftwareentwicklerInnen, im Juni diesen Jahres auf dem Telegrafenberg in Potsdam, war ein voller Erfolg.
+Darum freuen wir uns euch mitteilen zu können, dass die Organisation für die "[2. Internationale Konferenz für Research Software Engineers in Deutschland](https://de-rse.org/deRSE20/)" begonnen hat.
+  
+Die Konferenz wird voraussichtlich von Dienstagmittag, dem **25.08.2020**, bis Donnerstagmittag, dem **27.08.2020**, an der Friedrich Schiller Uni Jena stattfinden! Wir freuen uns sehr darauf, euch dort zu begrüßen.
 
-- **Where:** most likely Friedrich Schiller University Jena
-- **When:** 25-27 August 2020
-- **Hashtag:** [#deRSE20](https://twitter.com/search?q=%23deRSE20)
+Wir wissen, dass in einigen Bundesländern zu diesem Zeitpunkt Ferien sind, sind aber durch die Vorauswahl des Ortes an verfügbare Zeiten gebunden.
 
-The conference is expected to take place take place from mid-Tuesday, 25 August 2020, until mid-Thursday, 27 August 2020 at the Friedrich Schiller University Jena.
-We're very much looking forward to welcoming you there.
+Unser Ziel ist es auch in 2020, die Vielfalt der Themen und beteiligten Personen in den Vordergrund zu rücken und einen regen Austausch über das gemeinsame Thema Forschungssoftware zu ermöglichen. Eine Vielzahl von Videoaufzeichnungen vom Juni sind übrigens im [AV-Portal der TIB](https://av.tib.eu/series/644/derse+2019+konferenz+fur+forschungssoftwareentwicklerinnen+in+deutschland) zu finden.
 
-We are aware of holidays during this time in some federal states, but are bound to this date by the availability of the venue.
 
-It is our continued aim in 2020 to focus on the diversity of topics and people in Research Software Engineering, and enable lively exchanges across the whole spectrum of research software.
-For a first impression of some of the topics that were covered in June, have a look at the video recordings on the [TIB AV portal](https://av.tib.eu/series/644/derse+2019+konferenz+fur+forschungssoftwareentwicklerinnen+in+deutschland).
+* Merke vor, 
+* verbreite weiter,
+* bleib am Ball ([konferenz-updates@de-rse.org](https://ml-cgn10.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org)) und
+* hilf mit als Teil des Organisationsteams! Uns fehlen noch Koordinatoren für
+  * freiwillige Helfer
+  * internationale Angelegenheiten
+  * soziale Aktivitäten
 
-The community is also planning for a co-located [NFDI](https://www.dfg.de/foerderung/programme/nfdi/) event.
+Wenn du Fragen zur Konferenz hast, wende dich bitte an die Organisatoren der Konferenz unter [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
 
-* Save the date,
-* tell your colleagues and friends,
-* keep in touch (subscribe to [konferenz-updates@de-rse.org](https://ml-cgn10.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org)), and
-* join the organizing team! We're currently looking for people to coordinate
-  * volunteers,
-  * international initiatives and collaboration,
-  * social activities.
+Mit freundlichen Grüßen
 
-If you have any questions about the conference, or about joining the team, please get in touch with us at [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
+Das #deRSE20 Konferenzkomitee
 
-See you in Jena!
 
-The #deRSE20 conference committee
+

@@ -1,75 +1,56 @@
 ---
-title: "Founding an Association"
-author: Stephan Janosch (translation Daniel Nüst)
+lang: de
+title: "Vereinsgründung"
+author: Stephan Janosch
 categories: 
     - Blog
 ---
 
-Ever since we have come together as a community to create de-RSE for the everyday support of our work, one question has always been on the table:
-What organisational and legal form is suitable for the realization of our [goals](https://www.de-rse.org/en/aims.html)?
+Seitdem wir uns als Gemeinschaft gefunden haben, um de-RSE zu einer echten Unterstützung unserer täglichen Arbeit zu machen, stand immer eine Frage im Raum: In welcher juristischen Form treten wir als Gemeinschaft auf, um unsere [Ziele](https://www.de-rse.org/de/aims.html) zu verwirklichen?
 
-It seems clear that a loosely coupled group of willing people will not be able to build supportive structures for the long term, for example:
+Klar erscheint, dass wir als lose Gemeinschaft von Willigen nur schwerlich langfristige Strukturen aufbauen können, um zum Beispiel:
 
-* to run a website (including https encryption for commenting),
-* to organise workshops,
-* to support dedicated people in their RSE missions,
-* to establish an annual conference on the topic of scientific software, and
-* to create a national centre for scientific software, covering all of the German research landscape.
+* eine Webseite zu betreiben (auf der man auch per https kommentieren kann),
+* Workshops durchzuführen,
+* Engagierte in ihrer RSE-Mission zu unterstützen,
+* eine jährlich stattfindenden Konferenz rund um das Thema wissenschaftliche Software zu etablieren und
+* ein nationales, die deutsche Forschungslandschaft übergreifendes Zentrum zum Thema wissenschaftliche Software zu schaffen.
 
-An impromptu meeting at the [2nd S3 conference in Hannover, May 2017](https://events.tib.eu/nontextualinformation2017/) ([recordings](https://av.tib.eu/series/310/2nd+conference+on+non+textual+information+software+and+services+for+science+s3+may+10+11+2017+in+hannover)) Hendrik Eggers (TU Braunschweig) suggested the foundation of a cooperative besides the creation of a registered association.
+Im Rahmen eines ad-hoc Treffens auf der [2. S3-Konferenz im Mai 2017 in Hannover](https://events.tib.eu/nontextualinformation2017/) ([Aufzeichnungen](https://av.tib.eu/series/310/2nd+conference+on+non+textual+information+software+and+services+for+science+s3+may+10+11+2017+in+hannover)) hat Hendrik Eggers (TU Braunschweig) eine Genossenschaftsgründung neben einer Vereinsgründung zur Sprache gebracht.
 
-Bernadette Fritzsch (Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung) has taken up these first ideas and started a series of telephone conferences in autumn 2017.
+Dankenswerter Weise hat Bernadette Fritzsch (Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung) im Herbst 2017 die Frage der Institutionalisierung unserer Anstrengungen augegriffen und eine Telefonkonferenz angeregt.
 
-## Current situation
+## Aktuelle Situation
 
-Three conference calls by a core group of seven members later, we have come to 
-the conclusion that the creation of a registered association is more suitable.
-Collaboratively (Slack channel `#verein`) we are developing a [charter](https://github.com/DE-RSE/satzung) and rules of operation (both in German).
-The ultimate goal is a registered *non-profit* association, which utilises modern technology 
-to allow for distributed collaboration.
-Additional collaborators are always welcome!
+Mittlerweile haben wir zu siebent drei mal konferiert und sind zu dem Schluss gekommen, dass eine Vereinsgründung praktischer sei. Kollaborativ (Slack channel `#verein`) wurde an einem [Satzungsentwurf](https://github.com/DE-RSE/satzung) und einer Geschäftsordnung gearbeitet. Ziel der Aktivitäten ist ein gemeinnütziger Verein, der moderne Möglichkeiten ausnutzend, eine verteilte Zusammenarbeit erlaubt. Weitere Unterstützerinnen sind herzlich willkommen!
 
-## Name
+## Vereinsname
 
-What should that association be named?
-The abbreviation "de-RSE" seems set.
-The term Research Software Engineer establishes itself more and more, also internationally (just out: [nl-RSE.org](http://nl-rse.org)), and is not going to disappear any time soon.
-But there are also the German job titles of "Wissenschaftler" and "Ingenieur", 
-which seem to contradict each other at first glance, although both may include software development.
+Doch welchen Name sollte unser Verein tragen? Irgendwie scheint das Kürzel "de-RSE" gesetzt. Die Rollenbezeichnung des Research Software Engineers festigt sich mehr und mehr international (jetzt neu: [nl-RSE.org](http://nl-rse.org)) und wird mit Sicherheit nicht mehr verschwinden. Auf der anderen Seite gibt es in Deutschland die Tätigkeiten des Wissenschaftlers und des Ingenieurs, die sich auf den ersten Blick zu widersprechen scheinen, die aber beide Softwareentwicklung beinhalten können.
 
-At the moment the charter repository includes three suggestions:
+Im Moment kursieren 3 Namensvorschläge im Repository:
 
 * de-RSE e.V. - Research Software Engineers im deutschsprachigen Raum
 * Förderverein für Forschungssoftware und Softwareentwickelnde in der Forschung in Deutschland (de-RSE)
 * Förderverein für Softwareentwickelnde in der Forschung (de-RSE)
 
-Personally, I favour a mixture, maybe _de-RSE e.V.: Förderverein für Forschungssoftware und wissenschaftlich Software Entwickelnde_?
-Maybe you, dear reader, have an illuminating idea for naming our association.
-The name is going to be widely used in a number of noteworthy contexts:
+Mir persönlich erscheint eine Mischung aus den dreien notwendig. Vielleicht in dieser Form: _de-RSE e.V.: Förderverein für Forschungssoftware und wissenschaftlich Software Entwickelnde_? Vielleicht habt Ihr, liebe Leser, die erhellende Idee für unseren Vereinsnamen. Der Vereinsname wird in vielen Kontexten auftauchen, die beachtenswert sind:
 
-* maximal inclusiveness towards all participants in the software development process ((computer) scientists, IT specialists, students, ...)
-* collaboration on an international level
-* contact with research funders
+* maximale Einbeziehung aller am Softwareentwicklungsprozess Beteiligten (Wissenschaftler, (Fach-)Informatiker, Studenten, ...)
+* Zusammenarbeit auf internationaler Ebene
+* Kontakt mit Forschungsförderern
 
-We look forward to your feedback on the [mailing list and in the chat](https://www.de-rse.org/en/join.html) (ideally till Feb. 5th).
+Für eure Rückmeldungen lauschen wir auf der [Mailingliste sowie im Chat](https://www.de-rse.org/de/join.html) (idealerweise bis zum 5.2.). Und wenn wir schon am Kommunizieren sind, können wir uns auch noch einem anderen Thema widmen.
 
-And since we're already here, let's address another important topic.
+## Beiträge
 
-## Membership fees
+Bis jetzt wurde die Frage von Mitgliedsgebühren nur am Rande gestreift. Aber wo gehobelt werden soll, da muss auch Holz sein. Und manches Engagement wird von Dritten nur aufgrund von genug Eigeninitiative gefördert. Vielleicht kann man im Rahmen der Diskussion um den Vereinsnamen in sich hineinhorchen, wie man zu einer finanziellen Förderung steht. Das ganze Repertoire von:
 
-Until now, the question of membership fees has rarely been mentioned.
-But where there are eggs to be broken for an omelette, these eggs need to be laid first.
-And some forms of third-party funding require a certain level of existing initiative,
-i.e., own resources.
-We hope the search for a name is a good occassion for everyone to think about 
-their personal opinion on financial support.
-Everything is possible:
+* beitragsfreien Mitgliedschaften
+* Fördermitgliedschaften
+* Spenden
+* institutioneller Unterstützung
 
-* free memberships
-* support memberships
-* donations
-* institutional support
+steht auf dem Tableaux. Wenn mich jemand fragen würde, dann wäre ich spontan bereit 10 € im Monat beizusteuern. Das ist in etwa der Mitgliedsbeitrag meines Sportvereins, den ich meiner Gesundheit halber besuche.
 
-If I were asked today, I would be ready to pay € 10 per month, roughly the fees my sports club charges me to take care of my health.
-
-We belatedly wish you a good start to 2018 and look forward to your thoughts on the association's name.
+Wir wünschen noch nachträglich einen guten Start ins Jahr 2018 und sind auf euer Feedback zum Vereinsnamen gespannt.

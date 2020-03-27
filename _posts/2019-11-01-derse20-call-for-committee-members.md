@@ -1,4 +1,5 @@
 ---
+lang: de
 title: "deRSE20 Call for Committee Members"
 author: Stephan Druskat & de-RSE e.V. Vorstand
 categories: 

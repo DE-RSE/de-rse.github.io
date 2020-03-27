@@ -1,4 +1,5 @@
 ---
+lang: de
 title: Frauen in de-RSE
 author: Bernadette Fritzsch
 categories: 

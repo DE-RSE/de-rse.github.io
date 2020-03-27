@@ -1,20 +1,23 @@
 ---
-title: "Save the date: deRSE19 - Conference for Research Software Engineers in Germany, June 4-6 2019"
+lang: de
+title: "Terminankündigung: deRSE19 - Konferenz für ForschungssoftwareentwicklerInnen in Deutschland, 4.-6. Juni 2019"
 author: Martin Hammitzsch, Stephan Janosch, Frank Löffler, Frederieke Miesner
 categories: 
     - Blog
 ---
 
-Following the success of the [First and Second international Conference of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), a national conference addressing research software and the people behind in the German research landscape will be held at the Albert Einstein Science Park in Potsdam on June 4-6 2019.
+{{ page.url | absolute_url }}
 
-We are expecting a lively mix of 200 attendees from different research domains. The purpose of this national conference is to get together with people who develop software that is used in any field of research. We call these people Research Software Engineers (RSEs), but they exist under many job titles (from postdoctoral researcher to research associate, to faculty).
+Nach dem Erfolg der [ersten und zweiten internationalen Konferenz der Research Software Engineers in Großbritannien](https://rse.ac.uk/events/past-conferences/), findet vom 4. bis 6. Juni 2019 im Wissenschaftspark Albert Einstein in Potsdam eine nationale Konferenz zu Forschungssoftware und den beteiligten Personen in der deutschen Forschungslandschaft statt.
 
-\#deRSE19 is not a standard academic conference. We welcome researchers, but we also want to hear from people who fund, develop, run or maintain research software and may not typically attend conferences. It's a community conference: get involved and help us build the RSE Community in Germany. So save the date and spread the word to your peers writing software for research.
+Wir erwarten einen lebendigen Mix von 200 Teilnehmern aus verschiedenen Forschungsbereichen. Der Zweck dieser nationalen Konferenz ist es, sich mit Menschen zu treffen, welche Software entwickeln, die in jedem Bereich der Forschung eingesetzt wird. Wir nennen diese Research Software Engineers (RSEs), aber sie existieren unter vielen Berufsbezeichnungen (von Postdoktorandinnen über wissenschaftliche Mitarbeiter, bis zu Professorinnen).
 
-Stay in touch with us and get the latest updates by registering at [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org). We will announce the opening of the calls for sessions soon, followed by the calls for talks, posters, workshops and tutorials by end of this year. Updates about the conference will be available also by [@RSE_de at twitter](https://twitter.com/rse_de). The hashtag for the event is #deRSE19.
+\#deRSE19 ist keine "normale" akademische Konferenz. Wir begrüßen Wissenschaftler und Wissenschaftlerinnen, möchten aber auch von Menschen hören, die Forschungssoftware finanzieren, betreiben, entwickeln oder warten und normalerweise nicht an Konferenzen teilnehmen. Es ist eine Community-Konferenz: Beteilige dich und hilf uns beim Aufbau der RSE-Community in Deutschland. Merke Dir das Datum vor und verbreite die Ankündigung an Deine Kolleginnen und Kollegen.
 
-If you have any questions about the conference, please contact the conference organisers at [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
+Bleibe mit uns in Kontakt und erhalte die neuesten Updates, indem Du Dich unter [konferenz-updates@de-rse.org](https://ml06.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) registrierst. Wir werden in Kürze die Eröffnung der Ausschreibungen bekannt geben, gefolgt von den Ausschreibungen für Vorträge, Poster, Workshops und Tutorials bis Ende dieses Jahres. Updates über die Konferenz werden auch über [@RSE_de auf Twitter](https://twitter.com/rse_de) verfügbar sein. Der Hashtag für das Ereignis ist #deRSE19.
 
-Kind regards,
+Wenn Fragen zur Konferenz aufkommen, wende Dich sich bitte an die Organisatoren der Konferenz unter [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
 
-The #deRSE19 Conference Committee
+Mit freundlichen Grüßen
+
+Das #deRSE19 Konferenzkomitee
