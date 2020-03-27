@@ -1,0 +1,11 @@
+---
+lang: de
+title: "Wie geht's, wie steht's?"
+author: Stephan Janosch
+categories: 
+    - Blog
+---
+Aus aktuellem Anlass habe ich mal geschaut, wie viele Abonennten unsere [Mailingliste](/de/join.html) und [Twitter-Folgende de-RSE.org](https://twitter.com/rse_de) so hat:
+
+![mailing list count]({{ "/assets/images/blog/2018/de_rse_ml_count_20180904.svg" | prepend: site.baseurl }}){: width="800px"}
+  
