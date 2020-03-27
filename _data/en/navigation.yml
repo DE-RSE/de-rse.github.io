@@ -1,5 +1,5 @@
 main:
-  - title: "Society"
+  - title: "The Society"
     url: /society/
   - title: "Community"
     url: /community/
@@ -29,18 +29,18 @@ society:
         url: /society/board/
       - title: "Contact"
         url: /society/contact/
-      - title: "Fellows"
-        url: /society/fellows/
-      - title: "Code of Conduct"
-        url: /society/code-of-conduct/
+      # - title: "Fellows"
+      #   url: /society/fellows/
+      # - title: "Code of Conduct"
+      #   url: /society/code-of-conduct/
       - title: "Press"
         url: /society/press/
       - title: "Governance"
         url: /society/governance/
       - title: "Policies"
         url: /society/policies/
-      - title: "Roles"
-        url: /society/roles/
+      # - title: "Roles"
+      #   url: /society/roles/
 
 community:
   - title: "Community"
@@ -51,8 +51,8 @@ community:
         url: /community/map/
       - title: "Blog (?)"
         url: /community/blog/
-      - title: "Champions"
-        url: /community/champions/
+      # - title: "Champions"
+      #   url: /community/champions/
       - title: "Collaborations"
         url: /community/collaborations/
 
@@ -61,14 +61,14 @@ events:
     children:
       - title: "Events"
         url: /events/list/
-      - title: "Aspiring RSE Leaders"
-        url: /events/rse-leaders/
-      - title: "International Leaders Meeting"
-        url: /events/international-leaders/
-  - title: "Training"
-    children:
-      - title: "Carpentries"
-        url: /events/carpentries/
+      # - title: "Aspiring RSE Leaders"
+      #   url: /events/rse-leaders/
+      # - title: "International Leaders Meeting"
+      #   url: /events/international-leaders/
+  # - title: "Training"
+    # children:
+      # - title: "Carpentries"
+      #   url: /events/carpentries/
 
 get-involved:
   - title: "Get involved"

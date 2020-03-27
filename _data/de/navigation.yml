@@ -1,0 +1,89 @@
+main:
+  - title: "de-RSE"
+    url: /society/
+  - title: "Community"
+    url: /community/
+  - title: "Events & Training"
+    url: /events/
+  - title: "Mach mit!"
+    url: /get-involved/
+  - title: "Beruf RSE"
+    url: /careers/
+  - title: "Neues & Blog"
+    url: /blog/
+  - title: "Konferenz"
+    url: http://de-rse.org/en/conf2019/
+  - title: "NFDI4RSE"
+    url: http://rse4nfdi.de
+
+society:
+  - title: "Bessere Software, bessere Forschung"
+    children:
+      - title: "Ziele"
+        url: /society/aims/
+      - title: "Positionen"
+        url: /society/positions/
+  - title: "Die Gesellschaft"
+    children:
+      - title: "Vorstand"
+        url: /society/board/
+      - title: "Kontakt"
+        url: /society/contact/
+      # - title: "Fellows"
+      #   url: /society/fellows/
+      # - title: "Code of Conduct"
+      #   url: /society/code-of-conduct/
+      - title: "Press"
+        url: /society/press/
+      - title: "Satzung"
+        url: /society/governance/
+      - title: "Geschäftsordnung"
+        url: /society/policies/
+      # - title: "Roles"
+      #   url: /society/roles/
+
+community:
+  - title: "Community"
+    children:
+      - title: "Gruppen"
+        url: /community/groups/
+      - title: "Karte"
+        url: /community/map/
+      # - title: "Champions"
+      #   url: /community/champions/
+      - title: "Zusammenarbeit"
+        url: /community/collaborations/
+
+events:
+  - title: "Events"
+    children:
+      - title: "Events"
+        url: /events/list/
+      # - title: "Aspiring RSE Leaders"
+      #   url: /events/rse-leaders/
+      # - title: "International Leaders Meeting"
+      #   url: /events/international-leaders/
+  # - title: "Training"
+    # children:
+      # - title: "Carpentries"
+      #   url: /events/carpentries/
+
+get-involved:
+  - title: "Mach mit!"
+    children:
+      - title: "Werde Mitglied"
+        url: /get-involved/membership/
+      - title: "Jahreshauptversammlungen"
+        url: /get-involved/agm/
+      - title: "Listen/Chat"
+        url: /get-involved/communication/
+
+careers:
+  - title: "Beruf RSE"
+    children:
+      - title: "Was ist ein RSE?"
+        url: /careers/what-is-an-rse/
+      - title: "Arbeitsbeschreibung"
+        url: /careers/job-description/
+      - title: "Stellenangebote"
+        url: /careers/vacancies/

@@ -24,6 +24,12 @@ github_username: de-RSE
 minimal_mistakes_skin: default
 search: true
 
+# i18n with polyglot
+languages: ["en", "de"]
+default_lang: "de"
+exclude_from_localization: ["javascript", "images", "css", "CNAME", "assets"]
+parallel_localization: true
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -56,6 +62,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-polyglot
 
 author:
   name   : "de-RSE e.V."
