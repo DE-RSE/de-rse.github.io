@@ -7,10 +7,10 @@ main:
     url: /events/
   - title: "Mach mit!"
     url: /get-involved/
-  - title: "Beruf RSE"
-    url: /careers/
   - title: "Neues & Blog"
     url: /blog/
+  - title: "Beruf RSE"
+    url: /careers/
   - title: "Konferenz"
     url: http://de-rse.org/en/conf2019/
   - title: "NFDI4RSE"
