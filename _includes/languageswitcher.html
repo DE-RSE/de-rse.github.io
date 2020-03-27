@@ -1,0 +1,5 @@
+{% if site.active_lang == site.default_lang %}
+    <a href=" {{site.url}}/en{{ page.url }}" class="btn btn--info">💬 EN</a>
+{% else %}
+    <a href=" {{site.url}}{{ page.url }}" class="btn btn--info">💬 DE</a>
+{% endif %}
