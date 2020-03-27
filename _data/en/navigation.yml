@@ -7,10 +7,10 @@ main:
     url: /events/
   - title: "Get involved"
     url: /get-involved/
-  - title: "Careers"
-    url: /careers/
   - title: "News & blog"
     url: /blog/
+  - title: "Careers"
+    url: /careers/
   - title: "Conference"
     url: http://de-rse.org/en/conf2019/
   - title: "NFDI4RSE"
@@ -49,8 +49,6 @@ community:
         url: /community/groups/
       - title: "Map"
         url: /community/map/
-      - title: "Blog (?)"
-        url: /community/blog/
       # - title: "Champions"
       #   url: /community/champions/
       - title: "Collaborations"
