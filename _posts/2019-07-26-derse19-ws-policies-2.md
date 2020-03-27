@@ -6,7 +6,7 @@ categories:
     - Blog
 ---
 
-Dieser Post fasst die Eindrücke und Ergebnisse des [deRSE19-Workshops "Entwicklung von Policies und Richtlinien für Forschungssoftware"]({% post_url 2019-07-10-derse19-ws-policies-1-de %}) zum Thema **Publikation und Zitation von Forschungssoftware** zusammen.
+Dieser Post fasst die Eindrücke und Ergebnisse des [deRSE19-Workshops "Entwicklung von Policies und Richtlinien für Forschungssoftware"]({% post_url 2019-07-10-derse19-ws-policies-1 %}) zum Thema **Publikation und Zitation von Forschungssoftware** zusammen.
 
 Es wurde der Bedarf nach klar definierten Workflows in Bezug auf die Publikation von Forschungssoftware deutlich. Wichtig sei hier eine Klarheit über die einzelnen Schritte im Publikationsprozess und damit verbundene Verantwortlichkeiten sowie Ansprechpartner\*innen. Auch Review-Verfahren und Freigabeprozesse wurden als wichtige Faktoren angesprochen. Der Grad der Regulierung von Softwarepublikationen blieb als offene Frage im Raum. Sollte es Teil der generellen Publikationsordnung sein oder bedarf es einer eigenen Publikationsordnung für Forschungssoftware? Analog wurde diskutiert, ob der Umgang mit Forschungssoftware Teil des Daten-Managementplans sein sollte oder ob es eines eigenen Software-Managementplans bedürfe. In der Praxis findet man beide Ansätze. Einerseits erfordert beispielsweise das [HORIZON-2020-Daten-Managementplan-Template](http://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm#A1-template) softwarebezogene Angaben. Andererseits hat das Software Sustainability Institute ein eigenes [Template für Software-Managementpläne](https://www.software.ac.uk/software-management-plans) veröffentlicht.
 
