@@ -441,7 +441,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Florian Thiery",
-            "popupContent": "<img src='http://dernettekleinenerd.de/thiery75.png'>Florian Thiery, Research Squirrel Engineers, rse@fthiery.de<br><br><em>research Software Engineer am RGZM, Mainz. Geodät und Software Engineer.</em>"
+            "popupContent": "<img src='http://data.fthiery.de/thiery75.png'>Florian Thiery, Research Squirrel Engineers, rse@fthiery.de<br><br><em>research Software Engineer am RGZM, Mainz. Geodät und Software Engineer.</em>"
         },
         "geometry": {
             "type": "Point",
