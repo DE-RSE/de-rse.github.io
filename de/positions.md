@@ -14,7 +14,7 @@ Vertreten Mitglieder von de-RSE e.V. berechtigterweise die Gesellschaft in der �
 
 > **Inhalt**  
 > [Positionspapiere](#positionspapiere) - offizielle Positionen von *de-RSE e.V. - Gesellschaft für Forschungssoftware*  
-<!-- > [Work in progress](#work-in-progress) - Positionen, an denen derzeit gearbeitet wird  -->  
+<!-- > [Work in progress](#work-in-progress) - Positionen, an denen derzeit gearbeitet wird  -->
 > [Entwicklungsprozess](#entwicklungsprozess) - Übersicht, wie Positionen von *de-RSE e.V.* erarbeitet werden
 
 ## Positionspapiere
