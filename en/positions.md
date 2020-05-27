@@ -15,7 +15,7 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 > **Table of contents**
 > 
 > [Position papers](#position-papers) - official positions of *de-RSE e.V. - Society for Research Software*  
-<!--> [Work in progress](#work-in-progress) - Positions which are currently under development-->
+<!-- > [Work in progress](#work-in-progress) - Positions which are currently under development-->
 > [Development process](#development-process) - An overview of how positions are developed within *de-RSE e.V.*
 
 ## Position papers
