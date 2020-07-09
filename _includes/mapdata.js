@@ -380,6 +380,17 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "Sören Peters",
+            "popupContent": "<img src='../assets/img/map/soerenPeters.png'><a href='https://soerenpeters.com'>Sören Peters</a>, Technische Universität Braunschweig, s.peters@irmb.tu-bs.de<br><br><em>Passionate software developer. Working on <a href='https://magazin.tu-braunschweig.de/pi-post/wie-forschungssoftware-nachhaltiger-werden-kann/'>SURESOFT</a>, a project for sustainable research software development and deployment.</em>"
+        },
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [10.527724027633665, 52.27272029357738]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "Katrin Leinweber",
             "popupContent": "<img src='https://avatars1.githubusercontent.com/u/9948149'><a href='mailto:katrin.leinweber@tib.eu'>Katrin Leinweber</a>, Technische Informationsbibliothek (TIB)<br><br><em> Tätigkeitsschwerpunkte: Siehe <a href='https://tibhannover.github.io/FAIR-studyGroup/#portfolio'>FAIR Data & Software study group</a> & <a href='https://github.com/katrinleinweber?org=TIBHannover'>GitHub.com/katrinleinweber?org=TIBHannover</a>.</em>"
         },
