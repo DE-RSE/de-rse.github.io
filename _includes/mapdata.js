@@ -370,7 +370,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Jan Linxweiler",
-            "popupContent": "<img src='../assets/img/map/JanLinxweiler.png'><a href='https://www.tu-braunschweig.de/irmb/institut/mitarbeiter/linxweiler/index.html'>Jan Linxweiler</a>, Technische Universität Braunschweig, j.linxweiler@tu-bs.de<br><br><em>Postdoctoral researcher building interactive software systems using GPU Computing in the field of Computational Fluid Dynamics. Teaching Software Engineering to students from engineering disciplines. Doing RSE since 2005.</em>"
+            "popupContent": "<img src='../assets/img/map/JanLinxweiler.png'><a href='https://www.tu-braunschweig.de/irmb/institut/mitarbeiter/linxweiler'>Jan Linxweiler</a>, Technische Universität Braunschweig, j.linxweiler@tu-bs.de<br><br><em>Postdoctoral researcher building interactive software systems using GPU Computing in the field of Computational Fluid Dynamics. Teaching Software Engineering to students from engineering disciplines. Doing RSE since 2005.</em>"
         },
         "geometry": {
             "type": "Point", 
