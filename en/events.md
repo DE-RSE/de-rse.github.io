@@ -14,13 +14,10 @@ If you think, we are missing an event, please [contact](join.html) us.
 
 We organize the international **deRSE** conferences, by and for Research Software Engineers.
 
-### deRSE20
+The 2nd conference of Research Software Engineers in Germany was cancelled due to the COVID-19 pandemic.
+_SORSE_ - A Series of Online Research Software Events - is jointly organised by international RSE groups and organisations in 2020 to make up for the numerous cancelled in-person meetings and conferences.
 
-The 2nd conference of Research Software Engineers in Germany will take place from 25 - 27 August 2020 in Jena.
-
-#### \> [Conference website for deRSE19](../deRSE20/)
-
-## 2020 
+## 2020
 
 | Event | Date | Place | URL | Remarks |
 | --- | --- | --- | --- | --- |
