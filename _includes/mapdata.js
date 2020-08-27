@@ -471,5 +471,18 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [7.603546, 51.966485]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Anton Koch",
+            "popupContent": '<img src="https://hyper.fail/img/profile_ak_75h.jpg">Anton Koch<br><br>' +
+            '<a href="https://www.hs-mainz.de/personenverzeichnis/person/anton-koch/">Hochschule Mainz</a><br><br>' +
+            '<a href="http://motionbank.org/">Motion Bank - Software for Dance Research & Education</a>'
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.2771005, 49.9975955]
+        }
     }
 ];
