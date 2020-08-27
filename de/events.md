@@ -16,11 +16,8 @@ Falls eine Veranstaltung fehlt, [kontaktiere](join.html) uns bitte.
 
 Die **deRSE**-Konferenzen sind von uns veranstaltete, internationale Konferenzen von und für Research Software Engineers.
 
-### deRSE20
-
-Die 2. Konferenz für ForschungssoftwareentwicklerInnen in Deutschland findet vom 25.8. - 27.8. 2020 in Jena statt.
-
-#### \> [Konferenzwebsite für deRSE20](../deRSE20/)
+Die **deRSE20** ([Konferenzwebsite](../deRSE20/)) in Jena wurde aufgrund der COVID-19-Pandemie abgesagt.
+Die Veranstaltungsreihe _SORSE_ - A Series of Online Research Software Events - soll einen Ausgleich für die ausfallenden persönlichen Treffen bieten. SORSE wird von einem internationalem Team mit Beteiligung von de-RSE organisiert.
 
 ## 2020
 
