@@ -8,5 +8,5 @@ gem 'wdm', '~> 0.1.1' if Gem.win_platform?
 gem 'rake'
 
 gem 'jekyll'
-gem 'kramdown'
+gem "kramdown", ">= 2.3.0"
 gem 'jekyll-feed', group: :jekyll_plugins
