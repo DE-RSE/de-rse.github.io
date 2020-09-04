@@ -17,7 +17,7 @@ vorstand@de-rse.org
 * Frank Löffler (Friedrich Schiller University Jena, Chair)
 * Daniel Nüst (University Münster, Vice Chair) 
 * Stephan Janosch (Max Planck Institute for Molecular Cell Biology and Genetics Dresden, Treasurer)
-* Martin Hammitzsch (German Geological Research Center Potsdam, Vice Treasurer)
+* Florian Thiery (Research Squirrel Engineers Mainz, Vice Treasurer)
 * Bernadette Fritzsch (Alfred Wegener Institute Bremerhaven, Secretary)
 * Stephan Druskat (Humboldt University Berlin and Friedrich Schiller University Jena, Vice Secretary)
 
