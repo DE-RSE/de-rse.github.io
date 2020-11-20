@@ -2,6 +2,16 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "David Haensel",
+            "popupContent": "<img src='../assets/img/map/dhaensel.jpeg'><a href='https://www.fz-juelich.de/ias/ias-7/EN/AboutUs/Staff/Current/Haensel_David/_node.html'>David Haensel</a>, Forschungszentrum Jülich, <a href='https://www.fz-juelich.de/ias/ias-7/EN/Home/home_node.html'>IAS-7: Civil Safety Research</a>, d.haensel@fz-juelich.de<br><br><em>Developing pedestrian dynamics simulation software.</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [6.41010, 50.90680]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "Marc-André Hermanns",
             "popupContent": "<img src='../assets/img/map/mahermanns.jpg'>Marc-Andr&eacute; Hermanns, <a href='https://www.itc.rwth-aachen.de/'>IT Center</a>, <a href='https://www.rwth-aachen.de/'>RWTH Aachen University</a>, hermanns@itc.rwth-aachen.de<br><em>Research and development in performance analysis tools for high-performance computing (HPC)</em>"
         },
