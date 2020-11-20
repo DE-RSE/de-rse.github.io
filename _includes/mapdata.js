@@ -441,11 +441,11 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Florian Thiery",
-            "popupContent": "<img src='http://data.fthiery.de/thiery75.png'>Florian Thiery, Research Squirrel Engineers, rse@fthiery.de<br><br><em>research Software Engineer am RGZM, Mainz. Geodät und Software Engineer.</em>"
+            "popupContent": "<img src='http://data.fthiery.de/thiery75.png'>Florian Thiery, Römisch-Germanisches Zentralmuseum Leibniz Forschungsinstitut für Archäologie (Wissenschaftliche IT, Digitale Plattformen und Tools), Mitglied des Research Squirrel Engineers Netzwerks, rse@fthiery.de<br><br><em>Research Software Engineer. Geodät und Software Engineer.</em>"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [8.246979, 49.978206]
+            "coordinates": [8.280281, 49.993780]
         }
     }
 ];
