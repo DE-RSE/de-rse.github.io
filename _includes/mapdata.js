@@ -494,5 +494,16 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [8.2771005, 49.9975955]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Lukas Lamm",
+            "popupContent": "<img src='../assets/img/map/LukasLamm7575.png'><a href='https://www.ifam.rwth-aachen.de/aw/cms/IFAM/Themen/mitarbeiter/~wmw/lamm-lukas/?lang=de'>Lukas Lamm</a>, RWTH Aachen University<br><br><em>Researcher at the Institute for Applied Mechanics</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.06769, 50.77957]
+        }
     }
 ];
