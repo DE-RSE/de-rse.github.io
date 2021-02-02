@@ -13,7 +13,7 @@ For all flags use the `--help` flag.
 
 ## Contributions
 
-To contribute, please fork, change, test locally (see above) and create a pull request against `gh-pages`.
+To contribute, please fork, change, test locally (see above) and create a pull request against `master`.
 
 You can use [rake](http://rake.rubyforge.org/) to comfortably create content.
 
@@ -79,13 +79,13 @@ For help on syntax have a look at:
 
 ## Map
 
-The map is fed by [mapdata.js](https://github.com/DE-RSE/www/blob/gh-pages/_includes/mapdata.js). Adding someone to the map is as simple as adding a new section in this geoJSON file. Coordinates are available from [http://geojson.io/](http://geojson.io/) . Right now pictures should be 75px high. Inspiration for a nice testimonial can be found at Stephan Druskat's entry.
+The map is fed by [mapdata.js](https://github.com/DE-RSE/de-rse.github.io/blob/master/_includes/mapdata.js). Adding someone to the map is as simple as adding a new section in this geoJSON file. Coordinates are available from [http://geojson.io/](http://geojson.io/) . Right now pictures should be 75px high. Inspiration for a nice testimonial can be found at Stephan Druskat's entry.
    
 The map appeared on Dec 6th 2017 on the website. It's based on [leaflet](http://leafletjs.com) v1.2 and [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
      
 ## Events
      
-Events are included per year from https://github.com/DE-RSE/www/tree/gh-pages/_includes/events. No language specific remarks in favor of maintainability.
+Events are included per year from https://github.com/DE-RSE/de-rse.github.io/tree/master/_includes/events. No language specific remarks in favor of maintainability.
 
 ## Converting slack signup domain list
 
