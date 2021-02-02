@@ -505,5 +505,16 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [6.06769, 50.77957]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Diego Siqueira",
+            "popupContent": "<img src='../assets/img/map/DiegoSiqueira.png'>Diego Siqueira, <a href='https://www.uni-muenster.de/'>University of M&uuml;nster (WWU M&uuml;nster)</a><br /><br /><em>PhD Candidate <a href='https://www.ercis.org/'>@ERCIS</a> &amp; Research Software Engineer at the <a href='https://www.uni-muenster.de/SCDH/'>Service Center for Digital Humanities (SCDH)</a></em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.6082995, 51.9503357]
+        }
     }
 ];
