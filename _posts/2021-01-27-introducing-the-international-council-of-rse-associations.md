@@ -117,4 +117,4 @@ criteria for membership are:
 
 The Council\'s first meeting was 25 January 2021 and it plans to meet on
 a regular basis throughout the year. The Council can be contacted at
-[*intl-rse-council\@listserv.dfn.de*](mailto:intl-rse-council@listserv.dfn.de).
+[*intl-rse-council@listserv.dfn.de*](mailto:intl-rse-council@listserv.dfn.de).
