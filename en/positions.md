@@ -28,7 +28,7 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 
 - **Community reviews:** 23 January 2020 - 09 February 2020
 - **Accepted as official position:** 03 April 2020
-- **Full text:** [arXiv:2005.01469 \[cs.GL\]](https://arxiv.org/abs/2005.01469)
+- **Full text:** [F1000Research](https://doi.org/10.12688/f1000research.23224.2); [arXiv:2005.01469 \[cs.GL\]](https://arxiv.org/abs/2005.01469)
 - **Cite:** Anzt H, Bach F, Druskat S et al. An environment for sustainable research software in Germany and beyond: current state, open challenges, and call for action [version 2; peer review: 2 approved]. F1000Research 2021, 9:295 (https://doi.org/10.12688/f1000research.23224.2). [[BibTeX]({{ "/assets/bib/deRSEPosition001.bib" | prepend: site.baseurl }})]
 
 
