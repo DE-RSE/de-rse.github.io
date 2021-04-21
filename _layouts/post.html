@@ -16,14 +16,14 @@
           <!-- Set variable "lang" to reflect post's menu language -->
           {% if page.menulang == "en" %}
             {% assign lang = "/en/" %}
-            {% assign conf2019_title = "deRSE19 Conference" %}
+            {% assign conf2019_title = "deRSE20 Conference" %}
           {% elsif page.menulang == "de" %}
             {% assign lang ="/de/" %}
-            {% assign conf2019_title = "deRSE19 Konferenz" %}
+            {% assign conf2019_title = "deRSE20 Konferenz" %}
           {% endif %}
           {% assign indexurl = lang | prepend: site.baseurl | append: "index.html" %}
           {% assign page_conf2019 = false %}
-          {% assign conf2019_link = "conf2019/index.html" %}
+          {% assign conf2019_link = "/deRSE20/" %}
           {% if page.url contains "/conf2019/" %}
               {% assign page_conf2019 = true %}
               {% assign conf2019_link = "index.html" %}
