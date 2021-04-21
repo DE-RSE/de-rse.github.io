@@ -17,13 +17,11 @@ Hinweis: Die Koordinaten der Institute stammt aus [Wikidata](https://www.wikidat
 
 Nachtrag: Statisches Bild für Betrachter ohne Javascript hinzugefügt.
 
-<noscript>
-<img src="/assets/img/blog/2018/deRSE_survey_geom_distr.jpg" alt="geographische Verteilung der Umfragebeteiligungen">
-</noscript>
+<img src="{{ '/assets/images/blog/2018/deRSE_survey_geom_distr.jpg' | prepend:baseurl_root }}" alt="geographische Verteilung der Umfragebeteiligungen">
 <div id="map" style="height:1100px;"></div>
 
-<script type="text/javascript" src="{{ "/js/leaflet.js" | prepend: site.baseurl }}"></script>
-<script type="text/javascript" src="{{ "/js/leaflet.markercluster.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ '/assets/js/leaflet/leaflet.js' | prepend: site.baseurl_root }}"></script>
+<script type="text/javascript" src="{{ '/assets/js/leaflet/leaflet.markercluster.js' | prepend: site.baseurl_root }}"></script>
 <script type="text/javascript">
 
 
@@ -43,7 +41,7 @@ L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
-{% include js/study2017.js %}
+{% include js/survey2017.js %}
 
 function myClustering(cluster) {
 		var childCount = cluster.getChildCount();

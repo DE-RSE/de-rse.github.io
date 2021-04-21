@@ -23,8 +23,8 @@ Hinweis 2: Falls der Feedreader die Karte nicht interaktiv anzeigt, dann bitte d
 </noscript>
 <div id="map2018" style="height:1100px;"></div>
 
-<script type="text/javascript" src="{{ "/js/leaflet.js" | prepend: site.baseurl }}"></script>
-<script type="text/javascript" src="{{ "/js/leaflet.markercluster.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ '/assets/js/leaflet/leaflet.js' | prepend: site.baseurl_root }}"></script>
+<script type="text/javascript" src="{{ '/assets/js/leaflet/leaflet.markercluster.js' | prepend: site.baseurl_root }}"></script>
 <script type="text/javascript">
 
 
@@ -44,7 +44,7 @@ L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map2018);
 
-{% include js/survey2018_distribution.js %}
+{% include js/survey2018.js %}
 
 function myClustering(cluster) {
 		var childCount = cluster.getChildCount();
