@@ -1,0 +1,13 @@
+global:
+  german: German
+  english: English
+  de: DE
+  en: EN
+  become-member: "Become a member <i class='fas fa-user-check'></i>"
+  society-name: "Society for Research Software"
+
+home:
+  positions-title: "Positions"
+  learn-more-button: "Learn more"
+  go-to-website-button: "Go to website"
+

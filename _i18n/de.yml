@@ -1,0 +1,12 @@
+global:
+  german: Deutsch
+  english: Englisch
+  de: DE
+  en: EN
+  become-member: "Mitglied werden <i class='fas fa-user-check'></i>"
+  society-name: "Gesellschaft für Forschungssoftware"
+  
+home:
+  positions-title: "Positionen"
+  learn-more-button: "Mehr"
+  go-to-website-button: "Zur Website"
