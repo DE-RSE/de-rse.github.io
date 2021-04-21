@@ -1,6 +1,0 @@
----
-title:
-layout: post
-author:
-menulang: en
----
