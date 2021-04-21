@@ -1,0 +1,203 @@
+# Main navigation links
+languages:
+  - language: "de"
+    links: 
+    - title: "Über uns"
+      url: /about/
+      description: "Informationen über de-RSE"
+    - title: "Community"
+      url: /community/
+      description: "Die de-RSE Community"
+    - title: "Neues & Blog"
+      url: /blog/
+      description: "Deutschsprachige Blogposts"
+    - title: "Ressourcen"
+      url: /resources/
+      description: "RSE-relevante Ressourcen"
+    - title: "Mitmachen!"
+      url: /get-involved/
+      description: "Bei (de-) RSE mitmachen!"
+    - title: "Veranstaltungen"
+      url: /events/
+      description: "RSE-relevante Veranstaltungen"
+
+  - language: "en"
+    links: 
+    - title: "About us"
+      url: /about/
+      description: "Information about de-RSE"
+    - title: "Community"
+      url: /community/
+      description: "The de-RSE community"
+    - title: "News & blog"
+      url: /blog/
+      description: "English-language blog posts"
+    - title: "Resources"
+      url: /resources/
+      description: "RSE-relevant resources"
+    - title: "Get involved!"
+      url: /get-involved/
+      description: "Get involved in (de-) RSE!"
+    - title: "Events"
+      url: /events/
+      description: "RSE-relevant events"
+
+# Sidebar navigation links
+about:
+  - language: "de"
+    title: "Bessere Software, bessere Forschung"
+    children:
+      - title: "Ziele"
+        url: /society/aims/
+      - title: "Positionen"
+        url: /society/positions/
+      - title: "Vorstand"
+        url: /society/board/
+      - title: "Mitgliederversammlungen"
+        url: /society/agm/
+      # - title: "Fellows"
+      #   url: /society/fellows/
+      # - title: "Code of Conduct"
+      #   url: /society/code-of-conduct/
+      # - title: "Andere über uns"
+      #   url: /society/press/
+      # - title: "Governance"
+      #   url: /society/governance/
+      # - title: "Policies"
+      #   url: /society/policies/
+      # - title: "Roles"
+      #   url: /society/roles/
+      - title: "Kontakt"
+        url: /society/contact/
+  - language: "en"
+    title: "Better software, better research"
+    children:
+      - title: "Aims"
+        url: /society/aims/
+      - title: "Positions"
+        url: /society/positions/
+      - title: "Board"
+        url: /society/board/
+      - title: "AGMs"
+        url: /society/agm/
+      # - title: "Fellows"
+      #   url: /society/fellows/
+      # - title: "Code of Conduct"
+      #   url: /society/code-of-conduct/
+      # - title: "Press"
+      #   url: /society/press/
+      # - title: "Governance"
+      #   url: /society/governance/
+      # - title: "Policies"
+      #   url: /society/policies/
+      # - title: "Roles"
+      #   url: /society/roles/
+      - title: "Contact"
+        url: /society/contact/
+
+
+community:
+  - language: "de"
+    title: "Community"
+    children:
+      - title: "Karte"
+        url: "/community/map/"
+      - title: "lokale Chapter"
+        url: "/community/chapters/"
+      - title: "RSE-Gruppen"
+        url: "/community/groups/"
+      - title: "RSE International"
+        url: "/community/international/"
+      - title: "Partner"
+        url: "/community/partners/"
+      - title: "NFDI4RSE"
+        url: "https://www.rse4nfdi.de/de/index.html"
+  - language: "en"
+    title: "Community"
+    children:
+      - title: "Map"
+        url: "/community/map/"
+      - title: "Local chapters"
+        url: "/community/chapters/"
+      - title: "RSE groups"
+        url: "/community/groups/"
+      - title: "RSE international"
+        url: "/community/international/"
+      - title: "Partners"
+        url: "/community/partners/"
+      - title: "NFDI4RSE"
+        url: "https://www.rse4nfdi.de/en/index.html"
+
+resources:
+  - language: "de"
+    title: "Ressourcen"
+    children:
+      - title: "Positionen"
+        url: "/about/positions/"
+      - title: "Was ist ein RSE?"
+        url: "/about/what-is-an-rse/"      
+      - title: "RSE-Jobbeschreibungen"
+        url: "/resources/job-descriptions/"
+      - title: "Stellenangebote"
+        url: "/resources/vacancies/"
+      - title: "Anekdoten"
+        url: "/resources/anecdotes/"
+      - title: "Zitate & Links"
+        url: "/resources/links/"
+  - language: "en"
+    title: "Resources"
+    children:
+      - title: "Positions"
+        url: "/about/positions/"
+      - title: "What is an RSE?"
+        url: "/about/what-is-an-rse/"      
+      - title: "RSE job descriptions"
+        url: "/resources/job-descriptions/"
+      - title: "Vacancies"
+        url: "/resources/vacancies/"
+      - title: "Anecdotes"
+        url: "/resources/anecdotes/"
+      - title: "Quotes & links"
+        url: "/resources/links/"
+
+get-involved:
+  - language: "de"
+    title: "Mitmachen!"
+    children:
+      - title: "Mitglied werden"
+        url: "/get-involved/membership/"
+      - title: "Mailingliste & Chat"
+        url: "/get-involved/communication/"
+  - language: "en"
+    title: "Homepage"
+    children:
+      - title: "Become a member"
+        url: "/get-involved/membership/"
+      - title: "Mailing list & chat"
+        url: "/get-involved/communication/"
+
+events:
+  - language: "de"
+    title: "Veranstaltungen"
+    children:
+      - title: "deRSE Konferenzen"
+        url: "/events/deRSE/"
+      - title: "Andere Veranstaltungen"
+        url: "/events/calendar/"
+      # - title: "Training"
+      #   url: "/events/training/"
+  - language: "en"
+    title: "Events"
+    children:
+      - title: "deRSE conferences"
+        url: "/events/deRSE/"
+      - title: "Other events"
+        url: "/events/calendar/"
+      # - title: "Training"
+      #   url: "/events/training/"
+
+blog:
+  - language: "de"
+    title: "<i class='fa fa-language'></i>"
+  - language: "en"
+    title: "<i class='fa fa-language'></i>"
