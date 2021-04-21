@@ -87,6 +87,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/de-RSE"
+    - label: "Impressum (Legal notice)"
+      icon: "fas fa-balance-scale"
+      absolute_path: "impressum-legal-notice/"
 
 defaults:
   # _posts
