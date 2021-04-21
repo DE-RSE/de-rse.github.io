@@ -3,7 +3,7 @@ title: "Vorstandssitzungen im 1. Quartal 2021"
 author: "Frank Löffler"
 header:
   teaser: "/assets/images/500x300.png"
-language: en
+language: de
 categories: 
   - Vorstand
 tags:
