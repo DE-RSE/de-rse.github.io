@@ -1,8 +1,14 @@
 ---
 title: "Survey about research software in Germany, and the people involved in it - #deRSEsurvey2017"
-layout: post
 author: Stephan Janosch
-menulang: en
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: en
+
 ---
 Hello,
 

@@ -1,8 +1,14 @@
 ---
 title: "Verteilung der Umfrage in Deutschland"
-layout: post
 author: Stephan Janosch
-menulang: de, en
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: de
+
 ---
 
 Die Auswertung der [Umfrage](https://www.de-rse.org/blog/2017/10/19/umfrage-forschungssoftware-beteiligten-personen-deutschland-2017.html) geht langsam voran, hier schon einmal die geographische Verteilung der Antworten. Das Clustering summiert die Beteiligungen der einzelnen Institutionen. Die Zahl gibt an, wieviel Antworten von wo zur Studie beigetragen haben.   
@@ -37,7 +43,7 @@ L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
-{% include study2017.js %}
+{% include js/study2017.js %}
 
 function myClustering(cluster) {
 		var childCount = cluster.getChildCount();

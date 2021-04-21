@@ -1,8 +1,14 @@
 ---
 title: "Publikation und Zitation von Forschungssoftware - Teil 2 des deRSE19-Workshop-Rückblicks \"Entwicklung von Policies und Richtlinien für Forschungssoftware\""
-layout: post
 author: Kaja Scheliga, Tobias Schlauch, Bernadette Fritzsch, Jürgen Fuhrmann
-menulang: de
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: de
+
 ---
 
 Dieser Post fasst die Eindrücke und Ergebnisse des [deRSE19-Workshops "Entwicklung von Policies und Richtlinien für Forschungssoftware"]({% post_url 2019-07-10-derse19-ws-policies-1 %}) zum Thema **Publikation und Zitation von Forschungssoftware** zusammen.

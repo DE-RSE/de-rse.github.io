@@ -1,8 +1,14 @@
 ---
 title: "Terminankündigung: deRSE19 - Konferenz für ForschungssoftwareentwicklerInnen in Deutschland, 4.-6. Juni 2019"
-layout: post
 author: Martin Hammitzsch, Stephan Janosch, Frank Löffler, Frederieke Miesner
-menulang: de
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: de
+
 ---
 
 Nach dem Erfolg der [ersten und zweiten internationalen Konferenz der Research Software Engineers in Großbritannien](https://rse.ac.uk/events/past-conferences/), findet vom 4. bis 6. Juni 2019 im Wissenschaftspark Albert Einstein in Potsdam eine nationale Konferenz zu Forschungssoftware und den beteiligten Personen in der deutschen Forschungslandschaft statt.

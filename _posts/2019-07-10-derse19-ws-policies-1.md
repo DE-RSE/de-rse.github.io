@@ -1,8 +1,14 @@
 ---
 title: "deRSE19: Rückblick auf den Workshop \"Entwicklung von Policies und Richtlinien für Forschungssoftware\""
-layout: post
 author: Jürgen Fuhrmann, Bernadette Fritzsch, Tobias Schlauch, Kaja Scheliga
-menulang: de
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: de
+
 ---
 ## Wann & Wo ?
 Der Workshop ["Entwicklung von Policies und Richtlinien für Forschungssoftware"](https://www.de-rse.org/de/conf2019/talk/KZX8VD/) startete am Freitag, den 06.06.2019 in der großen Kuppel des Gebäudes A31 (PIK).

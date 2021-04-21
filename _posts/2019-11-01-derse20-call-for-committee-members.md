@@ -1,8 +1,14 @@
 ---
 title: "deRSE20 Call for Committee Members"
-layout: post
 author: Stephan Druskat & de-RSE e.V. Vorstand
-menulang: de
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: de
+
 ---
 
 <!-- # deRSE20 Call for Committee Members -->

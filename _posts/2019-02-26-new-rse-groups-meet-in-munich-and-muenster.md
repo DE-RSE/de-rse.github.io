@@ -1,8 +1,13 @@
 ---
 title: "New RSE groups meet in Munich and Münster"
-layout: post
 author: Heidi Seibold (Institut für Medizinische Informationsverarbeitung Biometrie und Epidemiologie, LMU München), Daniel Nüst (Institut für Geoinformatik, Universität Münster)
-menulang: en
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: en
 ---
 
 The RSE community in Germany is filled with life by many committed people.

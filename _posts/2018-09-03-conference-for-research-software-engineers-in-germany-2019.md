@@ -1,8 +1,14 @@
 ---
 title: "Save the date: deRSE19 - Conference for Research Software Engineers in Germany, June 4-6 2019"
-layout: post
 author: Martin Hammitzsch, Stephan Janosch, Frank Löffler, Frederieke Miesner
-menulang: en
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: en
+
 ---
 
 Following the success of the [First and Second international Conference of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), a national conference addressing research software and the people behind in the German research landscape will be held at the Albert Einstein Science Park in Potsdam on June 4-6 2019.

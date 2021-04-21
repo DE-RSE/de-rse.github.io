@@ -1,8 +1,14 @@
 ---
 title: "Beteiligungphase der Vereinsgründung"
-layout: post
 author: Stephan Janosch
-menulang: de, en
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: de
+
 ---
 
 **Volle Fahrt Richtung Verein!** 

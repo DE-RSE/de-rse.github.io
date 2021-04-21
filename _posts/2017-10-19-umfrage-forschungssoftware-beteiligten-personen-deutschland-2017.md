@@ -1,8 +1,14 @@
 ---
 title: "Umfrage zu Forschungssoftware und beteiligten Personen 2017 in Deutschland - #deRSEsurvey2017"
-layout: post
 author: Stephan Janosch
-menulang: de
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: de
+
 ---
 Hallo,
 

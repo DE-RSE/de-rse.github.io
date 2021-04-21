@@ -1,9 +1,15 @@
 ---
 title: "Save the Date: deRSE20 - 2nd Internationl Conference of Research Software Engineers in Germany, 25-27 August 2020"
-layout: post
 author: deRSE e.V. - Society for Research Software
-menulang: en
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: en
 ---
+
 The *1st International Conference for Research Software Engineers in Germany* this year in June in Potsdam was a great success.
 Therefore we are very happy to announce that planning for the ***[2nd International Conference for Research Software Engineers in Germany]((https://de-rse.org/deRSE20/))*** has started!
 

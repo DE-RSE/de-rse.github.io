@@ -1,8 +1,15 @@
 ---
 title: "Research Software Engineers from the Geosciences assemble for the first time at EGU General Assembly 2018"
-layout: post
 author: Daniel Nüst
-menulang: en, de
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: en
+
+
 ---
 
 On April 12th 2018, the first Research Software Engineers (RSEs) for geosciences meeting was held at the European Geophysical Union (EGU) General Assembly (GA) in Vienna, Austria.

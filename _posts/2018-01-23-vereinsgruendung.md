@@ -1,8 +1,15 @@
 ---
 title: "Vereinsgründung"
-layout: post
 author: Stephan Janosch
-menulang: de
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: de
+
+
 ---
 
 Seitdem wir uns als Gemeinschaft gefunden haben, um de-RSE zu einer echten Unterstützung unserer täglichen Arbeit zu machen, stand immer eine Frage im Raum: In welcher juristischen Form treten wir als Gemeinschaft auf, um unsere [Ziele](https://www.de-rse.org/de/aims.html) zu verwirklichen?

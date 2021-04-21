@@ -1,8 +1,13 @@
 ---
 title: "Introducing the International Council of RSE Associations"
-layout: post
+header:
+  teaser: "/assets/images/500x300.png"
 author: "Daniel S. Katz, Stephan Druskat, Ian Cosden, Paul Richmond, Anne Fouilloux"
-menulang: en
+language: en
+categories: 
+  - Jekyll
+tags:
+  - update
 ---
 
 *Cross-posted on [researchsoftware.org](https://researchsoftware.org/2020-workshop.html).*  

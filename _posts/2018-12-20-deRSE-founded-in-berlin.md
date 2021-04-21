@@ -1,8 +1,14 @@
 ---
 title: "de-RSE association founded in Berlin"
-layout: post
 author: Stephan Druskat, Frank Löffler, Bernadette Fritzsch, Martin Hammitzsch, Daniel Nüst, Stephan Janosch
-menulang: en
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: en
+
 ---
 
 The German community of Research Software Engineers finally has a new home: On Monday, 26th November 2018, the association **de-RSE e.V. - Gesellschaft für Forschungssoftware** was founded at the Interdisciplinary Laboratory Image Knowledge Gestaltung at Humboldt-Universität zu Berlin.

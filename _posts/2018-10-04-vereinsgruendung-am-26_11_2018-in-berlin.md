@@ -1,8 +1,15 @@
 ---
 title: "Vereinsgründung am 26.11.2018 in Berlin"
-layout: post
 author: Stephan Janosch
-menulang: de
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: de
+
+
 ---
 
 Es ist soweit: die Gründung eines Vereins für die de-RSE steht kurz bevor.

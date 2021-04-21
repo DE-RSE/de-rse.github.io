@@ -1,8 +1,14 @@
 ---
 title: "Foundation of the de-RSE Association at Nov 26th in Berlin"
-layout: post
 author: Stephan Janosch
-menulang: en
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: en
+
 ---
 
 The time has come: The creation of the official de-RSE association is going to

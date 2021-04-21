@@ -1,8 +1,14 @@
 ---
 title: "de-RSE e.V. in Berlin gegründet"
-layout: post
 author: Stephan Druskat, Frank Löffler, Bernadette Fritzsch, Martin Hammitzsch, Daniel Nüst, Stephan Janosch
-menulang: de
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: de
+
 ---
 
 Die in Deutschland ansässige Community der Research Software Engineers hat ein

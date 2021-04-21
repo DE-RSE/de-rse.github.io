@@ -1,8 +1,14 @@
 ---
 title: "Founding an Association"
-layout: post
 author: Stephan Janosch (translation Daniel Nüst)
-menulang: en
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: en
+
 ---
 
 Ever since we have come together as a community to create de-RSE for the everyday support of our work, one question has always been on the table:

@@ -1,9 +1,13 @@
 ---
 title: "deRSE20 Goes Bazaar"
-layout: post
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: en
 author: Stephan Druskat
-menulang: en
-
 ---
 
 Have you read the essay ["The Cathedral and the Bazaar", by Eric S. Raymond](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/) about open source development?

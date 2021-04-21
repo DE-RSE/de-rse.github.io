@@ -1,8 +1,13 @@
 ---
 title: "Terminankündigung: deRSE20 - 2. Internationale Konferenz für research software engineers in Deutschland, 25.-27. August 2020"
-layout: post
 author: deRSE e.V. - Gesellschaft für Forschungssoftware
-menulang: de
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
+language: de
 ---
 
 Die erstmalige Ausrichtung der Konferenz für Research Software Engineers im Juni diesen Jahres auf dem Telegrafenberg in Potsdam war ein voller Erfolg.
