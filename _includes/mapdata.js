@@ -472,17 +472,6 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
-            "name": "Diego Siqueira",
-            "popupContent": "<img src='https://avatars.githubusercontent.com/u/613309?s=400&u=13e8200a370896988b2152d7e5e4f26eb339f23d&v=4'>Diego Siqueira, <a href='https://www.uni-muenster.de/'>University of M&uuml;nster (WWU M&uuml;nster)</a><br /><br /><em>PhD Candidate <a href='https://www.ercis.org/'>@ERCIS</a> &amp; Research Software Engineer at the <a href='https://www.uni-muenster.de/SCDH/'>Service Center for Digital Humanities (SCDH)</a></em>"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [7.6082995, 51.9503357] 
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "name": "René Fritze",
             "popupContent": "<img src='https://avatars1.githubusercontent.com/u/47802?s=460&v=4'>René Fritze<br>" +
             '<a href="https://www.uni-muenster.de/AMM/ohlberger/team/rene_fritze.shtml">Angewandte Mathematik Münster</a><br>' +
