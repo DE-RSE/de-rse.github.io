@@ -10,4 +10,4 @@ gem 'rake'
 gem 'jekyll'
 gem "kramdown", ">= 2.3.0"
 gem 'jekyll-feed', group: :jekyll_plugins
-gem 'kramdown-parser-gfm'
+gem "kramdown-parser-gfm"
