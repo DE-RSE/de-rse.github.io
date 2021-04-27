@@ -1,11 +1,11 @@
 ---
 title: "Building Research Software Communities"
 layout: post
-author: "Jeremy Cohen, Michelle Barker, Daniel Nüst, Serah Njambi Rono, Lou Woodley, Toby Hodges"
+author: "Michelle Barker, Jeremy Cohen, Daniel Nüst, Toby Hodges, Serah Njambi Rono, Lou Woodley"
 menulang: en
 ---
 
-*Cross-posted on [CSCCE](TODO) and [SSI](TODO) blogs.*  
+*Cross-posted on [CSCCE](https://www.cscce.org/blog/) and [Imperial College London - Research Software Engineering](https://wwwf.imperial.ac.uk/blog/research-software-engineering/2021/04/27/building-research-software-communities/) blogs.*  
 
 *Photo by [@randyfath](https://unsplash.com/@randyfath) on [Unsplash](https://unsplash.com/).*
 
