@@ -11,6 +11,7 @@ highlighter: rouge
 permalink: /blog/:categories/:year/:month/:day/:title.html
 timezone: Europe/Berlin
 excerpt_separator: <!--more-->
+future: false
 post:
   template: _post.txt
   extension: md
