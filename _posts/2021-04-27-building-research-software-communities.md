@@ -5,7 +5,7 @@ author: "Michelle Barker, Jeremy Cohen, Daniel Nüst, Toby Hodges, Serah Njambi 
 menulang: en
 ---
 
-*Cross-posted on [CSCCE](https://www.cscce.org/blog/) and [Imperial College London - Research Software Engineering](https://wwwf.imperial.ac.uk/blog/research-software-engineering/2021/04/27/building-research-software-communities/) blogs.*  
+*Cross-posted on [CSCCE](https://www.cscce.org/2021/04/27/building-research-software-communities-running-a-workshop-on-community-building-and-sustainability-for-the-research-software-community/) and [Imperial College London - Research Software Engineering](https://wwwf.imperial.ac.uk/blog/research-software-engineering/2021/04/27/building-research-software-communities/) blogs.*  
 
 *Photo by [@randyfath](https://unsplash.com/@randyfath) on [Unsplash](https://unsplash.com/).*
 
