@@ -7,9 +7,9 @@ menulang: de
 
 Die Nationale Forschungsdateninfrastruktur und effizientes Forschungsdatenmanagement sind eng verbunden mit wissenschaftlicher Software.
 Die NFDI selbst wird unter anderem durch Software realisiert.
-Forschungsdaten werden mit Hilfe von Software gesammelt, verwaltet, simuliert, analysiert, und veröffentlicht.
-Die de-RSE e.V. - Gesellschaft für Forschungssoftware ist eine große unabhängige, deutsche Interessengsgemeinschaft von Softwareentwicklern in der Wissenschaft (Research Software Engineers, RSEs).
-Die Entwickler gehören dabei verschiedensten Disziplinen an.
+Forschungsdaten werden mit Hilfe von Software gesammelt, verwaltet, simuliert, analysiert und veröffentlicht.
+Die de-RSE e.V. - Gesellschaft für Forschungssoftware ist eine große unabhängige, deutsche Interessengsgemeinschaft von Softwareentwickler/inne/n in der Wissenschaft (Research Software Engineers, RSEs).
+Die Entwickler/innen gehören dabei verschiedensten Disziplinen an.
 
 Im Rahmen der Nationalen Forschungsdateninfrastruktur (NFDI) werden die Datenbestände von Wissenschaft und Forschung für das gesamte deutsche Wissenschaftssystem systematisch erschlossen, vernetzt und nachhaltig sowie qualitativ nutzbar gemacht.
 Bislang sind sie zumeist dezentral, projektbezogen oder nur auf Zeit verfügbar.
