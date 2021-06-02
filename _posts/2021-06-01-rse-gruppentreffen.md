@@ -29,7 +29,6 @@ Im bisherigen Orga-Team (wir sind offen für jede/n) haben wir auch schon über 
     - Förderung von RSEs / Software
 
 Dabei sind die Themen nicht in Stein gemeißelt, nur die Vernetzung wird beim 1. Treffen einfach Hauptrolle spielen müssen.
-Wen interessiert, wie wir zu diesen Themen bekommen sind, kann sich das [hier](https://github.com/DE-RSE/projekte/issues/3) ansehen bzw. dort sogar noch neue Themen anbringen oder bestehende kommentieren.
+Wen interessiert, wie wir zu diesen Themen gekommen sind, kann sich das [hier](https://github.com/DE-RSE/projekte/issues/3) ansehen bzw. dort sogar noch neue Themen einbringen oder bestehende kommentieren.
 
 Anfang nächster Woche wird die Umfrage ausgewertet und ihr an dieser Stelle informiert, wie ihr wann teilnehmen könnt.
-
