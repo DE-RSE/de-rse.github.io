@@ -5,7 +5,7 @@ author: "Frank Löffler"
 menulang: de
 ---
 
-An wissenschaftlichen Instituten und Universitäten in Deutschland entstehen immer mehr RSE-Gruppen.
+An Forschungsinstituten und Universitäten in Deutschland entstehen immer mehr RSE-Gruppen.
 Diese sind jedoch im Moment kaum untereinander vernetzt.
 Weil wir aber glauben, dass wir gemeinsam stärker sind und alle von einem Ideen- und Erfahrungsaustausch profitieren können, soll es ein 1. (virtuelles, halbtägiges) Treffen von RSE-Gruppen noch im Juni geben.
 Wir wollen damit vor allem die Leitung der Gruppen ansprechen, aber auch alle anderen, die sich dafür interessieren (vielleicht selbst in die Richtung gehen wollen).
