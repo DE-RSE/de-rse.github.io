@@ -71,22 +71,12 @@ In der `README` findest du eine Anleitung wie Du eine Vorschau der Seite auf dei
 Wer mehr über Hintergründe, Ziele und Aktivitäten wissen möchte oder Fragen zu 
 anderen Themen hat, kann sich einfach über die Mailing Liste liste@de-RSE.org melden.
 
-Sollte jedoch der persönliche Kontakt gewünscht sein, dann können folgende Personen 
-gern als Ansprechpartner kontaktiert werden.
+Sollte jedoch der persönliche Kontakt gewünscht sein, dann kann der Vorstand wie folgt erreicht werden.
 
-Martin Hammitzsch\\
-Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum GFZ\\
-<http://www.gfz-potsdam.de/mitarbeiter/martin-hammitzsch/>\\
-<https://twitter.com/mrtnhmtz>
+de-RSE e.V. - Gesellschaft für Forschungssoftware  
+c/o Deutsches Zentrum für Luft- und Raumfahrt (DLR)  
+Institut für Softwaretechnologie  
+Rutherfordstraße 2  
+12489 Berlin  
 
-Frank Löffler\\
-Institut für Informatik, Friedrich-Schiller-Universität Jena\\
-<https://www.cct.lsu.edu/~knarf/>  
-
-Stephan Janosch\\
-Max-Planck-Institut für Molekulare Zellbiologie und Genetik\\
-<https://www.mpi-cbg.de/de/institut/staff-search>\\
-<https://twitter.com/StephanJanosch>
-
-Wer gern als weiterer Ansprechpartner dabei sein möchte, 
-meldet sich einfach bei den oben genannten Ansprechpartnern.
+E-Mail: vorstand [at] de-rse.org  

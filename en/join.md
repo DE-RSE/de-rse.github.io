@@ -70,21 +70,13 @@ The `README` includes instructions for getting a local preview of the site.
 Of course please do not hesitate to use the mailing list liste@de-RSE.org if
 you have questions about the background, aims, and activities of de-RSE.
 
-In case personal contact is what you need, you can directly contact one of
-the following people.
+In case personal contact is what you need, you can directly contact the board.
 
-Martin Hammitzsch\\
-Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum GFZ\\
-<http://www.gfz-potsdam.de/mitarbeiter/martin-hammitzsch/>\\
-<https://twitter.com/mrtnhmtz>
+de-RSE e.V. - Gesellschaft für Forschungssoftware  
+c/o German Aerospace Center (DLR)  
+Institute for Software Technology  
+Rutherfordstraße 2  
+12489 Berlin  
+Germany
 
-Frank Löffler\\
-Institut für Informatik, Friedrich-Schiller-Universität Jena\\
-<https://www.cct.lsu.edu/~knarf/>  
-
-Stephan Janosch\\
-Max-Planck-Institut für Molekulare Zellbiologie und Genetik\\
-<https://www.mpi-cbg.de/de/institut/staff-search>\\
-<https://twitter.com/StephanJanosch>
-
-If you like to be listed here as well, please contact one of us directly.
+Email: vorstand [at] de-rse.org  
