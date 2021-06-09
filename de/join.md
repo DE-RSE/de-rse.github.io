@@ -40,6 +40,11 @@ vorher das Material an einem anderen Ort hochladen und so zur Verfügung stellen
 Für Diskussionen bitte nicht die Mailing Liste nutzen, sondern den GWDG RocketChat Channel
 <https://chat.gwdg.de/channel/derse>.
 
+## Stellenangebote
+
+Für Stellenangebote können derzeit neben der Mailing Liste auch der GWDG RocketChat Channel
+<https://chat.gwdg.de/channel/derse_jobs> genutzt werden.
+
 ## Monatlicher Call
 
 Beim Dezember 2016 Call der deutschsprachigen 

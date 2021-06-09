@@ -41,6 +41,11 @@ create a financial problem.
 Please don't use the mailing list for long discussions, use the GWDG RocketChat channel instead!
 <https://chat.gwdg.de/channel/derse/>
 
+## Job offers
+
+Job offers can be announced on the mailing list, but also on the GWDG RocketChat channel
+<https://chat.gwdg.de/channel/derse_jobs>.
+
 ## Monthly Community Call
 
 In the December Call of the German-speaking 
