@@ -208,11 +208,11 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Simon Christ",
-            "popupContent": "<a href='https://www.mpikg.mpg.de/mitarbeiterverzeichnis/48142'>Simon Christ</a>, Max-Planck-Institut f&uuml;r Kolloid- und Grenzfl&auml;chenforschung"
+            "popupContent": "<a href='https://www.mpikg.mpg.de/mitarbeiterverzeichnis/48142'>Simon Christ</a>, Leibniz Universit&auml;t Hannover"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [12.969317436218262, 52.41460544882651]
+            "coordinates": [52.391714, 9.703279]
         }
     },
     {
