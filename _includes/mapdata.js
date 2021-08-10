@@ -516,5 +516,15 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [7.6082995, 51.9503357]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Benjamin Uekermann",
+            "popupContent": "<img src='../assets/img/map/BenjaminUekermann.jpg'><a href='https://github.com/uekerman'>Benjamin Uekermann</a>, University of Stuttgart, Stuttgart Center for Simulation Science, benjamin.uekermann@ipvs.uni-stuttgart.de<br><br><em>Lead developer of the coupling library <a href='https://precice.org/'>preCICE</a> </em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [48.74534896513809, 9.108631769289177]
+        }
     }
 ];
