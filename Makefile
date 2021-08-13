@@ -31,7 +31,7 @@ gemfile.lock:
 check: build
 	$(DOCKER) bundle exec htmlproofer _site \
 		--empty-alt-ignore --allow-hash-href --url-ignore $(IGNORE_HREFS) \
-		--internal_domains "school.pymor.org" --file-ignore "/past/" --check-html
+		--check-html
 
 clean: 
 	rm -rf _site .cache .jekyll-cache

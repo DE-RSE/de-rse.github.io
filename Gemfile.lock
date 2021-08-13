@@ -91,7 +91,7 @@ DEPENDENCIES
   jekyll-feed
   kramdown (>= 2.3.0)
   kramdown-parser-gfm
-  rake
+  rake (= 13.0.6)
   tzinfo-data
 
 BUNDLED WITH
