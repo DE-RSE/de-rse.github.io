@@ -1,0 +1,13 @@
+name: build and proof the site
+
+on: [push, pull_request]
+
+jobs:
+  jekyll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: build site
+        run: make build
+      - name: proof site
+        run: make check
