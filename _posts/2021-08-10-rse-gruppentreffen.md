@@ -5,7 +5,7 @@ author: "Frank Löffler"
 menulang: de
 ---
 
-Am 25.6.2021 [lud](/blog/2021/06/19/rse-gruppentreffen.html) [de-RSE](https://de-rse.org)zum ersten deutschen RSE-Gruppenleitungstreffen [ein](/blog/2021/06/19/rse-gruppentreffen.html).
+Am 25.6.2021 [lud](/blog/2021/06/19/rse-gruppentreffen.html) [de-RSE](https://de-rse.org) zum ersten deutschen RSE-Gruppenleitungstreffen [ein](/blog/2021/06/19/rse-gruppentreffen.html).
 27 virtuell Teilnehmende waren dem Aufruf gefolgt.
 Einige kannten sich schon von vor-Corona-Treffen, wie zum Beispiel von der [deRSE19-Konferenz](https://de-rse.org/de/conf2019/). Viele aber hatten sich bisher höchstens virtuell "gesehen", zum Beispiel im [deRSE-RocketChat-Kanal](https://chat.gwdg.de/channel/derse).
 
