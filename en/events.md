@@ -17,6 +17,14 @@ We organize the international **deRSE** conferences, by and for Research Softwar
 The 2nd conference of Research Software Engineers in Germany was cancelled due to the COVID-19 pandemic.
 _SORSE_ - A Series of Online Research Software Events - is jointly organised by international RSE groups and organisations in 2020 to make up for the numerous cancelled in-person meetings and conferences.
 
+## 2021
+
+| Event | Date | Place | URL | Remarks |
+| --- | --- | --- | --- | --- |
+{% include events/2021.md %}
+{: .table .table-hover}
+
+| Event | Date | Place | URL | Remarks |
 ## 2020
 
 | Event | Date | Place | URL | Remarks |

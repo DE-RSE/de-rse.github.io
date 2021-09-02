@@ -19,6 +19,14 @@ Die **deRSE**-Konferenzen sind von uns veranstaltete, internationale Konferenzen
 Die **deRSE20** ([Konferenzwebsite](../deRSE20/)) in Jena wurde aufgrund der COVID-19-Pandemie abgesagt.
 Die Veranstaltungsreihe _SORSE_ - A Series of Online Research Software Events - soll einen Ausgleich für die ausfallenden persönlichen Treffen bieten. SORSE wird von einem internationalem Team mit Beteiligung von de-RSE organisiert.
 
+## 2021
+
+| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| --- | --- | --- | --- | --- |
+{% include events/2021.md %}
+{: .table .table-hover}
+
+
 ## 2020
 
 | Veranstaltung | Datum | Ort | URL | Bemerkung |
