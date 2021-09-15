@@ -208,7 +208,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Simon Christ",
-            "popupContent": "<a href='https://www.mpikg.mpg.de/mitarbeiterverzeichnis/48142'>Simon Christ</a>, Leibniz Universit&auml;t Hannover"
+            "popupContent": "<a href='https://www.cell.uni-hannover.de/typo3temp/_processed_/6/e/csm_f26ab0db6f1a2561487dcad03d43735523caa861-fp-3-2-0-0_22538b9719.jpg'>Simon Christ</a>, Leibniz Universit&auml;t Hannover"
         },
         "geometry": {
             "type": "Point",
