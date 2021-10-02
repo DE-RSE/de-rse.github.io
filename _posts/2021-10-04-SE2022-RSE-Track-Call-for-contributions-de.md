@@ -8,7 +8,8 @@ menulang: de
 # rSE22 - Call for Contributions
 Im Juni 2019 trafen sich bei der [deRSE19](https://de-rse.org/en/conf2019/) in Potsdam Forschungssoftwareentwickler*innen aus ganz Deutschland zum ersten Mal zu einer zentralen Konferenz. Ideen und Pläne für Folgekonferenzen in 2020 und 2021  machte leider die Pandemie einen Strich durch die Rechnung. Daher bündelt de-RSE e.V. jetzt seine Kräfte mit Kollegen aus dem Software Engineering und organisiert für die [SE 2022](https://www.se-2022.de)   der Gesellschaft für Informatik (GI)  im Februar 2022 einen separaten Track zum Thema Forschungssoftware. 
 Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge und Poster, sowie für Splinter Meetings und informelle “Birds-of-a-Feather (BoF)” Diskussionstreffen. Ziel der Konferenz ist die Abbildung der facettenreichen Gemeinschaft der Research Software Engineers durch Beteiligung aller Erfahrungsstufen über die verschiedenen Fachrichtungen, Standorte, Geschlechter und Herkünfte hinweg.
-Timeline
+
+## Timeline
 *	RSE Track: **Einreichunsgfrist  12.11.2021**
 *	RSE Track: Benachrichtigung 3.12.2021
 *	RSE Track: Finale version 15.12.2021 
@@ -40,6 +41,18 @@ Einreichungen können in Deutsch oder Englisch verfasst werden, wobei davon ausg
 
 ## Themenbasar
 Möchtest du ein Thema nicht alleine vorstellen oder suchst Mitstreiter für die Durchführung eines Workshops, dann empfehlen wir die Nutzung des [Themenbasars](https://pad.gwdg.de/B74SJsvmQbKRMkPAuLuQyA). Dies ist ein frei editierbares Dokument mit Vorlagen. Dort trägst du deine Vorstellungen oder Wünsche ein und nimmst gegebenenfalls mit anderen Personen Kontakt auf, um deine Idee zu verwirklichen.
+
+## Formate
+### Workshops, Splinter Meetings, BoFs
+Workshops sind interaktive Formate im Vorfeld der Konferenz, die den Teilnehmenden die Möglichkeit zur Zusammenarbeit an einem bestimmten Thema geben. Sie können verschieden organisiert sein, z.B. als Tutorial, Diskussions- und [Speed-Blogging](https://www.software.ac.uk/term/speed-blogging)-Session, Hack Session. Splinter Meetings dienen Arbeitsgruppen mit speziellen, scharf umrissenen Interessen. Birds-of-a-Feather (BoF) sind informelle Treffen ohne vorgeplante Agenda zum Austausch über ein bestimmtes Thema.
+Der Montag und Dienstag vor der Konferenz lässt genügend Freiraum um solche interaktiven Formate zu realisieren. Sie können rein virtuell oder dezentral vor Ort nach eigener Wahl (Raum muss selbst gestellt werden) stattfinden.
+Erfahrungsgemäß ist eine Länge von 90 bis 180 Minuten gut geeignet für Workshops. Für Splinter Meetings und BoFs empfielt sich eine Länge zwischen 30 und 90 Minuten.
+
+### Vorträge
+Vorträge haben eine Länge von 15-30 Minuten, inkl. Zeit für Fragen und Diskussion, abhängig davon wieviele Vorträge in einer Session zusammengefasst werden. Wenn dein Vortrag angenommen wird, wird dir die Länge vom Session Chair mitgeteilt.
+
+### Poster
+Poster präsentieren jeweils eine Idee, ein Projekt, eine Kollaboration, etc. Poster müssen hochformatig sein und dürfen eine Größe von A0 (Höhe: max. 1189mm; Breite: max. 841mm) nicht überschreiten und müssen digital als PDF vorliegen. Bitte bereite dich darauf vor, dein Poster in einem sehr kurzen “Lightning Talk” vorzustellen. Dies wird Konferenzteilnehmer*innen helfen, die Poster und Personen zu identifizieren, die sie während der (virtuellen) Postersession besuchen möchten.
 
 ## relevante Links
 [rSE22 Themenbasar](https://pad.gwdg.de/B74SJsvmQbKRMkPAuLuQyA) | [rSE22 Einreichungsformular](https://easychair.org/conferences/?conf=se2022)
