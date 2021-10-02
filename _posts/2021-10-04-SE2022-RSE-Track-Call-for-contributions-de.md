@@ -1,7 +1,7 @@
 ---
 title: "rSE22 Call for Contributions"
 layout: post
-author: "Jan Philipp Dietrich"
+author: "Stephan Janosch, rSE22 Programmkommittee"
 menulang: de
 ---
 
