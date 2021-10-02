@@ -61,5 +61,5 @@ Presentations are 15-30 minutes long, including time for questions and discussio
 # Poster
 Posters present an idea, a project, a collaboration, etc. Posters must be in portrait format and must not exceed a size of A0 (height: max. 1189mm; width: max. 841mm) and must be available digitally as PDF. Please be prepared to present your poster in a very short "lightning talk". This will help conference participants identify the posters and people they would like to visit during the (virtual) poster session.
 
-# relevant Links
+# Links
 [rSE22 topic bazaar](https://pad.gwdg.de/B74SJsvmQbKRMkPAuLuQyA) | [rSE22 submission form](https://easychair.org/conferences/?conf=se2022)
