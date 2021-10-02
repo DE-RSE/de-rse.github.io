@@ -7,6 +7,7 @@ menulang: en
 
 # rSE22 - Call for Contributions
 In June 2019, research software developers from all over Germany met for the first time for a central conference at [deRSE19](https://de-rse.org/en/conf2019/) in Potsdam. Ideas and plans for follow-up conferences in 2020 and 2021 were unfortunately thwarted by the pandemic. Therefore, de-RSE e.V. is now joining forces with colleagues from software engineering and organising a separate track on research software for [SE 2022](https://www.se-2022.de) of the Gesellschaft für Informatik (GI) in February 2022. 
+
 The organising committee is looking forward to submissions for workshops, talks and posters, as well as for splinter meetings and informal "Birds-of-a-Feather (BoF)" discussion meetings. The aim of the conference is to map the diverse community of research software engineers through participation of all levels of experience across disciplines, locations, genders and origins.
 
 ## Timeline
@@ -18,7 +19,8 @@ The organising committee is looking forward to submissions for workshops, talks 
 
 ## Conference sessions, topics and submission types
 rSE22 is a track of the [SE 2022](https://www.se-2022.de) Conference of the GI with a focus on research software. The sessions within the track will be put together by the programme committee based on the submissions. If you have a work on a topic that could be of general interest to the research software community, we look forward to your submission!
-Who can submit?
+
+## Who can submit?
 We welcome submissions in German or English from anyone with an interesting contribution to research software. These include but are not limited to:
 *	Researchers at all career levels who develop software for research purposes.
 *	Software developers working in research contexts, regardless of job title or discipline.
@@ -27,7 +29,9 @@ We welcome submissions in German or English from anyone with an interesting cont
 *	People from organisations that provide tools, platforms or services to support research software, e.g. IT infrastructure providers, data and data centres.
 
 Our aim is to have a balanced programme that reflects the diversity of perspectives and the diversity of the RSE community and its activities. Similar conferences outside Germany have found that the humanities and social sciences have been underrepresented there, so we would like to explicitly invite RSE activists from these fields to submit.
+
 We are not only looking for experienced, well-known or PhD speakers. Therefore, we would like to explicitly invite all individuals from underrepresented groups and early career researchers to submit as well!
+
 Submissions will be reviewed in a "single-blind" process, which accommodates software-related submissions. This means that reviewers will be able to see the names and institutions of origin of authors.
 
 ## Contact
@@ -46,7 +50,9 @@ If you do not want to present a topic on your own or are looking for fellow part
 ## Formate
 # Workshops, Splinter Meetings, BoFs
 Workshops are pre-conference interactive formats that give participants the opportunity to collaborate on a specific topic. They can be organised in different ways, e.g. tutorial, discussion and [speed blogging](https://www.software.ac.uk/term/speed-blogging) session, hack session. Splinter meetings serve working groups with specific, sharply defined interests. Birds-of-a-Feather (BoF) are informal meetings without a pre-planned agenda to exchange on a specific topic.
+
 The Monday and Tuesday before the conference leave enough free space to realise such interactive formats. They can take place purely virtually or decentrally on site at the participants' own choice (room must be provided by the participants themselves).
+
 Experience has shown that a length of 90 to 180 minutes is well suited for workshops. For splinter meetings and BoFs, a length of between 30 and 90 minutes is recommended.
 
 # Presentation
