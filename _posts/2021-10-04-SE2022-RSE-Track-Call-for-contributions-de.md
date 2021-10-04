@@ -23,8 +23,8 @@ rSE22 ist ein Track der [SE 2022](https://www.se-2022.de) Konferenz der GI mit F
 ## Wer kann einreichen?
 Wir begrüßen Einreichungen in Deutsch oder Englisch von all jenen, die einen interessanten Beitrag zu Forschungssoftware haben. Dazu gehören unter anderem:
 *	Forschende aller Karrierestufen, die Software zu Forschungszwecken entwickeln
-*	Softwareentwickler*innen, die in Forschungskontexten arbeiten, unabhängig von ihrer Stellenbezeichnung und Disziplin
-*	Förderer und Entscheider*innen, die mit Fördermitteln und anderen Werkzeugen den Weg für nachhaltige Forschungssoftware ebnen
+*	Softwareentwickler\*innen, die in Forschungskontexten arbeiten, unabhängig von ihrer Stellenbezeichnung und Disziplin
+*	Förderer und Entscheider\*innen, die mit Fördermitteln und anderen Werkzeugen den Weg für nachhaltige Forschungssoftware ebnen
 *	Personen, die an der Verbesserung unseres Verständnisses interessiert sind, wie Forschungssoftware bestmöglich entwickelt und gewartet werden kann, z.B. inm Bezug auf Offenheit, Reproduzierbarkeit, Nachhaltigkeit oder Skalierbarkeit und Performanz
 *	Personen aus Organisationen, die Tools, Plattformen oder Services zur Unterstützung von Forschungssoftware bereit stellen, z.B. Anbieter von IT-Infrastrukturen, Daten- und Rechenzentren
 
@@ -32,7 +32,7 @@ Unser Ziel ist ein ausgewogenes Programm, das die Vielfalt der Perspektiven und 
 
 Wir suchen nicht nur nach erfahrenen, bekannten oder promovierten Vortragenden. Daher möchten wir ausdrücklich auch alle Personen aus unterrepräsentierten Gruppen und Early Career Researchers zur Einreichung auffordern!
 
-Einreichungen werden im “Single-Blind”-Verfahren begutachtet, das Software-bezogenen Einreichungen entgegen kommt. Das heißt: Gutachter*innen werden Namen und Herkunftsinstitutionen von Autor*innen einsehen können.
+Einreichungen werden im “Single-Blind”-Verfahren begutachtet, das Software-bezogenen Einreichungen entgegen kommt. Das heißt: Gutachter\*innen werden Namen und Herkunftsinstitutionen von Autor\*innen einsehen können.
 
 ## Kontakt
 Wenn du Fragen zur Konferenz im Allgemeinen oder speziell zur Einreichung hast, wende dich bitte an das Konferenzkomitee: <SE_2022@informatik.hu-berlin.de>.
