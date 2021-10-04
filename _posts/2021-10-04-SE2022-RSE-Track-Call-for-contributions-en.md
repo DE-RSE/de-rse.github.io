@@ -53,7 +53,7 @@ Workshops are pre-conference interactive formats that give participants the oppo
 
 The Monday and Tuesday before the conference leave enough free space to realise such interactive formats. They can take place purely virtually or decentrally on site at the participants' own choice (room must be provided by the participants themselves).
 
-Experience has shown that a length of 90 to 180 minutes is well suited for workshops. For splinter meetings and BoFs, a length of between 30 and 90 minutes is recommended.
+Experience has shown that a length of 90 to 180 minutes is well suited for workshops. For splinter meetings and BoFs, a length of between 30 and 90 minutes is recommended. Please mention in your submission the intended length of the proposed session so that we can schedule it accordingly.
 
 # Presentation
 Presentations are 15-30 minutes long, including time for questions and discussion, depending on how many presentations are combined into one session. If your presentation is accepted, you will be informed of the length by the session chair.
