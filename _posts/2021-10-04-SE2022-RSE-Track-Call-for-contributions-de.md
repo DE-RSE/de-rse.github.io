@@ -6,19 +6,19 @@ menulang: de
 ---
 
 # rSE22 - Call for Contributions
-Im Juni 2019 trafen sich bei der [deRSE19](https://de-rse.org/en/conf2019/) in Potsdam Forschungssoftwareentwickler*innen aus ganz Deutschland zum ersten Mal zu einer zentralen Konferenz. Ideen und Pläne für Folgekonferenzen in 2020 und 2021  machte leider die Pandemie einen Strich durch die Rechnung. Daher bündelt de-RSE e.V. jetzt seine Kräfte mit Kollegen aus dem Software Engineering und organisiert für die [SE 2022](https://www.se-2022.de)   der Gesellschaft für Informatik (GI)  im Februar 2022 einen separaten Track zum Thema Forschungssoftware. 
+Im Juni 2019 trafen sich bei der [deRSE19](https://de-rse.org/en/conf2019/) in Potsdam Forschungssoftwareentwickler*innen aus ganz Deutschland zum ersten Mal zu einer zentralen Konferenz. Ideen und Plänen für Folgekonferenzen in 2020 und 2021 machte leider die Pandemie einen Strich durch die Rechnung. Daher bündelt de-RSE e.V. jetzt seine Kräfte mit Kolleg*innen aus dem Software Engineering und organisiert für die [SE 2022](https://www.se-2022.de) der Gesellschaft für Informatik (GI) im Februar 2022 einen separaten Track zum Thema Forschungssoftware. 
 
 Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge und Poster, sowie für Splinter Meetings und informelle “Birds-of-a-Feather (BoF)” Diskussionstreffen. Ziel der Konferenz ist die Abbildung der facettenreichen Gemeinschaft der Research Software Engineers durch Beteiligung aller Erfahrungsstufen über die verschiedenen Fachrichtungen, Standorte, Geschlechter und Herkünfte hinweg.
 
 ## Timeline
-*	RSE Track: **Einreichunsgfrist  12.11.2021**
+*	RSE Track: **Einreichunsgfrist 12.11.2021**
 *	RSE Track: Benachrichtigung 3.12.2021
 *	RSE Track: Finale version 15.12.2021 
 *	**Mo-Di. 21. - 22.02.2022 - rSE22 Workshops**
 *	**Mi-Fr., 23. - 25.02.2022 - rSE22 Konferenz**
 
 ## Konferenz-Sessions, Themen und Einreichungstypen
-rSE22 ist ein Track der [SE 2022](https://www.se-2022.de) Konferenz der GI mit Fokus auf Forschungssoftware. Die Sessions  innerhalb des Tracks werden anhand der Einreichungen vom Programmkomitee zusammengestellt. Wenn du eine Arbeit zu einem Thema hast, das für die Forschungssoftwaregemeinschaft von allgemeinem Interesse sein könnte, freuen wir uns auf deine Einreichung!
+rSE22 ist ein Track der [SE 2022](https://www.se-2022.de) Konferenz der GI mit Fokus auf Forschungssoftware. Die Sessions innerhalb des Tracks werden anhand der Einreichungen vom Programmkomitee zusammengestellt. Wenn du eine Arbeit zu einem Thema hast, das für die Forschungssoftwaregemeinschaft von allgemeinem Interesse sein könnte, freuen wir uns auf deine Einreichung!
 
 ## Wer kann einreichen?
 Wir begrüßen Einreichungen in Deutsch oder Englisch von all jenen, die einen interessanten Beitrag zu Forschungssoftware haben. Dazu gehören unter anderem:
