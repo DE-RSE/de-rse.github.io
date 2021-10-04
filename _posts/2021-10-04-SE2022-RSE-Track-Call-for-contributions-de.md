@@ -53,7 +53,7 @@ Workshops sind interaktive Formate im Vorfeld der Konferenz, die den Teilnehmend
 
 Der Montag und Dienstag vor der Konferenz lässt genügend Freiraum um solche interaktiven Formate zu realisieren. Sie können rein virtuell oder dezentral vor Ort nach eigener Wahl (Raum muss selbst gestellt werden) stattfinden.
 
-Erfahrungsgemäß ist eine Länge von 90 bis 180 Minuten gut geeignet für Workshops. Für Splinter Meetings und BoFs empfielt sich eine Länge zwischen 30 und 90 Minuten.
+Erfahrungsgemäß ist eine Länge von 90 bis 180 Minuten gut geeignet für Workshops. Für Splinter Meetings und BoFs empfielt sich eine Länge zwischen 30 und 90 Minuten. Bitte nennt bei der Einreichung die anvisierte Länge der Veranstaltungen in der Kurzbeschreibung, damit wir dies bei der Planung entsprechend berücksichtigen können.
 
 ### Vorträge
 Vorträge haben eine Länge von 15-30 Minuten, inkl. Zeit für Fragen und Diskussion, abhängig davon wieviele Vorträge in einer Session zusammengefasst werden. Wenn dein Vortrag angenommen wird, wird dir die Länge vom Session Chair mitgeteilt.
