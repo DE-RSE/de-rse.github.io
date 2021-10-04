@@ -38,7 +38,7 @@ Einreichungen werden im “Single-Blind”-Verfahren begutachtet, das Software-b
 Wenn du Fragen zur Konferenz im Allgemeinen oder speziell zur Einreichung hast, wende dich bitte an das Konferenzkomitee: <SE_2022@informatik.hu-berlin.de>.
 
 ## Einreichungen
-Der Fokus von rSE22 liegt auf der Gemeinschaft. Daher fragen wir nicht nach formellen akademischen Abstracts, die einer spezifischen Struktur folgen. Einreichungen zur rSE 22 folgen einer freieren Form.
+Der Fokus von rSE22 liegt auf der Gemeinschaft. Daher fragen wir nicht nach formellen akademischen Abstracts, die einer spezifischen Struktur folgen. Einreichungen zur rSE22 folgen einer freieren Form.
 
 Einreichungen finden dieses Jahr [**->hier<-**](https://easychair.org/conferences/?conf=se2022) über EasyChair statt. Zur Einreichung ist zunächst eine Registrierung in EasyChair notwendig. Nach dem Einloggen kann dann unter “make a new submission” der “SE2022 Research Software Engineering Track” ausgewählt und der eigene Beitrag in Form einer Kurzbeschreibung hochgeladen werden.
 
