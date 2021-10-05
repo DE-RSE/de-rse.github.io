@@ -1,11 +1,10 @@
 ---
-title: "rSE22 Call for Contributions"
+title: "rSE22 - Call for Contributions"
 layout: post
 author: "Stephan Janosch, rSE22 programme committee"
 menulang: en
 ---
 
-# rSE22 - Call for Contributions
 In June 2019, research software developers from all over Germany met for the first time for a central conference at [deRSE19](https://de-rse.org/en/conf2019/) in Potsdam. Ideas and plans for follow-up conferences in 2020 and 2021 were unfortunately thwarted by the pandemic. Therefore, de-RSE e.V. is now joining forces with colleagues from software engineering and organising a separate track on research software for [SE 2022](https://www.se-2022.de) of the Gesellschaft für Informatik (GI) in February 2022. 
 
 The organising committee is looking forward to submissions for workshops, talks and posters, as well as for splinter meetings and informal "Birds-of-a-Feather (BoF)" discussion meetings. The aim of the conference is to map the diverse community of research software engineers through participation of all levels of experience across disciplines, locations, genders and origins.
