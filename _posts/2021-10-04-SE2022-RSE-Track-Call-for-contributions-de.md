@@ -5,7 +5,6 @@ author: "Stephan Janosch, rSE22 Programmkommittee"
 menulang: de
 ---
 
-# rSE22 - Call for Contributions
 Im Juni 2019 trafen sich bei der [deRSE19](https://de-rse.org/en/conf2019/) in Potsdam Forschungssoftwareentwickler\*innen aus ganz Deutschland zum ersten Mal zu einer zentralen Konferenz. Ideen und Plänen für Folgekonferenzen in 2020 und 2021 machte leider die Pandemie einen Strich durch die Rechnung. Daher bündelt de-RSE e.V. jetzt seine Kräfte mit Kolleg\*innen aus dem Software Engineering und organisiert für die [SE 2022](https://www.se-2022.de) der Gesellschaft für Informatik (GI) im Februar 2022 einen separaten Track zum Thema Forschungssoftware. 
 
 Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge und Poster, sowie für Splinter Meetings und informelle “Birds-of-a-Feather (BoF)” Diskussionstreffen. Ziel der Konferenz ist die Abbildung der facettenreichen Gemeinschaft der Research Software Engineers durch Beteiligung aller Erfahrungsstufen über die verschiedenen Fachrichtungen, Standorte, Geschlechter und Herkünfte hinweg.
