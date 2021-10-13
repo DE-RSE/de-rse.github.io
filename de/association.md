@@ -19,7 +19,7 @@ vorstand@de-rse.org
 * Stephan Janosch (Max-Planck-Institut für Molekulare Zellbiologie und Genetik Dresden, Schatzmeister)
 * Florian Thiery (Römisch-Germanisches Zentralmuseum (Mainz) und Research Squirrel Engineers, stellvertretender Schatzmeister)
 * Bernadette Fritzsch (Alfred-Wegener-Institut Bremerhaven, Schriftführerin)
-* Stephan Druskat (Humboldt-Universität zu Berlin und Friedrich-Schiller-Universität Jena, stellvertretender Schriftführer)
+* Jan-Philipp Dietrich (Potsdam Institut für Klimafolgenforschung, stellvertretender Schriftführer)
 
 ## Vereinsgründung & Satzung
 
