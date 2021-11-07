@@ -19,7 +19,7 @@ vorstand@de-rse.org
 * Stephan Janosch (Max Planck Institute for Molecular Cell Biology and Genetics Dresden, Treasurer)
 * Florian Thiery (Römisch-Germanisches Zentralmuseum (Mainz) und Research Squirrel Engineers, Vice Treasurer)
 * Bernadette Fritzsch (Alfred Wegener Institute Bremerhaven, Secretary)
-* Stephan Druskat (Humboldt University Berlin and Friedrich Schiller University Jena, Vice Secretary)
+* Jan-Philipp Dietrich (Potsdam insitute for climate impact research, Vice Secretary)
 
 ## Founding of the association and its statutes
 
