@@ -526,5 +526,18 @@ var rseFeatures = [
         "geometry": {
             "type": "Point", "coordinates": [48.74534896513809, 9.108631769289177]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Lutz Brusch",
+            "popupContent": "<img src='../assets/img/map/LutzBrusch.jpg'>Lutz Brusch<br>" +
+            '<a href="https://digs-bb.de/brusch">ZIH, TU Dresden</a><br>' +
+            '<a href="https://morpheus.gitlab.io">Morpheus - modeling and simulation framework for multicellular biology</a>'
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.72322, 51.02545]
+        }
     }
 ];
