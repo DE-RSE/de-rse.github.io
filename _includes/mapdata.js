@@ -383,7 +383,7 @@ var rseFeatures = [
             "popupContent": "<img src='../assets/img/map/JanLinxweiler.png'><a href='https://www.tu-braunschweig.de/irmb/institut/mitarbeiter/linxweiler'>Jan Linxweiler</a>, Technische Universität Braunschweig, j.linxweiler@tu-bs.de<br><br><em>Postdoctoral researcher building interactive software systems using GPU Computing in the field of Computational Fluid Dynamics. Teaching Software Engineering to students from engineering disciplines. Doing RSE since 2005.</em>"
         },
         "geometry": {
-            "type": "Point", 
+            "type": "Point",
             "coordinates": [10.527724027633665, 52.27272029357738]
         }
     },
@@ -394,7 +394,7 @@ var rseFeatures = [
             "popupContent": "<img src='../assets/img/map/soerenPeters.png'><a href='https://soerenpeters.com'>Sören Peters</a>, Technische Universität Braunschweig, s.peters@irmb.tu-bs.de<br><br><em>Passionate software developer. Working on <a href='https://magazin.tu-braunschweig.de/pi-post/wie-forschungssoftware-nachhaltiger-werden-kann/'>SURESOFT</a>, a project for sustainable research software development and deployment.</em>"
         },
         "geometry": {
-            "type": "Point", 
+            "type": "Point",
             "coordinates": [10.527724027633665, 52.27272029357738]
         }
     },
@@ -405,7 +405,7 @@ var rseFeatures = [
             "popupContent": "<img src='https://avatars1.githubusercontent.com/u/9948149'><a href='mailto:katrin.leinweber@tib.eu'>Katrin Leinweber</a>, Technische Informationsbibliothek (TIB)<br><br><em> Tätigkeitsschwerpunkte: Siehe <a href='https://tibhannover.github.io/FAIR-studyGroup/#portfolio'>FAIR Data & Software study group</a> & <a href='https://github.com/katrinleinweber?org=TIBHannover'>GitHub.com/katrinleinweber?org=TIBHannover</a>.</em>"
         },
         "geometry": {
-            "type": "Point", 
+            "type": "Point",
             "coordinates": [9.72478, 52.37945]
         }
     },
@@ -416,7 +416,7 @@ var rseFeatures = [
         "popupContent": "<a href='https://www.ifam.uni-hannover.de/thiele'>Jan Philipp Thiele</a>, Institut fuer Angewandte Mathematik (IfAM), Leibniz Universität Hannover (LUH)"
       },
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [9.71710, 52.38285]
       }
     },
@@ -425,7 +425,7 @@ var rseFeatures = [
         "properties": {
             "name": "Ronny Gey",
             "popupContent": '<a href="mailto:gey@ub.uni-leipzig.de">Ronny Gey</a><br>' +
-            '<a href="http://ub.uni-leipzig.de/">Universitätsbibliothek Leipzig</a>'+ 
+            '<a href="http://ub.uni-leipzig.de/">Universitätsbibliothek Leipzig</a>'+
             '<a href="http://www.sosciso.de">SoSciSo</a>'
         },
         "geometry": {
@@ -525,6 +525,17 @@ var rseFeatures = [
         },
         "geometry": {
             "type": "Point", "coordinates": [48.74534896513809, 9.108631769289177]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Philipp S. Sommer",
+            "popupContent": "<img src='https://avatars.githubusercontent.com/u/9960249'><a href='https://www.philipp-s-sommer.de'>Philipp S. Sommer</a>, <a href='https://www.hereon.de'>Helmholtz-Zentrum Hereon</a><br><br><em>Software Developer for Earth-System-Model Data management in the <a href='https://hcdc.hereon.de'>Helmholtz Coastal Data Center (HCDC)</a></em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.428521818605772, 53.40571683407726]
         }
     },
     {
