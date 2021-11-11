@@ -10,7 +10,7 @@ Im Juni 2019 trafen sich bei der [deRSE19](https://de-rse.org/en/conf2019/) in P
 Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge und Poster, sowie für Splinter Meetings und informelle “Birds-of-a-Feather (BoF)” Diskussionstreffen. Ziel der Konferenz ist die Abbildung der facettenreichen Gemeinschaft der Research Software Engineers durch Beteiligung aller Erfahrungsstufen über die verschiedenen Fachrichtungen, Standorte, Geschlechter und Herkünfte hinweg.
 
 ## Timeline
-*	RSE Track: **Einreichunsgfrist 12.11.2021**
+*	RSE Track: **Einreichunsgfrist ~~12.~~ 19.11.2021**
 *	RSE Track: Benachrichtigung 3.12.2021
 *	RSE Track: Finale version 15.12.2021 
 *	**Mo-Di. 21. - 22.02.2022 - rSE22 Workshops**
