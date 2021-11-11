@@ -212,7 +212,7 @@ var rseFeatures = [
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [52.391714, 9.703279]
+            "coordinates": [9.703279, 52.391714]
         }
     },
     {
@@ -524,7 +524,7 @@ var rseFeatures = [
             "popupContent": "<img src='../assets/img/map/BenjaminUekermann.jpg'><a href='https://github.com/uekerman'>Benjamin Uekermann</a>, University of Stuttgart, Stuttgart Center for Simulation Science, benjamin.uekermann@ipvs.uni-stuttgart.de<br><br><em>Lead developer of the coupling library <a href='https://precice.org/'>preCICE</a> </em>"
         },
         "geometry": {
-            "type": "Point", "coordinates": [48.74534896513809, 9.108631769289177]
+            "type": "Point", "coordinates": [9.108631769289177, 48.74534896513809]
         }
     },
     {
