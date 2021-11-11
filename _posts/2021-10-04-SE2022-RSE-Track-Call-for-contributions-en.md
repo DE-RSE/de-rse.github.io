@@ -10,7 +10,7 @@ In June 2019, research software developers from all over Germany met for the fir
 The organising committee is looking forward to submissions for workshops, talks and posters, as well as for splinter meetings and informal "Birds-of-a-Feather (BoF)" discussion meetings. The aim of the conference is to map the diverse community of research software engineers through participation of all levels of experience across disciplines, locations, genders and origins.
 
 ## Timeline
-*	RSE Track: **submission deadline 12.11.2021**
+*	RSE Track: **submission deadline ~~12.~~ 19.11.2021**
 *	RSE Track: notification 3.12.2021
 *	RSE Track: final program version 15.12.2021 
 *	**Mo-Tue. 21. - 22.02.2022 - rSE22 workshops**
