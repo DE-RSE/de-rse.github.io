@@ -550,5 +550,20 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [13.72322, 51.02545]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Johannes Ranke",
+            "popupContent": "<img src='../assets/img/map/JohannesRanke.jpg'>Johannes Ranke<br>" +
+              "<a href='https://jrwb.de'>Scientific consultant for risk analysis of chemicals in the environment</a><br>" +
+              "Privatdozent an der Universität Freiburg<br>" +
+              "<em><a href='https://www.R-project.org/'>R</a> programmer and package developer<br>" +
+              "Current research focus on kinetic evaluation of chemical degradation data</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.66348, 47.55296]
+        }
     }
 ];
