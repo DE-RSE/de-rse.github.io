@@ -510,11 +510,11 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Diego Siqueira",
-            "popupContent": "<img src='../assets/img/map/DiegoSiqueira.png'>Diego Siqueira, <a href='https://www.uni-muenster.de/'>University of M&uuml;nster (WWU M&uuml;nster)</a><br /><br /><em>PhD Candidate <a href='https://www.ercis.org/'>@ERCIS</a> &amp; Research Software Engineer at the <a href='https://www.uni-muenster.de/SCDH/'>Service Center for Digital Humanities (SCDH)</a></em>"
+            "popupContent": "<img src='../assets/img/map/DiegoSiqueira.png'>Diego Siqueira, <a href='https://www.ruhr-uni-bochum.de/'>Ruhr University Bochum (RUB)</a><br /><br /><em>PhD Candidate <a href='https://www.ercis.org/'>@ERCIS</a> &amp; DH Consultant &sol; RSE at the <a href='https://dh.ub.rub.de/'>Digital Humanities Center (DHC)</a></em>"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [7.6082995, 51.9503357]
+            "coordinates": [7.260036753603792, 51.44642578452052]
         }
     },
     {
