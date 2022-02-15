@@ -14,6 +14,13 @@ If you think, we are missing an event, please [contact](join.html) us.
 
 We organize the international **deRSE** conferences, by and for Research Software Engineers.
 
+## 2022
+
+| Event | Date | Place | URL | Remarks |
+| --- | --- | --- | --- | --- |
+{% include events/2022.md %}
+{: .table .table-hover}
+
 ## 2021
 
 | Event | Date | Place | URL | Remarks |
@@ -21,7 +28,6 @@ We organize the international **deRSE** conferences, by and for Research Softwar
 {% include events/2021.md %}
 {: .table .table-hover}
 
-| Event | Date | Place | URL | Remarks |
 ## 2020
 
 | Event | Date | Place | URL | Remarks |
