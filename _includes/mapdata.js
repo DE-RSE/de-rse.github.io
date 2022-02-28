@@ -565,5 +565,17 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [7.66348, 47.55296]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Matthias Braun",
+            "popupContent": "<img src='../assets/img/map/mbraun.jpg'><a href='https://www.intcdc.uni-stuttgart.de/research-data-management'>Matthias Braun</a><br>" + 
+                "Cluster of Excellence Integrative Computational Design and Construction for Architecture (EXC IntCDC), University of Stuttgart" + 
+		        "<br><br><em>Developer of the cross-platform visualization prototyping framework <a href='https://megamol.org/'>MegaMol</a>.</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [9.096753349067592, 48.7434662502559]
+        }
     }
 ];
