@@ -295,18 +295,6 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
-            "name": "Jan G. Wieners",
-            "popupContent": '<img src="../assets/img/map/janwieners.jpg" alt="Jan G. Wieners">' +
-            '<a href="http://www.jan-wieners.de">Jan G. Wieners</a><br>' +
-            '<a href="http://dh.uni-koeln.de/">Institut für Digital Humanities, Universität zu Köln</a>'
-        },
-        "geometry": {
-            "type": "Point", "coordinates": [6.9582814, 50.9412784]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "name": "UK RSE",
             "popupContent": '<a href="https://rse.ac.uk/">UK RSE</a>'
         },
