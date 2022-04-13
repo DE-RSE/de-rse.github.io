@@ -74,14 +74,12 @@ The DataCite Metadata Schema ([version 4 pdf](https://schema.datacite.org/meta/k
 
 It looks like, that Zenodo makes use of these, as [this example shows](https://data.datacite.org/10.5281/ZENODO.33687). I will try to speak with Martin Fenner (DataCite), who is giving a talk with the topic ['Workflows for assigning and tracking DOIs for scientific software'](https://events.tib.eu/nontextualinformation2017/programme/lecture/workflows-for-assigning-and-tracking-dois-for-scientific-software-1/) this wednesday, to get a better idea about metadate for software.  
  
- 
 ### Question 2:  Changing Landing Page URL
 
-According to the MPDL personell there is no interface right now for changing the landing page URL. Their advice was sending an email to the [DOI helpdesk](mailto:doi@mpdl.mpg.de) and submit your changes that way.   
+According to the MPDL personell there is no interface right now for changing the landing page URL. Their advice was sending an email to the [DOI helpdesk](mailto:doi@mpdl.mpg.de) and submit your changes that way.
 
 ### Summary
 
 As you can see, assigning a DOI to a piece of software is not very hard. The easy interface provided by the MPDL helps a lot, but maybe an expert version of it is more appropriate for software? And it takes a bit patience because there is some waiting involved ([explaination?](https://blog.datacite.org/docker-solr/)). But the process in general is straight forward. 
 
-Feel free to discuss this topic at our [communication channels (mailing list and/or slack)]({{ "/en/join.html" | prepend: site.baseurl }}). In case you have the desperate need to document the DOI assigning process for your own research organisation then head along and copy this post and push a pull request to our [website repo](https://github.com/DE-RSE/www). 😉     
- 
+Feel free to discuss this topic at our [communication channels (mailing list and/or slack)]({{ "/en/join.html" | prepend: site.baseurl }}). In case you have the desperate need to document the DOI assigning process for your own research organisation then head along and copy this post and push a pull request to our [website repo](https://github.com/DE-RSE/de-rse.github.io/). 😉

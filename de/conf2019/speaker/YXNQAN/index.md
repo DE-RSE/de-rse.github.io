@@ -5,4 +5,4 @@ title: 'Heidi Seibold'
 
 # Heidi Seibold
 
-No biography found.
+[https://www.osc.uni-muenchen.de/members/individual-members/seibold1/index.html](https://www.osc.uni-muenchen.de/members/individual-members/seibold1/index.html)
