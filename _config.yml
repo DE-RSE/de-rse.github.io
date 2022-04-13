@@ -1,6 +1,7 @@
 # Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
 baseurl:
 title: de-RSE.org
+name: de-RSE.org
 author: Stephan Druskat
 email: mail [at] sdruskat [dot]
 description: Website of de-RSE e.V. - Gesellschaft für Forschungssoftware
@@ -16,5 +17,5 @@ post:
 page:
   template: _page.txt
   extension: md
-plugins_dir:
+plugins:
   - jekyll-feed

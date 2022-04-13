@@ -2,6 +2,16 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "David Haensel",
+            "popupContent": "<img src='../assets/img/map/dhaensel.jpeg'><a href='https://www.fz-juelich.de/ias/ias-7/EN/AboutUs/Staff/Current/Haensel_David/_node.html'>David Haensel</a>, Forschungszentrum Jülich, <a href='https://www.fz-juelich.de/ias/ias-7/EN/Home/home_node.html'>IAS-7: Civil Safety Research</a>, d.haensel@fz-juelich.de<br><br><em>Developing pedestrian dynamics simulation software.</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [6.41010, 50.90680]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "Marc-André Hermanns",
             "popupContent": "<img src='../assets/img/map/mahermanns.jpg'>Marc-Andr&eacute; Hermanns, <a href='https://www.itc.rwth-aachen.de/'>IT Center</a>, <a href='https://www.rwth-aachen.de/'>RWTH Aachen University</a>, hermanns@itc.rwth-aachen.de<br><em>Research and development in performance analysis tools for high-performance computing (HPC)</em>"
         },
@@ -285,18 +295,6 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
-            "name": "Jan G. Wieners",
-            "popupContent": '<img src="../assets/img/map/janwieners.jpg" alt="Jan G. Wieners">' +
-            '<a href="http://www.jan-wieners.de">Jan G. Wieners</a><br>' +
-            '<a href="http://dh.uni-koeln.de/">Institut für Digital Humanities, Universität zu Köln</a>'
-        },
-        "geometry": {
-            "type": "Point", "coordinates": [6.9582814, 50.9412784]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "name": "UK RSE",
             "popupContent": '<a href="https://rse.ac.uk/">UK RSE</a>'
         },
@@ -370,7 +368,18 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Jan Linxweiler",
-            "popupContent": "<img src='../assets/img/map/JanLinxweiler.png'><a href='https://www.tu-braunschweig.de/irmb/institut/mitarbeiter/linxweiler/index.html'>Jan Linxweiler</a>, Technische Universität Braunschweig, j.linxweiler@tu-bs.de<br><br><em>Postdoctoral researcher building interactive software systems using GPU Computing in the field of Computational Fluid Dynamics. Teaching Software Engineering to students from engineering disciplines. Doing RSE since 2005.</em>"
+            "popupContent": "<img src='../assets/img/map/JanLinxweiler.png'><a href='https://www.tu-braunschweig.de/irmb/institut/mitarbeiter/linxweiler'>Jan Linxweiler</a>, Technische Universität Braunschweig, j.linxweiler@tu-bs.de<br><br><em>Postdoctoral researcher building interactive software systems using GPU Computing in the field of Computational Fluid Dynamics. Teaching Software Engineering to students from engineering disciplines. Doing RSE since 2005.</em>"
+        },
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [10.527724027633665, 52.27272029357738]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Sören Peters",
+            "popupContent": "<img src='../assets/img/map/soerenPeters.png'><a href='https://soerenpeters.com'>Sören Peters</a>, Technische Universität Braunschweig, s.peters@irmb.tu-bs.de<br><br><em>Passionate software developer. Working on <a href='https://magazin.tu-braunschweig.de/pi-post/wie-forschungssoftware-nachhaltiger-werden-kann/'>SURESOFT</a>, a project for sustainable research software development and deployment.</em>"
         },
         "geometry": {
             "type": "Point", 
@@ -435,6 +444,76 @@ var rseFeatures = [
         },
         "geometry": {
             "type": "Point", "coordinates": [12.43251, 51.35349]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Florian Thiery",
+            "popupContent": "<img src='http://data.fthiery.de/thiery75.png'>Florian Thiery, Römisch-Germanisches Zentralmuseum Leibniz Forschungsinstitut für Archäologie (Wissenschaftliche IT, Digitale Plattformen und Tools), Mitglied des Research Squirrel Engineers Netzwerks, rse@fthiery.de<br><br><em>Research Software Engineer. Geodät und Software Engineer.</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.280281, 49.993780]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Diego Siqueira",
+            "popupContent": "<img src='https://avatars.githubusercontent.com/u/613309?s=400&u=13e8200a370896988b2152d7e5e4f26eb339f23d&v=4'>Diego Siqueira, <a href='https://www.uni-muenster.de/'>University of M&uuml;nster (WWU M&uuml;nster)</a><br /><br /><em>PhD Candidate <a href='https://www.ercis.org/'>@ERCIS</a> &amp; Research Software Engineer at the <a href='https://www.uni-muenster.de/SCDH/'>Service Center for Digital Humanities (SCDH)</a></em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.6082995, 51.9503357] 
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "René Fritze",
+            "popupContent": "<img src='https://avatars1.githubusercontent.com/u/47802?s=460&v=4'>René Fritze<br>" +
+            '<a href="https://www.uni-muenster.de/AMM/ohlberger/team/rene_fritze.shtml">Angewandte Mathematik Münster</a><br>' +
+            '<a href="https://www.uni-muenster.de/forschungaz/project/11409?lang=en">pyMOR - Sustainable Software for Model Order Reduction</a>'
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.603546, 51.966485]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Anton Koch",
+            "popupContent": '<img src="https://hyper.fail/img/profile_ak_75h.jpg">Anton Koch<br><br>' +
+            '<a href="https://www.hs-mainz.de/personenverzeichnis/person/anton-koch/">Hochschule Mainz</a><br><br>' +
+            '<a href="http://motionbank.org/">Motion Bank - Software for Dance Research & Education</a>'
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.2771005, 49.9975955]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Lukas Lamm",
+            "popupContent": "<img src='../assets/img/map/LukasLamm7575.png'><a href='https://www.ifam.rwth-aachen.de/aw/cms/IFAM/Themen/mitarbeiter/~wmw/lamm-lukas/?lang=de'>Lukas Lamm</a>, RWTH Aachen University<br><br><em>Researcher at the Institute for Applied Mechanics</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.06769, 50.77957]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Diego Siqueira",
+            "popupContent": "<img src='../assets/img/map/DiegoSiqueira.png'>Diego Siqueira, <a href='https://www.uni-muenster.de/'>University of M&uuml;nster (WWU M&uuml;nster)</a><br /><br /><em>PhD Candidate <a href='https://www.ercis.org/'>@ERCIS</a> &amp; Research Software Engineer at the <a href='https://www.uni-muenster.de/SCDH/'>Service Center for Digital Humanities (SCDH)</a></em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.6082995, 51.9503357]
         }
     }
 ];

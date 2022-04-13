@@ -10,6 +10,20 @@ We think this list of events is relevant. That's why simply collected them in a 
 
 If you think, we are missing an event, please [contact](join.html) us.
 
+## deRSE conferences
+
+We organize the international **deRSE** conferences, by and for Research Software Engineers.
+
+The 2nd conference of Research Software Engineers in Germany was cancelled due to the COVID-19 pandemic.
+_SORSE_ - A Series of Online Research Software Events - is jointly organised by international RSE groups and organisations in 2020 to make up for the numerous cancelled in-person meetings and conferences.
+
+## 2020
+
+| Event | Date | Place | URL | Remarks |
+| --- | --- | --- | --- | --- |
+{% include events/2020.md %}
+{: .table .table-hover}
+
 ## 2019  
 
 | Event | Date | Place | URL | Remarks |

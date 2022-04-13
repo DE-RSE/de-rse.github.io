@@ -17,20 +17,20 @@ vorstand@de-rse.org
 * Frank Löffler (Friedrich Schiller University Jena, Chair)
 * Daniel Nüst (University Münster, Vice Chair) 
 * Stephan Janosch (Max Planck Institute for Molecular Cell Biology and Genetics Dresden, Treasurer)
-* Martin Hammitzsch (German Geological Research Center Potsdam, Vice Treasurer)
+* Florian Thiery (Römisch-Germanisches Zentralmuseum (Mainz) und Research Squirrel Engineers, Vice Treasurer)
 * Bernadette Fritzsch (Alfred Wegener Institute Bremerhaven, Secretary)
 * Stephan Druskat (Humboldt University Berlin and Friedrich Schiller University Jena, Vice Secretary)
 
 ## Founding of the association and its statutes
 
 Parties interested in the RSE topic met on **26th of November 2018** in **Berlin** to witness
-the founding of the association. The association was registered in Berlin on 2019-02-19.
+the founding of the association. The association was registered in Berlin on 2019-02-19 with reference VR 37226 B.
 
 [Download of the statutes](https://github.com/DE-RSE/satzung/raw/master/de-RSE-e.V._Satzung_2019-01-07.pdf) (in German)
 
 ## Non-profit-status
 
-The non-profit-status of the association is being applied for at the moment.
+The non-profit-status of the association is being approved on 2019-10-30.
 
 ## Membership
 

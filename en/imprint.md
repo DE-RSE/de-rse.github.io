@@ -9,31 +9,16 @@ The following information (Impressum) is required under German law.
 
 ### Angaben gemäß § 5 TMG
 
-Martin Hammitzsch  
-Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum GFZ  
-Telegrafenberg A70  
-14473 Potsdam  
-Germany  
-Phone: +49-331-288-1717, Email: martin.hammitzsch [ät] gfz-potsdam.de  
 
-Stephan Janosch  
-Max Planck Institute of Molecular Cell Biology and Genetics  
-Pfotenhauerstr. 108  
-01307 Dresden  
-Germany  
-Phone: +49-351-210-2709, Email: janosch [ät] mpi-cbg.de  
+de-RSE e.V. - Society for Research Software  
+Kleineweg 79  
+12101 Berlin  
 
-Frank Löffler  
-Institute of Computer Science  
-Friedrich Schiller University Jena  
-07753 Jena
-Germany  
-Phone: +49 (0)1762 5761037, Email: frank.loeffler [ät] uni-jena.de
+E-Mail: vorstand [at] de-rse.org  
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-Martin Hammitzsch, Stephan Janosch, Frank Löffler
-
+Martin Hammitzsch, Stephan Janosch, Frank Löffler, Bernadette Fritsch, Daniel Nüst, Stephan Druskat
 Quelle: [*eRecht24*](https://www.e-recht24.de)
 
 ## Datenschutzerklärung
