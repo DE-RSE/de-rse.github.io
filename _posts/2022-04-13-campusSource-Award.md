@@ -48,5 +48,5 @@ Gender Bias können mehr Frauen ermutigt werden, in den Entwicklerteams ihren Be
 ganz im Sinne des Slogans “Better Software - Better Research”.  
 
  
-Alle Beiträge sind unter [campusSOURCE Frühjahrstagung)(https://www.campussource.de/events/e2203hagen/vortraege.html) 
+Alle Beiträge sind unter [campusSOURCE Frühjahrstagung](https://www.campussource.de/events/e2203hagen/vortraege.html) 
 abrufbar.
