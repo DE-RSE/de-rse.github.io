@@ -70,11 +70,11 @@ Map made with [http://leafletjs.com](http://leafletjs.com), Clustering via [Leaf
 
 ## Wie andere RSE definieren
 
-### UKRSE
+### UK RSE
 
 A growing number of people in academia combine expertise in programming with an intricate understanding of research. Although this combination of skills is extremely valuable, these people lack a formal place in the academic system. This means there is no easy way to recognise their contribution, to reward them, or to represent their views.Without a name, it is difficult for people to rally around a cause, so we created the term Research Software Engineer.
 
-Mehr unter: <https://rse.ac.uk/>
+Mehr unter <https://society-rse.org/>.
 
 ### NL-RSE
 
