@@ -13,7 +13,7 @@ right from the start.
 
 **deRSE19** is the first conference of its kind in Germany. It is modeled after
 the three successful conferences that took place in the UK over the last three
-years ([2016](https://rse.ac.uk/conf2016), [2017](https://rse.ac.uk/conf2017), [2018](https://rse.ac.uk/conf2018)),
+years (<https://society-rse.org/events/>),
 at which sponsors had the possibility to present suitable offers and solutions
 and products that are relevant for RSEs' work, and to enter into a dialogue
 with RSEs and software development groups in research.

@@ -42,7 +42,7 @@ Wir vergeben 4 Reisestipendien zu je maximal £500,- für Beitragende aus dem Ve
 
 ![UKRSE logo]({{ "/assets/img/conf/UKRSE_Logo.png" | prepend: site.baseurl }}){: width="100px"}
 
-Die Stipendien werden gestiftet von der [UK Research Software Engineers Association](https://rse.ac.uk/).
+Die Stipendien werden gestiftet von der [UK Research Software Engineers Association](https://society-rse.org/events/).
 
 ### Bewerbung
 

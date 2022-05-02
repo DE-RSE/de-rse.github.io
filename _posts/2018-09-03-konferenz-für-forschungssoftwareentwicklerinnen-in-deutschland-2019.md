@@ -5,7 +5,7 @@ author: Martin Hammitzsch, Stephan Janosch, Frank Löffler, Frederieke Miesner
 menulang: de
 ---
 
-Nach dem Erfolg der [ersten und zweiten internationalen Konferenz der Research Software Engineers in Großbritannien](https://rse.ac.uk/events/past-conferences/), findet vom 4. bis 6. Juni 2019 im Wissenschaftspark Albert Einstein in Potsdam eine nationale Konferenz zu Forschungssoftware und den beteiligten Personen in der deutschen Forschungslandschaft statt.
+Nach dem Erfolg der [ersten und zweiten internationalen Konferenz der Research Software Engineers in Großbritannien](https://society-rse.org/events/), findet vom 4. bis 6. Juni 2019 im Wissenschaftspark Albert Einstein in Potsdam eine nationale Konferenz zu Forschungssoftware und den beteiligten Personen in der deutschen Forschungslandschaft statt.
 
 Wir erwarten einen lebendigen Mix von 200 Teilnehmern aus verschiedenen Forschungsbereichen. Der Zweck dieser nationalen Konferenz ist es, sich mit Menschen zu treffen, welche Software entwickeln, die in jedem Bereich der Forschung eingesetzt wird. Wir nennen diese Research Software Engineers (RSEs), aber sie existieren unter vielen Berufsbezeichnungen (von Postdoktorandinnen über wissenschaftliche Mitarbeiter, bis zu Professorinnen).
 

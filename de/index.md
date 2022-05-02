@@ -28,8 +28,8 @@ dafür sind breit gefächert und äußern sich in vielfältigen Befunden, zum Be
 - Unklare Regelungen zur Veröffentlichung in Bezug auf Lizenzen und Intellectual Property (IP)
 
 In der Forschung tätige Informatikerinnen und Informatiker, Wissenschaftler und Wissenschaftlerinnen, sowie andere Softwareentwicklerinnen und -entwickler
-sind in der RSE-Gemeinschaft zusammen gekommen und haben es sich zur Aufgabe gemacht, 
-dieses Problem deutlich sichtbar zu machen und die gegenwärtige Situation 
+sind in der RSE-Gemeinschaft zusammen gekommen und haben es sich zur Aufgabe gemacht,
+dieses Problem deutlich sichtbar zu machen und die gegenwärtige Situation
 entscheidend zu verbessern.
 
 <br/>
@@ -38,5 +38,5 @@ entscheidend zu verbessern.
 
 <br/>
 
-Wanna dive into the world of RSE? Find excellent reading materials at the UK RSE website 
-<https://rse.ac.uk/> and the UK SSI website <https://www.software.ac.uk/blog>!
+Du willst tiefer in die Welt der RSEs einsteigen?
+Schau dir unsere [Positionspapiere](/de/positions.html) an, besuche die Webseiten unserer Geschwisterorganisationen in Großbritannien, <https://society-rse.org/>, und USA, <https://us-rse.org/>, die Webseite den Blog des UK SSI, <https://www.software.ac.uk/blog>, oder die Webseite der internationalen Dachorganisation ReSA, <https://www.researchsoft.org/>.

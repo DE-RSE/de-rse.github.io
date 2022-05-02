@@ -296,7 +296,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "UK RSE",
-            "popupContent": '<a href="https://rse.ac.uk/">UK RSE</a>'
+            "popupContent": '<a href="https://society-rse.org/">UK RSE</a>'
         },
         "geometry": {
             "type": "Point", "coordinates": [-1.8921047,52.4778342]
