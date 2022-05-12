@@ -1,5 +1,5 @@
 ---
-title: "Public money =public code"
+title: "Public money = public code"
 layout: post
 author: "Jan Philipp Dietrich"
 menulang: de
