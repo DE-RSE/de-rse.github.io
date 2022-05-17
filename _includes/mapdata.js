@@ -2,6 +2,16 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "Reiner Jung",
+            "popupContent": "<img src='../assets/img/map/rjung.jpeg'><a href='https://www.se.informatik.uni-kiel.de/en/team/reiner-jung'>Reiner Jung</a>, Universität Kiel, Department of Computer Science<a href='https://www.se.informatik.uni-kiel.de'>Software Engineering Group</a>, reiner.jung@email.uni-kiel.de<br><br><em>Domain-Specific Languages and Software Qulity Analysis.</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [10.139444, 54.323333]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "David Haensel",
             "popupContent": "<img src='../assets/img/map/dhaensel.jpeg'><a href='https://www.fz-juelich.de/ias/ias-7/EN/AboutUs/Staff/Current/Haensel_David/_node.html'>David Haensel</a>, Forschungszentrum Jülich, <a href='https://www.fz-juelich.de/ias/ias-7/EN/Home/home_node.html'>IAS-7: Civil Safety Research</a>, d.haensel@fz-juelich.de<br><br><em>Developing pedestrian dynamics simulation software.</em>"
         },
