@@ -388,6 +388,17 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "Sven Marcus",
+            "popupContent": "Sven Marcus, Technische Universität Braunschweig, sven.marcus@tu-braunschweig.de<br><br><em>Civil Engineer turned Software Developer with a passion for Clean Code, Software Design and Test Driven Development. Working on <a href='https://magazin.tu-braunschweig.de/pi-post/wie-forschungssoftware-nachhaltiger-werden-kann/'>SURESOFT</a> to bring principles and practices of the software engineering discipline to the scientific world.</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.527724027633665, 52.27272029357738]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "Sören Peters",
             "popupContent": "<img src='../assets/img/map/soerenPeters.png'><a href='https://soerenpeters.com'>Sören Peters</a>, Technische Universität Braunschweig, s.peters@irmb.tu-bs.de<br><br><em>Passionate software developer. Working on <a href='https://magazin.tu-braunschweig.de/pi-post/wie-forschungssoftware-nachhaltiger-werden-kann/'>SURESOFT</a>, a project for sustainable research software development and deployment.</em>"
         },
