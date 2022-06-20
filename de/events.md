@@ -16,6 +16,13 @@ Falls eine Veranstaltung fehlt, [kontaktiere](join.html) uns bitte.
 
 Die **deRSE**-Konferenzen sind von uns veranstaltete, internationale Konferenzen von und für Research Software Engineers.
 
+## 2023
+
+| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| --- | --- | --- | --- | --- |
+{% include events/2023.md %}
+{: .table .table-hover}
+
 ## 2022
 
 | Veranstaltung | Datum | Ort | URL | Bemerkung |
