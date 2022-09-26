@@ -15,7 +15,7 @@ vorstand@de-rse.org
 ## Vorstand
 
 * Frank Löffler (Friedrich-Schiller-Universität Jena, Vorstandsvorsitzender)
-* Daniel Nüst (Universität Münster, stellvertretender Vorstandsvorsitzender) 
+* Daniel Nüst (Technische Universität Dresden, stellvertretender Vorstandsvorsitzender) 
 * Stephan Janosch (Max-Planck-Institut für Molekulare Zellbiologie und Genetik Dresden, Schatzmeister)
 * Florian Thiery (Römisch-Germanisches Zentralmuseum (Mainz) und Research Squirrel Engineers, stellvertretender Schatzmeister)
 * Bernadette Fritzsch (Alfred-Wegener-Institut Bremerhaven, Schriftführerin)
