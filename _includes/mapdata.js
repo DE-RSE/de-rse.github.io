@@ -579,12 +579,24 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Matthias Braun",
-            "popupContent": "<img src='../assets/img/map/mbraun.jpg'><a href='https://www.intcdc.uni-stuttgart.de/research-data-management'>Matthias Braun</a><br>" + 
-                "Cluster of Excellence Integrative Computational Design and Construction for Architecture (EXC IntCDC), University of Stuttgart" + 
+            "popupContent": "<img src='../assets/img/map/mbraun.jpg'><a href='https://www.intcdc.uni-stuttgart.de/research-data-management'>Matthias Braun</a><br>" +
+                "Cluster of Excellence Integrative Computational Design and Construction for Architecture (EXC IntCDC), University of Stuttgart" +
 		        "<br><br><em>Developer of the cross-platform visualization prototyping framework <a href='https://megamol.org/'>MegaMol</a>.</em>"
         },
         "geometry": {
             "type": "Point", "coordinates": [9.096753349067592, 48.7434662502559]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Tim Schaefer",
+            "popupContent": "<img src='../assets/img/map/tschaefer.jpg'><a href='https://github.com/dfsp-spirit'>Tim Schaefer</a><br>" +
+                "Ernst Strüngmann Institute (ESI) for Neuroscience" +
+		        "<br><br><em>Bioinformatician and Neuroscientist, currently working on <a href='https://github.com/esi-neuroscience/syncopy'>Syncopy</a>, a toolkit for large-scale electrophysiology data-analysis in Python.</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [8.652338, 50.093509]
         }
     }
 ];
