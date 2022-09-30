@@ -579,8 +579,8 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Matthias Braun",
-            "popupContent": "<img src='../assets/img/map/mbraun.jpg'><a href='https://www.intcdc.uni-stuttgart.de/research-data-management'>Matthias Braun</a><br>" +
-                "Cluster of Excellence Integrative Computational Design and Construction for Architecture (EXC IntCDC), University of Stuttgart" +
+            "popupContent": "<img src='../assets/img/map/mbraun.jpg'><a href='https://www.intcdc.uni-stuttgart.de/research-data-management'>Matthias Braun</a><br>" + 
+                "Cluster of Excellence Integrative Computational Design and Construction for Architecture (EXC IntCDC), University of Stuttgart" + 
 		        "<br><br><em>Developer of the cross-platform visualization prototyping framework <a href='https://megamol.org/'>MegaMol</a>.</em>"
         },
         "geometry": {
