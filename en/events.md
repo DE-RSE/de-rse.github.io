@@ -18,7 +18,7 @@ We organize the international **deRSE** conferences, by and for Research Softwar
 
 | Event | Date | Place | URL | Remarks |
 | --- | --- | --- | --- | --- |
-{% include events/2022.md %}
+{% include events/2023.md %}
 {: .table .table-hover}
 
 ## 2022
