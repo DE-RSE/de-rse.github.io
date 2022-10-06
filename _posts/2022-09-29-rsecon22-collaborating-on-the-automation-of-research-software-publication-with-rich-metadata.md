@@ -5,7 +5,7 @@ author: <b>Oliver Bertuch</b> (Forschungszentrum Jülich, <a href="https://orcid
 menulang: en, de
 ---
 
-> This post is being cross-posted on the [Software Sustainability Institute blog](https://software.ac.uk/blog).
+> This post is being cross-posted on the [Software Sustainability Institute blog](https://www.software.ac.uk/blog/2022-10-06-rsecon22-collaborating-automation-research-software-publication-rich-metadata).
 
 Publishing your research software in a publication repository is the first step on the path to [making your (research) software FAIR](https://doi.org/10.15497/RDA00068)! 
 But the publication of the software itself is not quite enough: To truly enable findability, accessibility and reproducibility, as well as making your software correctly citable and unlock credit for your work, your software publication must come with rich metadata to support these goals.
