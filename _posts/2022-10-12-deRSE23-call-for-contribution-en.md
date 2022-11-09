@@ -10,11 +10,11 @@ menulang: en
 The organising committee welcomes submissions for talks, posters and demos in English or German languange for the deRSE23 conference. The aim is to reflect the diverse community of research software engineers by seeking input from all levels of experience and across a variety of domains, geographic locations, genders, and ethnicities.
 
 ### Timeline
-October 10, 2022 - We are open for submissions
-November 21, 2022 - Deadline for submissions
-December 12, 2022 - Open registration for conference
-December 22, 2022 - Notification of acceptance and program
-February 20-21, 2023 - deRSE23 conference
+* October 10, 2022 - We are open for submissions
+* November 21, 2022 - Deadline for submissions
+* December 12, 2022 - Open registration for conference
+* December 22, 2022 - Notification of acceptance and program
+* February 20-21, 2023 - deRSE23 conference
 
 If your submission is accepted, at least one of the authors is expected to attend the conference to present. Please note that conference fees apply at registration.
 
