@@ -1,13 +1,13 @@
 ---
 title: "Gesellschaft für Informatik e.V. und de-RSE wollen enger zusammenarbeiten"
 layout: post
-author: Alexandra Resch und Bernadette Fritzsch
+author: Alexandra Resch und Bernadette Fritzsch, Daniel Nüst
 menulang: de
 ---
 
 GI und de-RSE, Gesellschaft für Forschungssoftware wollen enger zusammenarbeiten
 
-**Mit einer gemeinsamen Absichtserklärung haben sich de-RSE e.V., Gesellschaft für Forschungssoftware, und die Gesellschaft für Informatik e.V. (GI) dazu bekannt, enger zusammenzuarbeiten, um übereinstimmende Ziele zu erreichen und nach außen zu vertreten.**
+**Mit einer gemeinsamen Absichtserklärung haben de-RSE e.V. - Gesellschaft für Forschungssoftware und die Gesellschaft für Informatik e.V. (GI) eine engere Zusammenarbeit vereinbart, um übereinstimmende Ziele zu erreichen und nach außen zu vertreten.**
 
 Berlin, 24. Januar 2023. Informatik und computerbasierte Methoden prägen längst auch das wissenschaftliche Arbeiten. Zahlreiche Menschen sind mittlerweile an der Schnittstelle von Wissenschaft und Software Engineering tätig – und es werden immer mehr. Um ihre Interessen bestmöglich zu vertreten, wollen die GI und de-RSE, Gesellschaft für Forschungssoftware in Deutschland, nun enger zusammenarbeiten. Das haben die beiden Fachgesellschaften in einer gemeinsamen Absichtserklärung festgehalten.
 
@@ -23,7 +23,7 @@ Die Zusammenarbeit kann folgende Gebiete umfassen:
 
 Die beiden Gesellschaften wollen so voneinander lernen und profitieren sowie gemeinsam Ziele vorantreiben und nach außen vertreten, die für die Mitglieder beider Organisationen relevant sind.
 
-> _„Die GI war schon in der Vergangenheit für de-RSE ein wertvoller Partner bei der Erreichung gemeinsamer Ziele und der Ausrichtung gemeinsamer Konferenzen. Das MoU formalisiert diese Zusammenarbeit aber nicht nur, sondern unterstreicht zugleich die Wichtigkeit und Aktualität des Themas Forschungssoftware.“_ Frank Löffler, Vorstandsvorsitzender de-RSE e.V.
+> _„Die GI war schon in der Vergangenheit für de-RSE ein wertvoller Partner bei der Erreichung gemeinsamer Ziele und der Ausrichtung gemeinsamer Konferenzen", sagt Frank Löffler, Vorsitzender von de-RSE e.V. "Das MoU formalisiert diese Zusammenarbeit aber nicht nur, sondern unterstreicht zugleich die Wichtigkeit und Aktualität des Themas Forschungssoftware.“
 
 Zentrales Ziel von de-RSE ist es, die Wissenschaft auf den anhaltend stärker werdenden Einfluss neuer Informationstechnologien vorzubereiten. Zudem möchte die Fachgesellschaft dabei helfen, die Herausforderungen der zunehmenden Digitalisierung von Forschung zu meistern und die sich daraus ergebenden Chancen zu nutzen. Dies umfasst unter anderem die Sicherstellung von Nachhaltigkeit und Verifizierbarkeit der wissenschaftlichen Softwareentwicklung als Teil von Forschungsprozessen, eine verbesserte Wahrnehmung der Rolle von Software in der Forschung und eine Verankerung von Software-Veröffentlichungen im wissenschaftlichen Wertesystem.
 
