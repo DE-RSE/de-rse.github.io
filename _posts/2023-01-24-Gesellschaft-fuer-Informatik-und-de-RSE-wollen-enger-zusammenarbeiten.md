@@ -34,4 +34,4 @@ Die Absichtserklärung wurde bereits von beiden Seiten unterzeichnet und ist zun
 
 Mehr über die GI: <https://gi.de/>
 
-Meldung GI: TODO
+[Meldung GI](https://gi.de/meldung/neue-kooperation-mit-de-rse-gesellschaft-fuer-forschungssoftware)
