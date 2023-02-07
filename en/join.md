@@ -43,8 +43,11 @@ Please don't use the mailing list for long discussions, use the GWDG RocketChat 
 
 ## Job offers
 
-Job offers can be announced on the mailing list, but also on the GWDG RocketChat channel
-<https://chat.gwdg.de/channel/derse_jobs>.
+
+Job offers can be announced through the followin channels:
+- GWDG RocketChat Channel
+<https://chat.gwdg.de/channel/derse_jobs>
+- Mailing list (please start you subject line with "[JOBS]", for example "[JOBS] permanent position as RSE group leader")
 
 ## Monthly Community Call
 

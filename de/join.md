@@ -42,8 +42,10 @@ Für Diskussionen bitte nicht die Mailing Liste nutzen, sondern den GWDG RocketC
 
 ## Stellenangebote
 
-Für Stellenangebote können derzeit neben der Mailing Liste auch der GWDG RocketChat Channel
-<https://chat.gwdg.de/channel/derse_jobs> genutzt werden.
+Stellenangebote können über folgende Kanäle beworben werden:
+- GWDG RocketChat Channel
+<https://chat.gwdg.de/channel/derse_jobs>
+- Mailing Liste (bitte den Betreff mit "[JOBS]" beginnen, z.B. "[JOBS] unbefristete Stelle als RSE Gruppenleitung")
 
 ## Monatlicher Call
 
