@@ -174,7 +174,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Jan Dietrich",
-            "popupContent": "<img src='../assets/img/map/jandietrich.png'><a href='https://www.pik-potsdam.de/research/members/dietrich'>Jan Dietrich</a>, Potsdam-Institut für Klimafolgenforschung (PIK)<br><br>"
+            "popupContent": "<img src='../assets/img/map/jandietrich.png'><a href='https://www.pik-potsdam.de/members/dietrich'>Jan Dietrich</a>, Potsdam-Institut für Klimafolgenforschung (PIK)<br><br>"
         },
         "geometry": {
             "type": "Point",
