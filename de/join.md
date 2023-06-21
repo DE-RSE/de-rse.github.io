@@ -16,15 +16,15 @@ Erhaltet Informationen aus unserer Gemeinschaft und informiert selbst
 Mit dem folgenden Formular meldet Ihr Euch auf der Mailingliste 
 liste@de-RSE.org an.
 
-<form method="POST" action="https://ml-cgn04.ispgateway.de/mailman/subscribe/liste_de-rse.org">
+<form method="POST" action="https://listi.jpberlin.de/mailman/subscribe/de-rse-liste">
   <div class="form-group">
-    <input name="email" value="" type="email" placeholder="Emailadresse eingeben">
+    <input name="email" value="" type="email" placeholder="E-Mail-Adresse eingeben">
     <button type="submit" class="btn btn-primary">Anmelden</button>
   </div>
 </form>
-<form method="POST" action="https://ml-cgn04.ispgateway.de/mailman/options/liste_de-rse.org">
+<form method="POST" action="https://listi.jpberlin.de/mailman/options/de-rse-liste">
   <div class="form-group">
-    <input name="email" value="" type="email" placeholder="Emailadresse eingeben">
+    <input name="email" value="" type="email" placeholder="E-Mail-Adresse eingeben">
     <input name="unsubconfirm" type="hidden" value="1">
     <button type="submit" name="unsub" class="btn btn-primary">Abmelden</button>
   </div>
