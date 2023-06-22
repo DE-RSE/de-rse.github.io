@@ -15,13 +15,13 @@ Receive notices about events, job postings, opportunities for collaboration
 and occasional information about our community. Use the following form to
 subscribe to the mailing list liste@de-RSE.org.
 
-<form method="POST" action="https://ml-cgn04.ispgateway.de/mailman/subscribe/liste_de-rse.org">
+<form method="POST" action="https://listi.jpberlin.de/mailman/subscribe/de-rse-liste">
   <div class="form-group">
     <input name="email" value="" type="email" placeholder="enter email address">
     <button type="submit" class="btn btn-primary">Subscribe</button>
   </div>
 </form>
-<form method="POST" action="https://ml-cgn04.ispgateway.de/mailman/options/liste_de-rse.org">
+<form method="POST" action="https://listi.jpberlin.de/mailman/options/de-rse-liste">
   <div class="form-group">
     <input name="email" value="" type="email" placeholder="enter email address">
     <input name="unsubconfirm" type="hidden" value="1">
