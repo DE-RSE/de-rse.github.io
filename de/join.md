@@ -68,6 +68,12 @@ Der Blog auf der Webseite wird von der Community gemeinschaftlich gestaltet.
 Deine Ideen, Themen und Beiträge auf Deutsch, English, oder beidem sind sehr willkommen!
 In der `README` findest du eine Anleitung wie Du eine Vorschau der Seite auf deinem eigenen Rechner bekommen kannst.
 
+## Lokale RSE Gruppen
+
+"Chapters" sind lokale, regionale, oder institutionspezifische Gruppen von RSEs unter dem Dach von de-RSE e.V..
+
+[Lokale Chapters](https://de-rse.org/chapter/)
+
 # Kontakt
 
 Wer mehr über Hintergründe, Ziele und Aktivitäten wissen möchte oder Fragen zu 
