@@ -68,6 +68,12 @@ The website hosts a blog with contributions from the community members.
 Your ideas, topics and posts in German, English, or both are very welcome!
 The `README` includes instructions for getting a local preview of the site.
 
+## Local RSE groups
+
+"Chapters" are local, regional, or institution-specific RSE groups, under the umbrella of the de-RSE.e.V..
+
+[Local chapters](https://de-rse.org/chapter/)
+
 # Contact
 
 Of course please do not hesitate to use the mailing list liste@de-RSE.org if
