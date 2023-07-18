@@ -4,6 +4,8 @@ This repository contains the source files for the de-RSE website. Its official h
 
 The site is made to be built with [Jekyll](https://jekyllrb.com/) >= 3.4.1.
 
+You can use [RVM](https://rvm.io/) to install and use a suitable Ruby version, e.g., `rvm use 2.7`.
+
 To build, run `bundle install` once (or skip that if you have dependencies already installed and bundler does not work for you) and then  `bundle exec jekyll build`.
 To preview locally, run `bundle exec jekyll serve --incremental` and browse to <http://localhost:4000>.
 The `--incremental` flag helps speeding up the previews.

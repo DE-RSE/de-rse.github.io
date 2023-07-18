@@ -10,13 +10,13 @@ menulang: de
 Das Organisationskomitee bittet um Einreichungen für Vorträge, Poster und Demos in Deutscher oder Englischer Sprache für die deRSE23-Konferenz. Ziel ist es, die Vielfalt der Gemeinschaft der forschenden Software-Ingenieure widerzuspiegeln, indem Beiträge aus allen Erfahrungsebenen und aus einer Vielzahl von Bereichen, geografischen Standorten, Geschlechtern und Ethnien gesucht werden.
 
 ### Zeitplan
-
+```
 * 10. Oktober 2022 - Wir sind offen für Einreichungen
 * 21. November 2022 - Einsendeschluss für Beiträge
 * 12. Dezember 2022 - Registrierung für die Konferenz geöffnet
 * 22. Dezember 2022 - Benachrichtigung über Annahme und Programm
 * 20.-21. Februar 2023 - deRSE23-Konferenz
-
+```
 Wenn Deine Einreichung angenommen wird, wird erwartet, dass mindestens einer der Autoren an der Konferenz teilnimmt und den Beitrag präsentiert. Bitte beachte, dass bei der Anmeldung Konferenzgebühren anfallen.
 
 <!--more-->
