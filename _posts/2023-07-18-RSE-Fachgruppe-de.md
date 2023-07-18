@@ -29,4 +29,4 @@ Mitarbeit an diesen, oder neuen, Themen ist natürlich möglich und gern gesehen
 
 Anna-Lena Lamprecht agiert als [Sprecherin](https://fg-rse.gi.de/kontakt) des [Leitungsgremiums](https://fg-rse.gi.de/fachgruppe/leitungsgremium), welches recht divers aufgestellt.
 
-![mailing list count]({{ "/assets/img/blog/2023/PXL_20230608_160739515.jpg" | prepend: site.baseurl }})
+![mailing list count]({{ "/assets/img/blog/2023/PXL_20230608_160739515.jpg" | prepend: site.baseurl }}){: width="800px"}
