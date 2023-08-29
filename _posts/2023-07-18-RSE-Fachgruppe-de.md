@@ -6,7 +6,7 @@ menulang: de
 ---
 Das Thema Forschungssoftware liegt nicht nur uns am Herzen. Auch die [Gesellschaft für Informatik](https://gi.de) mit 
 ihrem Forschungsinteresse widmet sich dem Thema. Um gemeinsam an verschiedenen Themen zu arbeiten, haben der GI-Fachbereich 
-Softwaretechnik und wir eine gemeinsame RSE-Fachgruppe gegründet. Damit hat die [Absichtserklärung vom Februar](https://de-rse.org/blog/2023/02/03/Gesellschaft-fuer-Informatik-und-de-RSE-wollen-enger-zusammenarbeiten.html) auch gleich Früchte getragen. 
+Softwaretechnik und wir eine gemeinsame [RSE-Fachgruppe](https://fg-rse.gi.de) gegründet. Damit hat die [Absichtserklärung vom Februar](https://de-rse.org/blog/2023/02/03/Gesellschaft-fuer-Informatik-und-de-RSE-wollen-enger-zusammenarbeiten.html) auch gleich Früchte getragen. 
 
 Entsprechende Meldungen sind anderswo schon zu lesen:
 
