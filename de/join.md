@@ -35,6 +35,11 @@ Bitte beachtet, dass die Mailing Liste im Moment nur Mails mit einer Größe von
 und andere Anhänge hinweisen möchte, kann die URL Adresse angeben und falls nötig 
 vorher das Material an einem anderen Ort hochladen und so zur Verfügung stellen.
 
+## gemeinsame RSE-Fachgruppe mit GI e.V.
+
+Um RSE gemeinsam mit der Gesellschaft für Informatik zu bearbeiten, gibt es eine RSE-Fachgruppe. Weitere Informationen: https://fg-rse.gi.de .
+Einen [Blogeintrag gibt es](https://de-rse.org/blog/2023/07/18/RSE-Fachgruppe-de.html) ebenso.
+
 ## Chat
 
 Für Diskussionen bitte nicht die Mailing Liste nutzen, sondern den GWDG RocketChat Channel
