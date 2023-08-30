@@ -37,7 +37,7 @@ vorher das Material an einem anderen Ort hochladen und so zur Verfügung stellen
 
 ## gemeinsame RSE-Fachgruppe mit GI e.V.
 
-Um RSE gemeinsam mit der Gesellschaft für Informatik zu bearbeiten, gibt es eine RSE-Fachgruppe. Weitere Informationen: https://fg-rse.gi.de .
+Um RSE gemeinsam mit der Gesellschaft für Informatik zu bearbeiten, gibt es eine RSE-Fachgruppe. Weitere Informationen: [https://fg-rse.gi.de](https://fg-rse.gi.de) .
 Einen [Blogeintrag gibt es](https://de-rse.org/blog/2023/07/18/RSE-Fachgruppe-de.html) ebenso.
 
 ## Chat
