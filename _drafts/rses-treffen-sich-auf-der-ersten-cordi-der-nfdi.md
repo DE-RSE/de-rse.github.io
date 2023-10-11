@@ -5,8 +5,8 @@ author: Daniel Nüst, Frank Löffler
 menulang: de
 ---
 
-Am 12. bis 14. September 2023 fand unter dem Motto _Connecting Communities_ in Karlsruhe am KIT die erste _Conference on Research Data Infrastructure_ (CoRDI).
-Mit der CoRDI initiiert der [Verein Nationale Forschungsdateninfrastruktur](https://www.nfdi.de/verein/) (NFDI) e.V. eine Konferenz im Zeichen der Etablierung eines fächerübergreifenden Forschungsdatenmanagements (FDM) unter Anstrebung der [FAIR-Prinzipien](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/) steht.
+Am 12. bis 14. September 2023 fand unter dem Motto _Connecting Communities_ in Karlsruhe am KIT die erste _Conference on Research Data Infrastructure_ (CoRDI) statt.
+Mit der CoRDI initiiert der [Verein Nationale Forschungsdateninfrastruktur](https://www.nfdi.de/verein/) (NFDI) e.V. eine Konferenz im Zeichen der Etablierung eines fächerübergreifenden Forschungsdatenmanagements (FDM) unter Anstrebung der [FAIR-Prinzipien](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/).
 
 ![Das de-RSE Banner auf der CoRDI.](/assets/img/blog/2023/cordi23-1.jpg){: width="42%"}{:style="float: right; margin: 0 1em;"}
 
@@ -14,16 +14,16 @@ Für de-RSE kann das Thema Forschungsdaten natürlich niemals alleine stehen.
 Fortschritte in FAIRness und Offenheit und verbesserte Praktiken im Forschungsdatenmanagement erfordern stets auch eine Betrachtung der zugehörigen Forschungssoftware, sei es aus der Sicht der speziellen Software für Infrastrukturen als auch der spezifischen Werkzeuge für die eigentliche wissenschaftliche Forschung.
 Aus diesem Grund organisierten Frank Löffler und Daniel Nüst, die Vorstandsvorsitzenden des de-RSE e.V., eine ["Birds of a Feather"](https://en.wiktionary.org/wiki/birds-of-a-feather_session) (BoF) session, die vom Organisationsteam dankenswerterweise ins offizielle Programm aufgenommen wurde.
 
-Auf der Konferenz waren alle [Konsortien](https://www.nfdi.de/konsortien/) der [NFDI](https://www.nfdi.de/) vertreten, und so kam auch bei dem RSE-Treffen viele verschiedene Fachdisziplinen zusammen.
-Circa 25 Teilnehmer:innen tauschten individuelle Erfahrungen, Rollen und Perspektiven lernten sich zu Beginn durch eine physisch interaktive Kennenlernrunde kennen - die zugehörigen Fragen finden sich im [Foliensatz der Veranstaltung](https://pad.gwdg.de/p/6uV8_9p8h#/).
+Auf der Konferenz waren alle [Konsortien](https://www.nfdi.de/konsortien/) der [NFDI](https://www.nfdi.de/) vertreten, und so kamen auch beim RSE-Treffen Teilnehmende vieler verschiedener Fachdisziplinen zusammen.
+Die circa 25 Teilnehmenden tauschten individuelle Erfahrungen, Rollen und Perspektiven aus und lernten sich zu Beginn durch eine physisch interaktive Kennenlernrunde kennen - die zugehörigen Fragen finden sich im [Foliensatz der Veranstaltung](https://pad.gwdg.de/p/6uV8_9p8h#/).
 Die sich bildenden Muster und Verteilungen wurden vielfach auch direkt zum thematischen Austausch genutzt.
 
 Anschließend setzte sich der fachliche Austausch mit lebhaften Diskussionen fort.
 Insbesondere die disziplinspezifischen Herausforderungen und Erfahrungen aus den verschiedenen vertretenen Konsortien lieferten spannende und auch kontroverse Thesen und Fragen.
-Die Diskussion betrachtete sowohl klassische RSE-Themen, wie zum Beispiel Herausforderungen in der Karriereentwicklung für und Evaluation von RSEs, was sich bei einer relativ hohen Anzahl von Teilnehmern denen RSE(ng) und der Verein de-RSE noch neu war sehr lohnte, aktuelle Entwicklungen, wie zum Beispiel die [gemeinsame Fachgruppe von GI e.V. und de-RSE](/blog/2023/07/18/RSE-Fachgruppe-de.html) als auch NFDI-spezifische Themen, wie der laufende Basisdiensteantrag _nfdi.software_ oder die _Arbeitsgruppe zu Metadaten für Software_.
+Die Diskussion betrachtete sowohl klassische RSE-Themen, wie zum Beispiel Herausforderungen in der Karriereentwicklung für und Evaluation von RSEs, was sich insbesondere bei einer relativ hohen Anzahl von Teilnehmenden sehr lohnte, denen RSE(ng) und der Verein de-RSE noch neu war. Andere Themen waren aktuelle Entwicklungen, wie zum Beispiel die [RSE-Fachgruppe der Gesellschagt für Informatik (GI) e.V.](/blog/2023/07/18/RSE-Fachgruppe-de.html), als auch NFDI-spezifische Themen wie der laufende Basisdiensteantrag _nfdi.software_ oder die _Arbeitsgruppe zu Metadaten für Software_.
 Die [Impulsaussagen](https://pad.gwdg.de/p/6uV8_9p8h#/6/1) in der Hinterhand der Organisatoren konnten die bereits aufkommenden Themen nur noch ergänzen.
 
-Wir danken allen Teilnehmenden für den Austausch 
+Wir danken allen Teilnehmenden für den Austausch.
 
 ![RSE BoF auf der CoRDI.](/assets/img/blog/2023/cordi23-2.jpg){: width="50%"}
 
