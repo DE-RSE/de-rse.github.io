@@ -25,15 +25,17 @@ Currently, we are moderating the following channels:
 ## Matrix Chat
 
 Matrix is a decentralized communication protocol that supports chat, voice and video calls.
-The protocol is an open standard and there are multiple clients available, depending on the targeted platform.
-A key feature of Matrix is that every chat, including group chats, can be end-to-end encrypted.
+The protocol is an open standard and there are multiple clients available.
+A key feature of Matrix is that every chat, including group chats, can be end-to-end encrypted (but we recommend against it in some cases: more to that below).
 
 ### How to Start
 
 You need a Matrix account to use it.
 Since Matrix is a decentralized system, there is no single place to create an account.
 
-If your institution hosts a Matrix server, you might want to create your account there (or it already exists, without your knowledge).
+If your institution hosts a Matrix server, you might want to create your account there (or it already exists, without your knowledge). A somewhat current map of scientific institutions that use matrix is maintained at TU Dresden:
+
+![](https://doc.matrix.tu-dresden.de/images/federation_map.svg)
 
 Otherwise, you can create an account on the generic instance matrix.org.
 You can find [information on how to do that](https://matrix.org/docs/chat_basics/matrix-for-im/) in their documentation.
