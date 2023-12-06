@@ -39,15 +39,13 @@ create a financial problem.
 ## Chat: Matrix
 
 Please don't use the mailing list for long discussions, use the chat channel(s) instead!
-
-TODO
+You can find a list of these channels and some information on how to start using Matrix Chat on a [separate page](matrix.html).
 
 #### (alter Chat: Rocketchat)
 
 Before Matrix we used RocketChat from GWDG: <https://chat.gwdg.de/channel/derse>.
 
 ## Job offers
-
 
 Job offers can be announced through the followin channels:
 - GWDG RocketChat Channel: <https://chat.gwdg.de/channel/derse_jobs>
