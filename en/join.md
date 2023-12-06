@@ -38,8 +38,8 @@ create a financial problem.
 
 ## Chat
 
-Please don't use the mailing list for long discussions, use the GWDG RocketChat channel instead!
-<https://chat.gwdg.de/channel/derse/>
+Please don't use the mailing list for long discussions, use our Matrix channels instead.
+You can find a list of these channels and some information on how to start using Matrix Chat on a [separate page](matrix.html).
 
 ## Job offers
 

@@ -42,8 +42,8 @@ Einen [Blogeintrag gibt es](https://de-rse.org/blog/2023/07/18/RSE-Fachgruppe-de
 
 ## Chat
 
-Für Diskussionen bitte nicht die Mailing Liste nutzen, sondern den GWDG RocketChat Channel
-<https://chat.gwdg.de/channel/derse>.
+Für Diskussionen bitte nicht die Mailing Liste nutzen, sondern unsere Matrix-Kanäle.
+Eine Liste dieser Kanäle und Informationen für den Einstig in die Nutzung von Matrix haben wir auf einer [separaten Seite](matrix.html) zusammengestellt.
 
 ## Stellenangebote
 
