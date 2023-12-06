@@ -3,6 +3,7 @@ title: "Aufruf zur Beteiligung an deRSE23 - der RSE Konferenz 2023 in Deutschlan
 layout: post
 author: Stephan Janosch im Namen des deRSE23-Organisationsteams
 menulang: de
+name_en: deRSE23-call-for-contribution-en
 ---
 
 [deRSE23](https://de-rse23.sciencesconf.org/), die dritte Konferenz in Deutschland, die sich mit Forschungssoftware und den Menschen dahinter in der deutschen Forschungslandschaft beschäftigt, findet am 20. und 21. Februar 2023 im Heinz Nixdorf Forum (HNF) in Paderborn statt.

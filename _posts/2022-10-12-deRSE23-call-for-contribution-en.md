@@ -3,6 +3,7 @@ title: "Call for Contribution - deRSE23 the RSE Conference 2023 in Germany"
 layout: post
 author: Stephan Janosch in behalf the deRSE23 organisers
 menulang: en
+name_de: deRSE23-call-for-contribution-de
 ---
 
 [deRSE23](https://de-rse23.sciencesconf.org/), the third conference in Germany addressing research software and the people behind it within the German research landscape will be held at the Heinz Nixdorf Forum (HNF) in Paderborn on February 20-21, 2023.

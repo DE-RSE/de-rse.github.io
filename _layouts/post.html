@@ -78,12 +78,30 @@
 
           </ul>
           <ul class='nav navbar-nav pull-right'>
-            <!-- Language menu items take the user back to the blog main page -->
+             {% assign url_parts = page.url | split: "/" | pop | join: "/" | append: "/" %}
+             {% if page.menulang == "de" %}
+             {%     if page.name_en %}
+             {%         assign en_url = url_parts | append: page.name_en | append: ".html" %}
+            <li><a href='{{ en_url | prepend: site.baseurl }}'>Englisch/English</a></li>
+             {%     else %}
+            <li>                                         <a><s>Englisch/English</s></a></li>
+             {%     endif %}
+             {% endif %}
+             {% if page.menulang == "en" %}
+             {%     if page.name_de %}
+             {%         assign de_url = url_parts | append: page.name_de | append: ".html" %}
+            <li><a href='{{ de_url | prepend: site.baseurl }}'>German/Deutsch</a></li>
+             {%     else %}
+             <li>                                       <a><s>German/Deutsch</s></a></li>
+             {%     endif %}
+             {% endif %}
+<!--
             {% if lang contains "/en/" %}
               <li><a href='{{ "/de/blog.html" | prepend: site.baseurl }}'>German/Deutsch</a></li>
             {% else %}
               <li><a href='{{ "/en/blog.html" | prepend: site.baseurl }}'>Englisch/English</a></li>
             {% endif %}
+-->
           </ul>
         </div><!--/.nav-collapse -->
       </div>
