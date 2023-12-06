@@ -45,20 +45,14 @@ Please don't use the mailing list for long discussions, use the GWDG RocketChat 
 
 
 Job offers can be announced through the followin channels:
-- GWDG RocketChat Channel
-<https://chat.gwdg.de/channel/derse_jobs>
+- GWDG RocketChat Channel: <https://chat.gwdg.de/channel/derse_jobs>
 - Mailing list (please start you subject line with "[JOBS]", for example "[JOBS] permanent position as RSE group leader")
 
 ## Monthly Community Call
 
-In the December Call of the German-speaking 
-[OKF working group Open Science](http://www.ag-openscience.de/) in 2016 
-it has been agreed to combine the monthly call with the de-RSE initiative at the 
-beginning of 2017. Both topics, Open Science and Research Software Engineering, 
-are closely related, pursue goals with a common set of interfaces, and address a 
-similar circle of interested parties.
-
-A monthly call is also considered for the de-RSE initiative, but for now both calls are held jointly.
+Since 2017, we host a monthly "Open Science" call together with the
+[OKF working group Open Science](http://www.ag-openscience.de/). During this call,
+topics from OpenScience to RSE and beyond are discussed informally by the community.
 
 Dates and times for the monthly community calls are [listed here](https://pad.okfn.de/p/openscience-ag-master-pad).
 
@@ -66,7 +60,7 @@ Dates and times for the monthly community calls are [listed here](https://pad.ok
 
 The website hosts a blog with contributions from the community members.
 Your ideas, topics and posts in German, English, or both are very welcome!
-The `README` includes instructions for getting a local preview of the site.
+The [README.md](https://github.com/DE-RSE/de-rse.github.io/blob/master/README.md) includes instructions for getting a local preview of the site.
 
 ## Local RSE groups
 
