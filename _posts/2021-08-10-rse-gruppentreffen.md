@@ -23,7 +23,7 @@ Informationen dazu werden bald die Runde machen: bitte nehmt euch dann die Zeit 
 Diese Umfrage ist eine der wichtigen Möglichkeiten, belastbare Daten über uns selbst - RSEs - zu sammeln.
 Ihr könnt damit rechnen, dazu sowohl [hier](https://de-rse.org/de/blog.html) einen Blogartikel, als auch Ankündigungen im [RocketChat](https://chat.gwdg.de/channel/derse) und auf der [deRSE-Emailliste](https://chat.gwdg.de/channel/derse) zu finden.
 
-\[**Update 2023-12-06**: Wir nutzen nun Matrix als Chatplatform. Wie ihr sie nutzen könnt haben wir auf einer [Seite zu Matrix](https://www.de-rse.org/de/matrix.html) dokumentiert.\]
+\[**Update 2023-12-06**: Wir nutzen nun Matrix als Chatplatform. Wie ihr sie nutzen könnt, haben wir auf einer [Seite zu Matrix](https://www.de-rse.org/de/matrix.html) dokumentiert.\]
 
 Für den zweiten Teil des Treffens wurden schon im Vorfeld Themen von breitem Interesse gesammelt und diese dann in Breakout-Räumen diskutiert:
 
