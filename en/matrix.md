@@ -35,7 +35,7 @@ Since Matrix is a decentralized system, there is no single place to create an ac
 
 If your institution hosts a Matrix server, you might want to create your account there (or it already exists, without your knowledge). A somewhat current map of scientific institutions that use matrix is maintained at TU Dresden:
 
-![](https://doc.matrix.tu-dresden.de/images/federation_map.svg)
+![Map of Germany with Matrix logos marking institutions that run a Matrix server. Clicking on a logo will navigate to the respective service.](https://doc.matrix.tu-dresden.de/images/federation_map.svg)
 
 Otherwise, you can create an account on the generic instance matrix.org.
 You can find [information on how to do that](https://matrix.org/docs/chat_basics/matrix-for-im/) in their documentation.
