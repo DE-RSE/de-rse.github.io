@@ -12,7 +12,7 @@ On this page, we document how you can find our channels and give a few pointers 
 
 ## Our Space and Channels
 
-We grouped our channel using a space: <TBD> .
+We grouped our channel using a space: https://matrix.to/#/#de-rse.org:matrix.org
 
 Currently, we are moderating the following channels:
 
