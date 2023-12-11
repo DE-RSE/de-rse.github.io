@@ -6,7 +6,7 @@ weight: 60
 
 # Matrix Chat
 
-We, the de-RSE association and its surrounding community, use the [Matrix]() protocol for asynchronous communication.
+We, the de-RSE association and its surrounding community, use the [Matrix](https://matrix.org) protocol for asynchronous communication.
 
 On this page, we document how you can find our channels and give a few pointers to get you started using Matrix chat, in case you are new to the ecosystem.
 
