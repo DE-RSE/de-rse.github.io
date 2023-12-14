@@ -14,12 +14,12 @@ vorstand@de-rse.org
 
 ## Board
 
-* Frank Löffler (Friedrich Schiller University Jena, Chair)
-* Daniel Nüst (University Münster, Vice Chair) 
+* Jan Linxweiler (Technische Universität Carolo-Wilhelmina zu Braunschweig, Chair) 
+* Frank Löffler (Friedrich-Schiller-Universität Jena, Vice Chair)
 * Stephan Janosch (Max Planck Institute for Molecular Cell Biology and Genetics Dresden, Treasurer)
-* Florian Thiery (Römisch-Germanisches Zentralmuseum (Mainz) und Research Squirrel Engineers, Vice Treasurer)
-* Bernadette Fritzsch (Alfred Wegener Institute Bremerhaven, Secretary)
-* Jan-Philipp Dietrich (Potsdam insitute for climate impact research, Vice Secretary)
+* Michael Meinel (German Aerospace Center (DLR), stellvertretender Schatzmeister)
+* Jan Philipp Dietrich (Potsdam Institute for Climate Impact Research (PIK), Secretary)
+* Bernadette Fritzsch (Alfred Wegener Institute Bremerhaven, Vice Secretary)
 
 ## Founding of the association and its statutes
 
