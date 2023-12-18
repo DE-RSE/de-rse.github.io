@@ -16,11 +16,16 @@ We grouped our channel using a space: https://matrix.to/#/#de-rse.org:matrix.org
 
 Currently, we are moderating the following channels:
 
-- <TBD1>
-- <TBD1>
-- <TBD1>
-- <TBD1>
-- <TBD1>
+[deRSE-general](https://matrix.to/#/#de-rse.org-general:matrix.org)
+: For general discussions that are de-RSE related, but fit in no other room.
+[deRSE-introductions](https://matrix.to/#/#de-rse.org-introductions:matrix.org)
+: For (new) community members introducing themselves.
+[deRSE-jobs](https://matrix.to/#/#de-rse.org-jobs:matrix.org)
+: For RSE related job announcements from the community.
+[deRSE-events](https://matrix.to/#/#de-rse.org-events:matrix.org)
+: For RSE related event announcements from the community.
+[deRSE-offtopic](https://matrix.to/#/#de-rse.org-offtopic:matrix.org)
+: For anything not related to de-RSE, but that one might want to discuss with the de-RSE community.
 
 ## Matrix Chat
 
