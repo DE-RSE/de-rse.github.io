@@ -38,9 +38,7 @@ A key feature of Matrix is that every chat, including group chats, can be end-to
 You need a Matrix account to use it.
 Since Matrix is a decentralized system, there is no single place to create an account.
 
-If your institution hosts a Matrix server, you might want to create your account there (or it already exists, without your knowledge). A somewhat current map of scientific institutions that use matrix is maintained at TU Dresden:
-
-![Map of Germany with Matrix logos marking institutions that run a Matrix server. Clicking on a logo will navigate to the respective service.](https://doc.matrix.tu-dresden.de/images/federation_map.svg)
+If your institution hosts a Matrix server, you might want to create your account there (or it already exists, without your knowledge). The TU Dresden maintains a [map of scientific institutions](https://doc.matrix.tu-dresden.de/images/federation_map.svg) in Germany (and some abroad) that host a Matrix server.
 
 Otherwise, you can create an account on the generic instance matrix.org.
 You can find [information on how to do that](https://matrix.org/docs/chat_basics/matrix-for-im/) in their documentation.
