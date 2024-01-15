@@ -8,13 +8,13 @@ weight: 60
 
 We, the de-RSE association and its surrounding community, use the [Matrix](https://matrix.org) protocol for asynchronous communication.
 
-On this page, we document how you can find our channels and give a few pointers to get you started using Matrix chat, in case you are new to the ecosystem.
+On this page, we document how you can find our rooms and give a few pointers to get you started using Matrix chat, in case you are new to the ecosystem.
 
-## Our Space and Channels
+## Our Space and Rooms
 
-We grouped our channel using a space: https://matrix.to/#/#de-rse.org:matrix.org
+We grouped our rooms using a space: https://matrix.to/#/#de-rse.org:matrix.org
 
-Currently, we are moderating the following channels:
+Currently, we are moderating the following rooms:
 
 [deRSE-general](https://matrix.to/#/#de-rse.org-general:matrix.org)
 : For general discussions that are de-RSE related, but fit in no other room.
