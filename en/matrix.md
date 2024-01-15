@@ -46,7 +46,7 @@ Once all the requirements are fulfilled please contact <TBD@TBD.TBD> to request 
 
 Matrix is a decentralized communication protocol that supports chat, voice and video calls.
 The protocol is an open standard and there are multiple clients available.
-A key feature of Matrix is that every chat, including group chats, can be end-to-end encrypted (but we recommend against it in some cases: more to that below).
+A key feature of Matrix is that every chat, including group chats, can be end-to-end encrypted (but we recommend against it in some cases, see above).
 
 ### How to Start
 
