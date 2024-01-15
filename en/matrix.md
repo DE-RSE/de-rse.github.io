@@ -27,6 +27,21 @@ Currently, we are moderating the following channels:
 [deRSE-offtopic](https://matrix.to/#/#de-rse.org-offtopic:matrix.org)
 : For anything not related to de-RSE, but that one might want to discuss with the de-RSE community.
 
+### Additional Rooms
+
+On Matrix everyone can create their own rooms.
+Appropriate rooms, for example for local chapters or specific RSE topics, can be added to the de-RSE space.
+If you want to have a room added to the de-RSE space, it has to fulfill the following requirements:
+
+- The functional account @de-rse@matrix.org must be added with the admin role.
+- The room must not be encrypted so the history is readable by joining users.
+- The room should have logo.
+  If there is nothing better fitting, you can use the [de-RSE logo]({{ "/assets/img/matrix/derse-matrix-log.png" | prepend: site.baseurl }}).
+- If the room’s topic is a de-RSE chapter, its name must be prefixed by `deRSE-chapter-`.
+- At least one user, other than the functional account, must have the moderator role.
+
+Once all the requirements are fulfilled please contact <TBD@TBD.TBD> to request addition of the room to the de-RSE space.
+
 ## Matrix Chat
 
 Matrix is a decentralized communication protocol that supports chat, voice and video calls.
