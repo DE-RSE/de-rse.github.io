@@ -46,8 +46,8 @@ You can find further [information on the sign-up process](https://matrix.org/doc
 ### Recommended Clients
 
 We recommend to use the [Element client](https://element.io/download) for all major platforms.
-It supports most features of the Matrix protocol and is a somewhat resource hungry.
-If the latter is a problem for you, you might want to have a look [other client](https://matrix.org/ecosystem/clients/).
+It supports most features of the Matrix protocol, but is somewhat resource hungry.
+If the latter is a problem for you, you might want to have a look at [other client](https://matrix.org/ecosystem/clients/).
 
 If you do not want to or cannot install a client on your platform, you can use a web client.
 Your home server might host a web client itself.
