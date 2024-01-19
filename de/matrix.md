@@ -8,7 +8,7 @@ weight: 60
 
 Wir, der de-RSE Verein und die RSE-Community, benutzen [Matrix](https://matrix.org) zur asynchronen Kommunikation (chatten).
 
-Auf dieser Seite dokumentieren wir, welche Räume für die Community bereitstellen und moderieren und geben für all diejenigen, die noch keinen Kontakt mit Matrix hatten, Hinweise zum Einstieg
+Auf dieser Seite dokumentieren wir, welche Räume wir für die Community bereitstellen und moderieren und geben Hinweise zum Einstieg für all diejenigen, die Matrix noch nicht kennen.
 
 ## Unser Space und unsere Räume
 
@@ -30,8 +30,8 @@ Zur Zeit moderieren wir die folgenden Räume:
 ### Zusätzliche Räume
 
 Im Matrix-Netzwerk kann jeder eigene Räume erstellen.
-Passende Räume, zum Beispiel von lokalen RSE Gruppen (Chapters) oder zu speziellen RSE-Themen, können zum de-RSE-Space hinzugefügt werden.
-Wenn ihr einen Raum hinzugefügt bekommen wollt, muss dieser einige Voraussetzungen erfüllen:
+Passende Räume, zum Beispiel von lokalen RSE-Gruppen (Chapters) oder zu speziellen RSE-Themen, fügen wir gern zum de-RSE-Space hinzu.
+Dafür muss der Raum die folgen Voraussetzungen erfüllen:
 
 - Der funktionale Nutzer @de-rse@matrix.org muss mit der Admin-Rolle hinzugefügt werden.
 - Der Raum darf nicht verschlüsselt sein, damit neuhinzukommende Nutzer den historischen Verlauf nachlesen können.
@@ -44,20 +44,20 @@ Sind alle Voraussetzungen erfüllt, kontaktiert bitte  <TBD@TBD.TBD>, um die Auf
 
 ## Matrix Chat
 
-Matrix ist ein dezentrales Kommunikationsprotokoll, das Chats, Anruf, sowie Videoanrufe unterstützt.
-Das Protokoll ist ein offener Standard und es verschiedene Clientsoftware vorhanden.
-Ein wichtige Eigenschaft von Matrix ist, dass jeder Chat, Gruppenchats eingeschlossne, Ende-zu-Ende verschlüsselt werden kann (wobei wir in eigene Fällen davon abraten, siehe oben).
+Matrix ist ein dezentrales Kommunikationsprotokoll, das Chats sowie Audio- und Videoanrufe unterstützt.
+Das Protokoll ist ein offener Standard für den – ähnlich wie bei Email – verschiedene Clientsoftware verfügbar ist.
+Eine wichtige Eigenschaft von Matrix ist, dass jeder Chat, Gruppenchats eingeschlossen, Ende-zu-Ende verschlüsselt werden kann (wobei wir in bestimmten Fällen davon abraten, [siehe oben](#zusätzliche-räume))).
 
 ### Wie Starten?
 
-Du benötigst eine Matrix-Konto.
+Du benötigst ein Matrix-Konto.
 Da Matrix ein dezentralisiertes System ist, gibt es nicht die eine Stelle, um ein Konto zu erstellen.
 
-Falls deine Institution selbst einen Matrix-Server betreibt, möchtest du vielleicht dort ein Konto erstellen, falls es nicht schon ohne dein Wissen existiert.
-Die TU Dresden pflegt eine [Karte von wissenschaftlichen Institutionen](https://doc.matrix.tu-dresden.de/images/federation_map.svg) in Deutschland (und ein paar darüber hinaus), die einen Matrix-Server betreiben.
+Falls deine Institution selbst einen Matrix-Server betreibt, möchtest du vielleicht dort ein Konto erstellen. Falls es dort ohnehin schon existiert, kannst du das verwenden.
+Die TU Dresden pflegt eine [Karte von wissenschaftlichen Institutionen](https://doc.matrix.tu-dresden.de/images/federation_map.svg) in Deutschland (und ein paar darüber hinaus), die Matrix-Server betreiben.
 
 Ist das nicht der Fall, kannst du einen Konto auf der Instanz matrix.org unter <https://app.element.io> erstellen.
-Weitere [Informationen zum Kontoerstellprozess](https://matrix.org/docs/chat_basics/matrix-for-im/) sind in der englischsprachigen Dokumentation von matrix.org zu finden.
+Weitere [Informationen zum Kontoerstellprozess](https://matrix.org/docs/chat_basics/matrix-for-im/) findest du in der englischsprachigen Dokumentation von matrix.org.
 
 ### Empfohlene Clients
 
@@ -65,6 +65,6 @@ Wir empfehlen auf allen gängigen Plattformen den Client [Element](https://eleme
 Er unterstützt die meisten Bestandteile des Matrix-Protokolls, ist dafür jedoch etwas ressourcenhungrig.
 Ist das ein Problem, gibt es noch einige [andere Clients](https://matrix.org/ecosystem/clients/).
 
-Für den Fall, das keine Software installiert werden kann, kann man Matrix auch über einen Web-Client nutzen.
-Betreibt eine Institution einen Matrix-Server bietet sie gegebenenfalls auch einen Web-Client an.
-In jedem Fall kann der Web-Client der Entwickler von Element genutzt werden: <https://app.element.io/>
+Für den Fall, das keine Software installiert werden kann, kannst du Matrix auch über einen Web-Client nutzen.
+Betreibt eine Institution einen Matrix-Server, bietet sie gegebenenfalls auch einen Web-Client an.
+In jedem Fall kannst du den Web-Client der Entwickler von Element nutzen: <https://app.element.io/>
