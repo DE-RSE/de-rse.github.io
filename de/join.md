@@ -37,7 +37,7 @@ vorher das Material an einem anderen Ort hochladen und so zur Verfügung stellen
 
 ## Chat: Matrix
 
-Für Diskussionen bitte nicht die Mailing Liste nutzen, sondern die Chatkanäle.
+Nutzt für Diskussionen bitte nicht die Mailing Liste, sondern die Chatkanäle.
 Eine Liste dieser Kanäle und Informationen für den Einstig in die Nutzung von Matrix haben wir auf einer [separaten Seite](matrix.html) zusammengestellt.
 
 #### (alter Chat: Rocketchat)
