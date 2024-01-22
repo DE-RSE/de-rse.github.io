@@ -30,7 +30,7 @@ Currently, we are moderating the following rooms:
 ### Additional Rooms
 
 On Matrix everyone can create their own rooms.
-We are happy to add appropriate rooms to the de-RSE space, for instance rooms for local chapters or specific RSE topics.
+We are happy to add appropriate rooms to the de-RSE space, for instance rooms for local chapters or on specific RSE topics.
 For this, rooms must fulfill the following requirements:
 
 - The functional account @de-rse@matrix.org must be added with the admin role.
@@ -53,7 +53,8 @@ A key feature of Matrix is that every chat, including group chats, can be end-to
 You need a Matrix account to use it.
 Since Matrix is a decentralized system, there is no single place to create an account.
 
-If your institution hosts a Matrix server, you might want to create your account there (it may already exist, without your knowledge). The TU Dresden maintains a [map of scientific institutions](https://doc.matrix.tu-dresden.de/images/federation_map.svg) in Germany (and some abroad) that host Matrix servers.
+If your institution hosts a Matrix server, you might want to create your account there (or it might already exist).
+The TU Dresden maintains a [map of scientific institutions](https://doc.matrix.tu-dresden.de/images/federation_map.svg) in Germany (and some abroad) that host Matrix servers.
 
 Otherwise, you can create an account on the generic instance matrix.org on <https://app.element.io>.
 You can find further [information on the sign-up process](https://matrix.org/docs/chat_basics/matrix-for-im/) in the documentation of matrix.org.
@@ -65,5 +66,5 @@ It supports most features of the Matrix protocol, but is somewhat resource hungr
 If the latter is a problem for you, you might want to have a look at [other clients](https://matrix.org/ecosystem/clients/).
 
 If you do not want to or cannot install a client on your platform, you can use a web client.
-Your home server might already host a web client itself.
-But in any case, you can use the web client hosted by the developers of Element: <https://app.element.io/>
+Your institution’s server, if it exists, might host a web client itself.
+Otherwise, you can use the web client hosted by the developers of Element: <https://app.element.io/>
