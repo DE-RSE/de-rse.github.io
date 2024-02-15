@@ -14,12 +14,12 @@ vorstand@de-rse.org
 
 ## Vorstand
 
-* Frank Löffler (Friedrich-Schiller-Universität Jena, Vorstandsvorsitzender)
-* Daniel Nüst (Technische Universität Dresden, stellvertretender Vorstandsvorsitzender) 
+* Jan Linxweiler (Technische Universität Carolo-Wilhelmina zu Braunschweig, Vorstandsvorsitzender) 
+* Frank Löffler (Friedrich-Schiller-Universität Jena, stellvertretender Vorstandsvorsitzender)
 * Stephan Janosch (Max-Planck-Institut für Molekulare Zellbiologie und Genetik Dresden, Schatzmeister)
-* Florian Thiery (Römisch-Germanisches Zentralmuseum (Mainz) und Research Squirrel Engineers, stellvertretender Schatzmeister)
-* Bernadette Fritzsch (Alfred-Wegener-Institut Bremerhaven, Schriftführerin)
-* Jan-Philipp Dietrich (Potsdam Institut für Klimafolgenforschung, stellvertretender Schriftführer)
+* Michael Meinel (Deutsches Zentrum für Luft- und Raumfahrt (DLR), stellvertretender Schatzmeister)
+* Jan Philipp Dietrich (Potsdam Institut für Klimafolgenforschung, Schriftführer)
+* Bernadette Fritzsch (Alfred-Wegener-Institut Bremerhaven, stellvertretende Schriftführerin)
 
 ## Vereinsgründung & Satzung
 
