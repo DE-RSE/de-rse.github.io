@@ -12,7 +12,7 @@ On this page, we document how you can find our rooms and give a few pointers to 
 
 ## Our Space and Rooms
 
-We grouped our rooms using a space: https://matrix.to/#/#de-rse.org:matrix.org
+We grouped our rooms using a space: [https://matrix.to/#/#de-rse.org:matrix.org](https://matrix.to/#/#de-rse.org:matrix.org)
 
 Currently, we are moderating the following rooms:
 

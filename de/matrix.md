@@ -12,7 +12,7 @@ Auf dieser Seite dokumentieren wir, welche Räume wir für die Community bereits
 
 ## Unser Space und unsere Räume
 
-Wir haben unsere Räume in einem Space zusammengefasst: https://matrix.to/#/#de-rse.org:matrix.org
+Wir haben unsere Räume in einem Space zusammengefasst: [https://matrix.to/#/#de-rse.org:matrix.org](https://matrix.to/#/#de-rse.org:matrix.org)
 
 Zur Zeit moderieren wir die folgenden Räume:
 
