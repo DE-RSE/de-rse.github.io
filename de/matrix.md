@@ -25,7 +25,7 @@ Zur Zeit moderieren wir die folgenden Räume:
 [deRSE-events](https://matrix.to/#/#de-rse.org-events:matrix.org)
 : Für die Ankündigung von Veranstaltungen mit RSE-Bezug.
 [deRSE-offtopic](https://matrix.to/#/#de-rse.org-offtopic:matrix.org)
-: Für alles, was nichts mit de-RSE zu tun hat, aber dennoch interessant für die Community sein könnte..
+: Für alles, was nichts mit de-RSE zu tun hat, aber dennoch interessant für die Community sein könnte.
 
 ### Zusätzliche Räume
 
