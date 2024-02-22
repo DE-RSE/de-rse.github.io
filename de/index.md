@@ -39,4 +39,4 @@ entscheidend zu verbessern.
 <br/>
 
 Du willst tiefer in die Welt der RSEs einsteigen?
-Schau dir unsere [Positionspapiere](/de/positions.html) an, besuche die Webseiten unserer Geschwisterorganisationen in Großbritannien, <https://society-rse.org/>, und USA, <https://us-rse.org/>, die Webseite den Blog des UK SSI, <https://www.software.ac.uk/blog>, oder die Webseite der internationalen Dachorganisation ReSA, <https://www.researchsoft.org/>.
+Schau dir unsere [Positionspapiere](/de/positions.html) oder unsere [Lern- und Lehrresourcen](/learn-and-teach/) an, besuche die Webseiten unserer Geschwisterorganisationen in Großbritannien, <https://society-rse.org/>, und USA, <https://us-rse.org/>, die Webseite den Blog des UK SSI, <https://www.software.ac.uk/blog>, oder die Webseite der internationalen Dachorganisation ReSA, <https://www.researchsoft.org/>.
