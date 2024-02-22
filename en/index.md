@@ -37,4 +37,4 @@ the collective spokesperson for RSEs within the German scientific landscape.
 <br/>
 
 Wanna dive into the world of RSE?
-Take a look at our [position papers](/en/positions.html) or find excellent reading materials at the UK RSE website, <https://society-rse.org/>, the US RSE website, <https://us-rse.org/>, and the UK SSI blog <https://www.software.ac.uk/blog>!
+Take a look at our [position papers](/en/positions.html), [learning and teaching resources](/learn-and-teach/), or find excellent reading materials at the UK RSE website, <https://society-rse.org/>, the US RSE website, <https://us-rse.org/>, and the UK SSI blog <https://www.software.ac.uk/blog>!
