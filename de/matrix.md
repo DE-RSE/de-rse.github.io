@@ -55,6 +55,8 @@ Da Matrix ein dezentralisiertes System ist, gibt es nicht die eine Stelle, um ei
 
 Falls Deine Institution selbst einen Matrix-Server betreibt, möchtest Du vielleicht dort ein Konto erstellen, wenn es nicht ohnehin schon existiert.
 Die TU Dresden pflegt eine [Karte von wissenschaftlichen Institutionen](https://doc.matrix.tu-dresden.de/images/federation_map.svg) in Deutschland (und ein paar darüber hinaus), die Matrix-Server betreiben.
+Der de-RSE e.V. betreibt keine eigene Matrix-Instanz, da wir die aktuell vorhandene Infrastruktur als ausreichend empfinden und wir derzeit keine Administrationskapazitäten haben.
+Jedes Mitglied der Gesellschaft ist natürlich eingeladen dies zu ändern, indem es sich in der Infrastrukturgruppe engagiert.
 
 Ist das nicht der Fall, kannst Du einen Konto auf der Instanz matrix.org unter <https://app.element.io> erstellen.
 Weitere [Informationen zum Kontoerstellprozess](https://matrix.org/docs/chat_basics/matrix-for-im/) findest Du in der englischsprachigen Dokumentation von matrix.org.
