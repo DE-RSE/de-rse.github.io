@@ -27,6 +27,9 @@ Currently, we are moderating the following rooms:
 [deRSE-offtopic](https://matrix.to/#/#de-rse.org-offtopic:matrix.org)
 : For anything not related to de-RSE, but that one might want to discuss with the de-RSE community.
 
+When you join the space, we kindly ask you to introduce yourself in the introductions room.
+Tell us your name, where you life, where you work, and about your hopes and dreams for the deRSE community.
+
 ### Additional Rooms
 
 On Matrix everyone can create their own rooms.
