@@ -34,7 +34,7 @@ Passende Räume, zum Beispiel von lokalen RSE-Gruppen (Chapters) oder zu speziel
 Dafür muss der Raum die folgenden Voraussetzungen erfüllen:
 
 - Der funktionale Nutzer @de-rse@matrix.org muss mit der Admin-Rolle hinzugefügt werden.
-- Der Raum darf nicht verschlüsselt sein, damit neuhinzukommende Nutzer den historischen Verlauf nachlesen können.
+- Der Raum darf nicht verschlüsselt sein.
 - Der Raum sollte ein Logo haben.
   Habt ihr nichts besseres, könnt ihr das [de-RSE-Logo]({{ "/assets/img/matrix/derse-matrix-log.png" | prepend: site.baseurl }}) nutzen.
 - Hat der Raum eine lokale Gruppe zum Thema, so muss sein Name mit dem Prefix `deRSE-chapter-` beginnen.
@@ -46,7 +46,7 @@ Sind alle Voraussetzungen erfüllt, kontaktiert bitte  <TBD@TBD.TBD>, um die Auf
 
 Matrix ist ein dezentrales Kommunikationsprotokoll, das Chats sowie Audio- und Videoanrufe unterstützt.
 Das Protokoll ist ein offener Standard für den – ähnlich wie bei Email – verschiedene Clientsoftware verfügbar ist.
-Eine wichtige Eigenschaft von Matrix ist, dass jeder Chat, Gruppenchats eingeschlossen, Ende-zu-Ende verschlüsselt werden kann (wobei wir in bestimmten Fällen davon abraten, [siehe oben](#zusätzliche-räume))).
+Eine wichtige Eigenschaft von Matrix ist, dass jeder Chat, Gruppenchats eingeschlossen, Ende-zu-Ende verschlüsselt werden kann (wobei wir für öffentliche Räume davon abraten,  [siehe auch oben](#zusätzliche-räume))).
 
 ### Wie Starten?
 

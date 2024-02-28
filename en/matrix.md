@@ -34,7 +34,7 @@ We are happy to add appropriate rooms to the de-RSE space, for instance rooms fo
 For this, rooms must fulfill the following requirements:
 
 - The functional account @de-rse@matrix.org must be added with the admin role.
-- The room must not be encrypted so the history is readable by newly joining users.
+- The room must not be encrypted.
 - The room should have logo.
   If there is no more suitable option, feel free to use the [de-RSE logo]({{ "/assets/img/matrix/derse-matrix-log.png" | prepend: site.baseurl }}).
 - If the room’s topic is a de-RSE chapter, its name must be prefixed by `deRSE-chapter-`.
