@@ -66,7 +66,7 @@ You can find further [information on the sign-up process](https://matrix.org/doc
 
 ### Recommended Clients
 
-We recommend to use the [Element client](https://element.io/download) for all major platforms.
+We recommend to use the [Element client](https://element.io/download) for all major computer and mobile platforms.
 It supports most features of the Matrix protocol, but is somewhat resource hungry.
 If the latter is a problem for you, you might want to have a look at [other clients](https://matrix.org/ecosystem/clients/).
 

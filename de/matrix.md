@@ -66,7 +66,7 @@ Weitere [Informationen zum Kontoerstellprozess](https://matrix.org/docs/chat_bas
 
 ### Empfohlene Clients
 
-Wir empfehlen auf allen gängigen Plattformen den Client [Element](https://element.io/download) zu nutzen.
+Wir empfehlen auf allen gängigen Computer und mobilen Geräte den Client [Element](https://element.io/download) zu nutzen.
 Er unterstützt die meisten Bestandteile des Matrix-Protokolls, ist dafür jedoch etwas ressourcenhungrig.
 Ist das ein Problem, gibt es noch einige [andere Clients](https://matrix.org/ecosystem/clients/).
 
