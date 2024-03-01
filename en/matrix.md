@@ -73,3 +73,7 @@ If the latter is a problem for you, you might want to have a look at [other clie
 If you do not want to or cannot install a client on your platform, you can use a web client.
 Your institution’s server, if it exists, might host a web client itself.
 Otherwise, you can use the web client hosted by the developers of Element: <https://app.element.io/>
+
+### Support
+
+If you would like help getting onto matrix or have questions about how matrix works you can write an email to [de-rse-matrix-support@de-rse.org](mailto:de-rse-matrix-support@de-rse.org).

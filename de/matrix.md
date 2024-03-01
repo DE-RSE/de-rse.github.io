@@ -73,3 +73,7 @@ Ist das ein Problem, gibt es noch einige [andere Clients](https://matrix.org/eco
 Für den Fall, das keine Software installiert werden kann, kannst Du Matrix auch über einen Web-Client nutzen.
 Betreibt eine Institution einen Matrix-Server, bietet sie gegebenenfalls auch einen Web-Client an.
 Ansonsten kannst Du den Web-Client der Entwickler von Element nutzen: <https://app.element.io/>
+
+### Support
+
+Falls Du beim Start mit Matrix geholfen bekommen möchtest oder Fragen dazu hast, kannst du eine E-Mail an [de-rse-matrix-support@de-rse.org](mailto:de-rse-matrix-support@de-rse.org) schreiben.
