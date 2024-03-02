@@ -43,7 +43,7 @@ For this, rooms must fulfill the following requirements:
 - If the room’s topic is a de-RSE chapter, its name must be prefixed by `deRSE-chapter-`.
 - At least one user, other than the functional account, must have the moderator role.
 
-Once all the requirements are fulfilled please contact <TBD@TBD.TBD> to request addition of the room to the de-RSE space.
+Once all the requirements are fulfilled please contact [de-rse-matrix-support@de-rse.org](mailto:de-rse-matrix-support@de-rse.org) to request addition of the room to the de-RSE space.
 
 ## Matrix Chat
 

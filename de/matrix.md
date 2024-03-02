@@ -43,7 +43,7 @@ Dafür muss der Raum die folgenden Voraussetzungen erfüllen:
 - Hat der Raum eine lokale Gruppe zum Thema, so muss sein Name mit dem Prefix `deRSE-chapter-` beginnen.
 - Mindestens ein Nutzer, außer dem funktionalen Nutzer, muss die Moderator-Rolle haben.
 
-Sind alle Voraussetzungen erfüllt, kontaktiert bitte  <TBD@TBD.TBD>, um die Aufnahme in den de-RSE-Space zu beantragen.
+Sind alle Voraussetzungen erfüllt, kontaktiert bitte [de-rse-matrix-support@de-rse.org](mailto:de-rse-matrix-support@de-rse.org), um die Aufnahme in den de-RSE-Space zu beantragen.
 
 ## Matrix Chat
 
