@@ -28,7 +28,7 @@ Zur Zeit moderieren wir die folgenden Räume:
 : Für alles, was nichts mit de-RSE zu tun hat, aber dennoch interessant für die Community sein könnte.
 
 Wir bitten alle, die dem Space beitreten, sich in dem “introductions”-Raum vorzustellen.
-Erzählt uns, wie ihr heißt, wo ihr lebt, wo ihr arbeitet und über eure Hoffnungen und Träume zur Zukunft der deRSE-Community.
+Erzählt uns, wie ihr heißt, wo ihr lebt, wo ihr arbeitet, wie sich deine RSE-Arbeit ausgestaltet und über eure Hoffnungen und Träume zur Zukunft der deRSE-Community.
 
 ### Zusätzliche Räume
 
