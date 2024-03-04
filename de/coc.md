@@ -1,3 +1,9 @@
+---
+layout: default
+title: Verhaltenskodex
+weight: 60
+---
+
 # Verhaltenskodex für den deRSE-Space Matrix
 
 Wenn Du Fragen zum Verhaltenskodex hast oder Fehlverhalten melden möchtest, sende bitte eine E-Mail an [vorstand@de-rse.org](mailto:vorstand@de-rse.org).
@@ -32,7 +38,7 @@ Die folgenden Verhaltensweisen werden bei allen deRSE-Veranstaltungen und -Kommu
 - Bitte um Einverständnis und respektiere die Grenzen der Menschen
 - Sei dir der Dynamik von Macht und Privilegien bewusst (achten darauf, wie viel Zeit und Raum Du beanspruchst)
 
-## UNACCEPTABLE BEHAVIOUR MISSING
+## Unacceptable Behaviour
 
 Beispiele für inakzeptables Verhalten sind
 
