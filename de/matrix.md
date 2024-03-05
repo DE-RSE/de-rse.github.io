@@ -40,7 +40,7 @@ Dafür muss der Raum die folgenden Voraussetzungen erfüllen:
 - Der funktionale Nutzer @de-rse@matrix.org muss mit der Admin-Rolle hinzugefügt werden.
 - Der Raum darf nicht verschlüsselt sein.
 - Der Raum sollte ein Logo haben.
-  Habt ihr nichts besseres, könnt ihr das [de-RSE-Logo]({{ "/assets/img/matrix/derse-matrix-log.png" | prepend: site.baseurl }}) nutzen.
+  Habt ihr nichts besseres, könnt ihr das [de-RSE-Logo]({{ "/assets/img/matrix/derse-matrix-logo.png" | prepend: site.baseurl }}) nutzen.
 - Hat der Raum eine lokale Gruppe zum Thema, so muss sein Name mit dem Prefix `deRSE-chapter-` beginnen.
 - Mindestens ein Nutzer, außer dem funktionalen Nutzer, muss die Moderator-Rolle haben.
 

@@ -40,7 +40,7 @@ For this, rooms must fulfill the following requirements:
 - The functional account @de-rse@matrix.org must be added with the admin role.
 - The room must not be encrypted.
 - The room should have logo.
-  If there is no more suitable option, feel free to use the [de-RSE logo]({{ "/assets/img/matrix/derse-matrix-log.png" | prepend: site.baseurl }}).
+  If there is no more suitable option, feel free to use the [de-RSE logo]({{ "/assets/img/matrix/derse-matrix-logo.png" | prepend: site.baseurl }}).
 - If the room’s topic is a de-RSE chapter, its name must be prefixed by `deRSE-chapter-`.
 - At least one user, other than the functional account, must have the moderator role.
 
