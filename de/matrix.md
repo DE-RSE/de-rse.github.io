@@ -16,16 +16,15 @@ Wir haben unsere Räume in einem Space zusammengefasst: [https://matrix.to/#/#de
 
 Zur Zeit moderieren wir die folgenden Räume:
 
-[deRSE-general](https://matrix.to/#/#de-rse.org-general:matrix.org)
-: Für die Diskussion allgemeiner von de-RSE Themen, die thematisch zu keinem der anderen Räume passen.
-[deRSE-introductions](https://matrix.to/#/#de-rse.org-introductions:matrix.org)
-: Für die Vorstellung (neuer) Community-Mitglieder.
-[deRSE-jobs](https://matrix.to/#/#de-rse.org-jobs:matrix.org)
-: Für Ausschreibungen von Stellen mit RSE-Aufgaben aus der Community.
-[deRSE-events](https://matrix.to/#/#de-rse.org-events:matrix.org)
-: Für die Ankündigung von Veranstaltungen mit RSE-Bezug.
-[deRSE-offtopic](https://matrix.to/#/#de-rse.org-offtopic:matrix.org)
-: Für alles, was nichts mit de-RSE zu tun hat, aber dennoch interessant für die Community sein könnte.
+[deRSE-general](https://matrix.to/#/#de-rse.org-general:matrix.org): Für die Diskussion allgemeiner von de-RSE Themen, die thematisch zu keinem der anderen Räume passen.
+
+[deRSE-introductions](https://matrix.to/#/#de-rse.org-introductions:matrix.org): Für die Vorstellung (neuer) Community-Mitglieder.
+
+[deRSE-jobs](https://matrix.to/#/#de-rse.org-jobs:matrix.org): Für Ausschreibungen von Stellen mit RSE-Aufgaben aus der Community.
+
+[deRSE-events](https://matrix.to/#/#de-rse.org-events:matrix.org): Für die Ankündigung von Veranstaltungen mit RSE-Bezug.
+
+[deRSE-offtopic](https://matrix.to/#/#de-rse.org-offtopic:matrix.org): Für alles, was nichts mit de-RSE zu tun hat, aber dennoch interessant für die Community sein könnte.
 
 Wir bitten alle, die dem Space beitreten, sich in dem “introductions”-Raum vorzustellen.
 Erzählt uns, wie ihr heißt, wo ihr lebt, wo ihr arbeitet, wie sich deine RSE-Arbeit ausgestaltet und über eure Hoffnungen und Träume zur Zukunft der deRSE-Community.
