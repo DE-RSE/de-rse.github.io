@@ -35,10 +35,14 @@ Bitte beachtet, dass die Mailing Liste im Moment nur Mails mit einer Größe von
 und andere Anhänge hinweisen möchte, kann die URL Adresse angeben und falls nötig 
 vorher das Material an einem anderen Ort hochladen und so zur Verfügung stellen.
 
-## Chat
+## Chat: Matrix
 
-Für Diskussionen bitte nicht die Mailing Liste nutzen, sondern den GWDG RocketChat Channel
-<https://chat.gwdg.de/channel/derse>.
+Nutzt für Diskussionen bitte nicht die Mailing Liste, sondern die Chatkanäle.
+Eine Liste dieser Kanäle und Informationen für den Einstig in die Nutzung von Matrix haben wir auf einer [separaten Seite](matrix.html) zusammengestellt.
+
+#### (alter Chat: Rocketchat)
+
+Vor der Umstellung auf Matrix waren wir auf dem GWDG Rocketchat unterwegs: <https://chat.gwdg.de/channel/derse>.
 
 ## Stellenangebote
 
