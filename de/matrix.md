@@ -12,6 +12,8 @@ Bitte benutzt im Space eure Realnamen.
 
 Auf dieser Seite dokumentieren wir, welche Räume wir für die Community bereitstellen und moderieren und geben Hinweise zum Einstieg für all diejenigen, die Matrix noch nicht kennen.
 
+Unseren Code of Conduct für den Matrix Space findet ihr [hier](coc.md) und wir ermuntern alle, ihn zumindest zu überfliegen.
+
 ## Unser Space und unsere Räume
 
 Wir haben unsere Räume in einem Space zusammengefasst: [https://matrix.to/#/#de-rse.org:matrix.org](https://matrix.to/#/#de-rse.org:matrix.org) (Nicht nur den Räumen unten beitreten: auch diesem Space)

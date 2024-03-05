@@ -12,6 +12,8 @@ We ask that you use your real name when joining the space.
 
 On this page, we document how you can find our rooms and give a few pointers to get you started using Matrix chat, in case you are new to the ecosystem.
 
+We have a code of conduct for all the members on the matrix space which can be found [here](coc.md) and we encourage everyone to read it.
+
 ## Our Space and Rooms
 
 We grouped our rooms using a space: [https://matrix.to/#/#de-rse.org:matrix.org](https://matrix.to/#/#de-rse.org:matrix.org) (also join the space itself, not just individual rooms).
