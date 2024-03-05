@@ -6,7 +6,9 @@ weight: 60
 
 # Matrix Chat
 
-We, the de-RSE association and its surrounding community, use [Matrix](https://matrix.org) for asynchronous communication (chatting).
+We, the de-RSE association and its surrounding community, use [Matrix](https://matrix.org) for our online community to enable us to bring together people doing Research Software Engineering across Germany.
+This online community is provided to encourage networking, sharing good practice and advertising events and jobs.
+We ask that you use your real name when joining the space.
 
 On this page, we document how you can find our rooms and give a few pointers to get you started using Matrix chat, in case you are new to the ecosystem.
 
