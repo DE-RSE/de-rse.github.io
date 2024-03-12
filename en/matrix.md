@@ -39,7 +39,7 @@ On Matrix everyone can create their own rooms.
 We are happy to add appropriate rooms to the de-RSE space, for instance rooms for local chapters or on specific RSE topics.
 For this, rooms must fulfill the following requirements:
 
-- The functional account @de-rse@matrix.org must be added with the admin role.
+- The  account @de-rse:matrix.org must be added with the admin role.
 - The room must not be encrypted.
 - The room should have a logo.
   If you don't have one, feel free to use the [de-RSE logo]({{ "/assets/img/matrix/derse-matrix-logo.png" | prepend: site.baseurl }}).

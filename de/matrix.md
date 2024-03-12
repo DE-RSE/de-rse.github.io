@@ -39,7 +39,7 @@ Im Matrix-Netzwerk kann jeder eigene Räume erstellen.
 Passende Räume, zum Beispiel von lokalen RSE-Gruppen (Chapters) oder zu speziellen RSE-Themen, fügen wir gern zum de-RSE-Space hinzu.
 Dafür muss der Raum die folgenden Voraussetzungen erfüllen:
 
-- Der funktionale Nutzer @de-rse@matrix.org muss mit der Admin-Rolle hinzugefügt werden.
+- Der Nutzer @de-rse:matrix.org muss mit der Admin-Rolle hinzugefügt werden.
 - Der Raum darf nicht verschlüsselt sein.
 - Der Raum sollte ein Logo haben.
   Habt ihr keines, könnt ihr das [de-RSE-Logo]({{ "/assets/img/matrix/derse-matrix-logo.png" | prepend: site.baseurl }}) nutzen.
