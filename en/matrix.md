@@ -43,7 +43,6 @@ For this, rooms must fulfill the following requirements:
 - The room must not be encrypted.
 - The room should have a logo.
   If you don't have one, feel free to use the [de-RSE logo]({{ "/assets/img/matrix/derse-matrix-logo.png" | prepend: site.baseurl }}).
-- If the room’s topic is a de-RSE chapter, its name must be prefixed by `deRSE-chapter-`.
 - At least one user, other than the functional account, must have the moderator role.
 
 Once all the requirements are fulfilled please contact [de-rse-matrix-support@de-rse.org](mailto:de-rse-matrix-support@de-rse.org) to request addition of the room to the de-RSE space.

@@ -43,7 +43,6 @@ Dafür muss der Raum die folgenden Voraussetzungen erfüllen:
 - Der Raum darf nicht verschlüsselt sein.
 - Der Raum sollte ein Logo haben.
   Habt ihr keines, könnt ihr das [de-RSE-Logo]({{ "/assets/img/matrix/derse-matrix-logo.png" | prepend: site.baseurl }}) nutzen.
-- Hat der Raum eine lokale Gruppe zum Thema, so muss sein Name mit dem Prefix `deRSE-chapter-` beginnen.
 - Mindestens ein Nutzer, außer dem funktionalen Nutzer, muss die Moderator-Rolle haben.
 
 Sind alle Voraussetzungen erfüllt, kontaktiert bitte [de-rse-matrix-support@de-rse.org](mailto:de-rse-matrix-support@de-rse.org), um die Aufnahme in den de-RSE-Space zu beantragen.
