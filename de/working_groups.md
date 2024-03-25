@@ -39,6 +39,12 @@ Arbeitskreisleitung
 Vertreten im Sprechendenrat durch
 : Philipp Schäfer
 
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
 ### International Council
 
 Arbeitskreisleitung
@@ -46,6 +52,12 @@ Arbeitskreisleitung
 
 Vertreten im Sprechendenrat durch
 : Frank Loeffler
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
 
 ### Positionspapier "RSE Groups"
 
@@ -55,6 +67,12 @@ Arbeitskreisleitung
 Vertreten im Sprechendenrat durch
 : Dr. Dominic Kempf
 
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
 ### NFDI
 
 Arbeitskreisleitung
@@ -62,6 +80,12 @@ Arbeitskreisleitung
 
 Vertreten im Sprechendenrat durch
 : Florian Thiery
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
 
 ### de-RSE25
 
@@ -71,6 +95,12 @@ Arbeitskreisleitung
 Vertreten im Sprechendenrat durch
 : Stephan Janosch
 
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
 ### RSE Software Development Guideline (mit GI)
 
 Arbeitskreisleitung
@@ -78,6 +108,12 @@ Arbeitskreisleitung
 
 Vertreten im Sprechendenrat durch
 : Bernhard Rumpe
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
 
 ### Kategorien von Forschungssoftware (mit GI)
 
@@ -87,6 +123,12 @@ Arbeitskreisleitung
 Vertreten im Sprechendenrat durch
 : Wilhelm (Willi) Hasselbring
 
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
 ### Online Community (mit GI)
 
 Arbeitskreisleitung
@@ -95,6 +137,12 @@ Arbeitskreisleitung
 Vertreten im Sprechendenrat durch
 : Claire Wyatt
 
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
 ### Event Coordination (mit GI)
 
 Arbeitskreisleitung
@@ -102,6 +150,12 @@ Arbeitskreisleitung
 
 Vertreten im Sprechendenrat durch
 : Stephan Janosch
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
 
 ## Ehemalige und inaktive Arbeitskreise
 
@@ -114,3 +168,9 @@ Arbeitskreisleitung
 
 Vertreten im Sprechendenrat durch
 : Florian Goth
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
