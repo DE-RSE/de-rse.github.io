@@ -4,8 +4,6 @@ layout: post
 author: Martin Hammitzsch
 menulang: de
 ---
-# Code for Thought Podcastfolge: Es tut sich was im RSE-Land - mit Beiträgen vom de-RSE, der GI und NFDI
-
 Forschungssoftware spielt eine zentrale Rolle im modernen Wissenschaftsbetrieb. Ohne RSE wäre es kaum möglich, die komplexen Datenmengen zu generieren, analysieren und visualisieren, die in vielen Forschungsdisziplinen heute anfallen. In den letzten Jahren ist die Bedeutung von RSE stetig gewachsen. Dies hat zur Gründung einer Reihe von Initiativen geführt, die sich zum Ziel gesetzt haben, die Entwicklung und Nutzung von RSE zu fördern.
 
 Peter Schmidt spricht hierzu in seinem Podcast Code for Thought vom 27. Februar 2024 mit Vertreter:innen der Gesellschaft für Forschungssoftware (de-RSE), der GI Fachgruppe RSE und der Arbeitsgruppe RSE in der NFDI Sektion Common Infrastuctures. In der knapp einstündigen Folge wird ein Blick zurück geworfen, auf den aktuellen Stand verschiedener Aktivitäten und auch in die Zukunft geschaut.
