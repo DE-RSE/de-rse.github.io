@@ -4,7 +4,7 @@ title: Code of Conduct
 weight: 60
 ---
 
-# Code of Conduct for the deRSE Space on Matrix
+# Code of Conduct for deRSE
 
 If you have a question about the code of conduct or wish to report misconduct, please email vorstand@de-rse.org.
 

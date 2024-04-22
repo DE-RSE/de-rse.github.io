@@ -4,7 +4,7 @@ title: Verhaltenskodex
 weight: 60
 ---
 
-# Verhaltenskodex für den deRSE-Space Matrix
+# Verhaltenskodex für deRSE
 
 Wenn Du Fragen zum Verhaltenskodex hast oder Fehlverhalten melden möchtest, sende bitte eine E-Mail an [vorstand@de-rse.org](mailto:vorstand@de-rse.org).
 
