@@ -26,3 +26,151 @@ Ein Arbeitskreis:
 - Mitglieder des Arbeitskreises müssen nicht Mitglieder des Vereins sein.
 - Arbeitskreise werden auf den Vereinsseiten aufgelistet und haben die Möglichkeit, ihre Arbeit dort auch auf Unterseiten zu bewerben bzw. vorzustellen.
 - Die Arbeitskreiseleitung und die Arbeitskreismitglieder werden auf den öffentlichen Webseiten des Vereins erwähnt und geben dafür ihr Einverständnis auch über die Arbeitskreislaufzeit hinaus.
+
+## Aktive Arbeitskreise
+
+Derzeit gibt es die folgenden aktiven Arbeitskreise des de-RSE e.V.
+
+### Vereinsinfrasturktur
+
+Arbeitskreisleitung
+: Philipp Schäfer
+
+Vertreten im Sprechendenrat durch
+: Philipp Schäfer
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
+### International Council
+
+Arbeitskreisleitung
+: Philipp Schäfer
+
+Vertreten im Sprechendenrat durch
+: Frank Loeffler
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
+### Positionspapier "RSE Groups"
+
+Arbeitskreisleitung
+: Philipp Schäfer
+
+Vertreten im Sprechendenrat durch
+: Dr. Dominic Kempf
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
+### NFDI
+
+Arbeitskreisleitung
+: Philipp Schäfer
+
+Vertreten im Sprechendenrat durch
+: Florian Thiery
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
+### de-RSE25
+
+Arbeitskreisleitung
+: Stephan Janosch
+
+Vertreten im Sprechendenrat durch
+: Stephan Janosch
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
+### RSE Software Development Guideline (mit GI)
+
+Arbeitskreisleitung
+: Bernhard Rumpe
+
+Vertreten im Sprechendenrat durch
+: Bernhard Rumpe
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
+### Kategorien von Forschungssoftware (mit GI)
+
+Arbeitskreisleitung
+: Wilhelm (Willi) Hasselbring
+
+Vertreten im Sprechendenrat durch
+: Wilhelm (Willi) Hasselbring
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
+### Online Community (mit GI)
+
+Arbeitskreisleitung
+: Claire Wyatt
+
+Vertreten im Sprechendenrat durch
+: Claire Wyatt
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
+### Event Coordination (mit GI)
+
+Arbeitskreisleitung
+: Stephan Jansoch
+
+Vertreten im Sprechendenrat durch
+: Stephan Janosch
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
+## Ehemalige und inaktive Arbeitskreise
+
+Die folgenden Arbeitskreise haben ihre Aufgaben abgeschlossen oder sind aktuell nicht aktiv.
+
+### de-RSE24
+
+Arbeitskreisleitung
+: Florian Goth
+
+Vertreten im Sprechendenrat durch
+: Florian Goth
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
