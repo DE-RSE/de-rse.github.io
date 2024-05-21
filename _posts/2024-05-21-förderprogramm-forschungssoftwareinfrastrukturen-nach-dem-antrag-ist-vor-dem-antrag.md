@@ -33,6 +33,12 @@ Obwohl am Anfang eine kurze Vorstellung des Förderprogramms stehen wird, wird e
 
 Das Treffen ist öffentlich und darf und soll explizit gern weiter beworben werden.
 
+Im Rahmen des LIS-Programs gibt es demnächst außerdem noch eine zweite Veranstaltung:
+
+**Informationsveranstaltung zu LIS: „[Digitale Zukunft gestalten: Ein Überblick über die DFG-Förderprogramme für wissenschaftliche Informationsinfrastrukturen](https://www.bibliotheksverband.de/digitale-zukunft-gestalten-ein-ueberblick-ueber-die-dfg-foerderprogramme-fuer-wissenschaftliche)“**
+- Zeit: Mittwoch, 2024-06-19 11:00-12:30
+- Ort: Edudip ([Anmeldung](https://join.next.edudip.com/de/webinar/digitale-zukunft-gestalten-ein-uberblick-uber-die-dfg-forderprogramme-fur-wissenschaftliche-informationsstrukturen/2027511))
+
 Interessant ist außerdem ganz am Rande noch, dass die Ausschreibung den Begriff des „Research Software Engineers“ explizit benutzt, ohne ihn zu definieren.
 Geht die DFG also davon aus, dass das nicht mehr nötig ist?
 Wenn ja, dann sind das gute Anzeichen für die Etablierung von RSEs in Deutschland.
