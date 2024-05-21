@@ -38,7 +38,7 @@ Die folgenden Verhaltensweisen werden bei allen deRSE-Veranstaltungen und -Kommu
 - Bitte um Einverständnis und respektiere die Grenzen der Menschen
 - Sei dir der Dynamik von Macht und Privilegien bewusst (achten darauf, wie viel Zeit und Raum Du beanspruchst)
 
-## Unacceptable Behaviour
+## Inakzeptables Verhalten
 
 Beispiele für inakzeptables Verhalten sind
 
@@ -69,16 +69,16 @@ Wenn Teilnehmende ein Verhalten an den Tag legen, das gegen diesen Verhaltenskod
 Die Online-Community ist kein geeigneter Ort für Personalvermittler*innen, Marketingfachleute oder Vertriebsmitarbeiter*innen.
 *Es ist jedoch in Ordnung, Stellenanzeigen Deines eigenen Arbeitgebers oder von Projekten, an denen Du beteiligt bist und die für die Community relevant sind, in den dafür vorgesehenen Kanälen zu veröffentlichen.*
 
-Unsere Mitglieder haben diese Preferenz zum Ausdruck gebracht, und wir bitten, dies zu respektieren.
+Unsere Mitglieder haben diese Präferenz zum Ausdruck gebracht, und wir bitten, dies zu respektieren.
 Bitte sei nicht beleidigt, wenn Du bei deiner Anfrage nach Zugang auf diesen Abschnitt des Verhaltenskodex verwiesen wirst, um zu bestätigen, dass Du verstanden hast, wie Du dich in der Gemeinschaft verhalten solltest.
 
 Wenn Du in gewerblicher Rolle beitrittst, halte Dich bitte an die folgenden Regeln und Umgangsformen.
 
 - Verwende die Community-Kanäle nicht, um für Produkte oder Dienstleistungen Deiner Organisation zu werben.
   Das heißt, nutzen Sie die Kanäle nicht für Marketing.
-- Spreche Mitglieder nicht direkt auf Produkte oder Dienstleistungen an, es sei denn, Du wirst von einem Mitglied eingeladen, darüber zu sprechen.
+- Sprich Mitglieder nicht direkt auf Produkte oder Dienstleistungen an, es sei denn, Du wirst von einem Mitglied eingeladen, darüber zu sprechen.
 - Das Teilen von Veranstaltungen und Schulungsmöglichkeiten ist erwünscht, jedoch sollten alle Veranstaltungen im Raum *deRSE-events* beworben werden und von spezifischem Interesse für die RSE-Community sein (idealerweise mit RSE-Beteiligung organisiert).
-- Werbe nicht für unternehmensgeführte Communities oder Zertifizierungsangebote.
+- Wirb nicht für unternehmensgeführte Communities oder Zertifizierungsangebote.
 
 Es gilt als gute Praxis, sich im Kanal *deRSE-introductions* vorzustellen.
 Auf diese Weise weiß ist den anderen Mitgliedern der Community klar, zu welchen Gesprächen Du potentiell zu beider Seite Vorteil hinzugezogen werden kannst.
@@ -87,8 +87,8 @@ Auf diese Weise weiß ist den anderen Mitgliedern der Community klar, zu welchen
 
 Wir möchten uns bei den Personen, Gemeinschaften und Projekten bedanken, deren Werke als Basis und Inspiration für diesen Verhaltenskodex gedient haben.
 
-- [Society of Research Software Engineering]](https://society-rse.org/), UK
-- [Mozillap participation guidelines)[https://www.mozilla.org/en-US/about/governance/policies/participation/], der [Carpentries code of conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) und der [OpenCon 2018 Code of Conduct](https://www.opencon2018.org/code_of_conduct), die uns als Inspiration dienten.
+- [Society of Research Software Engineering](https://society-rse.org/), UK
+- [Mozillap participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), der [Carpentries code of conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) und der [OpenCon 2018 Code of Conduct](https://www.opencon2018.org/code_of_conduct), die uns als Inspiration dienten.
 - Unser Abschnitt, in dem wir unsere Verfahren für die Reaktion auf Verstöße gegen den Verhaltenskodex beschreiben, wurde stark vom [PyCon 2019 code of conduct](https://2018.pyconuk.org/code-conduct/), dem von der Ada Initiative erstellten [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports), insbesondere dem [Abschnitt gegen Belästigung auf Konferenzen](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports), und dem [Django-Projekt](https://www.djangoproject.com/conduct/enforcement-manual/) inspiriert.
 - Zusätzliche Formulierungen wurden durch den [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct) inspiriert.
 
