@@ -31,7 +31,7 @@
                 {% assign pg = site.pages | sort: "weight" %}
                 {% for node in pg %}
                     <!-- Neglect imprint.html and index.html in either language -->
-                    {% unless node.path contains "imprint" or node.path contains "index" %}
+                    {% unless node.path contains "imprint" or node.path contains "index" or node.weight <= 0 %}
                         <!-- Set variable "node_conf2019" if node links to a conference page -->
                         {% assign node_conf2019 = false %}
                         {% if node.url contains "/conf2019/" %}
