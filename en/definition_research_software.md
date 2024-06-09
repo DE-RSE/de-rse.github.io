@@ -17,8 +17,7 @@ A Summary Report of FAIR4RS Subgroup 3 activity and discussion, available on [ze
 
 _Research Software includes source code files, algorithms, scripts, computational workflows and executables that were created during the research process or for a research purpose.
 Software components (e.g., operating systems, libraries, dependencies, packages, scripts, etc.) that are used for research but were not created during or with a clear research intent should be considered software in research and not Research Software.
-This differentiation may vary between disciplines.
-The minimal requirement for achieving computational reproducibility is that all the computational components (Research Software, software used in research, documentation and hardware) used during the research are identified, described, and made accessible to the extent that is possible._
+This differentiation may vary between disciplines._
 
 This definition was also used in
 
