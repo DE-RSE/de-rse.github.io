@@ -14,4 +14,4 @@ Diese erste Phase wird neben einer Webseite eine Schnittstelle beinhalten, mit d
 Damit das funktioniert, werden relevante Informationen aus vielen verschiedenen Quellen automatisiert gesammelt werden, die detaillierten Aufschluss nicht nur über die Software selbst liefern, sondern auch über im Zusammenhang damit stehende wissenschaftliche Veröffentlichungen, Personen und Forschungsprojekte.
 Treu den Grundsätzen der NFDI wird dabei wo immer möglich und sinnvoll auf Vorhandenes zurückgegriffen und damit nachgenutzt, seien es Metadatenstandards oder vorhandene Software.
 
-Mehr Informationen findet sich auf der [Homepage von nfdi.software](https://base4nfdi.de/projects/nfdi-software).
+Mehr Informationen finden sich auf der [Homepage von nfdi.software](https://base4nfdi.de/projects/nfdi-software).
