@@ -1,17 +1,15 @@
 ---
 title: "NFDI: Basisdienst nfdi.software wird gefördert"
 layout: post
-author: "Frank Löffler"
+author: "Beate Hetényi"
 menulang: de
 ---
 ![]({{ "/assets/img/blog/2024/nfdi.software-4x.png" | prepend: site.baseurl}}){: height="150px"}
 <br>(Bild: [nfdi.software](https://base4nfdi.de/projects/nfdi-software))
 
-Die Initialisierungsphase des nfdi.software Basisdienstes wurde bewilligt.
-In dieser Phase soll eine Machbarkeitsstudie des Services entstehen, der laut Plan in einem Software Marketplace für die NFDI münden soll.
-Diese erste Phase wird neben einer Webseite eine Schnittstelle beinhalten, mit der Forschungssoftware gesucht und entdeckt werden kann.
+Der Base4NFDI Antrag „nfdi.software“ wurde für die Initialisierungsphase bewilligt.
 
-Damit das funktioniert, werden relevante Informationen aus vielen verschiedenen Quellen automatisiert gesammelt werden, die detaillierten Aufschluss nicht nur über die Software selbst liefern, sondern auch über im Zusammenhang damit stehende wissenschaftliche Veröffentlichungen, Personen und Forschungsprojekte.
-Treu den Grundsätzen der NFDI wird dabei wo immer möglich und sinnvoll auf Vorhandenes zurückgegriffen und damit nachgenutzt, seien es Metadatenstandards oder vorhandene Software.
+In der Initialisierungsphase wird innerhalb eines Jahres ab Herbst 2024 prototypisch ein dynamischer Marktplatz für Forschungssoftware konzipiert, implementiert und getestet. Mit diesem zentralen Einstiegsportal sollen die in der NFDI verfügbaren Forschungsdaten und ihre Erschließung durch Research Software zugänglich gemacht werden. Die beteiligten Projektpartner bringen hierfür existierende Lösungen aus verschiedenen Bereichen ein, z.B. das Research Software Directory, bio.tools, Betty´s Research Software Engine und physics.tools. Diese werden durch die gemeinsame Arbeit in nfdi.software  in einer föderierten Dateninfrastruktur verknüpft und aufeinander abgestimmt.
+nfdi.software adressiert damit nicht nur die Ziele der NFDI sondern auch viele der Ziele der deutschen und internationalen RSE Community. In der Initialisierungsphase wird auf Basis iterativer Prototypversionen ein gemeinsames Vorgehen und ein intensiver Austausch in der NFDI gefördert, um Standards zu etablieren und weiterzuentwickeln. Aufeinander abgestimmte Metadaten zu Forschungssoftware und Forschungsdaten und eine daran anknüpfende Vernetzung verschiedener Dienste werden im Kontext des angestrebten Basisdienstes gemeinschaftlich weiter vorangebracht
 
-Mehr Informationen finden sich auf der [Homepage von nfdi.software](https://base4nfdi.de/projects/nfdi-software).
+Mehr Informationen finden sich auf der [Base4NFDI Homepage](https://base4nfdi.de/projects/nfdi-software).
