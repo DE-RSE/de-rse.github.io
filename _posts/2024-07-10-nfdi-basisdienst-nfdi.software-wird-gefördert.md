@@ -1,7 +1,7 @@
 ---
 title: "NFDI: Basisdienst nfdi.software wird gefördert"
 layout: post
-author: "Frank Löffler"
+author: "Beate Hetényi"
 menulang: de
 ---
 ![]({{ "/assets/img/blog/2024/nfdi.software-4x.png" | prepend: site.baseurl}}){: height="150px"}
