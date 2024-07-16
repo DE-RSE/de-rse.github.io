@@ -14,7 +14,7 @@ Vertreten Mitglieder von de-RSE e.V. berechtigterweise die Gesellschaft in der √
 
 > **Inhalt**  
 > [Positionspapiere](#positionspapiere) - offizielle Positionen von *de-RSE e.V. - Gesellschaft f√ºr Forschungssoftware*  
-<!-- > [Work in progress](#work-in-progress) - Positionen, an denen derzeit gearbeitet wird  -->
+> [Work in progress](#work-in-progress) - Positionen, an denen derzeit gearbeitet wird
 > [Entwicklungsprozess](#entwicklungsprozess) - √úbersicht, wie Positionen von *de-RSE e.V.* erarbeitet werden
 
 ## Positionspapiere
@@ -33,12 +33,12 @@ Vertreten Mitglieder von de-RSE e.V. berechtigterweise die Gesellschaft in der √
 
 
 
-<!--## Work in progress
+## Work in progress
 
 Folgende Positionen sind derzeit in Arbeit.
 
 [//]: (none)
-- [An Environment for Sustainable Research Software in Germany and Beyond: Current State, Open Challenges, and Call for Action](https://github.com/DE-RSE/positions/pull/1)-->
+- [Establishing RSE departments in German research institutions](https://github.com/DE-RSE/2023_paper-RSE-groups)
 
 ## Entwicklungsprozess
 

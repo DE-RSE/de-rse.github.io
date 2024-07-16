@@ -15,7 +15,7 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 > **Table of contents**
 > 
 > [Position papers](#position-papers) - official positions of *de-RSE e.V. - Society for Research Software*  
-<!-- > [Work in progress](#work-in-progress) - Positions which are currently under development-->
+> [Work in progress](#work-in-progress) - Positions which are currently under development
 > [Development process](#development-process) - An overview of how positions are developed within *de-RSE e.V.*
 
 ## Position papers
@@ -32,12 +32,12 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 - **Cite:** Anzt H, Bach F, Druskat S et al. An environment for sustainable research software in Germany and beyond: current state, open challenges, and call for action [version 2; peer review: 2 approved]. F1000Research 2021, 9:295 (https://doi.org/10.12688/f1000research.23224.2). [[BibTeX]({{ "/assets/bib/deRSEPosition001.bib" | prepend: site.baseurl }})]
 
 
-<!--## Work in progress
+## Work in progress
 
 The following positions are currently developed.
 
 [//]: (none)
-- [An Environment for Sustainable Research Software in Germany and Beyond: Current State, Open Challenges, and Call for Action](https://github.com/DE-RSE/positions/pull/1)-->
+- [Establishing RSE departments in German research institutions](https://github.com/DE-RSE/2023_paper-RSE-groups)
 
 ## Development process
 
