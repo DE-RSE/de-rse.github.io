@@ -38,6 +38,7 @@ Vertreten Mitglieder von de-RSE e.V. berechtigterweise die Gesellschaft in der Ã
 Folgende Positionen sind derzeit in Arbeit.
 
 [//]: (none)
+- [Foundational Competencies and Responsibilities of a Research Software Engineer](https://github.com/the-teachingRSE-project/competencies)
 - [Establishing RSE departments in German research institutions](https://github.com/DE-RSE/2023_paper-RSE-groups)
 
 ## Entwicklungsprozess
