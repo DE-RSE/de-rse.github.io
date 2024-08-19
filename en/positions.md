@@ -37,7 +37,7 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 The following positions are currently developed.
 
 [//]: (none)
-- [Foundational Competencies and Responsibilities of a Research Software Engineer](https://github.com/the-teachingRSE-project/competencies)
+- [Foundational Competencies and Responsibilities of a Research Software Engineer](https://github.com/the-teachingRSE-project/competencies), [PR](https://github.com/DE-RSE/positions/pull/15)
 - [Establishing RSE departments in German research institutions](https://github.com/DE-RSE/2023_paper-RSE-groups)
 
 ## Development process
