@@ -101,6 +101,17 @@ Laufzeit
 Ziel
 : fehlt noch
 
+### Teaching RSE
+
+Arbeitskreisleitung
+: Florian Goth
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: Papiere/Positionen zum Thema „Teaching“ im Bereich RSE
+
 ### RSE Software Development Guideline (mit GI)
 
 Arbeitskreisleitung

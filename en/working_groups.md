@@ -101,6 +101,17 @@ Lifetime
 Goal
 : TBA
 
+### Teaching RSE
+
+Lead
+: Florian Goth
+
+Lifetime
+: TBA
+
+Goal
+: Papers/Positions on the topic “Teaching” in RSE
+
 ### RSE Software Development Guideline (with GI)
 
 Lead
