@@ -51,6 +51,9 @@ Lifetime
 Goal
 : TBA
 
+Participate
+: TBA
+
 ### International Council
 
 Lead
@@ -58,6 +61,9 @@ Lead
 
 Spokesperson
 : Frank Loeffler
+
+Participate
+: TBA
 
 ### Position Paper "RSE Groups"
 
@@ -71,6 +77,9 @@ Lifetime
 : TBA
 
 Goal
+: TBA
+
+Participate
 : TBA
 
 ### NFDI
@@ -87,6 +96,9 @@ Lifetime
 Goal
 : TBA
 
+Participate
+: TBA
+
 ### de-RSE25
 
 Lead
@@ -101,6 +113,9 @@ Lifetime
 Goal
 : TBA
 
+Participate
+: TBA
+
 ### Teaching RSE
 
 Lead
@@ -111,6 +126,9 @@ Lifetime
 
 Goal
 : Papers/Positions on the topic “Teaching” in RSE
+
+Participate
+: [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://lists.uni-wuerzburg.de/mailman/listinfo/teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
 
 ### RSE Software Development Guideline (with GI)
 
@@ -124,6 +142,9 @@ Lifetime
 : TBA
 
 Goal
+: TBA
+
+Participate
 : TBA
 
 ### Categories of Research Software (with GI)
@@ -140,6 +161,9 @@ Lifetime
 Goal
 : TBA
 
+Participate
+: TBA
+
 ### Online Community (with GI)
 
 Lead
@@ -154,6 +178,9 @@ Lifetime
 Goal
 : TBA
 
+Participate
+: TBA
+
 ### Event Coordination (with GI)
 
 Lead
@@ -166,6 +193,9 @@ Lifetime
 : TBA
 
 Goal
+: TBA
+
+Participate
 : TBA
 
 ## Terminated and Inactive Working Groups
@@ -184,4 +214,7 @@ Lifetime
 : TBA
 
 Goal
+: TBA
+
+Participate
 : TBA

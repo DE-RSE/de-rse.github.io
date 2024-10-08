@@ -45,6 +45,9 @@ Laufzeit
 Ziel
 : fehlt noch
 
+Mitmachen
+: fehlt noch
+
 ### International Council
 
 Arbeitskreisleitung
@@ -57,6 +60,9 @@ Laufzeit
 : fehlt noch
 
 Ziel
+: fehlt noch
+
+Mitmachen
 : fehlt noch
 
 ### Positionspapier "RSE Groups"
@@ -73,6 +79,9 @@ Laufzeit
 Ziel
 : fehlt noch
 
+Mitmachen
+: fehlt noch
+
 ### NFDI
 
 Arbeitskreisleitung
@@ -85,6 +94,9 @@ Laufzeit
 : fehlt noch
 
 Ziel
+: fehlt noch
+
+Mitmachen
 : fehlt noch
 
 ### de-RSE25
@@ -101,6 +113,9 @@ Laufzeit
 Ziel
 : fehlt noch
 
+Mitmachen
+: fehlt noch
+
 ### Teaching RSE
 
 Arbeitskreisleitung
@@ -111,6 +126,9 @@ Laufzeit
 
 Ziel
 : Papiere/Positionen zum Thema „Teaching“ im Bereich RSE
+
+Mitmachen
+: [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://lists.uni-wuerzburg.de/mailman/listinfo/teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
 
 ### RSE Software Development Guideline (mit GI)
 
@@ -124,6 +142,9 @@ Laufzeit
 : fehlt noch
 
 Ziel
+: fehlt noch
+
+Mitmachen
 : fehlt noch
 
 ### Kategorien von Forschungssoftware (mit GI)
@@ -140,6 +161,9 @@ Laufzeit
 Ziel
 : fehlt noch
 
+Mitmachen
+: fehlt noch
+
 ### Online Community (mit GI)
 
 Arbeitskreisleitung
@@ -154,6 +178,9 @@ Laufzeit
 Ziel
 : fehlt noch
 
+Mitmachen
+: fehlt noch
+
 ### Event Coordination (mit GI)
 
 Arbeitskreisleitung
@@ -166,6 +193,9 @@ Laufzeit
 : fehlt noch
 
 Ziel
+: fehlt noch
+
+Mitmachen
 : fehlt noch
 
 ## Ehemalige und inaktive Arbeitskreise
@@ -184,4 +214,7 @@ Laufzeit
 : fehlt noch
 
 Ziel
+: fehlt noch
+
+Mitmachen
 : fehlt noch
