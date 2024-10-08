@@ -38,8 +38,7 @@ The length of time spent on this work and the very wide range of inputs and pers
 ![First page of the position 002 PDF.]({{ "/assets/img/positions/position-002-cover.png" | prepend: site.baseurl }})
 
 “[Foundational Competencies and Responsibilities of a Research Software Engineer](https://arxiv.org/abs/2311.11457)” works through the process of understanding what makes up the role of an RSE.
-It starts with some general background and terminology before highlighting what the collaboration worked out as the key values of an RSE
-- what RSEs are trying to achieve in their role and the values that underpin that work.
+It starts with some general background and terminology before highlighting what the collaboration worked out as the key values of an RSE - what RSEs are trying to achieve in their role and the values that underpin that work.
 The authors then look at the competencies themselves, identified through extensive discussion and debate about what RSEs do and how they do it.
 These skills are grouped into those that relate directly to software, those that are more research related and those that are communication focused.
 The collaboration identifies these three areas as the core of what an RSE provides - specialist, high-quality software engineering knowledge, an understanding of the research environment (potentially working as a direct contributor to research itself), and the ability to communicate well and work highly effectively with researchers who may not have a computational background, IT savvy personnel who may not have a research background, and managers who may have neither.
