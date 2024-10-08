@@ -3,6 +3,7 @@ title: "Identifying the Foundational Competencies of a Research Software Enginee
 layout: post
 author: "The TeachingRSE collaboration"
 menulang: en
+name_de: identifying-the-foundational-competencies-of-an-RSE-de
 ---
 
 Only a little over a decade ago, the term Research Software Engineer (RSE) didn't exist.
