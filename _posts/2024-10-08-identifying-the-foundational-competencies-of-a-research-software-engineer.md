@@ -5,11 +5,6 @@ author: "The TeachingRSE collaboration"
 menulang: en
 ---
 
-# Identifying the Foundational Competencies of a Research Software Engineer
-
-_Flo's suggestion: The TeachingRSE collaboration_
-_Jeremy Cohen, Florian Goth, et al._ (author list to sort out - if we need one at all?)
-
 Only a little over a decade ago, the term Research Software Engineer (RSE) didn't exist.
 Now we find ourselves in a position where the term is increasingly widely accepted and research institutions are hiring RSEs to provide the vitally important skills that they need to support and undertake modern research.
 
@@ -60,5 +55,5 @@ As part of the goal to further develop the discussion on this work, to take the 
 the authors are also exploring journal publication options for the final version of the paper.
 If you'd like to join the teachingRSE collaboration and participate in the discussions and future work, get in touch with find our contact details in our [github repository](https://github.com/the-teachingRSE-project/competencies).
 
-This blog post is published under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). Re-posts are encouraged and should link back to the [original](https://de-rse.org/blog/2024/07/10/identifying-the-foundational-competencies-of-a-research-software-engineer.html).
+This blog post is published under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). Re-posts are encouraged and should link back to the [original](https://de-rse.org/blog/2024/10/08/identifying-the-foundational-competencies-of-a-research-software-engineer.html).
 
