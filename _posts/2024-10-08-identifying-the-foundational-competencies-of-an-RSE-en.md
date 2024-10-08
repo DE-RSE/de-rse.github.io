@@ -55,5 +55,5 @@ As part of the goal to further develop the discussion on this work, to take the 
 the authors are also exploring journal publication options for the final version of the paper.
 If you'd like to join the teachingRSE collaboration and participate in the discussions and future work, get in touch with find our contact details in our [github repository](https://github.com/the-teachingRSE-project/competencies).
 
-This blog post is published under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). Re-posts are encouraged and should link back to the [original](https://de-rse.org/blog/2024/10/08/identifying-the-foundational-competencies-of-a-research-software-engineer.html).
+This blog post is published under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). Re-posts are encouraged and should link back to the [original](https://de-rse.org/blog/2024/10/08/identifying-the-foundational-competencies-of-an-RSE-en.html).
 
