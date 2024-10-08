@@ -65,7 +65,7 @@ Arbeitskreisleitung
 : Philipp Schäfer
 
 Vertreten im Sprechendenrat durch
-: Dr. Dominic Kempf
+: Dominic Kempf
 
 Laufzeit
 : fehlt noch

@@ -65,7 +65,7 @@ Lead
 : Philipp Schäfer
 
 Spokesperson
-: Dr. Dominic Kempf
+: Dominic Kempf
 
 Lifetime
 : TBA
