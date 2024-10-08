@@ -34,6 +34,8 @@ The length of time spent on this work and the very wide range of inputs and pers
 
 **The paper**
 
+![First page of the position 002 PDF.]({{ "/assets/img/positions/position-002-cover.png" | prepend: site.baseurl }})
+
 “[Foundational Competencies and Responsibilities of a Research Software Engineer](https://arxiv.org/abs/2311.11457)” works through the process of understanding what makes up the role of an RSE.
 It starts with some general background and terminology before highlighting what the collaboration worked out as the key values of an RSE
 - what RSEs are trying to achieve in their role and the values that underpin that work.
