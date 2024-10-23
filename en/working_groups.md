@@ -116,7 +116,7 @@ Goal
 Participate
 : TBA
 
-### Teaching RSE
+### Teaching RSE (with GI)
 
 Lead
 : Florian Goth
@@ -125,7 +125,7 @@ Lifetime
 : TBA
 
 Goal
-: Papers/Positions on the topic “Teaching” in RSE
+: The next major aim of this working group is to develop and publish a set of guidelines for the best development of young and practising RSEs.
 
 Participate
 : [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://lists.uni-wuerzburg.de/mailman/listinfo/teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)

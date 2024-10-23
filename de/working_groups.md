@@ -116,7 +116,7 @@ Ziel
 Mitmachen
 : fehlt noch
 
-### Teaching RSE
+### Teaching RSE (mit GI)
 
 Arbeitskreisleitung
 : Florian Goth
@@ -125,7 +125,7 @@ Laufzeit
 : fehlt noch
 
 Ziel
-: Papiere/Positionen zum Thema „Teaching“ im Bereich RSE
+: Das nächste große Ziel dieser Arbeitsgruppe ist es, einen Leitfaden für die bestmögliche Entwicklung frischer und praktizierender RSEs zu erstellen und zu veröffentlichen.
 
 Mitmachen
 : [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://lists.uni-wuerzburg.de/mailman/listinfo/teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
