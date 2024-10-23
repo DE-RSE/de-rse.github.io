@@ -42,6 +42,16 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 - **Full text:** (submitted); [[arXiv:2311.11457 \[cs.SE\]](https://doi.org/10.48550/arXiv.2311.11457)
 - **Cite:** Goth et al. Foundational Competencies and Responsibilities of a Research Software Engineer. arXiv: 2311.11457
 
+### **Position 003** - GI- und de-RSE Muster-Leitlinie zur Effizienten Entwicklung von Forschungssoftware
+
+| **Abstract:** Diese Muster-Leitlinie bietet einen Rahmen für die Entwicklung, Verwaltung und Weitergabe von Software an der jeweils nutzenden Universität, Hochschule oder dem Forschungszentrum. Sie eignet sich auch für standortübergreifende Verbundforschungsvorhaben, insbesondere wenn die Projektbeteiligten der verschiedenen Universitäten, Hochschulen und Forschungszentren kompatible Fassungen nutzen. 
+
+- **Autors:** Andreas Czerniak, Adrian Ehrenhofer, Bernadette Fritzsch, Maximilian Funk, Florian Goth, Reiner Hähnle, Carina Haupt, Marco Konersmann, Jan Linxweiler, Frank Löffler, Alexander Lüpges, Sebastian Nielebock, Bernhard Rumpe, Ina Schieferdecker, Tobias Schlauch, Robert Speck, Alexander Struck, Jan Philipp Thiele, Matthias Tichy, Inga Ulusoy, Scientific Software Center
+
+- **Community reviews:** 19. Augusst 2024 - 30. September 2024
+- **Accepted as official position:** 17. Oktober 2024
+- **Full text:** (in last review phase): [commentable version](https://docs.google.com/document/d/1Idk18Taci9w60sfKNVgGQsBYUqEmnKM5GUjfC6_Ek_c/edit?tab=t.0)
+
 ## Work in progress
 
 The following positions are currently developed.
