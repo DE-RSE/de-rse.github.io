@@ -598,5 +598,19 @@ var rseFeatures = [
         "geometry": {
             "type": "Point", "coordinates": [8.652338, 50.093509]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Edwin Carreño",
+            "popupContent": "<img src='../assets/img/map/EdwinCarreno_SSC'><a href='https://github.com/ecarrenolozano'> Edwin Carreño<br>" +
+              "Research Software Engineer<br>" +
+              "<a href='https://www.ssc.uni-heidelberg.de/en'>Scientific Software Center (Universität Heidelberg)</a><br>" +
+              "<br><br><em>Current research focus: Biological Networks, Software Engineering</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.67565, 49.41749]
+        }
     }
 ];
