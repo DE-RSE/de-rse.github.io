@@ -25,7 +25,7 @@ Obwohl diese Definition nicht falsch ist, verdeckt sie dennoch eine enorme Kompl
 
 **Die grundlegenden Kompetenzen eines RSE**
 
-Angesichts dieses komplizierten und sich rasch entwickelnden Bereichs haben sich die Autoren von [arXiv:2311.11457](https://arxiv.org/abs/2311.11457), der „TeachingRSE Kollaboration“, vorgenommen, die grundlegenden Kompetenzen eines Research Software Engineers besser zu verstehen und zu identifizieren.
+Angesichts dieses komplizierten und sich rasch entwickelnden Bereichs haben sich die Autoren von [arXiv:2311.11457](https://arxiv.org/abs/2311.11457) (**Update: nun unter offenem Peer-Review bei [F1000Research](https://doi.org/10.12688/f1000research.157778.1)**), der „TeachingRSE Kollaboration“, vorgenommen, die grundlegenden Kompetenzen eines Research Software Engineers besser zu verstehen und zu identifizieren.
 
 Das ursprüngliche Team aus Heidi Seibold, Jeremy Cohen, Florian Goth, Philipp Schäfer und Samantha Wittke veranstaltete auf der deutschen RSE-Konferenz im Februar 2023 in Paderborn ([deRSE23](https://de-rse23.sciencesconf.org/)) einen Workshop mit dem Titel „Teaching and Learning Research Software Engineering“, der zur Diskussionen anregte, was genau die Kompetenzen eines RSE sind.
 Die Community wurde frühzeitig durch mehrere Workshops integriert (auf der [deRSE23](https://de-rse23.sciencesconf.org/program/graphic/date/2023-02-22) in Paderborn, der [un-deRSE23](https://un-derse23.sciencesconf.org/program/graphic/date/2023-09-26) in Jena und der [deRSE24](https://events.hifis.net/event/994/contributions/7914/) in Würzburg).
@@ -56,5 +56,9 @@ Ein [Preprint](https://arxiv.org/abs/2311.11457) wurde als zweites offizielles P
 Um die Diskussion über diese Arbeit weiterzuentwickeln, die Ergebnisse einem breiteren Publikum zugänglich zu machen und weitere Forschung in diesem Bereich zu durchzuführen,
 prüfen die Autoren Möglichkeiten zur Veröffentlichung in Fachzeitschriften für die endgültige Version des Papiers.
 Wenn Du TeachingRSE beitreten und an den Diskussionen und zukünftigen Arbeiten teilnehmen möchtest, nimm Kontakt mit uns auf. Unsere Kontaktdaten findest Du in unserem [Github-Repository](https://github.com/the-teachingRSE-project/competencies).
+
+**Update (2024-12-02)**
+
+Das Papier wurde inzwischen auf F1000 unter dem doi [10.12688/f1000research.157778.1 veröffentlicht](https://doi.org/10.12688/f1000research.157778.1) und wartet dort auf Peer Reviews.
 
 Dieser Blogbeitrag wurde unter der [CC BY 4.0-Lizenz](https://creativecommons.org/licenses/by/4.0/) veröffentlicht. Die Weiterverbreitung ist erwünscht und sollte auf das [Original](https://de-rse.org/blog/2024/10/08/identifying-the-foundational-competencies-of-an-RSE-en.html) (en) verweisen.
