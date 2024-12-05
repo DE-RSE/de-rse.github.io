@@ -1,5 +1,5 @@
 ---
-title: "Code"
+title: "Code for science - Themenwoche VW Stiftung"
 layout: post
 author: "Bernadette Fritzsch, Dominic Kempf, Jan Linxweiler, Yves Vincent Grossmann, Frank Löffler"
 menulang: de
