@@ -16,8 +16,41 @@ Falls eine Veranstaltung fehlt, [kontaktiere](join.html) uns bitte.
 
 Die **deRSE**-Konferenzen sind von uns veranstaltete, internationale Konferenzen von und für Research Software Engineers.
 
-Die **deRSE20** ([Konferenzwebsite](../deRSE20/)) in Jena wurde aufgrund der COVID-19-Pandemie abgesagt.
-Die Veranstaltungsreihe _SORSE_ - A Series of Online Research Software Events - soll einen Ausgleich für die ausfallenden persönlichen Treffen bieten. SORSE wird von einem internationalem Team mit Beteiligung von de-RSE organisiert.
+## 2025
+
+| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| --- | --- | --- | --- | --- |
+{% include events/2025.md %}
+{: .table .table-hover}
+
+## 2024
+
+| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| --- | --- | --- | --- | --- |
+{% include events/2024.md %}
+{: .table .table-hover}
+
+## 2023
+
+| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| --- | --- | --- | --- | --- |
+{% include events/2023.md %}
+{: .table .table-hover}
+
+## 2022
+
+| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| --- | --- | --- | --- | --- |
+{% include events/2022.md %}
+{: .table .table-hover}
+
+## 2021
+
+| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| --- | --- | --- | --- | --- |
+{% include events/2021.md %}
+{: .table .table-hover}
+
 
 ## 2020
 
@@ -51,7 +84,7 @@ Die Veranstaltungsreihe _SORSE_ - A Series of Online Research Software Events - 
 | 2nd Conference on Non-Textual Information (S3) | 10.-11.5.2017 | Hannover | [https://events.tib.eu/nontextualinformation2017/](https://events.tib.eu/nontextualinformation2017/) |
 | RDA-DE-Trainings-Workshop-2017 | 8.-9.6.2017 | Dresden | [www.forschungsdaten.org/index.php/RDA-DE-...-2017](http://www.forschungsdaten.org/index.php/RDA-DE-Trainings-Workshop-2017) |
 | EuroSciPy 2017 | 28.8.-1.9. | Erlangen | [https://www.euroscipy.org/2017/](https://www.euroscipy.org/2017/) |
-| RSE17 | 7.-8.9.2017 | Manchester | [www.rse.ac.uk/conf2017](https://rse.ac.uk/conf2017) |
+| RSE17 | 7.-8.9.2017 | Manchester | [www.rse.ac.uk/conf2017](https://web.archive.org/web/20220121001058/https://rse.ac.uk/conf2017/) |
 | Open-Access-Tage 2017 | 11.-13.9.2017| Dresden | [open-access.net/...-tage-2017-dresden/](https://open-access.net/community/open-access-tage/open-access-tage-2017-dresden/) |
 | WSSSPE5.2 | 24.10.2017| Auckland| [wssspe.researchcomputing...wssspe5-2/](http://wssspe.researchcomputing.org.uk/category/wssspe5-2/) | [13th IEEE eScience](http://escience2017.org.nz) | 
 | FORCE17 | 25.-27.10.2017 | Berlin | [www.force11.org/meetings/force2017](https://www.force11.org/meetings/force2017) | [open access week](http://www.openaccessweek.org) |

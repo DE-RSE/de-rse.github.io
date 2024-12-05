@@ -85,6 +85,8 @@ derse_women@listserv.dfn.de und
 einen Kanal derse-women unter RocketChat bei der GWDG (https://chat.gwdg.de) für Frauen. 
 Wer Interesse daran hat, melde sich bei Bernadette.Fritzsch@awi.de.
 
+**Update 2023-12-06**: Wir nutzen nun Matrix als Chatplatform. Wie ihr sie nutzen könnt, haben wir auf einer [Seite zu Matrix](https://www.de-rse.org/de/matrix.html) dokumentiert.
+
 Referenzen und Anmerkungen
 --------------------------
 

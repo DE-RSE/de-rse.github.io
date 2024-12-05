@@ -8,7 +8,7 @@ parent: info
 
 # deRSE19 - Call for Contributions
 
-Nach drei erfolgreichen [internationalen *Conferences of Research Software Engineers* in Großbritannien](https://rse.ac.uk/events/past-conferences/) wird vom 4. bis 6. Juni 2019 **deRSE19**, die erste Konferenz für Forschungssoftware und Forschungssoftwareentwickler*innen in Deutschland, im Albert Einstein Wissenschaftspark in Potsdam stattfinden.
+Nach drei erfolgreichen [internationalen *Conferences of Research Software Engineers* in Großbritannien](https://society-rse.org/events/) wird vom 4. bis 6. Juni 2019 **deRSE19**, die erste Konferenz für Forschungssoftware und Forschungssoftwareentwickler*innen in Deutschland, im Albert Einstein Wissenschaftspark in Potsdam stattfinden.
 
 Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge und Poster zur Konferenz, als auch für Splinter Meetings und informelle "Birds-of-a-Feather (BoF)" Diskussionstreffen. Ziel der Konferenz ist die Abbildung der facettenreichen Gemeinschaft der Research Software Engineers durch Beteiligung aller Erfahrungsstufen und über die verschiedenen Fachrichtungen, Standorte, Geschlechter und Herkünfte hinweg.
 
@@ -94,4 +94,4 @@ Dies wird Konferenzteilnehmer*innen helfen, die Poster und Personen zu identifiz
 
 ---
 
-The text of this call partly reuses modified text from the [website for the Third conference of Research Software Engineers](https://rse.ac.uk/conf2018/) under its [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). This call is equally licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+The text of this call partly reuses modified text from the [website for the Third conference of Research Software Engineers](https://web.archive.org/web/20210511160658/https://rse.ac.uk/conf2018/) under its [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). This call is equally licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

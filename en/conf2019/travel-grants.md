@@ -41,7 +41,7 @@ We award 4 Travel Bursaries of max. £500 each to contributors from the UK.
 
 ![UKRSE logo]({{ "/assets/img/conf/UKRSE_Logo.png" | prepend: site.baseurl }}){: width="100px"}
 
-The bursaries have been endowed by the [UK Research Software Engineers Association](https://rse.ac.uk/).
+The bursaries have been endowed by the [UK Research Software Engineers Association](https://society-rse.org/).
 
 ### Application
 

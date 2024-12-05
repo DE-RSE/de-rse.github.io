@@ -13,7 +13,7 @@ der deutschen Research Software Engineering-Landschaft einzunehmen.
 
 deRSE19 ist die erste Konferenz ihrer Art in Deutschland. Vorbild sind
 die erfolgreichen RSE-Konferenzen der vergangenen drei Jahre in
-Großbritannien ([2016](https://rse.ac.uk/conf2016), [2017](https://rse.ac.uk/conf2017), [2018](https://rse.ac.uk/conf2018)), bei denen Sponsoren die Möglichkeit
+Großbritannien (<https://society-rse.org/events/>), bei denen Sponsoren die Möglichkeit
 haben, passende Angebote, relevante Lösungen und Produkte für die Arbeit
 von RSEs zu präsentieren und in Dialog mit RSEs und
 softwareentwickelnden Gruppen in der Wissenschaft zu treten.

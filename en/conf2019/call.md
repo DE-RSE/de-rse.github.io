@@ -8,7 +8,7 @@ parent: info
 
 # deRSE19 - Call for Contributions
 
-Following the success of the [first three international Conferences of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), **deRSE19**, the first conference in Germany addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
+Following the success of the [first three international Conferences of Research Software Engineers in the UK](https://society-rse.org/events/), **deRSE19**, the first conference in Germany addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
 
 The organising committee welcomes submissions for workshops, talks, and posters for the deRSE19 conference, as well as for splinter meetings and birds-of-a-feather (BoF) events. The aim is to reflect the diverse community of research software engineers by seeking input from all levels of experience and across a variety of domains, geographic locations, genders, and ethnicities.
 
@@ -90,4 +90,4 @@ session identify the posters and people they want to look at and talk to.
 
 ---
 
-The text of this call partly reuses modified text from the [website for the Third conference of Research Software Engineers](https://rse.ac.uk/conf2018/) under its [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). This call is equally licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+The text of this call partly reuses modified text from the [website for the Third conference of Research Software Engineers](hhttps://web.archive.org/web/20220121001058/https://rse.ac.uk/conf2018/) under its [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). This call is equally licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

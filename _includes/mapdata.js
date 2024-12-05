@@ -2,6 +2,16 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
+            "name": "Reiner Jung",
+            "popupContent": "<img src='../assets/img/map/rjung.jpeg'><a href='https://www.se.informatik.uni-kiel.de/en/team/reiner-jung'>Reiner Jung</a>, Universität Kiel, Department of Computer Science<a href='https://www.se.informatik.uni-kiel.de'>Software Engineering Group</a>, reiner.jung@email.uni-kiel.de<br><br><em>Domain-Specific Languages and Software Qulity Analysis.</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [10.139444, 54.323333]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "name": "David Haensel",
             "popupContent": "<img src='../assets/img/map/dhaensel.jpeg'><a href='https://www.fz-juelich.de/ias/ias-7/EN/AboutUs/Staff/Current/Haensel_David/_node.html'>David Haensel</a>, Forschungszentrum Jülich, <a href='https://www.fz-juelich.de/ias/ias-7/EN/Home/home_node.html'>IAS-7: Civil Safety Research</a>, d.haensel@fz-juelich.de<br><br><em>Developing pedestrian dynamics simulation software.</em>"
         },
@@ -164,7 +174,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Jan Dietrich",
-            "popupContent": "<img src='../assets/img/map/jandietrich.png'><a href='https://www.pik-potsdam.de/research/members/dietrich'>Jan Dietrich</a>, Potsdam-Institut für Klimafolgenforschung (PIK)<br><br>"
+            "popupContent": "<img src='../assets/img/map/jandietrich.png'><a href='https://www.pik-potsdam.de/members/dietrich'>Jan Dietrich</a>, Potsdam-Institut für Klimafolgenforschung (PIK)<br><br>"
         },
         "geometry": {
             "type": "Point",
@@ -208,11 +218,11 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Simon Christ",
-            "popupContent": "<a href='https://www.mpikg.mpg.de/mitarbeiterverzeichnis/48142'>Simon Christ</a>, Max-Planck-Institut f&uuml;r Kolloid- und Grenzfl&auml;chenforschung"
+            "popupContent": "<a href='https://www.cell.uni-hannover.de/typo3temp/_processed_/6/e/csm_f26ab0db6f1a2561487dcad03d43735523caa861-fp-3-2-0-0_22538b9719.jpg'>Simon Christ</a>, Leibniz Universit&auml;t Hannover"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [12.969317436218262, 52.41460544882651]
+            "coordinates": [9.703279, 52.391714]
         }
     },
     {
@@ -296,7 +306,7 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "UK RSE",
-            "popupContent": '<a href="https://rse.ac.uk/">UK RSE</a>'
+            "popupContent": '<a href="https://society-rse.org/">UK RSE</a>'
         },
         "geometry": {
             "type": "Point", "coordinates": [-1.8921047,52.4778342]
@@ -371,7 +381,18 @@ var rseFeatures = [
             "popupContent": "<img src='../assets/img/map/JanLinxweiler.png'><a href='https://www.tu-braunschweig.de/irmb/institut/mitarbeiter/linxweiler'>Jan Linxweiler</a>, Technische Universität Braunschweig, j.linxweiler@tu-bs.de<br><br><em>Postdoctoral researcher building interactive software systems using GPU Computing in the field of Computational Fluid Dynamics. Teaching Software Engineering to students from engineering disciplines. Doing RSE since 2005.</em>"
         },
         "geometry": {
-            "type": "Point", 
+            "type": "Point",
+            "coordinates": [10.527724027633665, 52.27272029357738]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Sven Marcus",
+            "popupContent": "Sven Marcus, Technische Universität Braunschweig, sven.marcus@tu-braunschweig.de<br><br><em>Civil Engineer turned Software Developer with a passion for Clean Code, Software Design and Test Driven Development. Working on <a href='https://magazin.tu-braunschweig.de/pi-post/wie-forschungssoftware-nachhaltiger-werden-kann/'>SURESOFT</a> to bring principles and practices of the software engineering discipline to the scientific world.</em>"
+        },
+        "geometry": {
+            "type": "Point",
             "coordinates": [10.527724027633665, 52.27272029357738]
         }
     },
@@ -382,7 +403,7 @@ var rseFeatures = [
             "popupContent": "<img src='../assets/img/map/soerenPeters.png'><a href='https://soerenpeters.com'>Sören Peters</a>, Technische Universität Braunschweig, s.peters@irmb.tu-bs.de<br><br><em>Passionate software developer. Working on <a href='https://magazin.tu-braunschweig.de/pi-post/wie-forschungssoftware-nachhaltiger-werden-kann/'>SURESOFT</a>, a project for sustainable research software development and deployment.</em>"
         },
         "geometry": {
-            "type": "Point", 
+            "type": "Point",
             "coordinates": [10.527724027633665, 52.27272029357738]
         }
     },
@@ -393,7 +414,7 @@ var rseFeatures = [
             "popupContent": "<img src='https://avatars1.githubusercontent.com/u/9948149'><a href='mailto:katrin.leinweber@tib.eu'>Katrin Leinweber</a>, Technische Informationsbibliothek (TIB)<br><br><em> Tätigkeitsschwerpunkte: Siehe <a href='https://tibhannover.github.io/FAIR-studyGroup/#portfolio'>FAIR Data & Software study group</a> & <a href='https://github.com/katrinleinweber?org=TIBHannover'>GitHub.com/katrinleinweber?org=TIBHannover</a>.</em>"
         },
         "geometry": {
-            "type": "Point", 
+            "type": "Point",
             "coordinates": [9.72478, 52.37945]
         }
     },
@@ -404,7 +425,7 @@ var rseFeatures = [
         "popupContent": "<a href='https://www.ifam.uni-hannover.de/thiele'>Jan Philipp Thiele</a>, Institut fuer Angewandte Mathematik (IfAM), Leibniz Universität Hannover (LUH)"
       },
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [9.71710, 52.38285]
       }
     },
@@ -413,7 +434,7 @@ var rseFeatures = [
         "properties": {
             "name": "Ronny Gey",
             "popupContent": '<a href="mailto:gey@ub.uni-leipzig.de">Ronny Gey</a><br>' +
-            '<a href="http://ub.uni-leipzig.de/">Universitätsbibliothek Leipzig</a>'+ 
+            '<a href="http://ub.uni-leipzig.de/">Universitätsbibliothek Leipzig</a>'+
             '<a href="http://www.sosciso.de">SoSciSo</a>'
         },
         "geometry": {
@@ -460,17 +481,6 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
-            "name": "Diego Siqueira",
-            "popupContent": "<img src='https://avatars.githubusercontent.com/u/613309?s=400&u=13e8200a370896988b2152d7e5e4f26eb339f23d&v=4'>Diego Siqueira, <a href='https://www.uni-muenster.de/'>University of M&uuml;nster (WWU M&uuml;nster)</a><br /><br /><em>PhD Candidate <a href='https://www.ercis.org/'>@ERCIS</a> &amp; Research Software Engineer at the <a href='https://www.uni-muenster.de/SCDH/'>Service Center for Digital Humanities (SCDH)</a></em>"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [7.6082995, 51.9503357] 
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "name": "René Fritze",
             "popupContent": "<img src='https://avatars1.githubusercontent.com/u/47802?s=460&v=4'>René Fritze<br>" +
             '<a href="https://www.uni-muenster.de/AMM/ohlberger/team/rene_fritze.shtml">Angewandte Mathematik Münster</a><br>' +
@@ -509,11 +519,84 @@ var rseFeatures = [
         "type": "Feature",
         "properties": {
             "name": "Diego Siqueira",
-            "popupContent": "<img src='../assets/img/map/DiegoSiqueira.png'>Diego Siqueira, <a href='https://www.uni-muenster.de/'>University of M&uuml;nster (WWU M&uuml;nster)</a><br /><br /><em>PhD Candidate <a href='https://www.ercis.org/'>@ERCIS</a> &amp; Research Software Engineer at the <a href='https://www.uni-muenster.de/SCDH/'>Service Center for Digital Humanities (SCDH)</a></em>"
+            "popupContent": "<img src='../assets/img/map/DiegoSiqueira.png'>Diego Siqueira, <a href='https://www.ruhr-uni-bochum.de/'>Ruhr University Bochum (RUB)</a><br /><br /><em>PhD Candidate <a href='https://www.ercis.org/'>@ERCIS</a> &amp; DH Consultant &sol; RSE at the <a href='https://dh.ub.rub.de/'>Digital Humanities Center (DHC)</a></em>"
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [7.6082995, 51.9503357]
+            "coordinates": [7.260036753603792, 51.44642578452052]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Benjamin Uekermann",
+            "popupContent": "<img src='../assets/img/map/BenjaminUekermann.jpg'><a href='https://github.com/uekerman'>Benjamin Uekermann</a>, University of Stuttgart, Stuttgart Center for Simulation Science, benjamin.uekermann@ipvs.uni-stuttgart.de<br><br><em>Lead developer of the coupling library <a href='https://precice.org/'>preCICE</a> </em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [9.108631769289177, 48.74534896513809]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Philipp S. Sommer",
+            "popupContent": "<img src='https://avatars.githubusercontent.com/u/9960249'><a href='https://www.philipp-s-sommer.de'>Philipp S. Sommer</a>, <a href='https://www.hereon.de'>Helmholtz-Zentrum Hereon</a><br><br><em>Software Developer for Earth-System-Model Data management in the <a href='https://hcdc.hereon.de'>Helmholtz Coastal Data Center (HCDC)</a></em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.428521818605772, 53.40571683407726]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Lutz Brusch",
+            "popupContent": "<img src='../assets/img/map/LutzBrusch.jpg'>Lutz Brusch<br>" +
+            '<a href="https://digs-bb.de/brusch">ZIH, TU Dresden</a><br>' +
+            '<a href="https://morpheus.gitlab.io">Morpheus - modeling and simulation framework for multicellular biology</a>'
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.72322, 51.02545]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Johannes Ranke",
+            "popupContent": "<img src='../assets/img/map/JohannesRanke.jpg'>Johannes Ranke<br>" +
+              "<a href='https://jrwb.de'>Scientific consultant for risk analysis of chemicals in the environment</a><br>" +
+              "Privatdozent an der Universität Freiburg<br>" +
+              "<em><a href='https://www.R-project.org/'>R</a> programmer and package developer<br>" +
+              "Current research focus on kinetic evaluation of chemical degradation data</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.66348, 47.55296]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Matthias Braun",
+            "popupContent": "<img src='../assets/img/map/mbraun.jpg'><a href='https://www.intcdc.uni-stuttgart.de/research-data-management'>Matthias Braun</a><br>" + 
+                "Cluster of Excellence Integrative Computational Design and Construction for Architecture (EXC IntCDC), University of Stuttgart" + 
+		        "<br><br><em>Developer of the cross-platform visualization prototyping framework <a href='https://megamol.org/'>MegaMol</a>.</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [9.096753349067592, 48.7434662502559]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Tim Schaefer",
+            "popupContent": "<img src='../assets/img/map/tschaefer.jpg'><a href='https://github.com/dfsp-spirit'>Tim Schaefer</a><br>" +
+                "Ernst Strüngmann Institute (ESI) for Neuroscience" +
+		        "<br><br><em>Bioinformatician and Neuroscientist, currently working on <a href='https://github.com/esi-neuroscience/syncopy'>Syncopy</a>, a toolkit for large-scale electrophysiology data-analysis in Python.</em>"
+        },
+        "geometry": {
+            "type": "Point", "coordinates": [8.652338, 50.093509]
         }
     }
 ];
