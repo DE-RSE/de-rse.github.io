@@ -34,10 +34,7 @@ Derzeit gibt es die folgenden aktiven Arbeitskreise des de-RSE e.V.
 ### Vereinsinfrasturktur
 
 Arbeitskreisleitung
-: Philipp Schäfer
-
-Vertreten im Sprechendenrat durch
-: Philipp Schäfer
+: Philipp Matthias Schäfer
 
 Laufzeit
 : fehlt noch
@@ -51,9 +48,6 @@ Mitmachen
 ### International Council
 
 Arbeitskreisleitung
-: Philipp Schäfer
-
-Vertreten im Sprechendenrat durch
 : Frank Loeffler
 
 Laufzeit
@@ -68,9 +62,6 @@ Mitmachen
 ### Positionspapier "RSE Groups"
 
 Arbeitskreisleitung
-: Philipp Schäfer
-
-Vertreten im Sprechendenrat durch
 : Dominic Kempf
 
 Laufzeit
@@ -85,9 +76,6 @@ Mitmachen
 ### NFDI
 
 Arbeitskreisleitung
-: Philipp Schäfer
-
-Vertreten im Sprechendenrat durch
 : Florian Thiery
 
 Laufzeit
@@ -102,9 +90,6 @@ Mitmachen
 ### de-RSE25
 
 Arbeitskreisleitung
-: Stephan Janosch
-
-Vertreten im Sprechendenrat durch
 : Stephan Janosch
 
 Laufzeit
@@ -135,9 +120,6 @@ Mitmachen
 Arbeitskreisleitung
 : Bernhard Rumpe
 
-Vertreten im Sprechendenrat durch
-: Bernhard Rumpe
-
 Laufzeit
 : fehlt noch
 
@@ -152,26 +134,6 @@ Mitmachen
 Arbeitskreisleitung
 : Wilhelm (Willi) Hasselbring
 
-Vertreten im Sprechendenrat durch
-: Wilhelm (Willi) Hasselbring
-
-Laufzeit
-: fehlt noch
-
-Ziel
-: fehlt noch
-
-Mitmachen
-: fehlt noch
-
-### Online Community (mit GI)
-
-Arbeitskreisleitung
-: Claire Wyatt
-
-Vertreten im Sprechendenrat durch
-: Claire Wyatt
-
 Laufzeit
 : fehlt noch
 
@@ -184,9 +146,6 @@ Mitmachen
 ### Event Coordination (mit GI)
 
 Arbeitskreisleitung
-: Stephan Jansoch
-
-Vertreten im Sprechendenrat durch
 : Stephan Janosch
 
 Laufzeit
@@ -207,8 +166,19 @@ Die folgenden Arbeitskreise haben ihre Aufgaben abgeschlossen oder sind aktuell 
 Arbeitskreisleitung
 : Florian Goth
 
-Vertreten im Sprechendenrat durch
-: Florian Goth
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
+Mitmachen
+: fehlt noch
+
+### Online Community (mit GI)
+
+Arbeitskreisleitung
+: Claire Wyatt
 
 Laufzeit
 : fehlt noch

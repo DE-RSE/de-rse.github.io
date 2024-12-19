@@ -40,10 +40,7 @@ A working group:
 ### Society Infrastructure
 
 Lead
-: Philipp Schäfer
-
-Spokesperson
-: Philipp Schäfer
+: Philipp Matthias Schäfer
 
 Lifetime
 : TBA
@@ -57,10 +54,13 @@ Participate
 ### International Council
 
 Lead
-: Philipp Schäfer
-
-Spokesperson
 : Frank Loeffler
+
+Lifetime
+: TBA
+
+Goal
+: TBA
 
 Participate
 : TBA
@@ -68,9 +68,6 @@ Participate
 ### Position Paper "RSE Groups"
 
 Lead
-: Philipp Schäfer
-
-Spokesperson
 : Dominic Kempf
 
 Lifetime
@@ -85,9 +82,6 @@ Participate
 ### NFDI
 
 Lead
-: Philipp Schäfer
-
-Spokesperson
 : Florian Thiery
 
 Lifetime
@@ -102,9 +96,6 @@ Participate
 ### de-RSE25
 
 Lead
-: Stephan Janosch
-
-Spokesperson
 : Stephan Janosch
 
 Lifetime
@@ -135,9 +126,6 @@ Participate
 Lead
 : Bernhard Rumpe
 
-Spokesperson
-: Bernhard Rumpe
-
 Lifetime
 : TBA
 
@@ -152,26 +140,6 @@ Participate
 Lead
 : Wilhelm (Willi) Hasselbring
 
-Spokesperson
-: Wilhelm (Willi) Hasselbring
-
-Lifetime
-: TBA
-
-Goal
-: TBA
-
-Participate
-: TBA
-
-### Online Community (with GI)
-
-Lead
-: Claire Wyatt
-
-Spokesperson
-: Claire Wyatt
-
 Lifetime
 : TBA
 
@@ -184,9 +152,6 @@ Participate
 ### Event Coordination (with GI)
 
 Lead
-: Stephan Jansoch
-
-Spokesperson
 : Stephan Janosch
 
 Lifetime
@@ -207,8 +172,19 @@ This list contains all working groups that were terminated (e.g., upon reaching 
 Lead
 : Florian Goth
 
-Spokesperson
-: Florian Goth
+Lifetime
+: TBA
+
+Goal
+: TBA
+
+Participate
+: TBA
+
+### Online Community (with GI)
+
+Lead
+: Claire Wyatt
 
 Lifetime
 : TBA
