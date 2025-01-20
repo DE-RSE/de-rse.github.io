@@ -77,3 +77,17 @@ We organize the international **deRSE** conferences, by and for Research Softwar
 | --- | --- | --- | --- | --- |
 {% include events/2017.md %}
 {: .table .table-hover}
+
+## 2016
+
+| Event | Date | Place | URL | Remarks |
+| --- | --- | --- | --- | --- |
+{% include events/2016.md %}
+{: .table .table-hover}
+
+## 2015
+
+| Event | Date | Place | URL | Remarks |
+| --- | --- | --- | --- | --- |
+{% include events/2015.md %}
+{: .table .table-hover}

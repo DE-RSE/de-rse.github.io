@@ -78,3 +78,17 @@ Die **deRSE**-Konferenzen sind von uns veranstaltete, internationale Konferenzen
 | --- | --- | --- | --- | --- |
 {% include events/2017.md %}
 {: .table .table-hover}
+
+## 2016
+
+| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| --- | --- | --- | --- | --- |
+{% include events/2016.md %}
+{: .table .table-hover}
+
+## 2015
+
+| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| --- | --- | --- | --- | --- |
+{% include events/2015.md %}
+{: .table .table-hover}
