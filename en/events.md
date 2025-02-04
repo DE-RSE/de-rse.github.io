@@ -6,7 +6,8 @@ weight: 30
 
 # Events
 
-We think this list of events is relevant. That's why simply collected them in a table. We are not the organizers of of these events!
+We found these events to be relevant to the RSE community.
+The respective organizers can be found on the linked websites.
 
 If you think, we are missing an event, please [contact](join.html) us.
 
