@@ -40,10 +40,7 @@ A working group:
 ### Society Infrastructure
 
 Lead
-: Philipp Schäfer
-
-Spokesperson
-: Philipp Schäfer
+: Philipp Matthias Schäfer
 
 Lifetime
 : TBA
@@ -57,10 +54,13 @@ Participate
 ### International Council
 
 Lead
-: Philipp Schäfer
-
-Spokesperson
 : Frank Loeffler
+
+Lifetime
+: TBA
+
+Goal
+: TBA
 
 Participate
 : TBA
@@ -68,9 +68,6 @@ Participate
 ### Position Paper "RSE Groups"
 
 Lead
-: Philipp Schäfer
-
-Spokesperson
 : Dominic Kempf
 
 Lifetime
@@ -85,9 +82,6 @@ Participate
 ### NFDI
 
 Lead
-: Philipp Schäfer
-
-Spokesperson
 : Florian Thiery
 
 Lifetime
@@ -102,9 +96,6 @@ Participate
 ### de-RSE25
 
 Lead
-: Stephan Janosch
-
-Spokesperson
 : Stephan Janosch
 
 Lifetime
@@ -135,9 +126,6 @@ Participate
 Lead
 : Bernhard Rumpe
 
-Spokesperson
-: Bernhard Rumpe
-
 Lifetime
 : TBA
 
@@ -152,8 +140,51 @@ Participate
 Lead
 : Wilhelm (Willi) Hasselbring
 
-Spokesperson
-: Wilhelm (Willi) Hasselbring
+Lifetime
+: TBA
+
+Goal
+: TBA
+
+Participate
+: TBA
+
+### Event Coordination (with GI)
+
+Lead
+: Stephan Janosch
+
+Lifetime
+: TBA
+
+Goal
+: TBA
+
+Participate
+: TBA
+
+### AI4RSE (with GI)
+
+Lead
+: Lukas Netz
+
+Lifetime
+: TBA
+
+Goal
+: The goal of the working group is to assess the current uses and challenges of AI in the context of RSE. This is done in three steps, starting with a survey within the scientific community to gain a broad overview of relevant focal points. The next step involves using the survey results to organize a workshop where key topics can be discussed in detail, and potential solutions and research topics can be developed. Finally, the insights and experiences from the first two steps will be summarized in a report or white paper and made available to the community.
+
+Participate
+: Get in contact with Lukas Netz or Bernadette Fritzsch
+
+## Terminated and Inactive Working Groups
+
+This list contains all working groups that were terminated (e.g., upon reaching their goal) or are currently inactive.
+
+### de-RSE24
+
+Lead
+: Florian Goth
 
 Lifetime
 : TBA
@@ -168,47 +199,6 @@ Participate
 
 Lead
 : Claire Wyatt
-
-Spokesperson
-: Claire Wyatt
-
-Lifetime
-: TBA
-
-Goal
-: TBA
-
-Participate
-: TBA
-
-### Event Coordination (with GI)
-
-Lead
-: Stephan Jansoch
-
-Spokesperson
-: Stephan Janosch
-
-Lifetime
-: TBA
-
-Goal
-: TBA
-
-Participate
-: TBA
-
-## Terminated and Inactive Working Groups
-
-This list contains all working groups that were terminated (e.g., upon reaching their goal) or are currently inactive.
-
-### de-RSE24
-
-Lead
-: Florian Goth
-
-Spokesperson
-: Florian Goth
 
 Lifetime
 : TBA
