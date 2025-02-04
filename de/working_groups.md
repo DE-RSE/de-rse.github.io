@@ -157,6 +157,21 @@ Ziel
 Mitmachen
 : fehlt noch
 
+### AI4RSE (with GI)
+
+Lead
+: Lukas Netz
+
+Lifetime
+: fehlt noch
+
+Goal
+: Ziel des Arbeitskreises ist die Erfassung der Aktuellen Nutzungen und Herausforderungen von KI im Kontext des RSE. Dies erfolgt in drei Schritten, beginnend mit einer Umfrage in der Wissenschaftscommunity, um einen groben Überblick über Relevante Schwerpunkte zu erhalten. Als nächsten Schritt werden die Ergebnisse dieser Umfrage genutzt, um einen Workshop zu organisieren, in dem ausführlich relevante Thematiken diskutiert und mögliche Lösungsansätze und Forschungsthemen erarbeitet werden können. Abschließend werden die Ergebnisse und Erfahrungen aus den beiden vorherigen schritten in einem Bericht oder Whitepaper zusammengefasst und der Community so zur Verfügung gestellt.
+
+Participate
+: Kontaktiere Lukas Netz oder Bernadette Fritzsch um in den Arbeitskreis mit aufgenommen zu werden.
+
+
 ## Ehemalige und inaktive Arbeitskreise
 
 Die folgenden Arbeitskreise haben ihre Aufgaben abgeschlossen oder sind aktuell nicht aktiv.
