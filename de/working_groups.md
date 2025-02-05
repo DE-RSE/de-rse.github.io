@@ -34,10 +34,7 @@ Derzeit gibt es die folgenden aktiven Arbeitskreise des de-RSE e.V.
 ### Vereinsinfrasturktur
 
 Arbeitskreisleitung
-: Philipp Schäfer
-
-Vertreten im Sprechendenrat durch
-: Philipp Schäfer
+: Philipp Matthias Schäfer
 
 Laufzeit
 : fehlt noch
@@ -51,9 +48,6 @@ Mitmachen
 ### International Council
 
 Arbeitskreisleitung
-: Philipp Schäfer
-
-Vertreten im Sprechendenrat durch
 : Frank Loeffler
 
 Laufzeit
@@ -68,9 +62,6 @@ Mitmachen
 ### Positionspapier "RSE Groups"
 
 Arbeitskreisleitung
-: Philipp Schäfer
-
-Vertreten im Sprechendenrat durch
 : Dominic Kempf
 
 Laufzeit
@@ -85,9 +76,6 @@ Mitmachen
 ### NFDI
 
 Arbeitskreisleitung
-: Philipp Schäfer
-
-Vertreten im Sprechendenrat durch
 : Florian Thiery
 
 Laufzeit
@@ -102,9 +90,6 @@ Mitmachen
 ### de-RSE25
 
 Arbeitskreisleitung
-: Stephan Janosch
-
-Vertreten im Sprechendenrat durch
 : Stephan Janosch
 
 Laufzeit
@@ -135,9 +120,6 @@ Mitmachen
 Arbeitskreisleitung
 : Bernhard Rumpe
 
-Vertreten im Sprechendenrat durch
-: Bernhard Rumpe
-
 Laufzeit
 : fehlt noch
 
@@ -152,8 +134,52 @@ Mitmachen
 Arbeitskreisleitung
 : Wilhelm (Willi) Hasselbring
 
-Vertreten im Sprechendenrat durch
-: Wilhelm (Willi) Hasselbring
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
+Mitmachen
+: fehlt noch
+
+### Event Coordination (mit GI)
+
+Arbeitskreisleitung
+: Stephan Janosch
+
+Laufzeit
+: fehlt noch
+
+Ziel
+: fehlt noch
+
+Mitmachen
+: fehlt noch
+
+### AI4RSE (with GI)
+
+Lead
+: Lukas Netz
+
+Lifetime
+: fehlt noch
+
+Goal
+: Ziel des Arbeitskreises ist die Erfassung der Aktuellen Nutzungen und Herausforderungen von KI im Kontext des RSE. Dies erfolgt in drei Schritten, beginnend mit einer Umfrage in der Wissenschaftscommunity, um einen groben Überblick über Relevante Schwerpunkte zu erhalten. Als nächsten Schritt werden die Ergebnisse dieser Umfrage genutzt, um einen Workshop zu organisieren, in dem ausführlich relevante Thematiken diskutiert und mögliche Lösungsansätze und Forschungsthemen erarbeitet werden können. Abschließend werden die Ergebnisse und Erfahrungen aus den beiden vorherigen schritten in einem Bericht oder Whitepaper zusammengefasst und der Community so zur Verfügung gestellt.
+
+Participate
+: Kontaktiere Lukas Netz oder Bernadette Fritzsch um in den Arbeitskreis mit aufgenommen zu werden.
+
+
+## Ehemalige und inaktive Arbeitskreise
+
+Die folgenden Arbeitskreise haben ihre Aufgaben abgeschlossen oder sind aktuell nicht aktiv.
+
+### de-RSE24
+
+Arbeitskreisleitung
+: Florian Goth
 
 Laufzeit
 : fehlt noch
@@ -168,47 +194,6 @@ Mitmachen
 
 Arbeitskreisleitung
 : Claire Wyatt
-
-Vertreten im Sprechendenrat durch
-: Claire Wyatt
-
-Laufzeit
-: fehlt noch
-
-Ziel
-: fehlt noch
-
-Mitmachen
-: fehlt noch
-
-### Event Coordination (mit GI)
-
-Arbeitskreisleitung
-: Stephan Jansoch
-
-Vertreten im Sprechendenrat durch
-: Stephan Janosch
-
-Laufzeit
-: fehlt noch
-
-Ziel
-: fehlt noch
-
-Mitmachen
-: fehlt noch
-
-## Ehemalige und inaktive Arbeitskreise
-
-Die folgenden Arbeitskreise haben ihre Aufgaben abgeschlossen oder sind aktuell nicht aktiv.
-
-### de-RSE24
-
-Arbeitskreisleitung
-: Florian Goth
-
-Vertreten im Sprechendenrat durch
-: Florian Goth
 
 Laufzeit
 : fehlt noch
