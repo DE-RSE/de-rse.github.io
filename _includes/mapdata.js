@@ -612,5 +612,16 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [8.67565, 49.41749]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Magnus Hagdorn",
+            "popupContent": "<img src='../assets/img/map/mhagdorn'><a href='https://magi.marsupium.org/category/work.html'>Magnus Hagdorn</a>, Charité Universitätsmedizin Berlin, GB IT, Scientific Computing<br>I am a computational geophysicist who used to work on ice sheet models, in oil and gas and satellite data processing. I am now in the Scientific Computing team at the Charité looking after the HPC, supporting users and teaching digital skills to scientists."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.385835011516281, 52.53110586220917]
+        }
     }
 ];
