@@ -113,7 +113,7 @@ Ziel
 : Das nächste große Ziel dieser Arbeitsgruppe ist es, einen Leitfaden für die bestmögliche Entwicklung frischer und praktizierender RSEs zu erstellen und zu veröffentlichen.
 
 Mitmachen
-: [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://lists.uni-wuerzburg.de/mailman/listinfo/teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
+: [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
 
 ### RSE Software Development Guideline (mit GI)
 
