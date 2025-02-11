@@ -13,7 +13,7 @@ If you think, we are missing an event, please [contact](join.html) us.
 
 ## deRSE conferences
 
-We organize the international **deRSE** conferences, by and for Research Software Engineers.
+The German RSE community organizes the international **deRSE** conferences, by and for Research Software Engineers.
 
 ## 2025
 
