@@ -14,7 +14,7 @@ Falls eine Veranstaltung fehlt, [kontaktiere](join.html) uns bitte.
 
 ## deRSE-Konferenzen
 
-Die **deRSE**-Konferenzen sind von uns veranstaltete, internationale Konferenzen von und für Research Software Engineers.
+Die **deRSE**-Konferenzen sind von der deutschen RSE-Community organisierte, internationale Konferenzen von und für Research Software Engineers.
 
 ## 2025
 
