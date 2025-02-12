@@ -50,7 +50,7 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 
 - **Community reviews:** 19. Augusst 2024 - 30. September 2024
 - **Accepted as official position:** 17. Oktober 2024
-- **Full text:** (in last review phase): [commentable version](https://docs.google.com/document/d/1Idk18Taci9w60sfKNVgGQsBYUqEmnKM5GUjfC6_Ek_c/edit?tab=t.0)
+- **Full text:** [doi: 10.18420/2025-gi_de-rse](https://doi.org/10.18420/2025-gi_de-rse)
 
 ## Work in progress
 
