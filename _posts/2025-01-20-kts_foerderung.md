@@ -15,7 +15,13 @@ Teil des Konzepts ist auch eine Machbarkeitsstudie und ein Vorschlag für eine O
 Das FutuRSI-Projekt wird von einem Konsortium aus sechs Institutionen in Deutschland durchgeführt und startet im April 2025.
 Neben dem de-RSE Verein sind auch das Forschungszentrum Jülich (FZJ), die Gesellschaft für Informatik (GI), das Helmholtzzentrum Dresden Rossendorf (HZDR), das Kompetenzzentrum Digitale Forschung (zedif) der Universität Jena und die SUB Göttingen an dem Projekt beteiligt. 
 
-In Kooperation des de-RSE Vereins mit der Fachgruppe RSE der GI sind zudem zwei weitere erfolgreiche Projektanträge entstanden. Eines der Projekte zielt darauf ab, ein RSE Master-Programm zu entwickeln während das andere dem Thema "Award" im RSE Kontext gewidmet ist. Der Antrag "Ausgezeichnete Forschungssoftware (RSE-Award)" verfolgt das Ziel, die Qualität und Sichtbarkeit von Forschungssoftware durch einen RSE-Award zu fördern. Die Auszeichnung soll Anreize für qualitativ hochwertige Softwareentwicklung schaffen, Best Practices hervorheben und die RSE-Community stärken. Das Projekt "Research Software Engineering Master" zielt wiederum darauf ab, einen spezialisierten Masterstudiengang für Research Software Engineering (RSE) zu entwickeln. Es soll ein Referenz-Curriculum erstellt, in bestehenden Studiengängen erprobt und langfristig zur Etablierung offizieller RSE-Abschlüsse genutzt werden. Das Projekt wird u.a. in enger Kooperation mit dem gemeinsamen Arbeitskreis "Teaching RSE" von de-RSE und GI durchgeführt.
+In Kooperation des de-RSE Vereins mit der Fachgruppe RSE der GI sind zudem zwei weitere erfolgreiche Projektanträge entstanden.
+Eines der Projekte zielt darauf ab, ein RSE Master-Programm zu entwickeln, während das andere dem Thema “Award” im RSE Kontext gewidmet ist.
+Der Antrag “Ausgezeichnete Forschungssoftware (RSE-Award)” verfolgt das Ziel, die Qualität und Sichtbarkeit von Forschungssoftware durch einen RSE-Award zu fördern.
+Die Auszeichnung soll Anreize für qualitativ hochwertige Softwareentwicklung schaffen, Best Practices hervorheben und die RSE-Community stärken.
+Das Projekt “Research Software Engineering Master” zielt wiederum darauf ab, einen spezialisierten Masterstudiengang für Research Software Engineering (RSE) zu entwickeln.
+Es soll ein Referenz-Curriculum erstellt, in bestehenden Studiengängen erprobt und langfristig zur Etablierung offizieller RSE-Abschlüsse genutzt werden.
+Das Projekt wird u.a. in enger Kooperation mit dem gemeinsamen Arbeitskreis “Teaching RSE” von de-RSE und GI durchgeführt.
 
 Wir freuen uns auf die Zusammenarbeit mir allen Beteiligten.
 
