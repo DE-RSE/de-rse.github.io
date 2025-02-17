@@ -8,7 +8,8 @@ menulang: de
 Die [Ausschreibung](https://klaus-tschira-stiftung.de/foerderungen/naturwissenschaftliche-software/) der [Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/) zum Thema „Software in der naturwissenschaftlichen Forschung“ endete im Mai 2024.
 Einige Mitglieder von de-RSE konnten mit ihren Projektideen die Stiftung überzeugen.
 
-Dazu zählt das Projekt „FutuRSI: Konzeption und Anlaufphase eines deutschen Forschungssoftware-Instituts“ hat zum Ziel, eine prototypische Service-Organisation für Research Software Engineering mit verteilten Teams für ein bundesweites,
+Dazu zählt das Projekt „FutuRSI: Konzeption und Anlaufphase eines deutschen Forschungssoftware-Instituts“.
+Es hat zum Ziel, eine prototypische Service-Organisation für Research Software Engineering mit verteilten Teams für ein bundesweites,
 föderales Angebot zu entwickeln. Dabei werden die gewonnenen Erfahrungen genutzt, um ein Konzept für die einzelnen Arbeitsschritte zu erstellen, die für den prototypischen Aufbau einer deutschlandweiten Organisation notwendig sind.
 Um dieses Ziel zu erreichen, werden die Entwicklung der Struktur bottom-up und iterativ gestaltet und Stakeholder aus Wissenschaft und Politik frühzeitig und kontinuierlich eingebunden.
 Teil des Konzepts ist auch eine Machbarkeitsstudie und ein Vorschlag für eine Organisationsstruktur.
