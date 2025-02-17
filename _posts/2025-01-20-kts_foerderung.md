@@ -24,5 +24,5 @@ Das Projekt “Research Software Engineering Master” zielt wiederum darauf ab,
 Es soll ein Referenz-Curriculum erstellt, in bestehenden Studiengängen erprobt und langfristig zur Etablierung offizieller RSE-Abschlüsse genutzt werden.
 Das Projekt wird u.a. in enger Kooperation mit dem gemeinsamen Arbeitskreis “Teaching RSE” von de-RSE und GI durchgeführt.
 
-Wir freuen uns auf die Zusammenarbeit mir allen Beteiligten.
+Wir freuen uns auf die Zusammenarbeit mit allen Beteiligten.
 
