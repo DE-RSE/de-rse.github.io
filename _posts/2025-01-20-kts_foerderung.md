@@ -1,7 +1,7 @@
 ---
 title: "Klaus Tschira Stiftung fördert de-RSE im Projekt FutuRSI"
 layout: post
-author: "Florian Mannseicher, Michael Meinel, Jan Linxweiler"
+author: "Michael Meinel, Jan Linxweiler"
 menulang: de
 ---
 
