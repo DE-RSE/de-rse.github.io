@@ -20,3 +20,4 @@ page:
   extension: md
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
