@@ -602,11 +602,10 @@ var rseFeatures = [
     {
         "type": "Feature",
         "properties": {
-            "name": "Edwin Carreño",
-            "popupContent": "<img src='../assets/img/map/EdwinCarreno_SSC'><a href='https://github.com/ecarrenolozano'> Edwin Carreño<br>" +
-              "Research Software Engineer<br>" +
-              "<a href='https://www.ssc.uni-heidelberg.de/en'>Scientific Software Center (Universität Heidelberg)</a><br>" +
-              "<br><br><em>Current research focus: Biological Networks, Software Engineering</em>"
+            "name": "Scientific Software Center, IWR, Heidelberg University)",
+            "popupContent": "<img src='../assets/img/map/SSC-logo_70px.png'><a href='https://www.ssc.uni-heidelberg.de/en'> SSC Website<br>" +
+              "<a href='https://github.com/ssciwr'>SSC GitHub Repository</a><br>" +
+              "<br><br><em>The Scientific Software Center strives to improve scientific software development to ensure reproducible science and software sustainability. The SSC also acts as a link between the different scientific disciplines, enabling collaboration and interdisciplinary research</em>"
         },
         "geometry": {
             "type": "Point",
