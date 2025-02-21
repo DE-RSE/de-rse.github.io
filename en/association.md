@@ -38,4 +38,4 @@ The form to become a member of the association can be downloaded <a href="{{ '/a
 
 ## Protocols
 
-Protocols of board and other meetings are available online, as much as possible complete, within the[protokol repository](https://github.com/DE-RSE/protokolle).
+Protocols of board and other meetings are available online, as much as possible complete, within the [protokol repository](https://github.com/DE-RSE/protokolle).
