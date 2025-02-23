@@ -44,7 +44,7 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 
 ### **Position 003** - GI- und de-RSE Muster-Leitlinie zur Effizienten Entwicklung von Forschungssoftware
 
-| **Abstract:** Diese Muster-Leitlinie bietet einen Rahmen für die Entwicklung, Verwaltung und Weitergabe von Software an der jeweils nutzenden Universität, Hochschule oder dem Forschungszentrum. Sie eignet sich auch für standortübergreifende Verbundforschungsvorhaben, insbesondere wenn die Projektbeteiligten der verschiedenen Universitäten, Hochschulen und Forschungszentren kompatible Fassungen nutzen. 
+| ![First page of the position 003 PDF.]({{ "/assets/img/positions/position-003-cover.png" | prepend: site.baseurl }}) **Abstract:** Diese Muster-Leitlinie bietet einen Rahmen für die Entwicklung, Verwaltung und Weitergabe von Software an der jeweils nutzenden Universität, Hochschule oder dem Forschungszentrum. Sie eignet sich auch für standortübergreifende Verbundforschungsvorhaben, insbesondere wenn die Projektbeteiligten der verschiedenen Universitäten, Hochschulen und Forschungszentren kompatible Fassungen nutzen. 
 
 - **Autors:** Andreas Czerniak, Adrian Ehrenhofer, Bernadette Fritzsch, Maximilian Funk, Florian Goth, Reiner Hähnle, Carina Haupt, Marco Konersmann, Jan Linxweiler, Frank Löffler, Alexander Lüpges, Sebastian Nielebock, Bernhard Rumpe, Ina Schieferdecker, Tobias Schlauch, Robert Speck, Alexander Struck, Jan Philipp Thiele, Matthias Tichy, Inga Ulusoy, Scientific Software Center
 
