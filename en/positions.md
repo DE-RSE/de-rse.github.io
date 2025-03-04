@@ -57,7 +57,7 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 The following positions are currently developed.
 
 [//]: (none)
-- [Phase 1] [Establishing RSE departments in German research institutions](https://github.com/DE-RSE/2023_paper-RSE-groups)
+- [Phase 2] [Establishing RSE departments in German research institutions](https://github.com/DE-RSE/2023_paper-RSE-groups)
 
 ## Development process
 
