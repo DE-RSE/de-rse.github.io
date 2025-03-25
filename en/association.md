@@ -8,6 +8,10 @@ weight: 60
 
 # Association
 
+- official name according to statute: „de-RSE e.V.“
+- name to use for external communication: „de-RSE e.V. - Gesellschaft für Forschungssoftware“ or “de-RSE e.V. - Association for Research Software in Germany”
+- [ROR](https://ror.org/): [007qpef44](https://ror.org/007qpef44)
+
 ## Contact
 
 vorstand@de-rse.org
