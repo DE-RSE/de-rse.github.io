@@ -57,7 +57,7 @@ Vertreten Mitglieder von de-RSE e.V. berechtigterweise die Gesellschaft in der Ã
 Folgende Positionen sind derzeit in Arbeit.
 
 [//]: (none)
-- [Phase 2] [Establishing RSE departments in German research institutions](https://github.com/DE-RSE/2023_paper-RSE-groups)
+- [Phase 2] [Establishing RSE departments in German research institutions](https://github.com/DE-RSE/2023_paper-RSE-groups): [review ticket](https://github.com/DE-RSE/projekte/issues/20)
 
 ## Entwicklungsprozess
 
