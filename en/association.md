@@ -8,6 +8,10 @@ weight: 60
 
 # Association
 
+- official name according to statute: „de-RSE e.V.“
+- name to use for external communication: „de-RSE e.V. - Gesellschaft für Forschungssoftware“ or “de-RSE e.V. - Society for Research Software in Germany”
+- [ROR](https://ror.org/): [007qpef44](https://ror.org/007qpef44)
+
 ## Contact
 
 vorstand@de-rse.org
@@ -38,4 +42,4 @@ The form to become a member of the association can be downloaded <a href="{{ '/a
 
 ## Protocols
 
-Protocols of board and other meetings are available online, as much as possible complete, within the[protokol repository](https://github.com/DE-RSE/protokolle).
+Protocols of board and other meetings are available online, as much as possible complete, within the [protokol repository](https://github.com/DE-RSE/protokolle).

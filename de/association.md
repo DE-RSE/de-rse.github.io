@@ -8,6 +8,10 @@ weight: 60
 
 # Verein
 
+- offizieller Name laut Satzung: „de-RSE e.V.“
+- Namensbezeichnung in Außenkommunikation: „de-RSE e.V. - Gesellschaft für Forschungssoftware“
+- [ROR](https://ror.org/): [007qpef44](https://ror.org/007qpef44)
+
 ## Kontakt
 
 vorstand@de-rse.org

@@ -40,32 +40,21 @@ A working group:
 ### Society Infrastructure
 
 Lead
-: Philipp Schäfer
-
-Spokesperson
-: Philipp Schäfer
+: Philipp Matthias Schäfer
 
 Lifetime
 : TBA
 
 Goal
+: TBA
+
+Participate
 : TBA
 
 ### International Council
 
 Lead
-: Philipp Schäfer
-
-Spokesperson
 : Frank Loeffler
-
-### Position Paper "RSE Groups"
-
-Lead
-: Philipp Schäfer
-
-Spokesperson
-: Dr. Dominic Kempf
 
 Lifetime
 : TBA
@@ -73,12 +62,26 @@ Lifetime
 Goal
 : TBA
 
+Participate
+: TBA
+
+### Position Paper "RSE Groups"
+
+Lead
+: Dominic Kempf
+
+Lifetime
+: TBA
+
+Goal
+: TBA
+
+Participate
+: TBA
+
 ### NFDI
 
 Lead
-: Philipp Schäfer
-
-Spokesperson
 : Florian Thiery
 
 Lifetime
@@ -87,12 +90,12 @@ Lifetime
 Goal
 : TBA
 
+Participate
+: TBA
+
 ### de-RSE25
 
 Lead
-: Stephan Janosch
-
-Spokesperson
 : Stephan Janosch
 
 Lifetime
@@ -100,19 +103,36 @@ Lifetime
 
 Goal
 : TBA
+
+Participate
+: TBA
+
+### Teaching RSE (with GI)
+
+Lead
+: Florian Goth
+
+Lifetime
+: TBA
+
+Goal
+: The next major aim of this working group is to develop and publish a set of guidelines for the best development of young and practising RSEs.
+
+Participate
+: [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
 
 ### RSE Software Development Guideline (with GI)
 
 Lead
 : Bernhard Rumpe
 
-Spokesperson
-: Bernhard Rumpe
-
 Lifetime
 : TBA
 
 Goal
+: TBA
+
+Participate
 : TBA
 
 ### Categories of Research Software (with GI)
@@ -120,35 +140,18 @@ Goal
 Lead
 : Wilhelm (Willi) Hasselbring
 
-Spokesperson
-: Wilhelm (Willi) Hasselbring
-
 Lifetime
 : TBA
 
 Goal
 : TBA
 
-### Online Community (with GI)
-
-Lead
-: Claire Wyatt
-
-Spokesperson
-: Claire Wyatt
-
-Lifetime
-: TBA
-
-Goal
+Participate
 : TBA
 
 ### Event Coordination (with GI)
 
 Lead
-: Stephan Jansoch
-
-Spokesperson
 : Stephan Janosch
 
 Lifetime
@@ -156,6 +159,23 @@ Lifetime
 
 Goal
 : TBA
+
+Participate
+: TBA
+
+### AI4RSE (with GI)
+
+Lead
+: Lukas Netz
+
+Lifetime
+: TBA
+
+Goal
+: The goal of the working group is to assess the current uses and challenges of AI in the context of RSE. This is done in three steps, starting with a survey within the scientific community to gain a broad overview of relevant focal points. The next step involves using the survey results to organize a workshop where key topics can be discussed in detail, and potential solutions and research topics can be developed. Finally, the insights and experiences from the first two steps will be summarized in a report or white paper and made available to the community.
+
+Participate
+: Get in contact with Lukas Netz or Bernadette Fritzsch
 
 ## Terminated and Inactive Working Groups
 
@@ -166,11 +186,25 @@ This list contains all working groups that were terminated (e.g., upon reaching 
 Lead
 : Florian Goth
 
-Spokesperson
-: Florian Goth
+Lifetime
+: TBA
+
+Goal
+: TBA
+
+Participate
+: TBA
+
+### Online Community (with GI)
+
+Lead
+: Claire Wyatt
 
 Lifetime
 : TBA
 
 Goal
+: TBA
+
+Participate
 : TBA

@@ -598,5 +598,29 @@ var rseFeatures = [
         "geometry": {
             "type": "Point", "coordinates": [8.652338, 50.093509]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Scientific Software Center, IWR, Heidelberg University)",
+            "popupContent": "<img src='../assets/img/map/SSC-logo_70px.png'><a href='https://www.ssc.uni-heidelberg.de/en'> SSC Website<br>" +
+              "<a href='https://github.com/ssciwr'>SSC GitHub Repository</a><br>" +
+              "<br><br><em>The Scientific Software Center strives to improve scientific software development to ensure reproducible science and software sustainability. The SSC also acts as a link between the different scientific disciplines, enabling collaboration and interdisciplinary research</em>"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.67565, 49.41749]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Magnus Hagdorn",
+            "popupContent": "<img src='../assets/img/map/mhagdorn'><a href='https://magi.marsupium.org/category/work.html'>Magnus Hagdorn</a>, Charité Universitätsmedizin Berlin, GB IT, Scientific Computing<br>I am a computational geophysicist who used to work on ice sheet models, in oil and gas and satellite data processing. I am now in the Scientific Computing team at the Charité looking after the HPC, supporting users and teaching digital skills to scientists."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.385835011516281, 52.53110586220917]
+        }
     }
 ];
