@@ -12,7 +12,7 @@ Die Organisator\*innen von deRSE19 setzen sich ein für eine inklusive, kollabor
 von Geschlecht, Geschlechtsidentität oder -ausdruck, Alter, sexueller Orientierung, körperlicher oder anderer Beeinträchtigung, Erscheinungsbild,
 Körpergröße, Herkunft, Hautfarbe, Religionszu- oder -nichtzugehörigkeit, technologischen Vorlieben und anderem Gruppenstatus.
 
-Um zu verdeutlichen, was wir erwarten: **alle Teilnehmenden der deRSE19** - inklusive Vortragenden, Organisator\*innen, Helfer\*innen und Besucher*innen - **sind verpflichtet, sich an den [Berlin Code of Conduct](http://berlincodeofconduct.org/de/) zu halten**. Dies gilt für die Konferenz sowie alle zugehörigen Events, inklsuive sozialer Veranstaltungen und informeller Treffen außerhalb des Veranstaltungsorts.
+Um zu verdeutlichen, was wir erwarten: **alle Teilnehmenden der deRSE19** - inklusive Vortragenden, Organisator\*innen, Helfer\*innen und Besucher\*innen - **sind verpflichtet, sich an den [Berlin Code of Conduct](http://berlincodeofconduct.org/de/) zu halten**. Dies gilt für die Konferenz sowie alle zugehörigen Events, inklsuive sozialer Veranstaltungen und informeller Treffen außerhalb des Veranstaltungsorts.
 
 Der komplette Text des Code of Conduct ist einzusehen unter <http://berlincodeofconduct.org/de/>.
 
@@ -55,7 +55,7 @@ Interessenlagen ausgewählt.
 sowie Interesse eines Vortrags für die anwesende Gemeinschaft werden bei der 
 Vergabe von damit verbundenen Reisestipendien auch Diversitätsaspekte 
 berücksichtigt, wie demographischer, institutioneller und geographischer
-Hintergrund der Bewerber*innen, ihre Erfahrungsstufe sowie ihre 
+Hintergrund der Bewerber\*innen, ihre Erfahrungsstufe sowie ihre 
 Finanzierungssituation.
 * **Evaluation und Verlaufsbeobachtung** – Wir werden Feedback zur 
 Konferenzatmosphäre, sowie zu Gleichstellungsaspekten, Inklusion, Integrität und 

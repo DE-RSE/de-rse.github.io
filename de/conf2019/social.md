@@ -7,7 +7,7 @@ parent: info
 
 # Rahmenprogramm und Netzwerkmöglichkeiten
 
-Nicht nur das offizielle deRSE19 Tagesprogramm, sondern auch das Rahmenprogramm bieten die Möglichkeit gemeinsame Erfahrungen zu sammeln und mit anderen Konferenzteilnehmer*innen zu netzwerken. Kommt zu unserem Get-together am Vortag der Konferenz, nehmt an dem deRSE Lauf teil und schließt Euch der Führung über den Telegrafenberg an. 
+Nicht nur das offizielle deRSE19 Tagesprogramm, sondern auch das Rahmenprogramm bieten die Möglichkeit gemeinsame Erfahrungen zu sammeln und mit anderen Konferenzteilnehmer\*innen zu netzwerken. Kommt zu unserem Get-together am Vortag der Konferenz, nehmt an dem deRSE Lauf teil und schließt Euch der Führung über den Telegrafenberg an. 
 
 ## Get-together
 Es wird ein informelles Get-together (Selbstzahlerbasis) am Vortrag zur Einstimmung auf die deRSE geben. 
