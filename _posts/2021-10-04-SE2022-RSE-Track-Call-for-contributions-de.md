@@ -58,7 +58,7 @@ Erfahrungsgemäß ist eine Länge von 90 bis 180 Minuten gut geeignet für Wor
 Vorträge haben eine Länge von 15-30 Minuten, inkl. Zeit für Fragen und Diskussion, abhängig davon wieviele Vorträge in einer Session zusammengefasst werden. Wenn dein Vortrag angenommen wird, wird dir die Länge vom Session Chair mitgeteilt.
 
 ### Poster
-Poster präsentieren jeweils eine Idee, ein Projekt, eine Kollaboration, etc. Poster müssen hochformatig sein und dürfen eine Größe von A0 (Höhe: max. 1189mm; Breite: max. 841mm) nicht überschreiten und müssen digital als PDF vorliegen. Bitte bereite dich darauf vor, dein Poster in einem sehr kurzen “Lightning Talk” vorzustellen. Dies wird Konferenzteilnehmer*innen helfen, die Poster und Personen zu identifizieren, die sie während der (virtuellen) Postersession besuchen möchten.
+Poster präsentieren jeweils eine Idee, ein Projekt, eine Kollaboration, etc. Poster müssen hochformatig sein und dürfen eine Größe von A0 (Höhe: max. 1189mm; Breite: max. 841mm) nicht überschreiten und müssen digital als PDF vorliegen. Bitte bereite dich darauf vor, dein Poster in einem sehr kurzen “Lightning Talk” vorzustellen. Dies wird Konferenzteilnehmer\*innen helfen, die Poster und Personen zu identifizieren, die sie während der (virtuellen) Postersession besuchen möchten.
 
 ## relevante Links
 [rSE22 Themenbasar](https://pad.gwdg.de/B74SJsvmQbKRMkPAuLuQyA) | [rSE22 Einreichungsformular](https://easychair.org/conferences/?conf=se2022)

@@ -8,7 +8,7 @@ parent: info
 
 # deRSE19 - Call for Contributions
 
-Nach drei erfolgreichen [internationalen *Conferences of Research Software Engineers* in Großbritannien](https://society-rse.org/events/) wird vom 4. bis 6. Juni 2019 **deRSE19**, die erste Konferenz für Forschungssoftware und Forschungssoftwareentwickler*innen in Deutschland, im Albert Einstein Wissenschaftspark in Potsdam stattfinden.
+Nach drei erfolgreichen [internationalen *Conferences of Research Software Engineers* in Großbritannien](https://society-rse.org/events/) wird vom 4. bis 6. Juni 2019 **deRSE19**, die erste Konferenz für Forschungssoftware und Forschungssoftwareentwickler\*innen in Deutschland, im Albert Einstein Wissenschaftspark in Potsdam stattfinden.
 
 Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge und Poster zur Konferenz, als auch für Splinter Meetings und informelle "Birds-of-a-Feather (BoF)" Diskussionstreffen. Ziel der Konferenz ist die Abbildung der facettenreichen Gemeinschaft der Research Software Engineers durch Beteiligung aller Erfahrungsstufen und über die verschiedenen Fachrichtungen, Standorte, Geschlechter und Herkünfte hinweg.
 
@@ -33,8 +33,8 @@ eine Einreichung freuen!
 Wir begrüßen Einreichungen von all jenen, die einen interessanten Beitrag zu Forschungssoftware haben. Dazu gehören unter anderem:
 
 - Forschende aller Karrierestufen, die Software zu Forschungszwecken entwickeln
-- Softwareentwickler*innen die in Forschungskontexten arbeiten, unabhängig ihrer Stellenbezeichnung und Disziplin
-- Förderer und Entscheider*innen, die mit Fördermitteln und anderen Werkzeugen den Weg ebnen für nachhaltige Forschungssoftware
+- Softwareentwickler\*innen die in Forschungskontexten arbeiten, unabhängig ihrer Stellenbezeichnung und Disziplin
+- Förderer und Entscheider\*innen, die mit Fördermitteln und anderen Werkzeugen den Weg ebnen für nachhaltige Forschungssoftware
 - Personen, die an der Verbesserung unseres Verständnisses interessiert sind, wie Forschungssoftware bestmöglich entwickelt und gewartet werden kann, z.B. im Bezug auf Offenheit, Reproduzierbarkeit, Nachhaltigkeit oder Skalierbarkeit und Performanz
 - Personen aus Organisationen, die Tools, Plattformen oder Services bereit stellen, die Forschungssoftware unterstützen, z.B. aus Anbieter von IT-Infrastrukturen, Daten- und Rechenzentren
 
@@ -90,7 +90,7 @@ Poster präsentieren jeweils eine Idee, ein Projekt, eine Kollaboration, etc.
 Poster müssen hochformatig sein und dürfen eine Größe von A0 (Höhe: max. 1189mm; Breite: max. 841mm)
 nicht überschreiten.
 Bitte bereite Dich darauf vor, Dein Poster in einem sehr kurzen "Lightning Talk" kurz vorzustellen.
-Dies wird Konferenzteilnehmer*innen helfen, die Poster und Personen zu identifizieren, die sie während der Postersession besuchen möchten.
+Dies wird Konferenzteilnehmer\*innen helfen, die Poster und Personen zu identifizieren, die sie während der Postersession besuchen möchten.
 
 ---
 

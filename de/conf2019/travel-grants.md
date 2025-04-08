@@ -46,7 +46,7 @@ Die Stipendien werden gestiftet von der [UK Research Software Engineers Associat
 
 ### Bewerbung
 
-Voraussetzung für die Bewerbung um ein UKRSE-Stipendium ist, dass Bewerber*innen
+Voraussetzung für die Bewerbung um ein UKRSE-Stipendium ist, dass Bewerber\*innen
 im Vereinigten Königreich ansässig sind und einen Beitrag zur Konferenz 
 eingereicht haben, der angenommen wurde.
 
@@ -69,7 +69,7 @@ vergebenden Stipendien entscheidet das Los (der Rechtsweg ist ausgeschlossen).
 Die Deadline für die Bewerbung um ein UKRSE-Stipendium ist verlängert bis **30. April 2019**. Sollten darüber hinaus Stipendien verfügbar bleiben
 werden weitere Bewerbungen akzeptiert.
 
-Stipendiat*innen gehen weitere Details bei Annahme zu.
+Stipendiat\*innen gehen weitere Details bei Annahme zu.
 
 
 ## Weitere Reisestipendien
