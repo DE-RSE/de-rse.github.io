@@ -115,6 +115,17 @@ Ziel
 Mitmachen
 : [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
 
+### de-RSE state of the nation
+
+Arbeitskreisleitung
+: Claire Wyatt
+
+Ziel
+: Veröffentlichung eines State of the Nation Berichts über RSE-Aktivitäten in Deutschland.
+
+Mitmachen
+: Kontaktiere Claire Wyatt
+
 ### RSE Software Development Guideline (mit GI)
 
 Arbeitskreisleitung

@@ -121,6 +121,17 @@ Goal
 Participate
 : [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
 
+### de-RSE state of the nation
+
+Lead
+: Claire Wyatt
+
+Goal
+: Publishing a state of the nation report for RSE activities in Germany.
+
+Participate
+: Get in contact with Claire
+
 ### RSE Software Development Guideline (with GI)
 
 Lead
