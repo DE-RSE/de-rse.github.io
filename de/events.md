@@ -16,6 +16,13 @@ Falls eine Veranstaltung fehlt, [kontaktiere](join.html) uns bitte.
 
 Die **deRSE**-Konferenzen sind internationale Konferenzen in der deutschen RSE-Community von und für Research Software Engineers.
 
+## 2026
+
+| Veranstaltung | Datum | Ort | URL | Bemerkung |
+| --- | --- | --- | --- | --- |
+{% include events/2026.md %}
+{: .table .table-hover}
+
 ## 2025
 
 | Veranstaltung | Datum | Ort | URL | Bemerkung |
