@@ -31,186 +31,47 @@ Ein Arbeitskreis:
 
 Derzeit gibt es die folgenden aktiven Arbeitskreise des de-RSE e.V.
 
-### Vereinsinfrasturktur
+### Vereinsinfrasturktur (Leitung: Philipp Matthias Schäfer)
 
-Arbeitskreisleitung
-: Philipp Matthias Schäfer
+### International Council (Leitung: Frank Loeffler)
 
-Laufzeit
-: fehlt noch
+### Positionspapier "RSE Groups" (Leitung: Dominic Kempf)
 
-Ziel
-: fehlt noch
+### NFDI (Leitung Florian Thiery)
 
-Mitmachen
-: fehlt noch
+### de-RSE25 (Leitung: Stephan Janosch)
 
-### International Council
+### Teaching RSE (mit GI) (Leitung: Florian Goth)
 
-Arbeitskreisleitung
-: Frank Loeffler
+> Das nächste große Ziel dieser Arbeitsgruppe ist es, einen Leitfaden für die bestmögliche Entwicklung frischer und praktizierender RSEs zu erstellen und zu veröffentlichen.
 
-Laufzeit
-: fehlt noch
+**Mitmachen:** [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
 
-Ziel
-: fehlt noch
+### de-RSE state of the nation (Leitung: Claire Wyatt)
 
-Mitmachen
-: fehlt noch
+> Veröffentlichung eines State of the Nation Berichts über RSE-Aktivitäten in Deutschland.
 
-### Positionspapier "RSE Groups"
+**Mitmachen:** Kontaktiere Claire Wyatt
 
-Arbeitskreisleitung
-: Dominic Kempf
+### RSE Software Development Guideline (Leitung: Bernhard Rumpe)
 
-Laufzeit
-: fehlt noch
+### Kategorien von Forschungssoftware (Leitung: Wilhelm (Willi) Hasselbring)
 
-Ziel
-: fehlt noch
+### Event Coordination (Leitung: Stephan Janosch)
 
-Mitmachen
-: fehlt noch
+### AI4RSE (Leitung: Lukas Netz)
 
-### NFDI
+> Ziel des Arbeitskreises ist die Erfassung der Aktuellen Nutzungen und Herausforderungen von KI im Kontext des RSE. Dies erfolgt in drei Schritten, beginnend mit einer Umfrage in der Wissenschaftscommunity, um einen groben Überblick über Relevante Schwerpunkte zu erhalten. Als nächsten Schritt werden die Ergebnisse dieser Umfrage genutzt, um einen Workshop zu organisieren, in dem ausführlich relevante Thematiken diskutiert und mögliche Lösungsansätze und Forschungsthemen erarbeitet werden können. Abschließend werden die Ergebnisse und Erfahrungen aus den beiden vorherigen schritten in einem Bericht oder Whitepaper zusammengefasst und der Community so zur Verfügung gestellt.
 
-Arbeitskreisleitung
-: Florian Thiery
+**Mitmachen:** Kontaktiere Lukas Netz oder Bernadette Fritzsch um in den Arbeitskreis mit aufgenommen zu werden.
 
-Laufzeit
-: fehlt noch
-
-Ziel
-: fehlt noch
-
-Mitmachen
-: fehlt noch
-
-### de-RSE25
-
-Arbeitskreisleitung
-: Stephan Janosch
-
-Laufzeit
-: fehlt noch
-
-Ziel
-: fehlt noch
-
-Mitmachen
-: fehlt noch
-
-### Teaching RSE (mit GI)
-
-Arbeitskreisleitung
-: Florian Goth
-
-Laufzeit
-: fehlt noch
-
-Ziel
-: Das nächste große Ziel dieser Arbeitsgruppe ist es, einen Leitfaden für die bestmögliche Entwicklung frischer und praktizierender RSEs zu erstellen und zu veröffentlichen.
-
-Mitmachen
-: [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
-
-### de-RSE state of the nation
-
-Arbeitskreisleitung
-: Claire Wyatt
-
-Ziel
-: Veröffentlichung eines State of the Nation Berichts über RSE-Aktivitäten in Deutschland.
-
-Mitmachen
-: Kontaktiere Claire Wyatt
-
-### RSE Software Development Guideline (mit GI)
-
-Arbeitskreisleitung
-: Bernhard Rumpe
-
-Laufzeit
-: fehlt noch
-
-Ziel
-: fehlt noch
-
-Mitmachen
-: fehlt noch
-
-### Kategorien von Forschungssoftware (mit GI)
-
-Arbeitskreisleitung
-: Wilhelm (Willi) Hasselbring
-
-Laufzeit
-: fehlt noch
-
-Ziel
-: fehlt noch
-
-Mitmachen
-: fehlt noch
-
-### Event Coordination (mit GI)
-
-Arbeitskreisleitung
-: Stephan Janosch
-
-Laufzeit
-: fehlt noch
-
-Ziel
-: fehlt noch
-
-Mitmachen
-: fehlt noch
-
-### AI4RSE (with GI)
-
-Lead
-: Lukas Netz
-
-Lifetime
-: fehlt noch
-
-Goal
-: Ziel des Arbeitskreises ist die Erfassung der Aktuellen Nutzungen und Herausforderungen von KI im Kontext des RSE. Dies erfolgt in drei Schritten, beginnend mit einer Umfrage in der Wissenschaftscommunity, um einen groben Überblick über Relevante Schwerpunkte zu erhalten. Als nächsten Schritt werden die Ergebnisse dieser Umfrage genutzt, um einen Workshop zu organisieren, in dem ausführlich relevante Thematiken diskutiert und mögliche Lösungsansätze und Forschungsthemen erarbeitet werden können. Abschließend werden die Ergebnisse und Erfahrungen aus den beiden vorherigen schritten in einem Bericht oder Whitepaper zusammengefasst und der Community so zur Verfügung gestellt.
-
-Participate
-: Kontaktiere Lukas Netz oder Bernadette Fritzsch um in den Arbeitskreis mit aufgenommen zu werden.
 
 
 ## Ehemalige und inaktive Arbeitskreise
 
 Die folgenden Arbeitskreise haben ihre Aufgaben abgeschlossen oder sind aktuell nicht aktiv.
 
-### de-RSE24
+### de-RSE24 | Leitung: Florian Goth
 
-Arbeitskreisleitung
-: Florian Goth
+### Online Community (mit GI) | Leitung: Claire Wyatt
 
-Laufzeit
-: fehlt noch
-
-Ziel
-: fehlt noch
-
-Mitmachen
-: fehlt noch
-
-### Online Community (mit GI)
-
-Arbeitskreisleitung
-: Claire Wyatt
-
-Laufzeit
-: fehlt noch
-
-Ziel
-: fehlt noch
-
-Mitmachen
-: fehlt noch

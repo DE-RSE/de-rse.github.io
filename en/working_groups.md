@@ -37,185 +37,44 @@ A working group:
 
 ## Active Working Groups
 
-### Society Infrastructure
+### Society Infrastructure (Lead: Philipp Matthias Schäfer)
 
-Lead
-: Philipp Matthias Schäfer
+### International Council (Lead: Frank Loeffler)
 
-Lifetime
-: TBA
+### Position Paper "RSE Groups" (Lead: Dominic Kempf)
 
-Goal
-: TBA
+### NFDI (Lead: Florian Thiery)
 
-Participate
-: TBA
+### de-RSE25 (Lead: Stephan Janosch)
 
-### International Council
+### Teaching RSE (Lead: Florian Goth)
 
-Lead
-: Frank Loeffler
+> The next major aim of this working group is to develop and publish a set of guidelines for the best development of young and practising RSEs.
 
-Lifetime
-: TBA
+**Participate:** [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
 
-Goal
-: TBA
+### de-RSE state of the nation (Lead: Claire Wyatt)
 
-Participate
-: TBA
+> Publishing a state of the nation report for RSE activities in Germany.
 
-### Position Paper "RSE Groups"
+**Participate:** Get in contact with Claire
 
-Lead
-: Dominic Kempf
+### RSE Software Development Guideline (Lead: Bernhard Rumpe)
 
-Lifetime
-: TBA
+### Categories of Research Software (Lead: Wilhelm (Willi) Hasselbring)
 
-Goal
-: TBA
+### Event Coordination (Lead: Stephan Janosch)
 
-Participate
-: TBA
+### AI4RSE (Lead: Lukas Netz)
 
-### NFDI
+> The goal of the working group is to assess the current uses and challenges of AI in the context of RSE. This is done in three steps, starting with a survey within the scientific community to gain a broad overview of relevant focal points. The next step involves using the survey results to organize a workshop where key topics can be discussed in detail, and potential solutions and research topics can be developed. Finally, the insights and experiences from the first two steps will be summarized in a report or white paper and made available to the community.
 
-Lead
-: Florian Thiery
-
-Lifetime
-: TBA
-
-Goal
-: TBA
-
-Participate
-: TBA
-
-### de-RSE25
-
-Lead
-: Stephan Janosch
-
-Lifetime
-: TBA
-
-Goal
-: TBA
-
-Participate
-: TBA
-
-### Teaching RSE (with GI)
-
-Lead
-: Florian Goth
-
-Lifetime
-: TBA
-
-Goal
-: The next major aim of this working group is to develop and publish a set of guidelines for the best development of young and practising RSEs.
-
-Participate
-: [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
-
-### de-RSE state of the nation
-
-Lead
-: Claire Wyatt
-
-Goal
-: Publishing a state of the nation report for RSE activities in Germany.
-
-Participate
-: Get in contact with Claire
-
-### RSE Software Development Guideline (with GI)
-
-Lead
-: Bernhard Rumpe
-
-Lifetime
-: TBA
-
-Goal
-: TBA
-
-Participate
-: TBA
-
-### Categories of Research Software (with GI)
-
-Lead
-: Wilhelm (Willi) Hasselbring
-
-Lifetime
-: TBA
-
-Goal
-: TBA
-
-Participate
-: TBA
-
-### Event Coordination (with GI)
-
-Lead
-: Stephan Janosch
-
-Lifetime
-: TBA
-
-Goal
-: TBA
-
-Participate
-: TBA
-
-### AI4RSE (with GI)
-
-Lead
-: Lukas Netz
-
-Lifetime
-: TBA
-
-Goal
-: The goal of the working group is to assess the current uses and challenges of AI in the context of RSE. This is done in three steps, starting with a survey within the scientific community to gain a broad overview of relevant focal points. The next step involves using the survey results to organize a workshop where key topics can be discussed in detail, and potential solutions and research topics can be developed. Finally, the insights and experiences from the first two steps will be summarized in a report or white paper and made available to the community.
-
-Participate
-: Get in contact with Lukas Netz or Bernadette Fritzsch
+**Participate:** Get in contact with Lukas Netz or Bernadette Fritzsch
 
 ## Terminated and Inactive Working Groups
 
 This list contains all working groups that were terminated (e.g., upon reaching their goal) or are currently inactive.
 
-### de-RSE24
+### de-RSE24 (Lead: Florian Goth)
 
-Lead
-: Florian Goth
-
-Lifetime
-: TBA
-
-Goal
-: TBA
-
-Participate
-: TBA
-
-### Online Community (with GI)
-
-Lead
-: Claire Wyatt
-
-Lifetime
-: TBA
-
-Goal
-: TBA
-
-Participate
-: TBA
+### Online Community (Lead: Claire Wyatt)
