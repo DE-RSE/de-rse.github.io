@@ -39,42 +39,52 @@ A working group:
 
 ### Society Infrastructure <small>Lead: Philipp Matthias Schäfer</small>
 
+### Communication Strategy <small>Lead: [Claire Wyatt](https://www.fz-juelich.de/profile/wyatt_cl)</small>
+
 ### International Council <small>Lead: Frank Loeffler</small>
 
 ### Position Paper "RSE Groups" <small>Lead: Dominic Kempf</small>
 
 ### NFDI <small>Lead: Florian Thiery</small>
 
-### de-RSE25 <small>Lead: Stephan Janosch</small>
+### de-RSE25 <small>Lead:  [Stephan Janosch](https://www.mpi-cbg.de/de/research/scientific-cores-support/scientific-services/scientific-computing-facility/contact)</small>
 
-### Teaching RSE <small>Lead: Florian Goth</small>
+### de-RSE26 <small>Lead:  [Stephan Janosch](https://www.mpi-cbg.de/de/research/scientific-cores-support/scientific-services/scientific-computing-facility/contact)</small>
 
-> The next major aim of this working group is to develop and publish a set of guidelines for the best development of young and practising RSEs.
+### RSE Software Development Guideline <small>Lead: [Bernhard Rumpe](https://se-rwth.github.io/staff/Bernhard.Rumpe/)</small>
 
-**Participate:** [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
+### Categories of Research Software <small>Lead: [Wilhelm (Willi) Hasselbring](https://www.se.informatik.uni-kiel.de/en/team/prof.-dr.-wilhelm-willi-hasselbring)</small>
 
-### de-RSE state of the nation <small>Lead: Claire Wyatt</small>
+### Event Coordination <small>Lead:  [Stephan Janosch](https://www.mpi-cbg.de/de/research/scientific-cores-support/scientific-services/scientific-computing-facility/contact)</small>
+
+### RSE Advocacy Strategy <small>Lead: [Bernadette Fritzsch](https://www.awi.de/ueber-uns/organisation/mitarbeiter/detailseite/bernadette-fritzsch.html)</small>
+
+### de-RSE state of the nation <small>Lead: [Claire Wyatt](https://www.fz-juelich.de/profile/wyatt_cl)</small>
 
 > Publishing a state of the nation report for RSE activities in Germany.
 
 **Participate:** Get in contact with Claire
 
-### RSE Software Development Guideline <small>Lead: Bernhard Rumpe</small>
+### RSE Research <small>Lead: [Wilhelm (Willi) Hasselbring](https://www.se.informatik.uni-kiel.de/en/team/prof.-dr.-wilhelm-willi-hasselbring)</small>
 
-### Categories of Research Software <small>Lead: Wilhelm (Willi) Hasselbring</small>
+### Teaching RSE <small>Lead: [Florian Goth](https://www.physik.uni-wuerzburg.de/tp1/team/postdocs/dr-florian-goth/)</small>
 
-### Event Coordination <small>Lead: Stephan Janosch</small>
+> The next major aim of this working group is to develop and publish a set of guidelines for the best development of young and practising RSEs.
 
-### AI4RSE <small>Lead: Lukas Netz</small>
+**Participate:** [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
+
+
+
+### AI4RSE <small>Lead: [Lukas Netz](https://www.se-rwth.de/staff/Lukas.Netz/)</small>
 
 > The goal of the working group is to assess the current uses and challenges of AI in the context of RSE. This is done in three steps, starting with a survey within the scientific community to gain a broad overview of relevant focal points. The next step involves using the survey results to organize a workshop where key topics can be discussed in detail, and potential solutions and research topics can be developed. Finally, the insights and experiences from the first two steps will be summarized in a report or white paper and made available to the community.
 
-**Participate:** Get in contact with Lukas Netz or Bernadette Fritzsch
+**Participate:** Get in contact with [Lukas Netz](https://www.se-rwth.de/staff/Lukas.Netz/) or [Bernadette Fritzsch](https://www.awi.de/ueber-uns/organisation/mitarbeiter/detailseite/bernadette-fritzsch.html)
 
 ## Terminated and Inactive Working Groups
 
 This list contains all working groups that were terminated (e.g., upon reaching their goal) or are currently inactive.
 
-### de-RSE24 <small>Lead: Florian Goth</small>
+### de-RSE24 <small>Lead: [Florian Goth](https://www.physik.uni-wuerzburg.de/tp1/team/postdocs/dr-florian-goth/)</small>
 
-### Online Community <small>Lead: Claire Wyatt</small>
+### Online Community <small>Lead: [Claire Wyatt](https://www.fz-juelich.de/profile/wyatt_cl)</small>
