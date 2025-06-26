@@ -31,35 +31,35 @@ Ein Arbeitskreis:
 
 Derzeit gibt es die folgenden aktiven Arbeitskreise des de-RSE e.V.
 
-### Vereinsinfrasturktur (Leitung: Philipp Matthias Schäfer)
+### Vereinsinfrasturktur <small>Leitung: Philipp Matthias Schäfer</small>
 
-### International Council (Leitung: Frank Loeffler)
+### International Council <small>Leitung: Frank Loeffler</small>
 
-### Positionspapier "RSE Groups" (Leitung: Dominic Kempf)
+### Positionspapier "RSE Groups" <small>Leitung: Dominic Kempf</small>
 
-### NFDI (Leitung Florian Thiery)
+### NFDI <small>Leitung Florian Thiery</small>
 
-### de-RSE25 (Leitung: Stephan Janosch)
+### de-RSE25 <small>Leitung: Stephan Janosch</small>
 
-### Teaching RSE (mit GI) (Leitung: Florian Goth)
+### Teaching RSE <small>Leitung: Florian Goth</small>
 
 > Das nächste große Ziel dieser Arbeitsgruppe ist es, einen Leitfaden für die bestmögliche Entwicklung frischer und praktizierender RSEs zu erstellen und zu veröffentlichen.
 
 **Mitmachen:** [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
 
-### de-RSE state of the nation (Leitung: Claire Wyatt)
+### de-RSE state of the nation <small>Leitung: Claire Wyatt</small>
 
 > Veröffentlichung eines State of the Nation Berichts über RSE-Aktivitäten in Deutschland.
 
 **Mitmachen:** Kontaktiere Claire Wyatt
 
-### RSE Software Development Guideline (Leitung: Bernhard Rumpe)
+### RSE Software Development Guideline <small>Leitung: Bernhard Rumpe</small>
 
-### Kategorien von Forschungssoftware (Leitung: Wilhelm (Willi) Hasselbring)
+### Kategorien von Forschungssoftware <small>Leitung: Wilhelm (Willi) Hasselbring</small>
 
-### Event Coordination (Leitung: Stephan Janosch)
+### Event Coordination <small>Leitung: Stephan Janosch</small>
 
-### AI4RSE (Leitung: Lukas Netz)
+### AI4RSE <small>Leitung: Lukas Netz</small>
 
 > Ziel des Arbeitskreises ist die Erfassung der Aktuellen Nutzungen und Herausforderungen von KI im Kontext des RSE. Dies erfolgt in drei Schritten, beginnend mit einer Umfrage in der Wissenschaftscommunity, um einen groben Überblick über Relevante Schwerpunkte zu erhalten. Als nächsten Schritt werden die Ergebnisse dieser Umfrage genutzt, um einen Workshop zu organisieren, in dem ausführlich relevante Thematiken diskutiert und mögliche Lösungsansätze und Forschungsthemen erarbeitet werden können. Abschließend werden die Ergebnisse und Erfahrungen aus den beiden vorherigen schritten in einem Bericht oder Whitepaper zusammengefasst und der Community so zur Verfügung gestellt.
 
@@ -71,7 +71,7 @@ Derzeit gibt es die folgenden aktiven Arbeitskreise des de-RSE e.V.
 
 Die folgenden Arbeitskreise haben ihre Aufgaben abgeschlossen oder sind aktuell nicht aktiv.
 
-### de-RSE24 | Leitung: Florian Goth
+### de-RSE24 <small>Leitung: Florian Goth</small>
 
-### Online Community (mit GI) | Leitung: Claire Wyatt
+### Online Community <small>Leitung: Claire Wyatt</small>
 

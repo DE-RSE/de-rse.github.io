@@ -37,35 +37,35 @@ A working group:
 
 ## Active Working Groups
 
-### Society Infrastructure (Lead: Philipp Matthias Schäfer)
+### Society Infrastructure <small>Lead: Philipp Matthias Schäfer</small>
 
-### International Council (Lead: Frank Loeffler)
+### International Council <small>Lead: Frank Loeffler</small>
 
-### Position Paper "RSE Groups" (Lead: Dominic Kempf)
+### Position Paper "RSE Groups" <small>Lead: Dominic Kempf</small>
 
-### NFDI (Lead: Florian Thiery)
+### NFDI <small>Lead: Florian Thiery</small>
 
-### de-RSE25 (Lead: Stephan Janosch)
+### de-RSE25 <small>Lead: Stephan Janosch</small>
 
-### Teaching RSE (Lead: Florian Goth)
+### Teaching RSE <small>Lead: Florian Goth</small>
 
 > The next major aim of this working group is to develop and publish a set of guidelines for the best development of young and practising RSEs.
 
 **Participate:** [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
 
-### de-RSE state of the nation (Lead: Claire Wyatt)
+### de-RSE state of the nation <small>Lead: Claire Wyatt</small>
 
 > Publishing a state of the nation report for RSE activities in Germany.
 
 **Participate:** Get in contact with Claire
 
-### RSE Software Development Guideline (Lead: Bernhard Rumpe)
+### RSE Software Development Guideline <small>Lead: Bernhard Rumpe</small>
 
-### Categories of Research Software (Lead: Wilhelm (Willi) Hasselbring)
+### Categories of Research Software <small>Lead: Wilhelm (Willi) Hasselbring</small>
 
-### Event Coordination (Lead: Stephan Janosch)
+### Event Coordination <small>Lead: Stephan Janosch</small>
 
-### AI4RSE (Lead: Lukas Netz)
+### AI4RSE <small>Lead: Lukas Netz</small>
 
 > The goal of the working group is to assess the current uses and challenges of AI in the context of RSE. This is done in three steps, starting with a survey within the scientific community to gain a broad overview of relevant focal points. The next step involves using the survey results to organize a workshop where key topics can be discussed in detail, and potential solutions and research topics can be developed. Finally, the insights and experiences from the first two steps will be summarized in a report or white paper and made available to the community.
 
@@ -75,6 +75,6 @@ A working group:
 
 This list contains all working groups that were terminated (e.g., upon reaching their goal) or are currently inactive.
 
-### de-RSE24 (Lead: Florian Goth)
+### de-RSE24 <small>Lead: Florian Goth</small>
 
-### Online Community (Lead: Claire Wyatt)
+### Online Community <small>Lead: Claire Wyatt</small>
