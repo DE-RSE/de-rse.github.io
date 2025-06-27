@@ -9,7 +9,7 @@ weight: 17
 Working groups within the association aim to help coordinate and advance work in projects.  
 To ensure an orderly process, there are defined procedures for creating and operating working groups. You can find more information about these processes at the end of this page.
 
-If you have an idea for a new working group and would like to establish one, send us an email at vorstand@de-rse.org and we’ll discuss the next steps with you. If you’d like to join an existing working group, you’ll find information below on how to get involved.
+If you have an idea for a new working group and would like to establish one, send us an email at [vorstand@de-rse.org](mailto:vorstand@de-rse.org) and we’ll discuss the next steps with you. If you’d like to join an existing working group, you’ll find information below on how to get involved.
 
 ## Active Working Groups
 
@@ -120,29 +120,6 @@ The following groups have completed their tasks or are currently inactive.
 > Efficient, continuous exchange is a prerequisite for productive collaboration. This group aimed to create a communication platform and build an active community around it.  
 > 
 > *This group successfully concluded with the introduction of Matrix chat.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Definition of a Working Group
 

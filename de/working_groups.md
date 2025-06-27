@@ -9,7 +9,7 @@ weight: 17
 Arbeitskreise innerhalb des Vereins sollen helfen, Arbeit in Projekten zu koordinieren und voranzutreiben.
 Um dies geordnet ablaufen zu lassen, gibt es definierte Prozesse, um Arbeitskreise zu erstellen und zu betreiben. Mehr Infos zu den Prozessen findest du am Ende dieser Seite.
 
-Wenn du eine Idee für einen neuen Arbeitskreis hast und ins Leben rufen möchtest, dann schicke uns eine E-Mail an vorstand@de-rse.org und wir besprechen mit dir alles weitere. Wenn du dich an einem bestehenden Arbeitskreis beteiligen möchtest, dann findest du im Folgenden die Infos wie du das machen kannst.
+Wenn du eine Idee für einen neuen Arbeitskreis hast und ins Leben rufen möchtest, dann schicke uns eine E-Mail an [vorstand@de-rse.org](mailto:vorstand@de-rse.org) und wir besprechen mit dir alles weitere. Wenn du dich an einem bestehenden Arbeitskreis beteiligen möchtest, dann findest du im Folgenden die Infos wie du das machen kannst.
 
 
 ## Aktive Arbeitskreise
