@@ -66,7 +66,7 @@ Wenn Teilnehmende ein Verhalten an den Tag legen, das gegen diesen Verhaltenskod
 
 ## Kommerzielles Handeln in den deRSE-Kommunikationskanälen
 
-Die Online-Community ist kein geeigneter Ort für Personalvermittler*innen, Marketingfachleute oder Vertriebsmitarbeiter*innen.
+Die Online-Community ist kein geeigneter Ort für Personalvermittler\*innen, Marketingfachleute oder Vertriebsmitarbeiter\*innen.
 *Es ist jedoch in Ordnung, Stellenanzeigen Deines eigenen Arbeitgebers oder von Projekten, an denen Du beteiligt bist und die für die Community relevant sind, in den dafür vorgesehenen Kanälen zu veröffentlichen.*
 
 Unsere Mitglieder haben diese Präferenz zum Ausdruck gebracht, und wir bitten, dies zu respektieren.
