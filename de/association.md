@@ -33,7 +33,7 @@ Es gibt aktuelle drei verschiedene Arten von Mitgliedschaften: **ordentliches Mi
 
 Eine ordentliche Mitgliedschaft ist in den meisten Fällen das geeignete Format. Als ordentliches Mitglied zahlt mein einen jährlichen Mitgliedsbeitrag, ist stimmberechtigt und bekommt die Vorteile regulärer Mitglieder (derzeit vergünstigste Mitgliedschaft bei der Gesellschaft für Informatik und zumeist vergünstigste Teilnahmegebühren auf de-RSE-bezogenen Events). Mit der Mitgliedschaft unterstützt du unseren Verein und kannst leichter im Verein mitreden. 
 
-Eine ordentliche Mitgliedschaft kostet aktuell **60€/Jahr**.<!--- Ist der eigene Arbeitgeber instutionelles Mitglied im Verein, so reduziert sich der Jahresbeitrag auf **45€/Jahr**.---> Für Studierende, Schüler, Arbeitslose, Umschüler, Rentner und Menschen mit Behinderung gilt ein reduzierter Beitrag von **30€/Jahr**. 
+Eine ordentliche Mitgliedschaft kostet aktuell **60€/Jahr**.<!--- Ist der eigene Arbeitgeber instutionelles Mitglied im Verein, so reduziert sich der Jahresbeitrag auf **45€/Jahr**.---> Für Studierende, Schüler, Arbeitslose, Umschüler, Rentner, Menschen mit Behinderung oder im Fall gleichzeitiger Mitgliedschaft bei der Gesellschaft für Informatik gilt ein reduzierter Beitrag von **30€/Jahr**. 
 
 Hier kannst Du das **<a href="{{ '/assets/pdf/association/de-RSE_Beitrittserklärung.pdf' | prepend: site.baseurl }}">Beitrittsformular</a>** herunterladen. Bitte fülle es aus und drucke es, unterschreibe und schicke es per Post an die auf der Erklärung angegebene Adresse.
  laut SatzSatz laut Satzungung
