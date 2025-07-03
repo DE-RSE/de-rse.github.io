@@ -9,6 +9,10 @@ weight: 20
 Ihr möchtet dabei sein, im Austausch mit anderen stehen und vielleicht 
 aktiv etwas beitragen? Dann registriert Euch!
 
+## Verein
+
+Tretet dem Verein bei und unterstützt uns dabei dem Thema RSE in Deutschland aber auch ganz allgemein in der Wissenschaft mehr Sichtbarkeit zu verleihen: **[Weitere Informationen zur Mitgliedschaft und Beitrittserklärung](/de/association#mitgliedschaft)** 
+
 ## Mailing Liste![Mailman logo](../assets/img/site/logo_mailman.jpg){: height="60em"}
 
 Erhaltet Informationen aus unserer Gemeinschaft und informiert selbst 
@@ -39,10 +43,6 @@ vorher das Material an einem anderen Ort hochladen und so zur Verfügung stellen
 
 Nutzt für Diskussionen bitte nicht die Mailing Liste, sondern die Chatkanäle.
 Eine Liste dieser Kanäle und Informationen für den Einstig in die Nutzung von Matrix haben wir auf einer [separaten Seite](matrix.html) zusammengestellt.
-
-#### (alter Chat: Rocketchat)
-
-Vor der Umstellung auf Matrix waren wir auf dem GWDG Rocketchat unterwegs: <https://chat.gwdg.de/channel/derse>.
 
 ## Stellenangebote
 
