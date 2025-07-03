@@ -9,6 +9,10 @@ weight: 20
 You want to be one of us, want to hear what we are up to and maybe
 contribute something yourself? Register here!
 
+## Association
+
+Join the association and support us in giving more visibility to the topic of RSE in Germany and in science in general: **[More information on membership and the application form](/en/association#membership)**
+
 ## Mailing list![Mailman logo](../assets/img/site/logo_mailman.jpg){: height="60em"}
 
 Receive notices about events, job postings, opportunities for collaboration

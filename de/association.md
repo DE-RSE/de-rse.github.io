@@ -11,7 +11,7 @@ weight: 60
 - **Kontakt:** [vorstand@de-rse.org](mailto:vorstand@de-rse.org)
 - **offizieller Name:** „de-RSE e.V.“
 - **Namensbezeichnung in Außenkommunikation:** „de-RSE e.V. - Gesellschaft für Forschungssoftware“
--  **Geschäftsordnung:** [download](https://github.com/DE-RSE/satzung/blob/master/de-RSE-e.V._Gesch%C3%A4ftsordnung_2018-11-26.pdf)
+-  **Geschäftsordnung:** [download](https://github.com/DE-RSE/satzung/raw/master/de-RSE-e.V._Gesch%C3%A4ftsordnung_2018-11-26.pdf)
 - **Satzung:** [download](https://github.com/DE-RSE/satzung/raw/master/de-RSE-e.V._Satzung_2019-01-07.pdf)
 - **[ROR](https://ror.org/):** [007qpef44](https://ror.org/007qpef44)
 
