@@ -38,26 +38,35 @@ Vertreten Mitglieder von de-RSE e.V. berechtigterweise die Gesellschaft in der �
 
 - **Community Reviews:** 25. Juli 2024 - 09. August 2024
 - **Akzeptiert als offizielle Position:** 19. September 2024
-- **Volltext:** (submitted); [[arXiv:2311.11457 \[cs.SE\]](https://doi.org/10.48550/arXiv.2311.11457)
-- **Zitieren:** Goth et al. Foundational Competencies and Responsibilities of a Research Software Engineer. arXiv: 2311.11457
+- **Volltext:** [F1000Research](https://f1000research.com/articles/13-1429/v2); [[arXiv:2311.11457 \[cs.SE\]](https://doi.org/10.48550/arXiv.2311.11457)
+- **Zitieren:** Goth F, Alves R, Braun M et al. Foundational Competencies and Responsibilities of a Research Software Engineer: Current State and Suggestions for Future Directions [version 2; peer review: 2 approved]. F1000Research 2025, 13:1429 (https://doi.org/10.12688/f1000research.157778.2) [BibTex]({{ "/assets/bib/deRSEPosition002.bib" | prepend: site.baseurl }})
 
 ### **Position 003** - GI- und de-RSE Muster-Leitlinie zur Effizienten Entwicklung von Forschungssoftware
 
 | ![First page of the position 003 PDF.]({{ "/assets/img/positions/position-003-cover.png" | prepend: site.baseurl }}) | **Einleitung:** Diese Muster-Leitlinie bietet einen Rahmen für die Entwicklung, Verwaltung und Weitergabe von Software an der jeweils nutzenden Universität, Hochschule oder dem Forschungszentrum. Sie eignet sich auch für standortübergreifende Verbundforschungsvorhaben, insbesondere wenn die Projektbeteiligten der verschiedenen Universitäten, Hochschulen und Forschungszentren kompatible Fassungen nutzen. 
 
-- **Autor/inn/en:** Andreas Czerniak, Adrian Ehrenhofer, Bernadette Fritzsch, Maximilian Funk, Florian Goth, Reiner Hähnle, Carina Haupt, Marco Konersmann, Jan Linxweiler, Frank Löffler, Alexander Lüpges, Sebastian Nielebock, Bernhard Rumpe, Ina Schieferdecker, Tobias Schlauch, Robert Speck, Alexander Struck, Jan Philipp Thiele, Matthias Tichy, Inga Ulusoy, Scientific Software Center
+- **Autor/inn/en:** Andreas Czerniak, Adrian Ehrenhofer, Bernadette Fritzsch, Maximilian Funk, Florian Goth, Reiner Hähnle, Carina Haupt, Marco Konersmann, Jan Linxweiler, Frank Löffler, Alexander Lüpges, Sebastian Nielebock, Bernhard Rumpe, Ina Schieferdecker, Tobias Schlauch, Robert Speck, Alexander Struck, Jan Philipp Thiele, Matthias Tichy, Inga Ulusoy
 
 - **Community Reviews:** 19. Augusst 2024 - 30. September 2024
 - **Akzeptiert als offizielle Position:** 17. Oktober 2024
 - **Volltext:** [doi: 10.18420/2025-gi_de-rse](https://doi.org/10.18420/2025-gi_de-rse)
 
+### **Position 004** - Establishing central research software engineering units in german research institutions
+
+| ![First page of the position 004 PDF.]({{ "/assets/img/positions/position-004-cover.png" | prepend: site.baseurl }}) | **Abstract:** This position paper urges decision makers in Germany to establish central Research Software Engineering (RSE) units within their institutions.
+The focus is not put primarily on the establishment of RSE services in general, as this has been done already elsewhere. Instead, we highlight central RSE units. Motivation for their existence is discussed, underpinned by working examples both in neighbouring fields as well as outside of Germany. The heart of this paper is a vision of a central RSE unit, its structure, and the definition of nine core support modules such a unit may provide. An initial survey finds that there is considerable diversity within the module distribution, even within the few considered groups.  We discuss initial observations on possible clusters, but further studies are needed. Finally, we discuss realisation strategies. While this paper focuses mostly on the German academic environment, some general strategies should also apply elsewhere.
+
+- **Autor/inn/en:** Dominic Kempf, Frank Löffler, René Caspart, Bernd Flemisch, Florian Goth, Jan Linxweiler, Philipp Matthias Schäfer, Robert Speck, Alexander Struck, Markus J. Ankenbrand, Leyla Jael Castro, Iris Ehlert, Jean-Noël Grad, Magnus Hagdorn, Axel Loewe, Michael Schlottke-Lakemper, Uwe Schmitt, Philipp S. Sommer
+
+- **Community Reviews:** 23. Februar 2025 - 23. März 2025
+- **Akzeptiert als offizielle Position:** 27. März 2025
+- **Volltext:** [https://de-rse.org/2023_paper-RSE-groups/paper.pdf](https://de-rse.org/2023_paper-RSE-groups/paper.pdf) (submitted to F1000)
 
 ## Work in progress
 
 Folgende Positionen sind derzeit in Arbeit.
 
-[//]: (none)
-- [Phase 2] [Establishing RSE departments in German research institutions](https://github.com/DE-RSE/2023_paper-RSE-groups): [review ticket](https://github.com/DE-RSE/projekte/issues/20)
+- [//]: (none)
 
 ## Entwicklungsprozess
 

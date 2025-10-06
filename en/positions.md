@@ -26,8 +26,8 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 
 - **Authors:** Hartwig Anzt, Felix Bach, Stephan Druskat, Frank Löffler, Axel Loewe, Bernhard Y. Renard, Gunnar Seemann, Alexander Struck, Elke Achhammer, Piush Aggarwal, Franziska Appel, Michael Bader, Lutz Brusch, Christian Busse, Gerasimos Chourdakis, Piotr W. Dabrowski, Peter Ebert, Bernd Flemisch, Sven Friedl, Bernadette Fritzsch, Maximilian D. Funk, Volker Gast, Florian Goth, Jean-Noël Grad, Sibylle Hermann, Florian Hohmann, Stephan Janosch, Dominik Kutra, Jan Linxweiler, Thilo Muth, Wolfgang Peters-Kottig, Fabian Rack, Fabian H.C. Raters, Stephan Rave, Guido Reina, Malte Reißig, Timo Ropinski, Joerg Schaarschmidt, Heidi Seibold, Jan P. Thiele, Benjamin Uekerman, Stefan Unger, Rudolf Weeber
 
-- **Community reviews:** 23 January 2020 - 09 February 2020
-- **Accepted as official position:** 03 April 2020
+- **Community reviews:** 2020-01-23 - 2020-02-09
+- **Accepted as official position:** 2020-04-03
 - **Full text:** [F1000Research](https://doi.org/10.12688/f1000research.23224.2); [arXiv:2005.01469 \[cs.GL\]](https://arxiv.org/abs/2005.01469)
 - **Cite:** Anzt H, Bach F, Druskat S et al. An environment for sustainable research software in Germany and beyond: current state, open challenges, and call for action [version 2; peer review: 2 approved]. F1000Research 2021, 9:295 (https://doi.org/10.12688/f1000research.23224.2). [[BibTeX]({{ "/assets/bib/deRSEPosition001.bib" | prepend: site.baseurl }})]
 
@@ -37,10 +37,10 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 
 - **Authors:** Florian Goth, Renato Alves, Matthias Braun, Leyla Jael Castro, Gerasimos Chourdakis, Simon Christ, Jeremy Cohen, Stephan Druskat, Fredo Erxleben, Jean-Noël Grad, Magnus Hagdorn, Toby Hodges, Guido Juckeland, Dominic Kempf, Anna-Lena Lamprecht, Jan Linxweiler, Frank Löffler, Michele Martone, Moritz Schwarzmeier, Heidi Seibold, Jan Philipp Thiele, Harald von Waldow, Samantha Wittke
 
-- **Community reviews:** 25. Juli 2024 - 09. August 2024
-- **Accepted as official position:** 19. September 2024
+- **Community reviews:** 2024-07-25 - 2024-08-09
+- **Accepted as official position:** 2024-09-19
 - **Full text:** (submitted); [[arXiv:2311.11457 \[cs.SE\]](https://doi.org/10.48550/arXiv.2311.11457)
-- **Cite:** Goth et al. Foundational Competencies and Responsibilities of a Research Software Engineer. arXiv: 2311.11457
+- **Cite:** Goth F, Alves R, Braun M et al. Foundational Competencies and Responsibilities of a Research Software Engineer: Current State and Suggestions for Future Directions [version 2; peer review: 2 approved]. F1000Research 2025, 13:1429 (https://doi.org/10.12688/f1000research.157778.2) [BibTex]({{ "/assets/bib/deRSEPosition002.bib" | prepend: site.baseurl }})
 
 ### **Position 003** - GI- und de-RSE Muster-Leitlinie zur Effizienten Entwicklung von Forschungssoftware
 
@@ -48,16 +48,26 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 
 - **Autors:** Andreas Czerniak, Adrian Ehrenhofer, Bernadette Fritzsch, Maximilian Funk, Florian Goth, Reiner Hähnle, Carina Haupt, Marco Konersmann, Jan Linxweiler, Frank Löffler, Alexander Lüpges, Sebastian Nielebock, Bernhard Rumpe, Ina Schieferdecker, Tobias Schlauch, Robert Speck, Alexander Struck, Jan Philipp Thiele, Matthias Tichy, Inga Ulusoy, Scientific Software Center
 
-- **Community reviews:** 19. Augusst 2024 - 30. September 2024
-- **Accepted as official position:** 17. Oktober 2024
+- **Community reviews:** 2024-08-19 - 2024-09-30
+- **Accepted as official position:** 2024-10-17
 - **Full text:** [doi: 10.18420/2025-gi_de-rse](https://doi.org/10.18420/2025-gi_de-rse)
+
+### **Position 004** - Establishing central research software engineering units in german research institutions
+
+| ![First page of the position 004 PDF.]({{ "/assets/img/positions/position-004-cover.png" | prepend: site.baseurl }}) | **Abstract:** This position paper urges decision makers in Germany to establish central Research Software Engineering (RSE) units within their institutions.
+The focus is not put primarily on the establishment of RSE services in general, as this has been done already elsewhere. Instead, we highlight central RSE units. Motivation for their existence is discussed, underpinned by working examples both in neighbouring fields as well as outside of Germany. The heart of this paper is a vision of a central RSE unit, its structure, and the definition of nine core support modules such a unit may provide. An initial survey finds that there is considerable diversity within the module distribution, even within the few considered groups.  We discuss initial observations on possible clusters, but further studies are needed. Finally, we discuss realisation strategies. While this paper focuses mostly on the German academic environment, some general strategies should also apply elsewhere.
+
+- **Autors:** Dominic Kempf, Frank Löffler, René Caspart, Bernd Flemisch, Florian Goth, Jan Linxweiler, Philipp Matthias Schäfer, Robert Speck, Alexander Struck, Markus J. Ankenbrand, Leyla Jael Castro, Iris Ehlert, Jean-Noël Grad, Magnus Hagdorn, Axel Loewe, Michael Schlottke-Lakemper, Uwe Schmitt, Philipp S. Sommer
+
+- **Community reviews:** 2025-02-23 - 2025-03-23
+- **Accepted as official position:** 2025-03-27
+- **Full text:** [https://de-rse.org/2023_paper-RSE-groups/paper.pdf](https://de-rse.org/2023_paper-RSE-groups/paper.pdf) (submitted to F1000)
 
 ## Work in progress
 
 The following positions are currently developed.
 
 [//]: (none)
-- [Phase 2] [Establishing RSE departments in German research institutions](https://github.com/DE-RSE/2023_paper-RSE-groups): [review ticket](https://github.com/DE-RSE/projekte/issues/20)
 
 ## Development process
 
