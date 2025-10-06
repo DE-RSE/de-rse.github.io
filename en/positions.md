@@ -39,7 +39,7 @@ When members of de-RSE e.V. represent the Society in public, they take the accep
 
 - **Community reviews:** 2024-07-25 - 2024-08-09
 - **Accepted as official position:** 2024-09-19
-- **Full text:** (submitted); [[arXiv:2311.11457 \[cs.SE\]](https://doi.org/10.48550/arXiv.2311.11457)
+- **Full text:** [F1000Research](https://f1000research.com/articles/13-1429/v2); [[arXiv:2311.11457 \[cs.SE\]](https://doi.org/10.48550/arXiv.2311.11457)
 - **Cite:** Goth F, Alves R, Braun M et al. Foundational Competencies and Responsibilities of a Research Software Engineer: Current State and Suggestions for Future Directions [version 2; peer review: 2 approved]. F1000Research 2025, 13:1429 (https://doi.org/10.12688/f1000research.157778.2) [[BibTeX]({{ "/assets/bib/deRSEPosition002.bib" | prepend: site.baseurl }})]
 
 ### **Position 003** - GI- und de-RSE Muster-Leitlinie zur Effizienten Entwicklung von Forschungssoftware
