@@ -69,6 +69,7 @@ DEPENDENCIES
   jekyll-redirect-from
   kramdown (>= 2.3.0)
   kramdown-parser-gfm
+  liquid (>= 5.4.0)
   rake
   tzinfo-data
 
