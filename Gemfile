@@ -8,6 +8,7 @@ gem 'wdm', '~> 0.1.1' if Gem.win_platform?
 gem 'rake'
 
 gem 'jekyll'
+gem 'liquid', '>= 5.5.0'
 gem "kramdown", ">= 2.3.0"
 gem 'jekyll-feed', group: :jekyll_plugins
 gem 'jekyll-redirect-from', group: :jekyll_plugins
