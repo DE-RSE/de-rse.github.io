@@ -57,6 +57,13 @@ Currently, the following active working groups exist within de-RSE e.V.
 
 **Get involved:** Contact [Stephan Janosch](https://www.mpi-cbg.de/de/research/scientific-cores-support/scientific-services/scientific-computing-facility/contact)
 
+### Research Software Engineering in CoARA <small>Lead:  [Alexander Struck](https://orcid.org/0000-0002-1173-9228)</small>
+
+> This working group (WG) supports the deRSE board in all matters of CoARA membership. The required action plan will be drafted by this WG and internationally coordinated with relevant RSE organizations where possible. After a public review phase the CoARA action plan will be published as a deRSE position paper on Zenodo.
+
+**Get involved:** Please read the [proposal](https://github.com/DE-RSE/protokolle/blob/master/Mitgliederversammlungen/MV-deRSE-2025-11-11-Anhang-D-deRSE-CoARA-proposal.pdf) and contact [Alexander.Struck@hu-berlin.de](mailto:Alexander.Struck@hu-berlin.de) for contributing.
+
+
 ### RSE Software Development Guideline <small>Lead: [Bernhard Rumpe](https://se-rwth.github.io/staff/Bernhard.Rumpe/)</small>
 
 > This group aims to develop guidelines specifically tailored to universities, universities of applied sciences, and research institutions. It includes professional guidelines for efficient development (software engineering), legal guidelines for handling licenses (open source and IP), and organizational guidelines for embedding software development into larger research units. Key criteria include software classification by lifecycle, purpose, intended and current reach, relevance, size, complexity, and criticality.

@@ -54,10 +54,18 @@ Derzeit gibt es die folgenden aktiven Arbeitskreise des de-RSE e.V.
 
 ### de-RSE26 <small>Leitung:  [Stephan Janosch](https://www.mpi-cbg.de/de/research/scientific-cores-support/scientific-services/scientific-computing-facility/contact)</small>
 
-
 > Vorbereitung, Organisation und Nachbereitung der de-RSE26 Konferenz.
 
 **Mitmachen:** Kontaktiere [Stephan Janosch](https://www.mpi-cbg.de/de/research/scientific-cores-support/scientific-services/scientific-computing-facility/contact)
+
+### Research Software Engineering in CoARA <small>Leitung:  [Alexander Struck](https://orcid.org/0000-0002-1173-9228)</small>
+
+> Dieser Arbeitskreis wird den Vereinsvorstand in Angelegenheit der Mitgliedschaft bei CoARA unterstuetzen. Der sich daraus ergebende Action Plan wird durch die Arbeitsgruppe erstellt, international wo moeglich mit RSE Organisationen abgestimmt und nach einer oeffentlichen Kommentierungsphase als Positionspapier auf Zenodo veroeffentlicht. 
+Daran anschließend wird der Arbeitskreis das Ziel verfolgen, eine internationale CoARA Arbeitsgruppe zu initiieren, die sich der Anerkennung der Forschungsergebnisse aus dem Research Software Engineering widmet. 
+
+
+**Mitmachen:** Zum Mitmachen bitte den [verlinkten Antrag](https://github.com/DE-RSE/protokolle/blob/master/Mitgliederversammlungen/MV-deRSE-2025-11-11-Anhang-D-deRSE-CoARA-proposal.pdf) lesen und an [Alexander.Struck@hu-berlin.de](mailto:Alexander.Struck@hu-berlin.de) schreiben.
+
 
 ### RSE Software Development Guideline <small>Leitung: [Bernhard Rumpe](https://se-rwth.github.io/staff/Bernhard.Rumpe/)</small>
 > Zielsetzung dieses Arbeitskreises ist die Ausarbeitung einer Leitlinie zur Definition von Richtlinien speziell für Universitäten, Fachhochschulen und Forschungseinrichtungen. Diese beinhaltet fachliche Richtlinien für die effiziente Entwicklung (Software Engineering), juristische Richtlinien mit dem Umgang von Lizenzen (Open Source und IP), sowie organisatorische Richtlinien für die Einbettung von Softwareentwicklung in größere Forschungseinheiten. Wesentliche Kriterien sind dabei die Klassifizierung der Software nach Lebensdauer, Einsatzzweck, gewünschte und aktuelle Verbreitung, Relevanz, Größe, Komplexität und Kritikalität.
