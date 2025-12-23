@@ -35,7 +35,7 @@ function myPointToLayer(geoJsonPoint, latlng) {
 
 var map = L.map('map').setView([51.000,10.316], 7);
 
-L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
