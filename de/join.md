@@ -47,7 +47,7 @@ Eine Liste dieser Kanäle und Informationen für den Einstig in die Nutzung von 
 ## Stellenangebote
 
 Stellenangebote können über folgende Kanäle beworben werden:
-- GWDG RocketChat Kanal: <https://chat.gwdg.de/channel/derse_jobs>
+- Matrix-Kanal: <https://matrix.to/#/#de-rse.org-jobs:matrix.org>
 - Mailing Liste (bitte den Betreff mit "[JOBS]" beginnen, z.B. "[JOBS] unbefristete Stelle als RSE Gruppenleitung")
 
 ## Monatlicher Call
