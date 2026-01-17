@@ -166,3 +166,5 @@ the [deRSE26](https://events.hifis.net/event/2945/) conference in
 Stuttgart.
 Presentations of the event will be shared on the
 [zenodo community](https://zenodo.org/communities/teachingrse-symposium-2025/records).
+
+This blog post is adapted with friendly permission from [Magnus Hagdorn's blog](https://magi.marsupium.org/2025/12/2025-teaching-rse-symposium.html).
