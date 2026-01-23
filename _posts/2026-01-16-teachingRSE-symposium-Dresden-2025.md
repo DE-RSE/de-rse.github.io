@@ -4,6 +4,8 @@ layout: post
 author: "The TeachingRSE collaboration"
 menulang: en
 ---
+![]({{ "/assets/img/blog/2026/2026-01-16-dresden-bw.jpg" | prepend: site.baseurl}}){: width="800px"}
+
 
 For the last two days of the work year 2025, the [teaching RSE working
 group](https://github.com/the-teachingRSE-project) of the [deRSE
