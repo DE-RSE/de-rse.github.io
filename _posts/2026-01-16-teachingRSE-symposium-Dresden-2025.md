@@ -5,6 +5,7 @@ author: "The TeachingRSE collaboration"
 menulang: en
 ---
 ![]({{ "/assets/img/blog/2026/2026-01-16-dresden-bw.jpg" | prepend: site.baseurl}}){: width="800px"}
+<br>(Picture: By [Magnus Hagdorn](https://orcid.org/0000-0002-5076-4864), CC-BY-SA License)
 
 
 For the last two days of the work year 2025, the [teaching RSE working
