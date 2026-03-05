@@ -15,11 +15,11 @@ If you have an idea for a new working group and would like to establish one, sen
 
 Currently, the following active working groups exist within de-RSE e.V.
 
-### Association Infrastructure <small>Lead: [Philipp Matthias Schäfer](https://www.zedif.uni-jena.de/2409/kontakt)</small>
+### Association Infrastructure <small>Lead: [Jan Philipp Thiele](https://www.tu-braunschweig.de/ub/wir-ueber-uns/ansprechpersonen-organigramm/jan-philipp-thiele)</small>
 
 > Building and maintaining the association's digital infrastructure.
 
-**Get involved:** Contact [Philipp Matthias Schäfer](https://www.zedif.uni-jena.de/2409/kontakt)
+**Get involved:** Contact [Jan Philipp Thiele](https://www.tu-braunschweig.de/ub/wir-ueber-uns/ansprechpersonen-organigramm/jan-philipp-thiele)
 
 ### Communication Strategy <small>Lead: [Claire Wyatt](https://www.fz-juelich.de/profile/wyatt_cl)</small>
 

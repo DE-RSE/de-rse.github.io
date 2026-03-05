@@ -16,11 +16,11 @@ Wenn du eine Idee für einen neuen Arbeitskreis hast und ins Leben rufen möchte
 
 Derzeit gibt es die folgenden aktiven Arbeitskreise des de-RSE e.V.
 
-### Vereinsinfrasturktur <small>Leitung: [Philipp Matthias Schäfer](https://www.zedif.uni-jena.de/2409/kontakt)</small>
+### Vereinsinfrasturktur <small>Leitung: [Jan Philipp Thiele](https://www.tu-braunschweig.de/ub/wir-ueber-uns/ansprechpersonen-organigramm/jan-philipp-thiele)</small>
 
 > Aufbau und Pflege der digitalen Vereinsinfrarstruktur.
 
-**Mitmachen:** Kontaktiere [Philipp Matthias Schäfer](https://www.zedif.uni-jena.de/2409/kontakt)
+**Mitmachen:** Kontaktiere [Jan Philipp Thiele](https://www.tu-braunschweig.de/ub/wir-ueber-uns/ansprechpersonen-organigramm/jan-philipp-thiele)
 
 ### Kommunikationsstrategie <small>Leitung: [Claire Wyatt](https://www.fz-juelich.de/profile/wyatt_cl)</small>
 
