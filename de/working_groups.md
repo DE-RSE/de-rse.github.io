@@ -106,11 +106,11 @@ Daran anschließend wird der Arbeitskreis das Ziel verfolgen, eine international
 
 **Mitmachen:** [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
 
-### AI4RSE <small>Leitung: [Lukas Netz](https://www.se-rwth.de/staff/Lukas.Netz/)</small>
+### AI4RSE <small>Leitung: [Sebastian Nielebock](https://csse.ovgu.de/Chair/Chair+Members/Scientific+Staff/Nielebock.html)</small>
 
 > Ziel des Arbeitskreises ist die Erfassung der Aktuellen Nutzungen und Herausforderungen von KI im Kontext des RSE. Dies erfolgt in drei Schritten, beginnend mit einer Umfrage in der Wissenschaftscommunity, um einen groben Überblick über Relevante Schwerpunkte zu erhalten. Als nächsten Schritt werden die Ergebnisse dieser Umfrage genutzt, um einen Workshop zu organisieren, in dem ausführlich relevante Thematiken diskutiert und mögliche Lösungsansätze und Forschungsthemen erarbeitet werden können. Abschließend werden die Ergebnisse und Erfahrungen aus den beiden vorherigen schritten in einem Bericht oder Whitepaper zusammengefasst und der Community so zur Verfügung gestellt.
 
-**Mitmachen:** Kontaktiere [Lukas Netz](https://www.se-rwth.de/staff/Lukas.Netz/) oder [Bernadette Fritzsch](https://www.awi.de/ueber-uns/organisation/mitarbeiter/detailseite/bernadette-fritzsch.html) um in den Arbeitskreis mit aufgenommen zu werden.
+**Mitmachen:** Kontaktiere [Sebastian Nielebock](https://csse.ovgu.de/Chair/Chair+Members/Scientific+Staff/Nielebock.html) um in den Arbeitskreis mit aufgenommen zu werden.
 
 
 

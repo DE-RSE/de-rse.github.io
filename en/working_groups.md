@@ -106,11 +106,11 @@ Currently, the following active working groups exist within de-RSE e.V.
 
 **Get involved:** [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
 
-### AI4RSE <small>Lead: [Lukas Netz](https://www.se-rwth.de/staff/Lukas.Netz/)</small>
+### AI4RSE <small>Lead: [Sebastian Nielebock](https://csse.ovgu.de/Chair/Chair+Members/Scientific+Staff/Nielebock.html)</small>
 
 > The goal of the working group is to assess the current uses and challenges of AI in the context of RSE. This is done in three steps, starting with a survey within the scientific community to gain a broad overview of relevant focal points. The next step involves using the survey results to organize a workshop where key topics can be discussed in detail, and potential solutions and research topics can be developed. Finally, the insights and experiences from the first two steps will be summarized in a report or white paper and made available to the community.
 
-**Get involved:** Contact [Lukas Netz](https://www.se-rwth.de/staff/Lukas.Netz/) or [Bernadette Fritzsch](https://www.awi.de/ueber-uns/organisation/mitarbeiter/detailseite/bernadette-fritzsch.html) to join the group.
+**Get involved:** Contact [Sebastian Nielebock](https://csse.ovgu.de/Chair/Chair+Members/Scientific+Staff/Nielebock.html) to join the group.
 
 ## Former and Inactive Working Groups
 
