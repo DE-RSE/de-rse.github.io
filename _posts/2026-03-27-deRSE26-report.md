@@ -4,7 +4,7 @@ layout: post
 author: "Bernd Flemisch, Inga Ulusoy"
 menulang: en
 ---
-![]({{ "/assets/img/blog/2026/derse26_group_raised_arms-scaleddown.jpg" | prepend: site.baseurl}}){: width="500px"}
+![]({{ "/assets/img/blog/2026/derse26_group_raised_arms-scaleddown.jpg" | prepend: site.baseurl}}){: width="750px"}
 <br>([Picture](https://raw.githubusercontent.com/DE-RSE/materials/master/photos/2026/group/derse26_group_raised_arms.jpg): By [Adam Pagan](https://orcid.org/0000-0002-9428-4328), CC-BY-4.0 License)
 
 
