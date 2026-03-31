@@ -5,7 +5,7 @@ author: "Bernd Flemisch, Inga Ulusoy"
 menulang: de
 ---
 ![]({{ "https://raw.githubusercontent.com/DE-RSE/materials/master/photos/2026/group/derse26_group_raised_arms.jpg" | prepend: site.baseurl}}){: width="800px"}
-<br>(Picture: By [Adam Pagan](https://orcid.org/0000-0002-9428-4328), CC-BY-4.0 License)
+<br>(Bild: [Adam Pagan](https://orcid.org/0000-0002-9428-4328), CC-BY-4.0 License)
 
 
 Die 6. Konferenz für Forschungssoftwareentwicklung in Deutschland, [deRSE26](https://events.hifis.net/event/2945/), ist an der Universität Stuttgart erfolgreich zu Ende gegangen. Die dreitägige Konferenz brachte mehr als 280 Teilnehmende aus Universitäten und Forschungseinrichtungen aus ganz Deutschland und darüber hinaus zusammen. Ihr ging der erste [Stuttgarter Tag der Forschungssoftware](https://www.iws.uni-stuttgart.de/en/lh2/conferences-seminars-workshops/research-software-day/) voraus.
