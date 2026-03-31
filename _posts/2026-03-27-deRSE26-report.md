@@ -4,8 +4,8 @@ layout: post
 author: "Bernd Flemisch, Inga Ulusoy"
 menulang: en
 ---
-![]({{ "https://raw.githubusercontent.com/DE-RSE/materials/master/photos/2026/group/derse26_group_raised_arms.jpg" | prepend: site.baseurl}}){: width="800px"}
-<br>(Picture: By [Adam Pagan](https://orcid.org/0000-0002-9428-4328), CC-BY-4.0 License)
+![]({{ "/assets/img/blog/2026/derse26_group_raised_arms-scaleddown.jpg" | prepend: site.baseurl}}){: width="500px"}
+<br>([Picture](https://raw.githubusercontent.com/DE-RSE/materials/master/photos/2026/group/derse26_group_raised_arms.jpg): By [Adam Pagan](https://orcid.org/0000-0002-9428-4328), CC-BY-4.0 License)
 
 
 The 6th Conference for Research Software Engineering in Germany, [deRSE26](https://events.hifis.net/event/2945/),has successfully concluded at the University of Stuttgart. The three-day conference brought together more than 280 participants from universities and research institutions across Germany and beyond. It was preceded by the first [Stuttgart Research Software Day](https://www.iws.uni-stuttgart.de/en/lh2/conferences-seminars-workshops/research-software-day/).
