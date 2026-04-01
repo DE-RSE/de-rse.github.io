@@ -112,6 +112,10 @@ Daran anschließend wird der Arbeitskreis das Ziel verfolgen, eine international
 
 **Mitmachen:** Kontaktiere [Sebastian Nielebock](https://csse.ovgu.de/Chair/Chair+Members/Scientific+Staff/Nielebock.html) um in den Arbeitskreis mit aufgenommen zu werden.
 
+### Auszeichnung von Forschungssoftware <small>Leitung: [Stella Drebber](mailto:stella.drebber@gi.de)</small>
+> Ziel dieses Arbeitskreises ist die Identifikation von Qualitätskriterien für Forschungssoftware als Grundlage für die Entwicklung einer Bewertungsmatrix für den geplanten und von der Klaus Tschira Stiftung geförderten RSE-Award. Hierbei werden sowohl bestehende Qualitätsmetriken und Vorgehensweisen/Bewertungssystematiken bestehender Awards und Frameworks  betrachtet, als auch im Diskurs gemeinsame Community-Perspektiven gesammelt.
+
+**Mitmachen:** Kontaktiere [Stella Drebber](mailto:stella.drebber@gi.de) um in den Arbeitskreis mit aufgenommen zu werden.
 
 
 ## Ehemalige und inaktive Arbeitskreise

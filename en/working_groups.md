@@ -112,6 +112,14 @@ Currently, the following active working groups exist within de-RSE e.V.
 
 **Get involved:** Contact [Sebastian Nielebock](https://csse.ovgu.de/Chair/Chair+Members/Scientific+Staff/Nielebock.html) to join the group.
 
+### Research Software Award <small>Lead: [Stella Drebber](mailto:stella.drebber@gi.de)</small>
+
+> The goal of this working group is to identify quality criteria for research software as a foundation for developing an evaluation matrix for the planned RSE Award, which is funded by the Klaus Tschira Foundation. In doing so, existing quality metrics and the procedures/evaluation systems of current awards and frameworks will be examined, while also gathering shared community perspectives through discourse.
+
+**Get involved:** Contact [Stella Drebber](mailto:stella.drebber@gi.de) to join the group.
+
+
+
 ## Former and Inactive Working Groups
 
 The following groups have completed their tasks or are currently inactive.
