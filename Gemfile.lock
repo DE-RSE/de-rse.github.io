@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.1)
-      public_suffix (>= 2.0.2, < 6.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.6)
     em-websocket (0.5.1)
@@ -47,7 +47,7 @@ GEM
     mercenary (0.4.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
-    public_suffix (4.0.6)
+    public_suffix (7.0.5)
     rake (13.0.6)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -69,9 +69,9 @@ DEPENDENCIES
   jekyll-redirect-from
   kramdown (>= 2.3.0)
   kramdown-parser-gfm
-  liquid (>= 5.4.0)
+  liquid (>= 5.5.0)
   rake
   tzinfo-data
 
 BUNDLED WITH
-   2.3.15
+   2.6.7
