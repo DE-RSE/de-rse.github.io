@@ -104,13 +104,13 @@ Daran anschließend wird der Arbeitskreis das Ziel verfolgen, eine international
 
 > Das nächste große Ziel dieser Arbeitsgruppe ist es, einen Leitfaden für die bestmögliche Entwicklung frischer und praktizierender RSEs zu erstellen und zu veröffentlichen.
 
-**Mitmachen:** [GitHub](https://github.com/the-teachingRSE-project), [Mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
+**Mitmachen:** [GitHub](https://github.com/the-teachingRSE-project), [Emailingliste](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse), [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org)
 
 ### AI4RSE <small>Leitung: [Sebastian Nielebock](https://csse.ovgu.de/Chair/Chair+Members/Scientific+Staff/Nielebock.html)</small>
 
 > Ziel des Arbeitskreises ist die Erfassung der Aktuellen Nutzungen und Herausforderungen von KI im Kontext des RSE. Dies erfolgt in drei Schritten, beginnend mit einer Umfrage in der Wissenschaftscommunity, um einen groben Überblick über Relevante Schwerpunkte zu erhalten. Als nächsten Schritt werden die Ergebnisse dieser Umfrage genutzt, um einen Workshop zu organisieren, in dem ausführlich relevante Thematiken diskutiert und mögliche Lösungsansätze und Forschungsthemen erarbeitet werden können. Abschließend werden die Ergebnisse und Erfahrungen aus den beiden vorherigen schritten in einem Bericht oder Whitepaper zusammengefasst und der Community so zur Verfügung gestellt.
 
-**Mitmachen:** Kontaktiere [Sebastian Nielebock](https://csse.ovgu.de/Chair/Chair+Members/Scientific+Staff/Nielebock.html) um in den Arbeitskreis mit aufgenommen zu werden.
+**Mitmachen:** [Matrix Chat](https://matrix.to/#/#deRSE-AK-AI4RSE:matrix.org), [Emailliste](https://www.listserv.dfn.de/sympa/subscribe/ai4rse-interestgroup?previous_action=info)
 
 ### Auszeichnung von Forschungssoftware <small>Leitung: [Stella Drebber](mailto:stella.drebber@gi.de)</small>
 > Ziel dieses Arbeitskreises ist die Identifikation von Qualitätskriterien für Forschungssoftware als Grundlage für die Entwicklung einer Bewertungsmatrix für den geplanten und von der Klaus Tschira Stiftung geförderten RSE-Award. Hierbei werden sowohl bestehende Qualitätsmetriken und Vorgehensweisen/Bewertungssystematiken bestehender Awards und Frameworks  betrachtet, als auch im Diskurs gemeinsame Community-Perspektiven gesammelt.

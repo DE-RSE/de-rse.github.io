@@ -110,7 +110,7 @@ Currently, the following active working groups exist within de-RSE e.V.
 
 > The goal of the working group is to assess the current uses and challenges of AI in the context of RSE. This is done in three steps, starting with a survey within the scientific community to gain a broad overview of relevant focal points. The next step involves using the survey results to organize a workshop where key topics can be discussed in detail, and potential solutions and research topics can be developed. Finally, the insights and experiences from the first two steps will be summarized in a report or white paper and made available to the community.
 
-**Get involved:** Contact [Sebastian Nielebock](https://csse.ovgu.de/Chair/Chair+Members/Scientific+Staff/Nielebock.html) to join the group.
+**Get involved:** [Matrix Chat](https://matrix.to/#/#deRSE-AK-AI4RSE:matrix.org), [Mailing list](https://www.listserv.dfn.de/sympa/subscribe/ai4rse-interestgroup?previous_action=info)
 
 ### Research Software Award <small>Lead: [Stella Drebber](mailto:stella.drebber@gi.de)</small>
 
