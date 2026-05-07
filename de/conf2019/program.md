@@ -8,7 +8,7 @@ weight: 100
 
 deRSE19 lief von 4.-6.6.2019. Unten ist eine statische Version des Programms, mit Links zu Videos und Folien, so es welche gibt.
 
-Das Live-Programm ist [hier](../../en/conf2019/https://derse19.uni-jena.de/derse19/schedule).
+Das Live-Programm ist [hier](https://de-rse.org/derse19-www/derse19/schedule).
 
 > 🎥 Eine Videoaufnahme steht zur Verfügung.  
 🖥 Folien (oder andere Dokumente) stehen zur Verfügung.

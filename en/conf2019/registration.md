@@ -6,11 +6,9 @@ weight: 120
 
 # Registration
 
-Registration is open until May 20. Contributors redeem their voucher first and then select their tickets, please.
+Registration was open until May 20. Contributors redeemed their voucher first and then selected their tickets.
 
-<a href="https://pretix.derse19.uni-jena.de/de-RSE/2019/" class="btn btn-info glyphicon-pencil" target="_blank">Get my ticket! (click here)</a>
-
-Also book your [accommodation](accommodation.html) in advance please. The contingents expire in April and Potsdam is very popular in June.
+Old: Also book your [accommodation](accommodation.html) in advance please. The contingents expire in April and Potsdam is very popular in June.
 
 ## Prices
 

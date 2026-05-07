@@ -8,7 +8,7 @@ weight: 100
 
 deRSE19 has run from 4 to 6 June 2019. Below is a static version of the conference programme, with links to videos and slides where they exist.
 
-The original programme schedule is [here](https://derse19.uni-jena.de/derse19/schedule).
+The original programme schedule is [here](https://de-rse.org/derse19-www/derse19/schedule).
 
 > 🎥 A video recording is available.  
 🖥 Slides (or other documents) are available.

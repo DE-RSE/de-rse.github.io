@@ -16,7 +16,7 @@ Das Organisationskomitee freut sich auf Einreichungen für Workshops, Vorträge 
 
 - Do., 20. Dezember 2018 - Wir nehmen Einreichungen entgegen
 - So., 3. März 2019 - Frist für Einreichungen
-- Fr., 22. März 2019 - Mitteilung von Entscheidungen zur Annahme und <a href="https://derse19.uni-jena.de/derse19/sneak/" target="_blank">Programm</a>
+- Fr., 22. März 2019 - Mitteilung von Entscheidungen zur Annahme und <a href="https://de-rse.org/derse19-www/derse19/sneak/" target="_blank">Programm</a>
 - Di-Do., 4-6. Juni 2019 - deRSE19-Konferenz
 
 Es wird erwartet, dass mindestens eine Person aus der Autorenschaft einer angenommenen Einreichung an der Konferenz teilnimmt und den Beitrag präsentiert. Bei Registrierung zur Teilnahme fallen Konferenzgebühren an.
@@ -60,7 +60,7 @@ Wenn Du Fragen zur Konferenz im Allgemeinen oder speziell zur Einreichung hast, 
 
 Der Fokus von deRSE19 liegt auf der Gemeinschaft. Daher fragen wir nicht nach formellen akademischen Abstracts die einer spezifischen Struktur folgen. Einreichungen zu deRSE19 folgen einer freieren Form.
 
-Für die Einreichung ist ein [Einreichungsformular](https://derse19.uni-jena.de/derse19/cfp) auszufüllen. Dieses Formular besteht aus einem Textfeld zur Eingabe einer kurzen Zusammenfassung ("Abstract", *max. 750 Zeichen*!), sowie anderen für weitere Details zu Deiner Person. Wir erheben diese Informationen, weil wir mehr über Deinen Background, Deine Perspektive, Deine Erfahrung erfahren wollen. Das wird uns dabei helfen, die RSE-Gemeinschaft in Deutschland besser kennenzulernen.
+Für die Einreichung ist ein [Einreichungsformular](https://de-rse.org/derse19-www/derse19/cfp) auszufüllen. Dieses Formular besteht aus einem Textfeld zur Eingabe einer kurzen Zusammenfassung ("Abstract", *max. 750 Zeichen*!), sowie anderen für weitere Details zu Deiner Person. Wir erheben diese Informationen, weil wir mehr über Deinen Background, Deine Perspektive, Deine Erfahrung erfahren wollen. Das wird uns dabei helfen, die RSE-Gemeinschaft in Deutschland besser kennenzulernen.
 
 Einreichungen können in Deutsch oder Englisch verfasst werden. 
 
