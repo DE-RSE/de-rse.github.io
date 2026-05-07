@@ -20,7 +20,7 @@ weight: 1
 
 **Call for Contributions:** War geöffnet bis 28. Februar 2019, 23:59:59 CET.
 
-**Programm:** Das aktuelle [Programm](https://de-rse.org/derse19-www/derse19/schedule/)
+**Programm:** Das aktuelle [Programm](https://de-rse.org/derse19-www/derse19/schedule.html)
 
 **Registrierung:** in der Vergangenheit
 
@@ -34,7 +34,7 @@ Datum | Termin
 22.03. (Fr) | Versand Bestätigung / Ablehnung
 08.04. (Mo) | Öffnung [Registrierung](registration.html)
 14.04. (So) | Ende Early Bird
-15.04. (Mo) | Veröffentlichung [Programm](https://de-rse.org/derse19-www/derse19/schedule/)
+15.04. (Mo) | Veröffentlichung [Programm](https://de-rse.org/derse19-www/derse19/schedule.html)
 20.05. (Mo) | Ende Registrierung
 04.06.-06.06. (Di-Do) | Konferenz
 
@@ -50,7 +50,7 @@ Wir erwarten einen lebendigen Mix von 200 Teilnehmerinnen und Teilnehmern aus ve
 
 Zu \#deRSE19 begrüßen wir Wissenschaftler und Wissenschaftlerinnen, aber auch Menschen, die Forschungssoftware finanzieren, betreiben, entwickeln oder warten und normalerweise nicht an Konferenzen teilnehmen. Es ist eine **Community-Konferenz**: Beteilige dich und hilf uns beim Aufbau der RSE-Community in Deutschland! Merk Dir das Datum vor und verbreite die Ankündigung an Deine Kolleginnen und Kollegen!
 
-Wir begrüßen Beiträge in Form von Vorträgen (kurz oder lang), Postern, Workshops oder anderen formellen oder informellen Sessions. Um beizutragen bitten wir Dich lediglich, eine sehr kurze (750 Zeichen) Zusammenfassung Deines Vorschlags bis zum 28. Februar 2019 einzureichen unter <https://de-rse.org/derse19-www/derse19/cfp>.
+Wir begrüßen Beiträge in Form von Vorträgen (kurz oder lang), Postern, Workshops oder anderen formellen oder informellen Sessions. Um beizutragen bitten wir Dich lediglich, eine sehr kurze (750 Zeichen) Zusammenfassung Deines Vorschlags bis zum 28. Februar 2019 einzureichen.
 
 Bleib mit uns in Kontakt und erhalte die neuesten Updates, indem Du Dich unter [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) registrierst. Updates über die Konferenz werden auch über [@RSE_de auf Twitter](https://twitter.com/rse_de) verfügbar sein. Der Hashtag für das Ereignis ist #deRSE19.
 
