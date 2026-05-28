@@ -1,0 +1,8 @@
+name: de-rse-website
+channels:
+  - conda-forge
+dependencies:
+  - c-compiler
+  - compilers
+  - cxx-compiler
+  - ruby
