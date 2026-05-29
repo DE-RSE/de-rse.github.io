@@ -5,4 +5,4 @@ dependencies:
   - c-compiler
   - compilers
   - cxx-compiler
-  - ruby
+  - ruby=4.0.*
