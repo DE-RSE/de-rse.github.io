@@ -63,7 +63,7 @@ Termine für die monatlichen Calls findet Ihr [hier](https://pad.okfn.de/p/opens
 
 Der Blog auf der Webseite wird von der Community gemeinschaftlich gestaltet.
 Deine Ideen, Themen und Beiträge auf Deutsch, English, oder beidem sind sehr willkommen!
-In der Datei [README.md](https://github.com/DE-RSE/de-rse.github.io/blob/master/README.md)
+In der Datei [README.md](https://github.com/DE-RSE/de-rse.github.io/blob/main/README.md)
 findest du eine Anleitung wie Du eine Vorschau der Seite auf deinem eigenen Rechner bekommen
 kannst.
 

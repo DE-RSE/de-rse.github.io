@@ -63,7 +63,7 @@ Dates and times for the monthly community calls are [listed here](https://pad.ok
 
 The website hosts a blog with contributions from the community members.
 Your ideas, topics and posts in German, English, or both are very welcome!
-The [README.md](https://github.com/DE-RSE/de-rse.github.io/blob/master/README.md) includes instructions for getting a local preview of the site.
+The [README.md](https://github.com/DE-RSE/de-rse.github.io/blob/main/README.md) includes instructions for getting a local preview of the site.
 
 ## Local RSE groups
 
