@@ -18,7 +18,7 @@ weight: 60
 # Board
 
 * **Chairperson:** [Jan Linxweiler](https://www.tu-braunschweig.de/ub/wir-ueber-uns/ansprechpersonen-organigramm/jan-linxweiler) (Technical University of Braunschweig)
-* **Deputy Chairperson:** [Frank Loeffler](https://www.zedif.uni-jena.de/2409/kontakt) (Friedrich Schiller University Jena)
+* **Deputy Chairperson:** [Frank Löffler](https://orcid.org/0000-0001-6643-6323) (Friedrich Schiller University Jena)
 * **Treasurer:** [Stephan Janosch](https://www.mpi-cbg.de/de/research/scientific-cores-support/scientific-services/scientific-computing-facility/contact) (Max Planck Institute of Molecular Cell Biology and Genetics, Dresden)
 * **Deputy Treasurer:** [Michael Meinel](https://de.linkedin.com/in/michael-meinel-9746b468) (German Aerospace Center – DLR)
 * **Secretary:** [Jan Philipp Dietrich](https://www.pik-potsdam.de/members/dietrich) (Potsdam Institute for Climate Impact Research)

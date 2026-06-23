@@ -19,7 +19,7 @@ weight: 60
 ## Vorstand
 
 * **Vorstandsvorsitzender:** [Jan Linxweiler](https://www.tu-braunschweig.de/ub/wir-ueber-uns/ansprechpersonen-organigramm/jan-linxweiler) (Technische Universität Carolo-Wilhelmina zu Braunschweig) 
-* **stellv. Vorstandsvorsitzender:** [Frank Loeffler](https://www.zedif.uni-jena.de/2409/kontakt) (Friedrich-Schiller-Universität Jena)
+* **stellv. Vorstandsvorsitzender:** [Frank Löffler](https://orcid.org/0000-0001-6643-6323) (Friedrich-Schiller-Universität Jena)
 * **Schatzmeister:** [Stephan Janosch](https://www.mpi-cbg.de/de/research/scientific-cores-support/scientific-services/scientific-computing-facility/contact) (Max-Planck-Institut für Molekulare Zellbiologie und Genetik Dresden)
 * **stellv. Schatzmeister:** [Michael Meinel](https://de.linkedin.com/in/michael-meinel-9746b468) (Deutsches Zentrum für Luft- und Raumfahrt (DLR))
 * **Schriftführer:** [Jan Philipp Dietrich](https://www.pik-potsdam.de/members/dietrich) (Potsdam Institut für Klimafolgenforschung)
