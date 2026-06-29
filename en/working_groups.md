@@ -27,11 +27,11 @@ Currently, the following active working groups exist within de-RSE e.V.
 
 **Get involved:** Contact [Claire Wyatt](https://www.fz-juelich.de/profile/wyatt_cl)
 
-### International Council <small>Lead: [Frank Loeffler](https://www.zedif.uni-jena.de/2409/kontakt)</small>
+### International Council <small>Lead: [Frank Löffler](https://orcid.org/0000-0001-6643-6323)</small>
 
 > Interface to the [international Council of RSE Associations](https://researchsoftware.org/council.html). Represents de-RSE in the council and feeds back information from the council.
 
-**Get involved:** Contact [Frank Loeffler](https://www.zedif.uni-jena.de/2409/kontakt)
+**Get involved:** Contact [Frank Löffler](https://orcid.org/0000-0001-6643-6323)
 
 ### Position Paper "RSE Groups" <small>Lead: [Dominic Kempf](https://www.ssc.uni-heidelberg.de/en/what-the-scientific-software-center-is-all-about/meet-our-team)</small>
 
