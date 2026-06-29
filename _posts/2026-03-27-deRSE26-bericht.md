@@ -8,11 +8,11 @@ menulang: de
 <br>(Bild: Von [Adam Pagan](https://orcid.org/0000-0002-9428-4328), CC-BY-4.0-Lizenz)
 
 
-Die 6. Konferenz für Research Software Engineering in Deutschland, [deRSE26](https://events.hifis.net/event/2945/), wurde erfolgreich an der Universität Stuttgart durchgeführt. Die dreitägige Konferenz brachte mehr als 280 Teilnehmende aus Universitäten und Forschungseinrichtungen aus ganz Deutschland und darüber hinaus zusammen. Ihr ging der erste [Stuttgart Research Software Day](https://www.iws.uni-stuttgart.de/en/lh2/conferences-seminars-workshops/research-software-day/) voraus.
+Die 6. Konferenz für Research Software Engineering in Deutschland, [deRSE26](https://events.hifis.net/event/2945/), wurde erfolgreich an der Universität Stuttgart durchgeführt. Die dreitägige Konferenz brachte mehr als 280 Teilnehmende aus Universitäten und Forschungseinrichtungen aus ganz Deutschland und darüber hinaus zusammen. Ihr ging der erste [Stuttgart Research Software Day](https://www.iws.uni-stuttgart.de/en/lh2/conferences-seminars-workshops/research-software-day/) voraus.
 
-Die deRSE26 fand vom 3. bis 5. März 2026 auf dem Campus Vaihingen der [Universität Stuttgart](https://www.uni-stuttgart.de/) statt. Die Veranstaltung diente als nationales Forum für Menschen, die Forschungssoftware in allen wissenschaftlichen Disziplinen entwickeln, pflegen und nutzen.
+Die deRSE26 fand vom 3. bis 5. März 2026 auf dem Campus Vaihingen der [Universität Stuttgart](https://www.uni-stuttgart.de/) statt. Die Veranstaltung diente als nationales Forum für Menschen, die Forschungssoftware in allen wissenschaftlichen Disziplinen entwickeln, pflegen und nutzen.
 
-Das [Programm](https://events.hifis.net/event/2945/timetable/#20260303) umfasste rund 90 Poster und 100 Vorträge, Workshops und interaktive Sessions in bis zu fünf parallelen Tracks. Die Beiträge behandelten Themen wie Research Software Craftsmanship, Emerging Computing & Infrastruktur, Open Science & Zusammenarbeit, Datenanalyse & KI, Community, Politik & Karriereentwicklung sowie disziplinübergreifende Fortschritte.
+Das [Programm](https://events.hifis.net/event/2945/timetable/#20260303) umfasste rund 90 Poster und 100 Vorträge, Workshops und interaktive Sessions in bis zu fünf parallelen Tracks. Die Beiträge behandelten Themen wie Research Software Craftsmanship, Emerging Computing & Infrastruktur, Open Science & Zusammenarbeit, Datenanalyse & KI, Community, Politik & Karriereentwicklung sowie disziplinübergreifende Fortschritte.
 
 Vortragende und Teilnehmende repräsentierten ein breites Spektrum an Fachgebieten, darunter Ingenieurwissenschaften, Natur- und Lebenswissenschaften, Geistes- und Sozialwissenschaften. Die Konferenz betonte Offenheit, Gemeinschaftsbildung und Zusammenarbeit über Disziplinen, Institutionen, Geschlechter und Karrierestufen hinweg.
 
