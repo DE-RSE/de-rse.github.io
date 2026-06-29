@@ -145,6 +145,6 @@ Ein Arbeitskreis:
 
 - Ein Arbeitskreis wird durch einen Vorstandsbeschluss nach formlosem Antrag ins Leben gerufen.
 - Spätestens nach Erreichen des Ziels oder der Laufzeit präsentiert der Arbeitskreis dem Verein das Ergebnis, idealerweise als Blogpost.
-- Die Arbeitskreisleitung sollte Mitglied des Vereins sein, die Mitglieder des Arbeitskreises müssen jedoch nicht Mitglieder des Vereins sein.
+- Die Arbeitskreisleitung muss Mitglied des Vereins sein, die restlichen Mitglieder des Arbeitskreises müssen jedoch nicht Mitglieder des Vereins sein.
 - Arbeitskreise werden auf den Vereinsseiten aufgelistet und haben die Möglichkeit, ihre Arbeit dort auch auf Unterseiten zu bewerben bzw. vorzustellen.
 - Die Arbeitskreisleitung und die Arbeitskreismitglieder können auf den öffentlichen Webseiten des Vereins erwähnt werden und geben dafür ihr Einverständnis auch über die Arbeitskreislaufzeit hinaus.

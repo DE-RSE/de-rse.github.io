@@ -148,6 +148,6 @@ A working group:
 
 - A working group is initiated by a board decision following an informal proposal.
 - At the latest, upon reaching its goal or the end of its duration, the working group presents its results to the association, ideally as a blog post.
-- The group lead should be a member of the association, though working group members do not need to be.
+- The group lead has to be a member of the association, though the remaining working group members do not need to be.
 - Working groups are listed on the association’s website and may promote their work on subpages.
 - Leads and members of working groups may be mentioned on the public pages of the association and give consent for this beyond the duration of the group.
