@@ -4,7 +4,7 @@ layout: post
 author: "Stephan Druskat, Michelle Barker, Ian Cosden, Cunliang Geng, Robert Haines, Daniel S. Katz, Joseph Shingleton, Ben van Werkhoven"
 menulang: en
 ---
-![How various roles are evolving in response to GenAI.](https://www.researchsoft.org/blog/2026-05-28/Figure-3_hu_85bbb8d92c20e78f.webp){: width="450px" align="center"} 
+![How various roles are evolving in response to GenAI.](/assets/img/blog/2026/2026-05-28-ReSA-GenAI_Figure-1_hu.webp){: width="450px" align="center"} 
 
 This blog post is being cross-posted by the [Research Software Alliance](https://www.researchsoft.org/blog/) (ReSA), [Better Scientific Software](https://bssw.io/blog_posts) (BSSw), the [European Virtual Institute for Research Software Excellence](https://everse.software/news/) (EVERSE) and the [Software Sustainability Institute](https://www.software.ac.uk/news-and-blogs-hub) (SSI).
 
@@ -45,7 +45,7 @@ Overall, **the value of the RSE role shifts upward as AI enhances it and amplifi
 
 <br/><br/>
 
-![AI can enable RSEs to increase their capacity for both research and software engineering, irrespective of specializations.](https://www.researchsoft.org/blog/2026-05-28/Figure-2_hu_5ffec3d3ebe4e3ac.webp){: width="600px"}<br/><br/>**Figure 2:** *AI can enable RSEs to increase their capacity for both research and software engineering, irrespective of specializations.*
+![AI can enable RSEs to increase their capacity for both research and software engineering, irrespective of specializations.](/assets/img/blog/2026/2026-05-28-ReSA-GenAI_Figure-2_hu.webp){: width="600px"}<br/><br/>**Figure 2:** *AI can enable RSEs to increase their capacity for both research and software engineering, irrespective of specializations.*
 
 <br/><br/>
 
@@ -53,7 +53,7 @@ Figure 3 highlights the unique position of RSEs in the research ecosystem. RSEs 
 
 <br/><br/>
 
-![How various roles are evolving in response to GenAI.](https://www.researchsoft.org/blog/2026-05-28/Figure-3_hu_85bbb8d92c20e78f.webp){: width="600px"}<br/><br/>**Figure 3:** *How various roles are evolving in response to GenAI.* 
+![How various roles are evolving in response to GenAI.](/assets/img/blog/2026/2026-05-28-ReSA-GenAI_Figure-3_hu.webp){: width="600px"}<br/><br/>**Figure 3:** *How various roles are evolving in response to GenAI.* 
 
 ## Acknowledgements
 
