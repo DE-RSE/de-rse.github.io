@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Verhaltenskodex
-weight: 60
 ---
 
 # Verhaltenskodex für deRSE

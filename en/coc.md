@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Code of Conduct
-weight: 60
 ---
 
 # Code of Conduct for deRSE
