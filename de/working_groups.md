@@ -16,7 +16,7 @@ Wenn du eine Idee für einen neuen Arbeitskreis hast und ins Leben rufen möchte
 
 Derzeit gibt es die folgenden aktiven Arbeitskreise des de-RSE e.V.
 
-### Vereinsinfrasturktur <small>Leitung: [Jan Philipp Thiele](https://www.tu-braunschweig.de/ub/wir-ueber-uns/ansprechpersonen-organigramm/jan-philipp-thiele)</small>
+### Vereinsinfrastruktur <small>Leitung: [Jan Philipp Thiele](https://www.tu-braunschweig.de/ub/wir-ueber-uns/ansprechpersonen-organigramm/jan-philipp-thiele)</small>
 
 > Aufbau und Pflege der digitalen Vereinsinfrarstruktur.
 
