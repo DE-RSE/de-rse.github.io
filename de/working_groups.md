@@ -117,6 +117,15 @@ Daran anschließend wird der Arbeitskreis das Ziel verfolgen, eine international
 
 **Mitmachen:** Kontaktiere [Stella Drebber](mailto:stella.drebber@gi.de) um in den Arbeitskreis mit aufgenommen zu werden.
 
+### forschungssoftware.info <small>Leitung: [Dominic Kempf](mailto:dominic.kempf@iwr.uni-heidelberg.de)</small>
+
+> Der Arbeitskreis entwickelt ein inhaltliches und organisatorisches Konzept für die Seite forschungssoftware.info.
+Ziel ist es, ein Informationsportal zu Forschungssoftware aufzubauen, welche Best Practices und Services zu
+Forschungssoftware gebündelt darstellt und damit eine Ergänzung zum etablierten Portal forschungsdaten.info darstellt.
+Der Arbeitskreis zielt nicht primär auf die Produktion von Inhalten ab, sondern schafft den organisatorischen
+Rahmen um Community-Contributions anzunehmen.
+
+**Mitmachen:** Kontaktiere [Dominic Kempf](mailto:dominic.kempf@iwr.uni-heidelberg.de) um mitzuarbeiten. Inhaltliche Beiträge können auch gerne direkt im [forschungsdaten.info Repository](https://github.com/DE-RSE/forschungssoftware.info) per Issue/Pull Request gemacht werden.
 
 ## Ehemalige und inaktive Arbeitskreise
 

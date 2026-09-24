@@ -118,6 +118,16 @@ Currently, the following active working groups exist within de-RSE e.V.
 
 **Get involved:** Contact [Stella Drebber](mailto:stella.drebber@gi.de) to join the group.
 
+### forschungssoftware.info <small>Lead: [Dominic Kempf](mailto:dominic.kempf@iwr.uni-heidelberg.de)</small>
+
+> This working group is developing a content and organizational concept for the forschungssoftware.info website.
+The aim is to create an information portal on research software that brings together best practices and services
+related to research software, thereby complementing the established forschungsdaten.info portal.
+The working group does not primarily aim to produce content, but instead creates the organizational framework
+for accepting contributions from the community.
+
+**Get involved:** Contact [Dominic Kempf](mailto:dominic.kempf@iwr.uni-heidelberg.de) to contribute. Content contributions are also welcome directly in the [forschungssoftware.info repository](https://github.com/DE-RSE/forschungssoftware.info) via issues or pull requests.
+
 
 
 ## Former and Inactive Working Groups
