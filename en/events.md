@@ -15,6 +15,13 @@ If you think, we are missing an event, please [contact](join.html) us.
 
 The **deRSE** conferences are international conferences in the German RSE community by and for Research Software Engineers.
 
+## 2027
+
+| Event | Date | Place | URL | Remarks |
+| --- | --- | --- | --- | --- |
+{% include events/2027.md %}
+{: .table .table-hover}
+
 ## 2026
 
 | Event | Date | Place | URL | Remarks |
