@@ -3,6 +3,11 @@ layout: default
 title: Research Software Engineers (RSEs) - The people behind research software
 ---
 
+<div class="admonition"><h3><b>deRSE27</b> - 7th Conference for Research Software Engineering in Germany</h3>
+<h4>23-25 February 2027, TU Dortmund</h4>
+<a href="/en/deRSE27">Show details</a>
+</div>
+
 # Research Software Engineers (RSEs) - The people behind research software
 
 Software development is an essential, integral part of research activity. 

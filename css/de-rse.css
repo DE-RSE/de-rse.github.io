@@ -158,3 +158,24 @@ blockquote {
     }
   }
 }
+
+.admonition {
+background-color: rgba(0, 184, 212, 0.1);
+border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;
+border-top-left-radius: 8px;
+border-top-right-radius: 8px;
+box-sizing: border-box;
+break-inside: avoid;
+color: rgba(0, 0, 0, 0.87);
+color-scheme: light;
+display: flow-root;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 19.9951px; */
+overflow-wrap: break-word;
+padding-bottom: 1em;
+padding-left: 1em;
+padding-right: 1em;
+padding-top: 1em;
+}

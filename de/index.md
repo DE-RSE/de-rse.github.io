@@ -3,6 +3,11 @@ layout: default
 title: Research Software Engineers (RSEs) - verantwortlich für wissenschaftliche Software
 ---        
 
+<div class="admonition"><h3><b>deRSE27</b> - 7th Conference for Research Software Engineering in Germany</h3>
+<h4>23-25 Februar 2027, TU Dortmund</h4>
+<a href="/de/deRSE27">Details anzeigen</a>
+</div>
+
 # Research Software Engineers (RSEs) - verantwortlich für wissenschaftliche Software
 
 Softwareentwicklung ist ein elementarer, unverzichtbarer Bestandteil 
