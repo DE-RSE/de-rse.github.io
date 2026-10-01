@@ -1,0 +1,13 @@
+[data-md-color-scheme="rse"] {
+  --md-primary-fg-color:        #892a69;
+  --md-primary-fg-color--light: #c94fa0;
+  --md-primary-fg-color--dark:  #621e4b;
+}
+
+.md-grid {
+  max-width: 76.25em; 
+}
+
+.md-header__button {
+    color: var(--md-primary-fg-color);
+}
