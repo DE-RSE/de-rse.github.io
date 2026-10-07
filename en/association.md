@@ -10,18 +10,18 @@ weight: 60
 
 - **Contact:** [vorstand@de-rse.org](mailto:vorstand@de-rse.org)
 - **Official Name:** “de-RSE e.V.”
-- **Name used in external communications:** “de-RSE e.V. – Society for Research Software in Germany”
+- **Name used in external communications:** “de-RSE e.V. – Society for Research Software”
 - **Rules of Procedure:** [download](https://github.com/DE-RSE/satzung/raw/master/de-RSE-e.V._Gesch%C3%A4ftsordnung_2018-11-26.pdf)
 - **Statutes:** [download](https://github.com/DE-RSE/satzung/raw/master/de-RSE-e.V._Satzung_2019-01-07.pdf)
 - **[ROR](https://ror.org/):** [007qpef44](https://ror.org/007qpef44)
 
 # Board
 
-* **Chairperson:** [Jan Linxweiler](https://www.tu-braunschweig.de/ub/wir-ueber-uns/ansprechpersonen-organigramm/jan-linxweiler) (Technical University of Braunschweig)
-* **Deputy Chairperson:** [Frank Löffler](https://orcid.org/0000-0001-6643-6323) (Friedrich Schiller University Jena)
-* **Treasurer:** [Stephan Janosch](https://www.mpi-cbg.de/de/research/scientific-cores-support/scientific-services/scientific-computing-facility/contact) (Max Planck Institute of Molecular Cell Biology and Genetics, Dresden)
-* **Deputy Treasurer:** [Michael Meinel](https://de.linkedin.com/in/michael-meinel-9746b468) (German Aerospace Center – DLR)
-* **Secretary:** [Jan Philipp Dietrich](https://www.pik-potsdam.de/members/dietrich) (Potsdam Institute for Climate Impact Research)
+* **Chairperson:** [Jan Linxweiler](https://www.tu-braunschweig.de/ub/wir-ueber-uns/ansprechpersonen-organigramm/jan-linxweiler) (Technische Universität Braunschweig)
+* **Deputy Chairperson:** [Robert Speck](https://www.fz-juelich.de/profile/speck_r) (Forschungszentrum Jülich GmbH)
+* **Treasurer:** [Michael Meinel](https://de.linkedin.com/in/michael-meinel-9746b468) (German Aerospace Center – DLR)
+* **Deputy Treasurer:** [Claire Wyatt](https://www.fz-juelich.de/profile/wyatt_cl) (Forschungszentrum Jülich GmbH)
+* **Secretary:** [Stephan Druskat](https://sdruskat.net) (Technische Universität Braunschweig)
 * **Deputy Secretary:** [Bernadette Fritzsch](https://www.awi.de/ueber-uns/organisation/mitarbeiter/detailseite/bernadette-fritzsch.html) (Alfred Wegener Institute, Bremerhaven)
 
 ## Membership
