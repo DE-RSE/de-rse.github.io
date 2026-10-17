@@ -19,7 +19,7 @@ E-Mail: vorstand [at] de-rse.org
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-Jan Linxweiler, Frank Löffler, Stephan Janosch, Michael Meinl, Bernadette Fritsch, Jan Dietrich
+Jan Linxweiler, Robert Speck, Michael Meinl, Claire Wyatt, Stephan Druskat, Bernadette Fritsch
 
 Quelle: [*eRecht24*](https://www.e-recht24.de)
 
